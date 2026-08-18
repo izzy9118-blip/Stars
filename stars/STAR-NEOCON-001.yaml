@@ -3,268 +3,853 @@ name: American neoconservatism
 status: FACT
 
 fact: >-
-  American neoconservatism is a distinct historical intellectual and political
-  movement formed through the convergence of multiple independent and overlapping
-  streams. No single thinker, school, person, institution, or lineage exhausts
-  its origins or development.
+  American neoconservatism is a historical intellectual and political movement
+  that developed through several overlapping generations and independent streams.
+  It began substantially among anti-Stalinist and Cold War liberal intellectuals
+  concerned with domestic liberalism and culture, acquired a distinct Washington
+  foreign-policy arm in the 1970s, and was reformulated after the Cold War around
+  a more explicitly interventionist program of American global leadership. No
+  single thinker, person, school, institution, or lineage exhausts the movement.
 
-spectrum:
+shape:
+  model: NETWORK
+  rules:
+    - A person may carry multiple independent influences.
+    - Distinct streams may intersect without becoming branches of one another.
+    - Connection does not establish exclusive causation.
+    - Membership, influence, alliance, employment, and intellectual descent are different relations.
+    - A coalition partner is not automatically a neoconservative.
+    - The movement changed across generations; a position documented in one generation is not automatically universal.
+
+historical_spectrum:
+  first_age_domestic_and_intellectual:
+    period: "1960s to early 1970s"
+    facts:
+      - >-
+        The earliest group commonly labeled neoconservative consisted largely of
+        New York intellectuals and social scientists who still understood
+        themselves as liberals or former radicals and who criticized the New Left,
+        aspects of Great Society social policy, and the 1960s counterculture.
+      - >-
+        This first age was not principally a foreign-policy doctrine.
+      - >-
+        The Public Interest and Commentary were major journals through which this
+        intellectual formation developed.
+    people:
+      - Irving Kristol
+      - Norman Podhoretz
+      - Daniel Bell
+      - Nathan Glazer
+      - Seymour Martin Lipset
+      - Daniel Patrick Moynihan
+      - James Q. Wilson
+    institutions:
+      - The Public Interest
+      - Commentary
+    boundaries:
+      - Not every person grouped with the first age accepted the neoconservative label.
+      - Not every first-age figure followed the same later political path.
+    evidence:
+      - SRC-VAISSE-BROOKINGS-KRISTOL-2009
+      - SRC-VAISSE-BROOKINGS-2010
+      - SRC-PODHORETZ-COMMENTARY-1996
+
+  second_age_washington_foreign_policy:
+    period: "1970s through 1980s"
+    facts:
+      - >-
+        A second neoconservative current formed among Cold War Democrats and
+        Washington policy intellectuals reacting against George McGovern,
+        post-Vietnam retrenchment, détente with the Soviet Union, and proposed
+        reductions in American military power.
+      - >-
+        Senator Henry M. "Scoop" Jackson became a central political node for this
+        foreign-policy current.
+      - >-
+        The Coalition for a Democratic Majority and the reconstituted Committee
+        on the Present Danger were important organizational homes for this phase.
+      - >-
+        Jackson's Senate office and related Capitol Hill networks became a
+        transmission point from intellectual and strategic circles into practical
+        foreign-policy work.
+      - >-
+        Many participants in this current later moved from the Democratic orbit
+        into the Reagan administration or Republican-aligned institutions.
+    people:
+      - Henry M. "Scoop" Jackson
+      - Richard Perle
+      - Paul Wolfowitz
+      - Jeane Kirkpatrick
+      - Elliott Abrams
+      - Joshua Muravchik
+      - Ben Wattenberg
+      - Carl Gershman
+      - Michael Ledeen
+      - Norman Podhoretz
+    institutions:
+      - Coalition for a Democratic Majority
+      - Committee on the Present Danger
+      - United States Senate office of Henry M. "Scoop" Jackson
+      - Commentary
+      - American Enterprise Institute
+    evidence:
+      - SRC-HORTON-LOBE-2008-02-01
+      - SRC-HORTON-LOBE-2015-10-20
+      - SRC-VAISSE-BROOKINGS-KRISTOL-2009
+      - SRC-PERLE-PBS-THINK-TANK
+      - SRC-PERLE-GWU-COLD-WAR-1997
+
+  third_age_post_cold_war:
+    period: "mid-1990s through the George W. Bush era"
+    facts:
+      - >-
+        A post-Cold War generation gathered especially around William Kristol,
+        Robert Kagan, The Weekly Standard, and the Project for the New American
+        Century.
+      - >-
+        William Kristol and Robert Kagan publicly advocated preservation of
+        American hegemony, military supremacy, and an assertive international role
+        in their 1996 Foreign Affairs essay "Toward a Neo-Reaganite Foreign Policy."
+      - >-
+        PNAC's 1997 Statement of Principles called for American global leadership
+        and stronger defense capabilities.
+      - >-
+        This generation made democracy promotion, regime change in hostile states,
+        and a willingness to use American military power more prominent features
+        of neoconservative foreign policy.
+      - >-
+        Neoconservatives were an important component of the coalition supporting
+        the 2003 invasion of Iraq, but the Bush administration and the pro-war
+        coalition also included aggressive nationalists and other currents that
+        were not themselves neoconservative.
+    people:
+      - William Kristol
+      - Robert Kagan
+      - Richard Perle
+      - Paul Wolfowitz
+      - Elliott Abrams
+      - Douglas Feith
+      - Charles Krauthammer
+      - Francis Fukuyama
+      - Zalmay Khalilzad
+    institutions:
+      - The Weekly Standard
+      - Project for the New American Century
+      - American Enterprise Institute
+      - United States Department of Defense
+    evidence:
+      - SRC-KRISTOL-KAGAN-FOREIGN-AFFAIRS-1996
+      - SRC-PNAC-STATEMENT-1997
+      - SRC-HORTON-JUDIS-2008-07-30
+      - SRC-HORTON-LOBE-2008-02-01
+      - SRC-PERLE-PBS-FRONTLINE-IRAQ
+      - SRC-VAISSE-BROOKINGS-KRISTOL-2009
+
+  post_iraq_fragmentation_and_continuity:
+    period: "2004 onward"
+    facts:
+      - >-
+        The Iraq War produced open disagreement inside the wider neoconservative
+        intellectual network; Francis Fukuyama publicly broke with the foreign
+        policy he associated with the movement.
+      - >-
+        Neoconservative organizations and writers nevertheless remained active
+        after the movement's loss of prestige during the Iraq occupation.
+      - >-
+        The Foreign Policy Initiative succeeded PNAC as one post-Iraq
+        organizational vehicle associated with William Kristol and Robert Kagan.
+      - >-
+        The rise of Donald Trump generated another visible fracture: prominent
+        neoconservative figures including William Kristol opposed Trump, while
+        hawkish and pro-Israel positions associated with neoconservative networks
+        continued to overlap with parts of Republican foreign policy.
+    evidence:
+      - SRC-FUKUYAMA-NEW-YORKER-2006
+      - SRC-HORTON-LOBE-2009-03-26
+      - SRC-VAISSE-BROOKINGS-2010
+      - SRC-WEEKLY-STANDARD-NEW-YORKER-2018
+
+independent_streams:
   anti_stalinist_left:
-    fact: >-
-      One important stream arose from New York anti-Stalinist intellectual circles,
-      including people with Shachtmanite and, in some cases, Trotskyist backgrounds,
-      who moved toward increasingly militant anti-Communism and later neoconservative
-      politics.
+    facts:
+      - >-
+        Anti-Stalinist socialist and Trotskyist milieus formed part of the
+        biography of some early neoconservatives.
+      - >-
+        Irving Kristol stated in his own memoir that he had been a member of the
+        Young People's Socialist League (Fourth International), which he described
+        as Trotskyist.
+      - >-
+        Max Shachtman and the anti-Stalinist socialist world belong to the wider
+        political genealogy from which some later Cold War social-democratic and
+        neoconservative networks emerged.
     people:
       - Max Shachtman
       - Irving Kristol
     boundary: >-
-      This does not establish that all neoconservatives were Trotskyists or that
-      neoconservatism is reducible to Trotskyism.
+      Neoconservatism is not Trotskyism, and many neoconservatives were never
+      Trotskyists or Shachtmanites.
+    evidence:
+      - SRC-KRISTOL-MEMOIRS-TROTSKYIST
+      - SRC-HORTON-LOBE-2016-04-07
+      - SRC-VAISSE-BROOKINGS-KRISTOL-2009
+
+  cold_war_liberalism:
+    facts:
+      - >-
+        The movement inherited a strong anti-Communist current from postwar Cold
+        War liberalism.
+      - >-
+        The foreign-policy generation associated with Scoop Jackson defended a
+        large American strategic role, opposed détente as practiced by Nixon and
+        Kissinger, and linked anti-Soviet policy with human-rights concerns.
+      - >-
+        The Jackson-Vanik campaign tied U.S.-Soviet trade benefits to freedom of
+        emigration, especially in response to restrictions affecting Soviet Jews.
+    people:
+      - Harry S. Truman
+      - Henry M. "Scoop" Jackson
+      - Richard Perle
+      - Daniel Patrick Moynihan
+      - Jeane Kirkpatrick
+    evidence:
+      - SRC-PERLE-GWU-COLD-WAR-1997
+      - SRC-JACKSON-VANIK-YIVO
+      - SRC-PODHORETZ-COMMENTARY-1996
+      - SRC-HORTON-LOBE-2016-04-07
+
+  domestic_social_science_and_cultural_critique:
+    facts:
+      - >-
+        First-age neoconservatism developed through criticism of unintended
+        consequences in welfare-state policy and skepticism toward some Great
+        Society programs.
+      - >-
+        Opposition to the 1960s counterculture and the New Left was a major
+        cultural component of the first generation.
+      - >-
+        These positions coexisted with acceptance by many early neoconservatives
+        of a substantial welfare state rather than pure laissez-faire economics.
+    people:
+      - Irving Kristol
+      - Daniel Bell
+      - Nathan Glazer
+      - James Q. Wilson
+      - Daniel Patrick Moynihan
+      - Norman Podhoretz
+    evidence:
+      - SRC-VAISSE-BROOKINGS-KRISTOL-2009
+      - SRC-PODHORETZ-COMMENTARY-1996
 
   straussian_line:
-    fact: >-
-      Leo Strauss and a line of students, readers, and intellectual descendants
-      constitute one independent intellectual source connected to later American
-      neoconservatism.
+    facts:
+      - >-
+        Leo Strauss is an independent intellectual source connected to parts of
+        the neoconservative network through readers, students, and students of his
+        students.
+      - >-
+        Irving Kristol recorded a major intellectual impact from reading Strauss.
+      - >-
+        Paul Wolfowitz attended Strauss's lectures at the University of Chicago
+        and had earlier studied with Strauss's student Allan Bloom.
+      - >-
+        William Kristol studied at Harvard with the self-described Straussian
+        political theorist Harvey Mansfield.
     people:
       - Leo Strauss
-      - Straussian students and intellectual descendants
+      - Allan Bloom
+      - Harvey Mansfield
+      - Irving Kristol
       - Paul Wolfowitz
-    boundary: >-
-      The historical connection does not establish that later neoconservatives
-      understood Strauss correctly, that their political programs simply embodied
-      Strauss's teaching, or that other neoconservative source streams derive from
-      Strauss.
+      - William Kristol
+    boundaries:
+      - >-
+        This lineage does not establish that neoconservative policy is identical
+        to Strauss's teaching.
+      - >-
+        It does not establish that later political actors understood Strauss
+        correctly.
+      - >-
+        Other neoconservative streams do not derive from Strauss merely because
+        they intersect with Straussian-influenced people.
+    evidence:
+      - SRC-WOLFOWITZ-NEW-YORKER-2007
+      - SRC-STRAUSS-NEW-YORKER-2016
+      - SRC-MANSFIELD-HOOVER
 
   wohlstetter_strategic_line:
-    fact: >-
-      Albert James Wohlstetter constitutes an independent strategic and defense-policy
-      source feeding later neoconservative foreign-policy networks, especially through
-      his influence on Paul Wolfowitz and Richard Perle.
+    facts:
+      - >-
+        Albert James Wohlstetter is an independent strategic and defense-policy
+        source feeding later neoconservative networks.
+      - >-
+        Paul Wolfowitz completed his doctoral work under Wohlstetter.
+      - >-
+        Richard Perle described Wohlstetter as an intellectual mentor and named
+        Wolfowitz among Wohlstetter's protégés.
+      - >-
+        In 1969 Wohlstetter sent Perle and Wolfowitz to Washington to work on the
+        ballistic-missile-defense debate; their work brought them into contact
+        with Scoop Jackson.
+      - >-
+        Wohlstetter also became an important strategic influence and Washington
+        connector for Zalmay Khalilzad.
     people:
       - Albert James Wohlstetter
       - Paul Wolfowitz
       - Richard Perle
+      - Zalmay Khalilzad
     institutions:
       - RAND Corporation
+      - University of Chicago
     boundary: >-
-      Wohlstetter is not a branch of Leo Strauss. The Wohlstetter and Straussian
-      lines are independent even where they intersect through shared later figures.
-
-  cold_war_liberal_line:
-    fact: >-
-      Neoconservative foreign policy also drew from the postwar liberal-hawk and
-      Truman-era anti-Communist tradition: confidence in American power, strong
-      military preparedness, opposition to Soviet expansion, and resistance to
-      the Democratic Party's post-Vietnam antiwar turn.
-    people:
-      - Harry S. Truman
-      - Henry M. "Scoop" Jackson
-    boundary: >-
-      This stream is broader than the Shachtmanite lineage and should not be
-      collapsed into it.
-
-  new_york_intellectual_world:
-    fact: >-
-      Neoconservatism first developed substantially as a New York intellectual
-      movement before becoming a Washington policy network. Journals, editors,
-      writers, and overlapping intellectual circles were major vehicles through
-      which the movement formed and reproduced itself.
-    people:
-      - Irving Kristol
-      - Norman Podhoretz
-      - Nathan Glazer
-      - Daniel Bell
-    institutions:
-      - Commentary
-      - The Public Interest
-    boundary: >-
-      Participation in this intellectual world does not by itself establish a
-      single shared ideology or identical later political commitments.
-
-  scoop_jackson_network:
-    fact: >-
-      Senator Henry M. "Scoop" Jackson's Washington operation became a major
-      political and institutional transmission point for policy-oriented
-      neoconservatives in the late 1960s and 1970s.
-    people:
-      - Henry M. "Scoop" Jackson
-      - Richard Perle
-      - Paul Wolfowitz
-      - Elliott Abrams
-      - Frank Gaffney
-      - Douglas Feith
-      - William Kristol
-    boundary: >-
-      The Jackson network was a political convergence point, not the single
-      intellectual origin of every person who passed through or around it.
+      Wohlstetter is not a branch of Leo Strauss. The two streams remain
+      independent even where they meet in the same people.
+    evidence:
+      - SRC-PERLE-PBS-THINK-TANK
+      - SRC-WOLFOWITZ-NEW-YORKER-2007
+      - SRC-KHALILZAD-NEW-YORKER-2005
 
   pro_israel_commitment:
-    fact: >-
-      Strong support for Israel became a major and persistent feature of
-      neoconservative foreign policy and an important point of distinction from
-      other American conservative and liberal foreign-policy traditions.
+    facts:
+      - >-
+        Strong support for Israel became a persistent and prominent feature of
+        neoconservative foreign policy.
+      - >-
+        Norman Podhoretz's own retrospective identified Israel as a foreign-policy
+        question on which neoconservatives differed from older conservative
+        traditions and connected that support to the movement's anti-Communism.
+      - >-
+        The Jackson-Vanik campaign also created durable political cooperation
+        among Jackson's anti-détente network, Soviet-Jewry activists, and parts of
+        organized American Jewish politics.
     boundary: >-
-      This fact does not establish that every neoconservative held identical views
-      about Israel or that support for Israel alone defines neoconservatism.
+      Support for Israel does not establish that every neoconservative held the
+      same Israeli-policy preferences or acted as an agent of any Israeli
+      government.
+    evidence:
+      - SRC-PODHORETZ-COMMENTARY-1996
+      - SRC-JACKSON-VANIK-YIVO
+      - SRC-HORTON-LOBE-2008-02-01
 
-  defense_establishment:
-    fact: >-
-      Neoconservative policy networks developed substantial and recurring ties to
-      the American defense and national-security establishment, including defense
-      intellectuals, military-policy institutions, think tanks, government service,
-      and defense-industry relationships.
-    institutions:
-      - RAND Corporation
-      - American Enterprise Institute
-      - Pentagon and national-security bureaucracy
-      - defense-policy think tanks
-    boundary: >-
-      Institutional and financial ties do not by themselves establish that every
-      neoconservative argument or policy position was caused by defense-industry
-      interests.
+  defense_and_national_security_establishment:
+    facts:
+      - >-
+        Neoconservative networks repeatedly overlapped with the American defense
+        and national-security establishment through strategic research, Pentagon
+        service, congressional defense work, think tanks, and advocacy for larger
+        defense capabilities.
+      - >-
+        Wohlstetter's RAND strategic work, the Scoop Jackson defense-policy
+        network, Team B, Reagan-era Pentagon service, and later PNAC advocacy form
+        documented stages of this overlap.
+      - >-
+        Paul Wolfowitz served on the 1976 Team B exercise that challenged CIA
+        estimates of Soviet strategic intentions.
+    boundaries:
+      - >-
+        Institutional overlap does not by itself establish that a policy position
+        was caused by defense-industry financial interests.
+      - >-
+        Andrew Cockburn and Scott Horton have repeatedly advanced a stronger
+        "Israel lobby plus defense lobby" fusion thesis; that thesis is retained
+        as research provenance rather than treated as a universal causal fact in
+        this star.
+    evidence:
+      - SRC-WOLFOWITZ-NEW-YORKER-2007
+      - SRC-KRISTOL-KAGAN-FOREIGN-AFFAIRS-1996
+      - SRC-PNAC-STATEMENT-1997
+      - SRC-HORTON-COCKBURN-2007-04-12
+      - SRC-HORTON-COCKBURN-2014-12-12
+      - SRC-HORTON-COCKBURN-2019-05-14
 
-  israel_defense_fusion_thesis:
-    source_characterization: >-
-      Andrew Cockburn, repeatedly in interviews with Scott Horton, characterizes
-      the mature neoconservative movement as a political fusion of the pro-Israel
-      lobby and the American defense lobby and identifies Paul Nitze as an important
-      figure in bringing those interests together in the 1970s.
-    status: ATTRIBUTED_SOURCE_CHARACTERIZATION
-    people:
-      - Andrew Cockburn
-      - Paul Nitze
+  burnham_precursor:
+    status: DOCUMENTED_HISTORIOGRAPHIC_PLACEMENT
+    fact: >-
+      James Burnham's path from Trotskyism to militant anti-Communism and his
+      writings on power and foreign policy have been identified by historians as
+      an important precursor or inspiration for later neoconservative foreign
+      policy.
     boundary: >-
-      The characterization is preserved because it is an important map supplied by
-      Cockburn and repeatedly examined by Horton. It is not silently converted here
-      into a stronger universal causal fact than the documentary ground establishes.
+      Burnham's placement is that of a precursor; this does not make every part of
+      his thought neoconservative or make later neoconservatives his descendants.
+    evidence:
+      - SRC-BURNHAM-CAMBRIDGE-2010
+      - SRC-BURNHAM-CORNELL-2025
 
 junction_people:
   Irving_Kristol:
-    rule: MULTIPLE_INFLUENCES_ALLOWED
     connections:
-      - Shachtmanite and Trotskyist background
-      - New York anti-Stalinist intellectual world
-      - magazine and publishing network
-      - Cold War anti-Communism
-      - formative neoconservative intellectual
+      - Trotskyist youth and anti-Stalinist intellectual milieu
+      - Commentary
+      - Encounter
+      - The Public Interest
+      - criticism of Great Society liberalism
+      - American Enterprise Institute
+      - engagement with Leo Strauss's thought
+      - movement-building within American conservatism
     boundary: >-
-      Kristol is not assigned to one exclusive lineage.
-
-  Paul_Wolfowitz:
-    rule: MULTIPLE_INFLUENCES_ALLOWED
-    connections:
-      - exposure to Leo Strauss at the University of Chicago
-      - doctoral student of Albert James Wohlstetter
-      - connection to the Scoop Jackson Washington network
-      - later senior government and neoconservative foreign-policy role
-    boundary: >-
-      The Strauss and Wohlstetter connections remain independent facts; neither
-      cancels nor subsumes the other.
-
-  Richard_Perle:
-    rule: MULTIPLE_INFLUENCES_ALLOWED
-    connections:
-      - mentored by Albert James Wohlstetter
-      - brought into Washington through the Wohlstetter connection
-      - senior foreign-policy aide to Scoop Jackson
-      - later major neoconservative defense-policy figure
-    boundary: >-
-      Perle's position in several networks does not make those networks branches of
-      one another.
+      Irving Kristol's own later foreign-policy views were at times more realist
+      and restrained than those of the post-Cold War neoconservative generation.
+    evidence:
+      - SRC-KRISTOL-MEMOIRS-TROTSKYIST
+      - SRC-VAISSE-BROOKINGS-KRISTOL-2009
+      - SRC-STRAUSS-NEW-YORKER-2016
 
   Norman_Podhoretz:
-    rule: MULTIPLE_INFLUENCES_ALLOWED
     connections:
-      - New York intellectual and magazine world
+      - New York intellectual world
       - Commentary
+      - opposition to the New Left and counterculture
       - militant Cold War anti-Communism
-      - strong pro-Israel commitment
-      - formative neoconservative intellectual
+      - strong support for Israel
+      - continuity from first-age neoconservatism into later foreign-policy neoconservatism
+    evidence:
+      - SRC-PODHORETZ-COMMENTARY-1996
+      - SRC-VAISSE-BROOKINGS-KRISTOL-2009
 
-historical_transmission:
-  - New York intellectual formation
-  - anti-Stalinist and Cold War anti-Communist networks
-  - independent Straussian intellectual lineage
-  - independent Wohlstetter strategic lineage
-  - Scoop Jackson Washington policy network
-  - think tanks and journals
-  - executive-branch and national-security service
-  - Republican and Democratic hawkish political networks
-  - later foreign-policy programs and interventions
+  Paul_Wolfowitz:
+    connections:
+      - Allan Bloom
+      - exposure to Leo Strauss's lectures
+      - doctoral study under Albert Wohlstetter
+      - 1969 Washington work with Richard Perle
+      - Scoop Jackson orbit
+      - Team B
+      - Reagan and later Republican national-security service
+      - post-Cold War defense planning
+      - George W. Bush administration
+    boundary: >-
+      Strauss and Wohlstetter are separate influences in Wolfowitz's biography;
+      Wolfowitz himself identified Wohlstetter as the more significant influence.
+    evidence:
+      - SRC-WOLFOWITZ-NEW-YORKER-2007
+      - SRC-PERLE-PBS-THINK-TANK
+      - SRC-PBS-MANN-RUMSFELDS-WAR
 
-mapping_rules:
-  - A person may have multiple independent influences.
-  - Distinct source streams may intersect without becoming branches of one another.
-  - Connection is not the same as exclusive causation.
-  - A later actor may inherit from several streams simultaneously.
-  - A source characterization remains attributed when it exceeds the settled fact.
-  - The movement may form a network; it must not be forced into a single family tree.
+  Richard_Perle:
+    connections:
+      - Albert Wohlstetter mentorship
+      - 1969 Washington work with Paul Wolfowitz
+      - eleven years on Scoop Jackson's staff
+      - Jackson-Vanik
+      - Reagan-era Department of Defense
+      - later neoconservative defense-policy networks
+    evidence:
+      - SRC-PERLE-PBS-THINK-TANK
+      - SRC-PERLE-GWU-COLD-WAR-1997
+
+  William_Kristol:
+    connections:
+      - son of Irving Kristol
+      - student of Harvey Mansfield
+      - Republican political operation
+      - The Weekly Standard
+      - Robert Kagan
+      - Project for the New American Century
+      - post-Cold War neo-Reaganite foreign policy
+      - later Never Trump opposition
+    evidence:
+      - SRC-MANSFIELD-HOOVER
+      - SRC-KRISTOL-KAGAN-FOREIGN-AFFAIRS-1996
+      - SRC-VAISSE-BROOKINGS-KRISTOL-2009
+      - SRC-WEEKLY-STANDARD-NEW-YORKER-2018
+
+  Robert_Kagan:
+    connections:
+      - William Kristol
+      - The Weekly Standard
+      - Project for the New American Century
+      - neo-Reaganite foreign policy
+      - later Foreign Policy Initiative
+    evidence:
+      - SRC-KRISTOL-KAGAN-FOREIGN-AFFAIRS-1996
+      - SRC-PNAC-STATEMENT-1997
+      - SRC-HORTON-LOBE-2009-03-26
+
+  Zalmay_Khalilzad:
+    connections:
+      - Albert Wohlstetter strategic network
+      - nuclear-proliferation research
+      - Washington national-security network
+      - later senior roles in Afghanistan and Iraq policy
+    evidence:
+      - SRC-KHALILZAD-NEW-YORKER-2005
+
+  Elliott_Abrams:
+    connections:
+      - Scoop Jackson / Daniel Patrick Moynihan Capitol Hill neoconservative network
+      - Reagan administration
+      - democracy and human-rights advocacy within hawkish foreign policy
+      - later Republican national-security roles
+    boundary: >-
+      Abrams belongs to overlapping Washington networks; he should not be reduced
+      to a single intellectual lineage.
+    evidence:
+      - SRC-HORTON-LOBE-2008-02-01
+      - SRC-VAISSE-BROOKINGS-KRISTOL-2009
+
+institutional_transmission:
+  journals_and_media:
+    core:
+      - Commentary
+      - The Public Interest
+      - The Weekly Standard
+    later_or_overlapping:
+      - Wall Street Journal editorial pages
+  political_and_government_nodes:
+    - United States Senate office of Henry M. "Scoop" Jackson
+    - Daniel Patrick Moynihan's Senate and diplomatic orbit
+    - Reagan administration foreign-policy and defense posts
+    - George H. W. Bush administration defense-planning posts
+    - George W. Bush administration national-security posts
+  organizations_and_think_tanks:
+    core_or_major:
+      - American Enterprise Institute
+      - Coalition for a Democratic Majority
+      - Committee on the Present Danger
+      - Project for the New American Century
+      - Foreign Policy Initiative
+    overlapping_not_identical_to_neoconservatism:
+      - RAND Corporation
+      - Hudson Institute
+      - Jewish Institute for National Security of America
+      - Center for Security Policy
+      - Foundation for Defense of Democracies
+  boundary: >-
+    Presence of neoconservative figures in an institution does not make the whole
+    institution neoconservative.
+
+documented_commitments_over_time:
+  first_age:
+    - criticism of perceived failures and unintended consequences of Great Society social policy
+    - opposition to the New Left and 1960s counterculture
+    - anti-Communism
+    - acceptance by many members of a substantial but bounded welfare state
+  second_age:
+    - opposition to détente with the Soviet Union
+    - strong defense and skepticism toward arms-control optimism
+    - support for Soviet-Jewish emigration and human-rights pressure on the USSR
+    - strong support for Israel
+    - willingness to use American political and military power assertively
+  third_age:
+    - preservation of American global primacy or hegemony
+    - military supremacy
+    - American international leadership
+    - democracy promotion
+    - willingness to act unilaterally when multilateral institutions obstruct action
+    - regime change as an accepted tool against selected hostile governments
+  boundary: >-
+    These are documented recurring positions across stages of the movement, not a
+    claim that every neoconservative held every position at every time.
+  evidence:
+    - SRC-PODHORETZ-COMMENTARY-1996
+    - SRC-KRISTOL-KAGAN-FOREIGN-AFFAIRS-1996
+    - SRC-PNAC-STATEMENT-1997
+    - SRC-VAISSE-BROOKINGS-2010
+
+coalitions_and_non_identity:
+  facts:
+    - >-
+      Neoconservatives have repeatedly worked in coalitions with groups that are
+      historically distinct from neoconservatism.
+    - >-
+      During the George W. Bush era, Jim Lobe distinguished neoconservatives from
+      aggressive nationalists such as Dick Cheney and Donald Rumsfeld and from the
+      Christian Right even though these currents cooperated on major foreign-policy
+      questions.
+    - >-
+      Christian Zionist leaders adopted or supported many foreign-policy positions
+      promoted by neoconservatives without thereby sharing the movement's New York,
+      Cold War liberal, Straussian, or Wohlstetter genealogies.
+  distinctions:
+    - neoconservative is not a synonym for Republican
+    - neoconservative is not a synonym for hawk
+    - neoconservative is not a synonym for pro-Israel
+    - neoconservative is not a synonym for Straussian
+    - neoconservative is not a synonym for Trotskyist
+    - neoconservative is not a synonym for the military-industrial complex
+    - coalition does not establish common origin
+  evidence:
+    - SRC-HORTON-LOBE-2008-02-01
+    - SRC-HORTON-LOBE-2016-04-07
+
+research_provenance:
+  primary_map:
+    - Scott Horton's interviews with Jim Lobe
+    - Scott Horton's interviews with Andrew Cockburn
+    - Scott Horton's interviews with John Judis and other historians and critics
+  rule: >-
+    Horton is used as the primary research map because his archive repeatedly
+    traces people, institutions, and lineages across decades. Individual factual
+    connections are cross-checked where possible against participants' own words,
+    movement texts, archival records, or historical scholarship.
+  cockburn_horton_fusion_thesis:
+    status: RESEARCH_LEAD_NOT_STAR_FACT
+    statement: >-
+      Andrew Cockburn, in repeated interviews with Scott Horton, describes mature
+      neoconservatism as the point where the pro-Israel political lobby and the
+      American defense lobby joined interests, and assigns Paul Nitze an important
+      role in that convergence.
+    treatment: >-
+      The star records the independently established pro-Israel and defense-policy
+      dimensions. The stronger universal causal formulation remains attributed to
+      Cockburn and Horton rather than converted into an unqualified star fact.
 
 sources:
+  - source_id: SRC-HORTON-LOBE-2008-02-01
+    type: PRIMARY_MAP
+    title: "02/01/08 - Jim Lobe - The Scott Horton Show"
+    url: https://scotthorton.org/interviews/antiwar-radio-jim-lobe-2/
+    supports:
+      - distinct biographical definition of neoconservatism
+      - Scoop Jackson office as policy hatchery
+      - Perle, Gaffney, Abrams, Feith and broader Capitol Hill transmission
+      - distinction from aggressive nationalists and Christian Right
+
   - source_id: SRC-HORTON-LOBE-2015-10-20
-    type: primary_map
+    type: PRIMARY_MAP
     title: "10/20/15 - Jim Lobe - The Scott Horton Show"
-    publisher: The Scott Horton Show
     url: https://scotthorton.org/interviews/102015-jim-lobe/
     supports:
       - New York intellectual origin
-      - former Trotskyist and Democratic intellectual milieu
-      - Scoop Jackson office as Washington neoconservative hatchery
-      - Richard Perle and later policy-network transmission
+      - move into foreign policy
+      - Scoop Jackson Washington network
+      - migration from Democratic to Republican politics
 
   - source_id: SRC-HORTON-LOBE-2016-04-07
-    type: primary_map
+    type: PRIMARY_MAP
     title: "04/07/16 - Jim Lobe - The Scott Horton Show"
-    publisher: The Scott Horton Show
     url: https://scotthorton.org/interviews/4716-jim-lobe/
     supports:
-      - domestic origins of the term neoconservative
-      - transition toward foreign-policy emphasis
-      - Truman and liberal-hawk inheritance
-      - Scoop Jackson Washington arm
-      - defense-industry relationships and permanent-mobilization politics
-      - American and Israeli exceptionalism as recurring movement commitments
+      - complexity of Trotskyist ancestry
+      - foreign-policy definition of later neoconservatism
+      - Christian Zionist adoption of neoconservative foreign policy
+      - distinction between movement and broader conservative coalition
 
-  - source_id: SRC-HORTON-LOBE-2008-02-01
-    type: primary_map
-    title: "02/01/08 - Jim Lobe - The Scott Horton Show"
-    publisher: The Scott Horton Show
-    url: https://scotthorton.org/interviews/antiwar-radio-jim-lobe-2/
+  - source_id: SRC-HORTON-LOBE-2009-03-26
+    type: PRIMARY_MAP
+    title: "03/26/09 - Jim Lobe - The Scott Horton Show"
+    url: https://scotthorton.org/interviews/antiwar-radio-jim-lobe-5/
     supports:
-      - neoconservatives as a historically distinct group
-      - Scoop Jackson office as policy-oriented hatchery
-      - Richard Perle and later second-generation neoconservatives
-      - distinction from adjacent aggressive-nationalist currents
+      - post-Iraq organizational continuity
+      - Foreign Policy Initiative
+      - internal disputes over Iraq occupation and nation-building
+
+  - source_id: SRC-HORTON-JUDIS-2008-07-30
+    type: PRIMARY_MAP
+    title: "07/30/08 - John Judis - The Scott Horton Show"
+    url: https://scotthorton.org/interviews/antiwar-radio-john-judis/
+    supports:
+      - generational differences
+      - Weekly Standard and PNAC network
+      - post-Cold War activist foreign-policy generation
+
+  - source_id: SRC-HORTON-COCKBURN-2007-04-12
+    type: PRIMARY_MAP_ATTRIBUTED
+    title: "04/12/07 - Andrew Cockburn pt.1 - The Scott Horton Show"
+    url: https://scotthorton.org/interviews/antiwar-radio-andrew-cockburn-pt1/
+    supports:
+      - Cockburn's Israel-lobby and defense-lobby fusion thesis
 
   - source_id: SRC-HORTON-COCKBURN-2014-12-12
-    type: primary_map
+    type: PRIMARY_MAP_ATTRIBUTED
     title: "12/12/14 - Andrew Cockburn - The Scott Horton Show"
-    publisher: The Scott Horton Show
     url: https://scotthorton.org/interviews/121214-andrew-cockburn/
     supports:
-      - Cockburn characterization of Israel-lobby and defense-lobby fusion
+      - Cockburn's fusion thesis
       - attributed Paul Nitze bridge thesis
 
-  - source_id: SRC-HORTON-COCKBURN-2024-05-09
-    type: primary_map
-    title: "5/9/24 Andrew Cockburn on the Neoconservatives and the Military-Industrial Complex"
-    publisher: The Scott Horton Show
-    url: https://scotthorton.org/interviews/5-9-24-andrew-cockburn-on-the-neoconservatives-and-the-military-industrial-complex/
+  - source_id: SRC-HORTON-COCKBURN-2019-05-14
+    type: PRIMARY_MAP_ATTRIBUTED
+    title: "5/14/19 Andrew Cockburn on the Military-Industrial 'Virus'"
+    url: https://scotthorton.org/interviews/5-14-19-andrew-cockburn-on-the-military-industrial-virus/
     supports:
-      - continued Horton-Cockburn examination of neoconservative origins
-      - military-industrial and institutional dimension
+      - repeated Cockburn account of Paul Nitze
+      - defense-industrial dimension as research lead
+
+  - source_id: SRC-KRISTOL-MEMOIRS-TROTSKYIST
+    type: PRIMARY_SELF_RECORD
+    title: "Memoirs of a Trotskyist"
+    author: Irving Kristol
+    url: https://www.pbs.org/arguing/nyintellectuals_krystol_2.html
+    supports:
+      - Irving Kristol's own Trotskyist background
+      - City College anti-Stalinist intellectual milieu
+
+  - source_id: SRC-PODHORETZ-COMMENTARY-1996
+    type: PRIMARY_MOVEMENT_RETROSPECTIVE
+    title: "Neoconservatism: A Eulogy"
+    author: Norman Podhoretz
+    url: https://www.commentary.org/articles/norman-podhoretz/neoconservatism-a-eulogy/
+    supports:
+      - anti-Communism
+      - opposition to counterculture
+      - support for Israel
+      - first-generation self-understanding and later foreign-policy differences
 
   - source_id: SRC-PERLE-PBS-THINK-TANK
-    type: documentary_ground
+    type: PRIMARY_PARTICIPANT
     title: "Richard Perle: The Making of a Neoconservative"
-    publisher: PBS Think Tank
     url: https://www.pbs.org/thinktank/transcript1017.html
     supports:
-      - Wohlstetter mentorship of Perle
-      - Wolfowitz as Wohlstetter doctoral student and protege
-      - Wohlstetter connection bringing Perle and Wolfowitz to Washington
-      - subsequent contact with Scoop Jackson
+      - Wohlstetter mentorship
+      - Wolfowitz as Wohlstetter student
+      - 1969 Perle-Wolfowitz Washington trip
+      - Scoop Jackson connection
+
+  - source_id: SRC-PERLE-GWU-COLD-WAR-1997
+    type: PRIMARY_PARTICIPANT
+    title: "Interview with Richard Perle - 30 March 1997"
+    url: https://nsarchive2.gwu.edu/coldwar/interviews/episode-19/perle2.html
+    supports:
+      - Jackson opposition to détente
+      - Perle role in Jackson-Vanik
+      - Soviet-Jewish emigration issue
+
+  - source_id: SRC-WOLFOWITZ-NEW-YORKER-2007
+    type: BIOGRAPHICAL_RECORD_WITH_PARTICIPANT_INTERVIEW
+    title: "The Next Crusade"
+    url: https://www.newyorker.com/magazine/2007/04/09/the-next-crusade
+    supports:
+      - Allan Bloom connection
+      - Strauss lecture exposure
+      - Wohlstetter as more significant influence by Wolfowitz's own account
+      - Team B
+      - early Washington strategic career
+
+  - source_id: SRC-PBS-MANN-RUMSFELDS-WAR
+    type: HISTORICAL_INTERVIEW
+    title: "James Mann interview - Rumsfeld's War"
+    url: https://www.pbs.org/wgbh/pages/frontline/shows/pentagon/interviews/mann.html
+    supports:
+      - Bloom and Strauss connection
+      - Wohlstetter mentorship
+      - Wolfowitz-Perle-Jackson intersection
+
+  - source_id: SRC-KHALILZAD-NEW-YORKER-2005
+    type: BIOGRAPHICAL_RECORD
+    title: "American Viceroy"
+    url: https://www.newyorker.com/magazine/2005/12/19/american-viceroy
+    supports:
+      - Wohlstetter influence on Zalmay Khalilzad
+      - Wohlstetter strategic network and Washington connections
+
+  - source_id: SRC-STRAUSS-NEW-YORKER-2016
+    type: HISTORICAL_CONTEXT
+    title: "Rise of the Reactionary"
+    url: https://www.newyorker.com/magazine/2016/10/24/rise-of-the-reactionary
+    supports:
+      - Irving Kristol's recorded reaction to Strauss
+      - Straussian intellectual transmission
+      - William Kristol and Harvey Mansfield
+      - caution against making Strauss the secret author of later policy
+
+  - source_id: SRC-MANSFIELD-HOOVER
+    type: INSTITUTIONAL_BIOGRAPHY
+    title: "Harvey C. Mansfield"
+    url: https://www.hoover.org/profiles/harvey-c-mansfield
+    supports:
+      - Mansfield as self-described Straussian
+      - William Kristol as Mansfield student
+
+  - source_id: SRC-KRISTOL-KAGAN-FOREIGN-AFFAIRS-1996
+    type: PRIMARY_MOVEMENT_TEXT
+    title: "Toward a Neo-Reaganite Foreign Policy"
+    authors:
+      - William Kristol
+      - Robert Kagan
+    url: https://www.foreignaffairs.com/articles/1996-07-01/toward-neo-reaganite-foreign-policy
+    supports:
+      - American hegemony
+      - military supremacy
+      - moral confidence
+      - post-Cold War activist program
+
+  - source_id: SRC-PNAC-STATEMENT-1997
+    type: PRIMARY_MOVEMENT_TEXT
+    title: "Project for the New American Century - Statement of Principles"
+    date: "1997-06-03"
+    url: https://universityofleeds.github.io/philtaylorpapers/vp012238.html
+    supports:
+      - American global leadership
+      - stronger defense capabilities
+      - PNAC organizational program
+
+  - source_id: SRC-PERLE-PBS-FRONTLINE-IRAQ
+    type: PRIMARY_PARTICIPANT
+    title: "Richard Perle - The War Behind Closed Doors"
+    url: https://www.pbs.org/wgbh/pages/frontline/shows/iraq/interviews/perle.html
+    supports:
+      - post-Gulf War debate
+      - 1992 defense-planning concept
+      - 1998 Iraq advocacy network
+
+  - source_id: SRC-VAISSE-BROOKINGS-KRISTOL-2009
+    type: HISTORIOGRAPHY
+    title: "Was Irving Kristol a Neoconservative?"
+    author: Justin Vaisse
+    url: https://www.brookings.edu/articles/was-irving-kristol-a-neoconservative/
+    supports:
+      - first, second and third ages
+      - domestic-policy origin
+      - Scoop Jackson Democrats
+      - Coalition for a Democratic Majority
+      - Committee on the Present Danger
+      - Weekly Standard and PNAC revival
+      - differences between Irving Kristol and later neoconservatives
+
+  - source_id: SRC-VAISSE-BROOKINGS-2010
+    type: HISTORIOGRAPHY
+    title: "Neoconservatism and American Foreign Policy"
+    author: Justin Vaisse
+    url: https://www.brookings.edu/articles/neoconservatism-and-american-foreign-policy/
+    supports:
+      - three-age chronology
+      - later foreign-policy definition
+      - post-1995 interventionist program
+
+  - source_id: SRC-JACKSON-VANIK-YIVO
+    type: HISTORICAL_REFERENCE
+    title: "Jackson-Vanik Amendment"
+    author: Yaacov Roi
+    url: https://encyclopedia.yivo.org/article.aspx/Jackson-Vanik_Amendment
+    supports:
+      - Soviet-Jewish emigration context
+      - trade linkage
+      - coalition around Jackson-Vanik
+
+  - source_id: SRC-BURNHAM-CAMBRIDGE-2010
+    type: HISTORIOGRAPHY
+    title: "The first neo-conservative: James Burnham and the origins of a movement"
+    author: Binoy Kampmark
+    url: https://www.cambridge.org/core/journals/review-of-international-studies/article/abs/first-neoconservative-james-burnham-and-the-origins-of-a-movement/E827141B580A0FCD64F5A33C4DCC6141
+    supports:
+      - Burnham as an identified precursor to neoconservative foreign policy
+
+  - source_id: SRC-BURNHAM-CORNELL-2025
+    type: HISTORIOGRAPHY
+    title: "James Burnham: An Intellectual Biography"
+    author: David T. Byrne
+    url: https://academic.oup.com/cornell-scholarship-online/book/61003/chapter-abstract/532143517
+    supports:
+      - Burnham's Trotskyist-to-anti-Communist trajectory
+      - historiographic placement as an embryonic neoconservative precursor
+
+  - source_id: SRC-FUKUYAMA-NEW-YORKER-2006
+    type: HISTORICAL_CONTEXT
+    title: "Breaking Away"
+    url: https://www.newyorker.com/magazine/2006/03/27/breaking-away-2
+    supports:
+      - Fukuyama break with post-9/11 neoconservative foreign policy
+      - internal movement disagreement after Iraq
+
+  - source_id: SRC-WEEKLY-STANDARD-NEW-YORKER-2018
+    type: HISTORICAL_CONTEXT
+    title: "Who Killed The Weekly Standard?"
+    url: https://www.newyorker.com/news/the-political-scene/who-killed-the-weekly-standard
+    supports:
+      - Weekly Standard as a neoconservative institutional home
+      - Trump-era fracture within American conservatism
 
 completeness: PENDING_PROBE
