@@ -1,0 +1,642 @@
+star_id: STAR-US-NATSEC-001
+name: Postwar American national-security state
+status: FACT
+
+fact: >-
+  After World War II the United States created and maintained a permanent national-security
+  architecture combining military command, intelligence, nuclear and scientific institutions,
+  defense industry and contracting, executive national-security coordination, overseas alliances
+  and deployments, and later a greatly expanded domestic counterterrorism and surveillance system.
+  The architecture changed repeatedly, but its central institutions persisted beyond the Cold War
+  and were reorganized again after September 11, 2001.
+
+shape:
+  model: NETWORKED_INSTITUTIONAL_SYSTEM
+  rules:
+    - No single president, agency, strategist, company, or ideology created the whole system.
+    - Military, intelligence, nuclear, industrial, scientific, alliance, and domestic-security institutions are distinct but connected layers.
+    - Institutional connection does not establish identical purpose or unified control.
+    - A reform or oversight mechanism is part of the history of the system and is not evidence that the system disappeared.
+    - A person may occupy several institutional and intellectual networks simultaneously.
+    - The postwar national-security state predates and is larger than American neoconservatism.
+
+historical_spectrum:
+  wartime_inheritance:
+    period: "1940-1946"
+    facts:
+      - >-
+        World War II produced large permanent-capacity precedents in military planning,
+        intelligence, scientific mobilization, weapons research, and industrial production.
+      - >-
+        The Manhattan Project created a large federally directed scientific and industrial
+        complex for nuclear weapons development and production.
+      - >-
+        After the war, the Atomic Energy Act of 1946 transferred nuclear research and
+        development from the War Department to the new civilian Atomic Energy Commission,
+        preserving substantial continuity with Manhattan Project facilities and research.
+      - >-
+        Wartime intelligence organizations and military planning structures supplied personnel,
+        practices, and institutional precedents for the postwar intelligence system.
+    institutions:
+      - Manhattan Project
+      - War Department
+      - Office of Strategic Services
+      - Joint Chiefs of Staff wartime structure
+      - Atomic Energy Commission
+    evidence:
+      - SRC-DOE-AEC-HISTORY
+      - SRC-DOE-MANHATTAN-TO-DOE
+      - SRC-FRUS-INTELLIGENCE-FOUNDING
+
+  founding_reorganization:
+    period: "1947-1950"
+    facts:
+      - >-
+        The National Security Act of 1947 reorganized the United States military and foreign-policy
+        machinery and created the National Security Council and Central Intelligence Agency.
+      - >-
+        The Act also established the National Military Establishment and an independent United
+        States Air Force; the 1949 amendments converted the National Military Establishment into
+        the Department of Defense and strengthened the Secretary of Defense structure.
+      - >-
+        The Truman Doctrine committed the United States to sustained political, economic, and
+        military assistance against perceived expansion of Soviet influence.
+      - >-
+        The Marshall Plan linked American economic power to the reconstruction and political
+        stabilization of Western Europe.
+      - >-
+        The North Atlantic Treaty of 1949 established a permanent collective-defense alliance
+        between the United States, Canada, and Western European states.
+      - >-
+        National Security Council directives in the late 1940s established a continuing American
+        capacity for covert political, psychological, economic, and paramilitary operations.
+      - >-
+        NSC-68 in 1950 called for a major increase in American military strength and an integrated
+        political, economic, psychological, and military effort against the Soviet threat.
+      - >-
+        The Korean War accelerated implementation of the NSC-68 buildup and converted the paper's
+        recommendations into an immediate large-scale mobilization program.
+    institutions:
+      - National Security Council
+      - Department of Defense
+      - Central Intelligence Agency
+      - United States Air Force
+      - Joint Chiefs of Staff
+      - Department of State
+      - North Atlantic Treaty Organization
+      - Atomic Energy Commission
+    people:
+      - Harry S. Truman
+      - George C. Marshall
+      - Dean Acheson
+      - James Forrestal
+      - George F. Kennan
+      - Paul Nitze
+    evidence:
+      - SRC-STATE-NATIONAL-SECURITY-ACT-1947
+      - SRC-FRUS-NATIONAL-SECURITY-ACT-1949
+      - SRC-STATE-TRUMAN-DOCTRINE-MARSHALL-PLAN
+      - SRC-NATO-TREATY-1949
+      - SRC-CIA-COVERT-DIRECTIVE-1951
+      - SRC-STATE-NSC68
+      - SRC-FRUS-NSC68-1950
+
+  cold_war_consolidation:
+    period: "1950s-1960s"
+    facts:
+      - >-
+        The United States maintained large standing armed forces, nuclear forces, intelligence
+        services, overseas alliances, and military deployments throughout the Cold War rather
+        than returning to the prewar pattern of rapid demobilization.
+      - >-
+        The National Security Agency was established in 1952 to consolidate and coordinate
+        military cryptologic and signals-intelligence capabilities.
+      - >-
+        Nuclear weapons research and production expanded through the Atomic Energy Commission,
+        national laboratories, production sites, testing facilities, and military delivery systems.
+      - >-
+        RAND and related federally supported research organizations institutionalized a close
+        relationship among civilian scientists, mathematicians, economists, military planners,
+        and classified strategic problems.
+      - >-
+        Nuclear strategy became a major specialized field of national-security analysis, with
+        figures including Albert Wohlstetter, Bernard Brodie, Herman Kahn, and others influencing
+        debates over deterrence, survivability, targeting, and force posture.
+      - >-
+        The CIA and other intelligence bodies conducted intelligence collection and covert action
+        as continuing instruments of American foreign policy.
+      - >-
+        In his January 17, 1961 farewell address, President Dwight D. Eisenhower publicly warned
+        about the political consequences of the conjunction of a large permanent military
+        establishment and a large arms industry, which he called the military-industrial complex.
+    institutions:
+      - Department of Defense
+      - Central Intelligence Agency
+      - National Security Agency
+      - Atomic Energy Commission
+      - Strategic Air Command
+      - RAND Corporation
+      - national laboratories
+      - defense contractors
+      - NATO and other treaty alliances
+    junction_people:
+      Dwight_D_Eisenhower:
+        connections:
+          - Supreme Allied Commander in Europe
+          - United States presidency
+          - nuclear and conventional Cold War strategy
+          - warning concerning the military-industrial complex
+      Paul_Nitze:
+        connections:
+          - State Department Policy Planning Staff
+          - principal role in NSC-68
+          - later defense and arms-control roles
+          - continuing Cold War strategic-policy networks
+      Albert_Wohlstetter:
+        connections:
+          - RAND Corporation
+          - nuclear strategic analysis
+          - Air Force strategic problems
+          - later influence on defense-policy intellectuals
+        boundary: >-
+          Wohlstetter is a strategic figure within this national-security system and remains an
+          independent source stream from Leo Strauss.
+    evidence:
+      - SRC-NSA-FOUNDING-1952
+      - SRC-DOE-AEC-HISTORY
+      - SRC-RAND-HISTORY
+      - SRC-EISENHOWER-FAREWELL-1961
+      - SRC-CIA-COVERT-DIRECTIVE-1951
+
+  vietnam_and_reform:
+    period: "1960s-1970s"
+    facts:
+      - >-
+        The Vietnam War intensified conflict over presidential war-making, intelligence activity,
+        secrecy, surveillance, and congressional control of national-security policy.
+      - >-
+        Congress enacted the War Powers Resolution in 1973 over President Nixon's veto in an
+        effort to define and constrain presidential introduction of United States forces into
+        hostilities without congressional authorization.
+      - >-
+        The 1975-1976 Church Committee documented intelligence abuses and covert activities by
+        multiple administrations and agencies and produced major reforms in congressional
+        intelligence oversight.
+      - >-
+        The Senate established a permanent Select Committee on Intelligence in 1976.
+      - >-
+        Congress enacted the Foreign Intelligence Surveillance Act in 1978, creating a statutory
+        process and court for specified foreign-intelligence surveillance inside the United States.
+      - >-
+        These reforms added legal and congressional constraints to the national-security system;
+        they did not dismantle its military, intelligence, nuclear, alliance, or industrial layers.
+    institutions:
+      - Congress
+      - War Powers framework
+      - Church Committee
+      - Senate Select Committee on Intelligence
+      - Foreign Intelligence Surveillance Court
+      - Central Intelligence Agency
+      - Federal Bureau of Investigation
+      - National Security Agency
+    evidence:
+      - SRC-CONGRESS-WAR-POWERS-1973
+      - SRC-SENATE-CHURCH-COMMITTEE
+
+  late_cold_war:
+    period: "1980s"
+    facts:
+      - >-
+        The Reagan administration expanded defense spending and pursued an assertive global
+        anti-Soviet strategy while retaining the core postwar institutions created under earlier
+        administrations.
+      - >-
+        Intelligence, covert action, defense procurement, arms-control negotiations, nuclear
+        strategy, and alliance management remained central tools of national-security policy.
+      - >-
+        The Iran-Contra affair produced another major congressional investigation into executive
+        use of covert national-security mechanisms and restrictions imposed by Congress.
+    institutions:
+      - Department of Defense
+      - Central Intelligence Agency
+      - National Security Council staff
+      - Congress
+      - NATO
+      - defense industry
+    evidence:
+      - SRC-SENATE-INVESTIGATIONS-IRAN-CONTRA
+
+  post_cold_war_persistence:
+    period: "1991-2001"
+    facts:
+      - >-
+        The dissolution of the Soviet Union ended the original bipolar Cold War but did not
+        dismantle the core United States national-security institutions established after World
+        War II.
+      - >-
+        The Department of Defense, intelligence community, nuclear weapons complex, National
+        Security Council, defense-industrial base, and NATO all continued operating after 1991.
+      - >-
+        American military power was used in regional wars and interventions while the alliance
+        and security architecture adapted to new missions and new members.
+      - >-
+        The absence of the Soviet Union therefore changed the purposes, threats, and doctrines of
+        the system without ending the system itself.
+    institutions:
+      - Department of Defense
+      - intelligence community
+      - Department of Energy nuclear weapons complex
+      - National Security Council
+      - NATO
+      - defense-industrial base
+
+  post_9_11_transformation:
+    period: "2001 onward"
+    facts:
+      - >-
+        The September 11, 2001 attacks produced the largest reorganization and expansion of the
+        American national-security apparatus since the early Cold War.
+      - >-
+        Congress enacted the 2001 Authorization for Use of Military Force, authorizing force
+        against nations, organizations, and persons connected to the September 11 attacks.
+      - >-
+        The USA PATRIOT Act of 2001 expanded and modified investigative, intelligence-sharing,
+        surveillance, and counterterrorism authorities.
+      - >-
+        The Homeland Security Act of 2002 created the Department of Homeland Security and combined
+        all or part of 22 federal departments and agencies into a new Cabinet department.
+      - >-
+        The Intelligence Reform and Terrorism Prevention Act of 2004 amended the 1947 national-
+        security framework, created the Director of National Intelligence, and reorganized the
+        management of the Intelligence Community.
+      - >-
+        The National Counterterrorism Center developed as a central interagency body for integrated
+        terrorism analysis, information sharing, and strategic operational planning.
+      - >-
+        After 9/11, domestic law enforcement, immigration, border security, intelligence,
+        surveillance, military operations, and foreign-policy mechanisms became more closely linked
+        within the national-security system.
+    institutions:
+      - Department of Defense
+      - Central Intelligence Agency
+      - National Security Agency
+      - Federal Bureau of Investigation
+      - Department of Homeland Security
+      - Office of the Director of National Intelligence
+      - National Counterterrorism Center
+      - Department of Justice National Security Division
+    evidence:
+      - SRC-AUMF-2001
+      - SRC-PATRIOT-ACT-2001
+      - SRC-HOMELAND-SECURITY-ACT-2002
+      - SRC-DHS-HISTORY
+      - SRC-ODNI-IRTPA-2004
+      - SRC-NCTC-HISTORY
+      - SRC-DOJ-POST911
+
+institutional_layers:
+  executive_coordination:
+    facts:
+      - >-
+        The National Security Council created a permanent White House-centered mechanism for
+        coordinating foreign, military, and intelligence policy for the President.
+      - >-
+        National-security decision-making repeatedly involved interaction among the President,
+        NSC staff, State Department, Defense Department, intelligence agencies, and other bodies.
+    institutions:
+      - White House
+      - National Security Council
+      - Department of State
+      - Department of Defense
+      - intelligence community
+
+  military:
+    facts:
+      - >-
+        The postwar United States maintained standing armed forces with global reach, permanent
+        commands, overseas deployments, logistics, nuclear forces, and large procurement systems.
+    institutions:
+      - Department of Defense
+      - Army
+      - Navy
+      - Air Force
+      - Marine Corps
+      - Joint Chiefs of Staff
+      - combatant commands
+
+  intelligence_and_covert_action:
+    facts:
+      - >-
+        Intelligence collection, analysis, counterintelligence, signals intelligence, and covert
+        action became permanent institutional functions of the postwar federal government.
+      - >-
+        Oversight rules changed over time, especially after the Church Committee and after 9/11,
+        but the intelligence function itself remained continuous.
+    institutions:
+      - Central Intelligence Agency
+      - National Security Agency
+      - Defense intelligence organizations
+      - Federal Bureau of Investigation national-security functions
+      - Office of the Director of National Intelligence
+
+  nuclear_scientific_and_strategic:
+    facts:
+      - >-
+        Nuclear weapons research, production, testing, stewardship, delivery systems, and strategic
+        analysis became a permanent specialized national-security domain after World War II.
+      - >-
+        National laboratories, universities, federally funded research centers, military agencies,
+        and civilian strategists all participated in this domain.
+    institutions:
+      - Atomic Energy Commission
+      - Department of Energy and predecessor agencies
+      - national laboratories
+      - RAND Corporation
+      - military research organizations
+
+  industrial_and_contracting:
+    facts:
+      - >-
+        Large private contractors and industrial firms became enduring suppliers of weapons,
+        aircraft, missiles, electronics, intelligence technology, logistics, and research to the
+        federal national-security apparatus.
+      - >-
+        Eisenhower's military-industrial-complex warning explicitly identified the political and
+        economic significance of this permanent conjunction of military establishment and arms
+        industry.
+    boundary: >-
+      The existence of industrial and contracting ties does not establish that every national-
+      security policy was caused by contractor financial interests.
+
+  alliances_and_overseas_architecture:
+    facts:
+      - >-
+        The United States entered permanent collective-defense alliances and maintained extensive
+        overseas security commitments after World War II.
+      - >-
+        NATO was the central transatlantic alliance and survived the dissolution of the Soviet
+        Union.
+      - >-
+        Alliances, military assistance, overseas deployments, and foreign basing made national
+        security an international institutional system rather than a purely domestic bureaucracy.
+    institutions:
+      - NATO
+      - other treaty alliances
+      - overseas commands and bases
+      - military assistance programs
+
+  domestic_security_and_oversight:
+    facts:
+      - >-
+        National-security functions repeatedly intersected with domestic law enforcement,
+        surveillance, civil liberties, immigration, border security, and congressional oversight.
+      - >-
+        The 1970s reforms created important statutory and legislative controls; the post-9/11
+        period later expanded information sharing and domestic counterterrorism institutions.
+    institutions:
+      - Congress
+      - Senate and House intelligence committees
+      - FISA Court
+      - Department of Justice
+      - Federal Bureau of Investigation
+      - Department of Homeland Security
+
+connections_to_other_stars:
+  STAR-NEOCON-001:
+    relation: >-
+      American neoconservatism developed within and later influenced parts of an already-existing
+      postwar national-security system. The national-security state is older, institutionally
+      broader, and not reducible to neoconservatism.
+    shared_people_and_nodes:
+      - Paul Nitze
+      - Albert Wohlstetter
+      - Paul Wolfowitz
+      - Richard Perle
+      - RAND Corporation
+      - Department of Defense
+      - Committee on the Present Danger
+      - defense-policy networks
+
+boundaries:
+  - The postwar American national-security state is not synonymous with neoconservatism.
+  - It is not synonymous with the CIA, Pentagon, military-industrial complex, or any single agency.
+  - The existence of permanent security institutions does not establish that they act with one unified intention.
+  - Institutional persistence does not establish that missions, doctrines, or political control remained unchanged.
+  - Congressional oversight and legal constraint are part of the factual system, not exceptions to its existence.
+  - Alliance membership and cooperation do not make allied states branches of the United States government.
+
+sources:
+  - source_id: SRC-STATE-NATIONAL-SECURITY-ACT-1947
+    type: OFFICIAL_HISTORY_AND_STATUTORY_CONTEXT
+    title: "National Security Act of 1947"
+    publisher: U.S. Department of State, Office of the Historian
+    url: https://history.state.gov/milestones/1945-1952/national-security-act
+    supports:
+      - 1947 military and foreign-policy reorganization
+      - National Security Council
+      - Central Intelligence Agency
+
+  - source_id: SRC-FRUS-NATIONAL-SECURITY-ACT-1949
+    type: OFFICIAL_DOCUMENTARY_RECORD
+    title: "National Security Act Amendments of 1949 - Editorial Note"
+    publisher: Foreign Relations of the United States, Office of the Historian
+    url: https://history.state.gov/historicaldocuments/frus1949v01/d143
+    supports:
+      - creation of Department of Defense from National Military Establishment
+      - strengthened Secretary of Defense structure
+      - Joint Chiefs organizational changes
+
+  - source_id: SRC-FRUS-INTELLIGENCE-FOUNDING
+    type: OFFICIAL_DOCUMENTARY_RECORD
+    title: "Founding of the National Intelligence Structure, 1945-1950"
+    publisher: Foreign Relations of the United States, Office of the Historian
+    url: https://history.state.gov/historicaldocuments/frus1945-50Intel/intro6
+    supports:
+      - wartime-to-postwar intelligence transition
+      - creation of postwar intelligence structure
+      - National Security Act intelligence implementation
+
+  - source_id: SRC-STATE-TRUMAN-DOCTRINE-MARSHALL-PLAN
+    type: OFFICIAL_HISTORY
+    title: "The Truman Doctrine and the Marshall Plan"
+    publisher: U.S. Department of State, Office of the Historian
+    url: https://history.state.gov/departmenthistory/short-history/truman
+    supports:
+      - Truman Doctrine
+      - Marshall Plan
+      - postwar American political and economic security commitments
+
+  - source_id: SRC-NATO-TREATY-1949
+    type: PRIMARY_TREATY
+    title: "The North Atlantic Treaty"
+    publisher: NATO
+    url: https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty
+    supports:
+      - permanent collective-defense alliance
+      - NATO institutional foundation
+
+  - source_id: SRC-STATE-NSC68
+    type: OFFICIAL_HISTORY
+    title: "NSC-68, 1950"
+    publisher: U.S. Department of State, Office of the Historian
+    url: https://history.state.gov/milestones/1945-1952/NSC68
+    supports:
+      - Paul Nitze and NSC-68
+      - large military buildup
+      - globalized containment
+
+  - source_id: SRC-FRUS-NSC68-1950
+    type: PRIMARY_GOVERNMENT_RECORD
+    title: "Report by the National Security Council on United States Objectives and Programs for National Security, December 14, 1950"
+    publisher: Foreign Relations of the United States, Office of the Historian
+    url: https://history.state.gov/historicaldocuments/frus1950v01/d148
+    supports:
+      - accelerated Korean War buildup
+      - integrated political economic psychological and military programs
+      - mobilization base
+
+  - source_id: SRC-CIA-COVERT-DIRECTIVE-1951
+    type: DECLASSIFIED_PRIMARY_RECORD
+    title: "Draft of NSC Directive on Covert Operations and Clandestine Activities"
+    publisher: Central Intelligence Agency Reading Room
+    url: https://www.cia.gov/readingroom/document/cia-rdp80r01731r000800060032-7
+    supports:
+      - postwar covert operations framework
+      - clandestine intelligence and political warfare functions
+
+  - source_id: SRC-DOE-AEC-HISTORY
+    type: OFFICIAL_HISTORY
+    title: "History of the Atomic Energy Commission and Office of Science"
+    publisher: U.S. Department of Energy
+    url: https://www.energy.gov/science/history
+    supports:
+      - Atomic Energy Act of 1946
+      - continuity from Manhattan Project research
+      - national laboratory system
+
+  - source_id: SRC-DOE-MANHATTAN-TO-DOE
+    type: OFFICIAL_HISTORY
+    title: "Manhattan Project to Department of Energy Formation, 1939-1977"
+    publisher: U.S. Department of Energy
+    url: https://www.energy.gov/em/manhattan-project-department-energy-formation-1939-1977
+    supports:
+      - continuity of wartime nuclear production infrastructure
+      - Cold War nuclear weapons facilities and testing
+
+  - source_id: SRC-NSA-FOUNDING-1952
+    type: OFFICIAL_AGENCY_HISTORY
+    title: "NSA Celebrates 60 Years of Defending the Nation"
+    publisher: National Security Agency
+    url: https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/1630586/nsa-celebrates-60-years-of-defending-the-nation/
+    supports:
+      - NSA establishment on November 4, 1952
+      - consolidation of cryptologic support and signals intelligence
+
+  - source_id: SRC-RAND-HISTORY
+    type: INSTITUTIONAL_HISTORY
+    title: "RAND Corporation"
+    publisher: INFORMS History of O.R. Excellence
+    url: https://www.informs.org/Explore/History-of-O.R.-Excellence/Non-Academic-Institutions/RAND-Corporation
+    supports:
+      - Project RAND wartime-to-postwar origins
+      - 1948 independent RAND Corporation
+      - continuing civilian scientific support to military planning
+
+  - source_id: SRC-EISENHOWER-FAREWELL-1961
+    type: PRIMARY_PRESIDENTIAL_RECORD
+    title: "Farewell Address, January 17, 1961"
+    publisher: Dwight D. Eisenhower Presidential Library
+    url: https://www.eisenhowerlibrary.gov/research/online-documents/farewell-address
+    supports:
+      - military-industrial-complex warning
+      - contemporary recognition of permanent military and industrial structures
+
+  - source_id: SRC-CONGRESS-WAR-POWERS-1973
+    type: OFFICIAL_CONSTITUTIONAL_HISTORY
+    title: "Legislative and Executive Branch Views on the Declare War Clause"
+    publisher: Constitution Annotated, Library of Congress
+    url: https://constitution.congress.gov/browse/essay/artI-S8-C11-2-4/ALDE_00013915/
+    supports:
+      - War Powers Resolution of 1973
+      - congressional-executive conflict over initiation of hostilities
+
+  - source_id: SRC-SENATE-CHURCH-COMMITTEE
+    type: OFFICIAL_CONGRESSIONAL_HISTORY
+    title: "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities"
+    publisher: United States Senate
+    url: https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm
+    supports:
+      - Church Committee findings and hearings
+      - creation of permanent intelligence oversight
+      - FISA reform context
+
+  - source_id: SRC-SENATE-INVESTIGATIONS-IRAN-CONTRA
+    type: OFFICIAL_CONGRESSIONAL_HISTORY
+    title: "Selected Senate Investigations"
+    publisher: United States Senate
+    url: https://www.senate.gov/about/powers-procedures/investigations/select-investigations.htm
+    supports:
+      - Iran-Contra congressional investigation
+
+  - source_id: SRC-AUMF-2001
+    type: PRIMARY_STATUTE
+    title: "Authorization for Use of Military Force, Public Law 107-40"
+    publisher: Congress.gov, Library of Congress
+    url: https://www.congress.gov/bill/107th-congress/senate-joint-resolution/23/text/pl
+    supports:
+      - post-9/11 authorization of force
+
+  - source_id: SRC-PATRIOT-ACT-2001
+    type: PRIMARY_STATUTE
+    title: "USA PATRIOT Act of 2001, Public Law 107-56"
+    publisher: GovInfo
+    url: https://www.govinfo.gov/app/details/PLAW-107publ56
+    supports:
+      - post-9/11 investigative and intelligence authorities
+      - information sharing and surveillance changes
+
+  - source_id: SRC-HOMELAND-SECURITY-ACT-2002
+    type: PRIMARY_STATUTE
+    title: "Homeland Security Act of 2002, Public Law 107-296"
+    publisher: GovInfo
+    url: https://www.govinfo.gov/app/details/PLAW-107publ296
+    supports:
+      - creation of Department of Homeland Security
+
+  - source_id: SRC-DHS-HISTORY
+    type: OFFICIAL_AGENCY_HISTORY
+    title: "About DHS"
+    publisher: U.S. Department of Homeland Security
+    url: https://www.dhs.gov/about-dhs
+    supports:
+      - integration of 22 federal departments and agencies into DHS
+
+  - source_id: SRC-ODNI-IRTPA-2004
+    type: OFFICIAL_AGENCY_HISTORY_AND_STATUTORY_CONTEXT
+    title: "About the Office of the Director of National Intelligence"
+    publisher: Office of the Director of National Intelligence
+    url: https://www.odni.gov/about/
+    supports:
+      - Intelligence Reform and Terrorism Prevention Act of 2004
+      - creation of Director of National Intelligence
+      - post-9/11 intelligence reorganization
+
+  - source_id: SRC-NCTC-HISTORY
+    type: OFFICIAL_AGENCY_HISTORY
+    title: "National Counterterrorism Center History"
+    publisher: Office of the Director of National Intelligence
+    url: https://www.odni.gov/index.php/nctc-who-we-are/history
+    supports:
+      - NCTC development
+      - integrated terrorism analysis and strategic operational planning
+
+  - source_id: SRC-DOJ-POST911
+    type: OFFICIAL_AGENCY_RECORD
+    title: "The Justice Department after 9/11"
+    publisher: U.S. Department of Justice
+    url: https://www.justice.gov/archive/911/legal.html
+    supports:
+      - intelligence-law-enforcement information sharing
+      - post-9/11 national-security legal changes
+
+completeness: PENDING_PROBE
