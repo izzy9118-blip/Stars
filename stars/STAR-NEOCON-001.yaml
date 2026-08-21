@@ -6,10 +6,13 @@ fact: >-
   American neoconservatism is a historical intellectual and political movement
   that developed through several overlapping generations and independent streams.
   It began substantially among anti-Stalinist and Cold War liberal intellectuals
-  concerned with domestic liberalism and culture, acquired a distinct Washington
-  foreign-policy arm in the 1970s, and was reformulated after the Cold War around
-  a more explicitly interventionist program of American global leadership. No
-  single thinker, person, school, institution, or lineage exhausts the movement.
+  concerned with domestic liberalism and culture, whose break with the New Left
+  increasingly joined anti-Communism to Zionism and the defense of Israel. It
+  acquired a distinct Washington foreign-policy arm in the 1970s and was
+  reformulated after the Cold War around a more explicitly interventionist program
+  of American global leadership. Across these transformations, Zionism remained a
+  defining commitment of the movement. No single thinker, person, school,
+  institution, or lineage exhausts it.
 
 shape:
   model: NETWORK
@@ -19,7 +22,33 @@ shape:
     - Connection does not establish exclusive causation.
     - Membership, influence, alliance, employment, and intellectual descent are different relations.
     - A coalition partner is not automatically a neoconservative.
-    - The movement changed across generations; a position documented in one generation is not automatically universal.
+    - Except for constitutive commitments explicitly identified below, a position documented in one generation is not automatically universal.
+
+movement_definition:
+  constitutive_commitments:
+    zionism:
+      status: CONSTITUTIVE
+      meaning: >-
+        Commitment to the continued existence and security of Israel as a Jewish
+        state.
+      constitutive_role: >-
+        Zionism is a defining commitment of American neoconservatism across its
+        historical transformations, not an optional preference or merely a
+        recurring coalition position.
+      evidentiary_boundaries:
+        - Jewish identity alone is not evidence of Zionism.
+        - >-
+          The commitment does not require identical views about every Israeli
+          government, border, settlement, war, or peace proposal.
+        - >-
+          The commitment does not establish that Israel was the movement's only
+          concern or that a participant acted as an agent of an Israeli government.
+      evidence:
+        - SRC-HUMMEL-ISRAEL-RISE-NEOCONS-2010
+        - SRC-PODHORETZ-COMMENTARY-1996
+        - SRC-KRISTOL-NEOCONSERVATIVE-PERSUASION-2003
+        - SRC-KAGAN-KRISTOL-GREEN-LIGHT-2001
+        - SRC-NEOCON-BUSH-ISRAEL-LETTER-2002
 
 historical_spectrum:
   first_age_domestic_and_intellectual:
@@ -35,6 +64,10 @@ historical_spectrum:
       - >-
         The Public Interest and Commentary were major journals through which this
         intellectual formation developed.
+      - >-
+        The break with the New Left also involved the defense of Israel and
+        opposition to anti-Zionism, especially after the 1967 Six-Day War; Israel
+        became a central component of the emerging movement's political identity.
     people:
       - Irving Kristol
       - Norman Podhoretz
@@ -53,6 +86,7 @@ historical_spectrum:
       - SRC-VAISSE-BROOKINGS-KRISTOL-2009
       - SRC-VAISSE-BROOKINGS-2010
       - SRC-PODHORETZ-COMMENTARY-1996
+      - SRC-HUMMEL-ISRAEL-RISE-NEOCONS-2010
 
   second_age_washington_foreign_policy:
     period: "1970s through 1980s"
@@ -75,6 +109,9 @@ historical_spectrum:
       - >-
         Many participants in this current later moved from the Democratic orbit
         into the Reagan administration or Republican-aligned institutions.
+      - >-
+        In the Jackson network, anti-Soviet strategy, Soviet-Jewish emigration,
+        human-rights pressure, and the defense of Israel became closely joined.
     people:
       - Henry M. "Scoop" Jackson
       - Richard Perle
@@ -98,6 +135,8 @@ historical_spectrum:
       - SRC-VAISSE-BROOKINGS-KRISTOL-2009
       - SRC-PERLE-PBS-THINK-TANK
       - SRC-PERLE-GWU-COLD-WAR-1997
+      - SRC-PODHORETZ-COMMENTARY-1996
+      - SRC-HUMMEL-ISRAEL-RISE-NEOCONS-2010
 
   third_age_post_cold_war:
     period: "mid-1990s through the George W. Bush era"
@@ -122,6 +161,10 @@ historical_spectrum:
         the 2003 invasion of Iraq, but the Bush administration and the pro-war
         coalition also included aggressive nationalists and other currents that
         were not themselves neoconservative.
+      - >-
+        William Kristol, Robert Kagan, Richard Perle, Norman Podhoretz, and other
+        central figures publicly joined American power, the war on terrorism, and
+        steadfast support for Israel in movement essays and joint letters.
     people:
       - William Kristol
       - Robert Kagan
@@ -144,6 +187,8 @@ historical_spectrum:
       - SRC-HORTON-LOBE-2008-02-01
       - SRC-PERLE-PBS-FRONTLINE-IRAQ
       - SRC-VAISSE-BROOKINGS-KRISTOL-2009
+      - SRC-KAGAN-KRISTOL-GREEN-LIGHT-2001
+      - SRC-NEOCON-BUSH-ISRAEL-LETTER-2002
 
   post_iraq_fragmentation_and_continuity:
     period: "2004 onward"
@@ -310,27 +355,43 @@ independent_streams:
       - SRC-WOLFOWITZ-NEW-YORKER-2007
       - SRC-KHALILZAD-NEW-YORKER-2005
 
-  pro_israel_commitment:
+  zionist_commitment:
+    status: CONSTITUTIVE
     facts:
       - >-
-        Strong support for Israel became a persistent and prominent feature of
-        neoconservative foreign policy.
+        Zionism was a defining commitment of American neoconservatism, not merely
+        a persistent or prominent foreign-policy preference.
       - >-
-        Norman Podhoretz's own retrospective identified Israel as a foreign-policy
-        question on which neoconservatives differed from older conservative
-        traditions and connected that support to the movement's anti-Communism.
+        The founding generation's defense of Israel and conflict with anti-Zionism
+        formed part of its break with the New Left.
       - >-
-        The Jackson-Vanik campaign also created durable political cooperation
-        among Jackson's anti-détente network, Soviet-Jewry activists, and parts of
-        organized American Jewish politics.
-    boundary: >-
-      Support for Israel does not establish that every neoconservative held the
-      same Israeli-policy preferences or acted as an agent of any Israeli
-      government.
+        Norman Podhoretz's retrospective identified enthusiastic support for
+        Israel as a position distinguishing neoconservatives from older
+        conservative traditions and connected that support to anti-Communism.
+      - >-
+        The Jackson-Vanik campaign joined anti-détente strategy, Soviet-Jewish
+        emigration, human rights, and organized pro-Israel politics.
+      - >-
+        In the post-Cold War generation, William Kristol, Robert Kagan, Richard
+        Perle, Norman Podhoretz, and others repeatedly argued for unequivocal
+        American support for Israel and connected Israel's security to American
+        strategy.
+    boundaries:
+      - Zionism is a political commitment; Jewish identity alone is not evidence.
+      - >-
+        Constitutive commitment does not mean uniform support for every Israeli
+        government or policy.
+      - >-
+        It does not establish that Israel was the movement's sole concern or that
+        neoconservatives acted as agents of an Israeli government.
     evidence:
       - SRC-PODHORETZ-COMMENTARY-1996
       - SRC-JACKSON-VANIK-YIVO
       - SRC-HORTON-LOBE-2008-02-01
+      - SRC-HUMMEL-ISRAEL-RISE-NEOCONS-2010
+      - SRC-KRISTOL-NEOCONSERVATIVE-PERSUASION-2003
+      - SRC-KAGAN-KRISTOL-GREEN-LIGHT-2001
+      - SRC-NEOCON-BUSH-ISRAEL-LETTER-2002
 
   defense_and_national_security_establishment:
     facts:
@@ -525,12 +586,13 @@ documented_commitments_over_time:
     - criticism of perceived failures and unintended consequences of Great Society social policy
     - opposition to the New Left and 1960s counterculture
     - anti-Communism
+    - defense of Israel and opposition to anti-Zionism
     - acceptance by many members of a substantial but bounded welfare state
   second_age:
     - opposition to détente with the Soviet Union
     - strong defense and skepticism toward arms-control optimism
     - support for Soviet-Jewish emigration and human-rights pressure on the USSR
-    - strong support for Israel
+    - Zionism and the defense of Israel
     - willingness to use American political and military power assertively
   third_age:
     - preservation of American global primacy or hegemony
@@ -539,14 +601,20 @@ documented_commitments_over_time:
     - democracy promotion
     - willingness to act unilaterally when multilateral institutions obstruct action
     - regime change as an accepted tool against selected hostile governments
+    - Zionism and steadfast support for Israel
   boundary: >-
     These are documented recurring positions across stages of the movement, not a
-    claim that every neoconservative held every position at every time.
+    claim that every neoconservative held every position at every time. Zionism is
+    the exception to this variability rule: it is constitutive across the
+    movement's generations.
   evidence:
     - SRC-PODHORETZ-COMMENTARY-1996
     - SRC-KRISTOL-KAGAN-FOREIGN-AFFAIRS-1996
     - SRC-PNAC-STATEMENT-1997
     - SRC-VAISSE-BROOKINGS-2010
+    - SRC-HUMMEL-ISRAEL-RISE-NEOCONS-2010
+    - SRC-KAGAN-KRISTOL-GREEN-LIGHT-2001
+    - SRC-NEOCON-BUSH-ISRAEL-LETTER-2002
 
 coalitions_and_non_identity:
   facts:
@@ -565,7 +633,6 @@ coalitions_and_non_identity:
   distinctions:
     - neoconservative is not a synonym for Republican
     - neoconservative is not a synonym for hawk
-    - neoconservative is not a synonym for pro-Israel
     - neoconservative is not a synonym for Straussian
     - neoconservative is not a synonym for Trotskyist
     - neoconservative is not a synonym for the military-industrial complex
@@ -592,9 +659,26 @@ research_provenance:
       American defense lobby joined interests, and assigns Paul Nitze an important
       role in that convergence.
     treatment: >-
-      The star records the independently established pro-Israel and defense-policy
-      dimensions. The stronger universal causal formulation remains attributed to
-      Cockburn and Horton rather than converted into an unqualified star fact.
+      The Star records Zionism as constitutive and the defense-policy dimension as
+      independently established. The stronger universal causal claim that mature
+      neoconservatism arose from a fusion of two lobbies remains attributed to
+      Cockburn and Horton rather than converted into an unqualified Star fact.
+  zionism_probe:
+    status: ELEVATED_TO_CONSTITUTIVE_FACT
+    finding: >-
+      Zionism belongs in the definition of American neoconservatism. It is not
+      adequately represented as a preference held by many participants or as a
+      merely persistent foreign-policy position.
+    basis: >-
+      Scholarship on the movement's 1960s and 1970s formation identifies Israel as
+      a central component of its emerging ideology. Retrospectives and programmatic
+      texts by leading figures carry that commitment through the movement's first,
+      second, and third ages.
+    evidentiary_boundary: >-
+      This claim concerns the movement's political commitments. It neither derives
+      those commitments from the Jewish identity of particular figures nor
+      converts support for Israel into a claim of obedience to an Israeli
+      government.
 
 sources:
   - source_id: SRC-HORTON-LOBE-2008-02-01
@@ -852,4 +936,50 @@ sources:
       - Weekly Standard as a neoconservative institutional home
       - Trump-era fracture within American conservatism
 
-completeness: PENDING_PROBE
+  - source_id: SRC-HUMMEL-ISRAEL-RISE-NEOCONS-2010
+    type: SCHOLARLY_THESIS
+    author: Daniel G. Hummel
+    title: "Israel and the Rise of the Neoconservatives, 1960-1976"
+    year: 2010
+    publisher: Colorado State University
+    url: https://mountainscholar.org/items/631a1fdc-218c-4f70-a19c-6c7a15c5deae
+    supports:
+      - Israel as a central component of emerging neoconservative ideology
+      - post-1967 conflict with anti-Zionism
+      - Podhoretz, Glazer, Moynihan, and Commentary in the early formation
+
+  - source_id: SRC-KRISTOL-NEOCONSERVATIVE-PERSUASION-2003
+    type: PRIMARY_MOVEMENT_TEXT
+    author: Irving Kristol
+    title: The Neoconservative Persuasion
+    year: 2003
+    publisher: American Enterprise Institute
+    url: https://ciaotest.cc.columbia.edu/pbei/aei/oti/kri03/kri03.pdf
+    supports:
+      - a leading neoconservative's account of American obligation to defend Israel
+      - the connection between Israel's defense and American national interest
+
+  - source_id: SRC-KAGAN-KRISTOL-GREEN-LIGHT-2001
+    type: PRIMARY_MOVEMENT_TEXT
+    authors:
+      - Robert Kagan
+      - William Kristol
+    title: Green Light for Israel
+    year: 2001
+    publisher: The Weekly Standard, reprinted by Carnegie Endowment for International Peace
+    url: https://carnegieendowment.org/posts/2001/09/green-light-for-israel?lang=en
+    supports:
+      - unequivocal American support for Israel
+      - moral and strategic identification of American and Israeli security
+
+  - source_id: SRC-NEOCON-BUSH-ISRAEL-LETTER-2002
+    type: PRIMARY_NETWORK_LETTER
+    title: "Letter to President Bush on Israel, Arafat and the War on Terrorism"
+    date: "2002-04-03"
+    url: https://militarist-monitor.org/images/uploads/PNAC_Letter_to_President_Bush_on_Israel%2C_Arafat_and_the_War_on_Terrorism.pdf
+    supports:
+      - cross-network public commitment to Israel
+      - signatories including Kristol, Kagan, Perle, Podhoretz, and Muravchik
+      - linkage of Israel's security, American strategy, and Iraq regime change
+
+completeness: COMPLETE
