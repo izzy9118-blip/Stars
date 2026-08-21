@@ -202,6 +202,7 @@ historical_spectrum:
     evidence:
       - SRC-CONGRESS-WAR-POWERS-1973
       - SRC-SENATE-CHURCH-COMMITTEE
+      - SRC-FISA-1978
 
   late_cold_war:
     period: "1980s"
@@ -224,6 +225,7 @@ historical_spectrum:
       - NATO
       - defense industry
     evidence:
+      - SRC-REAGAN-DEFENSE-1981
       - SRC-SENATE-INVESTIGATIONS-IRAN-CONTRA
 
   post_cold_war_persistence:
@@ -249,6 +251,12 @@ historical_spectrum:
       - National Security Council
       - NATO
       - defense-industrial base
+    evidence:
+      - SRC-NATO-SHORT-HISTORY
+      - SRC-NAVY-DESERT-SHIELD-STORM
+      - SRC-DOE-AEC-HISTORY
+      - SRC-ODNI-IRTPA-2004
+      - SRC-STATE-NATIONAL-SECURITY-ACT-1947
 
   post_9_11_transformation:
     period: "2001 onward"
@@ -309,6 +317,10 @@ institutional_layers:
       - Department of State
       - Department of Defense
       - intelligence community
+    evidence:
+      - SRC-STATE-NATIONAL-SECURITY-ACT-1947
+      - SRC-FRUS-NATIONAL-SECURITY-ACT-1949
+      - SRC-ODNI-IRTPA-2004
 
   military:
     facts:
@@ -323,6 +335,12 @@ institutional_layers:
       - Marine Corps
       - Joint Chiefs of Staff
       - combatant commands
+    evidence:
+      - SRC-FRUS-NATIONAL-SECURITY-ACT-1949
+      - SRC-STATE-NSC68
+      - SRC-EISENHOWER-FAREWELL-1961
+      - SRC-NAVY-DESERT-SHIELD-STORM
+      - SRC-AUMF-2001
 
   intelligence_and_covert_action:
     facts:
@@ -338,6 +356,12 @@ institutional_layers:
       - Defense intelligence organizations
       - Federal Bureau of Investigation national-security functions
       - Office of the Director of National Intelligence
+    evidence:
+      - SRC-FRUS-INTELLIGENCE-FOUNDING
+      - SRC-CIA-COVERT-DIRECTIVE-1951
+      - SRC-NSA-FOUNDING-1952
+      - SRC-SENATE-CHURCH-COMMITTEE
+      - SRC-ODNI-IRTPA-2004
 
   nuclear_scientific_and_strategic:
     facts:
@@ -353,6 +377,11 @@ institutional_layers:
       - national laboratories
       - RAND Corporation
       - military research organizations
+    evidence:
+      - SRC-DOE-AEC-HISTORY
+      - SRC-DOE-MANHATTAN-TO-DOE
+      - SRC-RAND-HISTORY
+      - SRC-EISENHOWER-FAREWELL-1961
 
   industrial_and_contracting:
     facts:
@@ -367,6 +396,9 @@ institutional_layers:
     boundary: >-
       The existence of industrial and contracting ties does not establish that every national-
       security policy was caused by contractor financial interests.
+    evidence:
+      - SRC-EISENHOWER-FAREWELL-1961
+      - SRC-RAND-HISTORY
 
   alliances_and_overseas_architecture:
     facts:
@@ -384,6 +416,10 @@ institutional_layers:
       - other treaty alliances
       - overseas commands and bases
       - military assistance programs
+    evidence:
+      - SRC-NATO-TREATY-1949
+      - SRC-NATO-SHORT-HISTORY
+      - SRC-NAVY-DESERT-SHIELD-STORM
 
   domestic_security_and_oversight:
     facts:
@@ -400,6 +436,13 @@ institutional_layers:
       - Department of Justice
       - Federal Bureau of Investigation
       - Department of Homeland Security
+    evidence:
+      - SRC-SENATE-CHURCH-COMMITTEE
+      - SRC-FISA-1978
+      - SRC-PATRIOT-ACT-2001
+      - SRC-HOMELAND-SECURITY-ACT-2002
+      - SRC-DHS-HISTORY
+      - SRC-DOJ-POST911
 
 connections_to_other_stars:
   STAR-NEOCON-001:
@@ -638,5 +681,46 @@ sources:
     supports:
       - intelligence-law-enforcement information sharing
       - post-9/11 national-security legal changes
+
+  - source_id: SRC-FISA-1978
+    type: PRIMARY_STATUTE
+    title: "Foreign Intelligence Surveillance Act of 1978, Public Law 95-511"
+    publisher: U.S. Government Publishing Office
+    url: https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg1783.pdf
+    supports:
+      - statutory process for specified foreign-intelligence electronic surveillance
+      - creation and designation of judges for foreign-intelligence surveillance orders
+      - congressional oversight provisions
+
+  - source_id: SRC-REAGAN-DEFENSE-1981
+    type: PRIMARY_PRESIDENTIAL_RECORD
+    title: "Address Before a Joint Session of Congress on the Program for Economic Recovery"
+    publisher: Ronald Reagan Presidential Library
+    year: 1981
+    url: https://www.reaganlibrary.gov/archives/speech/address-joint-session-congress-program-economic-recovery-1981
+    supports:
+      - Reagan administration program of increased defense spending
+      - defense buildup framed against Soviet military power
+      - continued pursuit of arms-limitation negotiations alongside military expansion
+
+  - source_id: SRC-NATO-SHORT-HISTORY
+    type: OFFICIAL_INSTITUTIONAL_HISTORY
+    title: "A short history of NATO"
+    publisher: North Atlantic Treaty Organization
+    url: https://www.nato.int/en/about-us/nato-history/a-short-history-of-nato
+    supports:
+      - NATO survival and adaptation after the Cold War
+      - post-Cold War partnerships and enlargement
+      - Balkan operations and transformation of alliance missions
+
+  - source_id: SRC-NAVY-DESERT-SHIELD-STORM
+    type: OFFICIAL_MILITARY_HISTORY
+    title: "Desert Shield/Desert Storm"
+    publisher: Naval History and Heritage Command
+    url: https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/middle-east/shield-storm.html
+    supports:
+      - United States-led coalition operations in the 1990-1991 Gulf War
+      - use of established overseas logistics and regional military relationships
+      - continuing global reach of United States armed forces at the Cold War transition
 
 completeness: PENDING_PROBE
