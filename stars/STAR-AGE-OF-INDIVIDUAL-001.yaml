@@ -579,17 +579,27 @@ connections_to_other_stars:
       Strauss is not reducible to neoconservatism, and neoconservatism is not
       treated as the necessary political result of Strauss's teaching.
 
-pending_connections:
   STAR-US-NATSEC-001:
-    status: RELATED_STAR_MAPPED_OUTSIDE_MAIN
-    relation_to_probe: >-
-      Postwar national-security institutions used propaganda, behavioral science,
-      public opinion research, mass communication, and administrative expertise
-      within a field also shaped by the psychological and political techniques
-      mapped here.
+    relation: >-
+      The postwar national-security architecture became one institutional field
+      in which psychological strategy, covert action, scientific expertise,
+      surveillance, and mass administration operated as permanent governmental
+      capabilities. The present Star maps the longer transformation through which
+      human conduct and inner life became objects of scientific and political
+      technique; STAR-US-NATSEC-001 maps the distinct American institutions that
+      exercised some of those capabilities after World War II.
+    shared_functions_and_techniques:
+      - psychological strategy
+      - scientific and technical expertise
+      - surveillance
+      - classification
+      - mass administration
+      - public persuasion
     boundary: >-
-      The national-security state is institutionally older and broader than this
-      twentieth-century psychological sequence and cannot be derived from it.
+      The national-security state is institutionally older and broader than the
+      twentieth-century psychological sequence mapped here. Neither Star is
+      derived from the other, and an overlap of techniques does not establish a
+      single purpose or unified control.
 
 boundaries:
   - The Star does not treat power as a single agent, substance, or intention moving unchanged through history.
