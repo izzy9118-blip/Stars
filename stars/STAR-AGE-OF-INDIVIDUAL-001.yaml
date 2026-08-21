@@ -1,0 +1,921 @@
+star_id: STAR-AGE-OF-INDIVIDUAL-001
+name: The historical formation of the age of the individual
+status: FACT
+
+fact: >-
+  The contemporary order in which individual feeling, desire, identity, and
+  self-expression became central objects of commerce and politics arose through
+  a series of historically distinguishable transformations rather than from a
+  single doctrine, institution, or moment. In the Mediterranean, European, and
+  Atlantic line mapped here, inherited sacred, household, and civic orders were
+  subjected to philosophical judgment by nature; classical philosophy was
+  confronted by revelation; modern political philosophy reconstructed order
+  around security, natural rights, and the separate individual; modern science
+  joined knowledge to the mastery of nature; autonomy, history, revolution,
+  nihilism, historicism, positivism, and existentialism successively altered the
+  grounds on which human purposes were understood; and twentieth-century
+  psychology, public relations, market research, and electoral technique made
+  inner life increasingly measurable and administrable. By the late twentieth
+  century, institutions could govern not only by repressing or adjusting desire
+  but also by releasing, classifying, and satisfying it, allowing individuals to
+  experience conduct studied and shaped by institutions as an expression of
+  their own freedom. Older forms of authority were not simply abolished: they
+  persisted, collided, and changed institutional form within the newer order.
+
+scope:
+  subject: >-
+    The historical formation of the self-governing and psychologically legible
+    individual, and the changing relations between that individual and older
+    forms of religious, political, economic, scientific, and administrative
+    authority.
+  geography:
+    - ancient Mediterranean
+    - Jewish, Christian, and Islamic philosophical worlds where they enter the mapped line
+    - early modern and modern Europe
+    - twentieth-century United States and United Kingdom
+  period: Prehistoric religious forms through the digital present
+  narrative_companion: narratives/STAR-AGE-OF-INDIVIDUAL-001.md
+  exclusions:
+    - A universal history of every civilization
+    - A complete history of religion, philosophy, psychology, capitalism, or democracy
+    - A claim that every later development was caused by every earlier one
+
+shape:
+  model: BOUNDED_LONGUE_DUREE_GENEALOGY_AND_NETWORK
+  rules:
+    - Chronological succession does not by itself establish causal descent.
+    - A transformation may preserve, displace, appropriate, or coexist with an older form.
+    - Intellectual teaching, institutional practice, popular reception, and later use are distinct relations.
+    - Similar concepts used in different periods are not presumed to have identical meanings.
+    - Power is mapped through identifiable authorities, regimes, laws, institutions, property relations, practices, and techniques; it is not treated as an invisible substance.
+    - Curtis supplies a documented twentieth-century sequence and an interpretive frame; his narration is not treated as independent proof of every causal claim it proposes.
+    - Strauss supplies analytical distinctions and readings of the history of political philosophy; his interpretations are not substituted for the historical existence of the thinkers and institutions he analyzes.
+    - Desire, choice, judgment, and freedom remain distinct relations.
+    - The digital layer extends the mapped process beyond Curtis's 2002 documentary and is not attributed to him.
+    - No thinker, text, institution, or regime exhausts the Star.
+
+claim_policy:
+  documented_fact: >-
+    An event, institution, practice, text, teaching, or relationship directly
+    witnessed by the listed sources.
+  attributed_teaching: >-
+    A proposition assigned to a thinker only as that thinker is presented in a
+    primary text, seminar, or named interpretation.
+  analytical_synthesis: >-
+    A bounded relation drawn across documented facts. It organizes inquiry but
+    does not erase differences between periods or establish inevitability.
+  interpretive_bridge: >-
+    A proposed connection requiring continued testing against independent
+    historical evidence. Such bridges may orient navigation but are not allowed
+    to harden into an unsupported causal law.
+
+historical_spectrum:
+  sacred_cosmic_order:
+    period: Before and alongside the ancient city
+    claim_class: DOCUMENTED_PATTERN_AND_INTERPRETATION
+    facts:
+      - Religious worlds surveyed by Eliade organized human life through sacred places, sacred times, origin myths, rites, divine or ancestral acts, and distinctions between sacred and profane.
+      - These forms located birth, sexuality, subsistence, kingship, suffering, and death within an order represented as preceding any individual will.
+      - Authority in this setting concerned what was real, where human beings belonged, and which acts renewed or violated the order of the world.
+    boundary: >-
+      This stage records recurring forms in Eliade's history of religious ideas;
+      it is not a claim that all early religions were identical or that a single
+      institution ruled every early society.
+    evidence:
+      - SRC-ELIADE-HISTORY-RELIGIOUS-IDEAS-V1
+
+  household_ancestral_order:
+    period: Archaic Greek and Roman worlds as reconstructed by Fustel de Coulanges
+    claim_class: DOCUMENTED_RECONSTRUCTION
+    facts:
+      - Household worship joined the dead, the hearth, kinship, marriage, inheritance, adoption, property, and paternal authority.
+      - The family's continuity depended upon rites transmitted through generations and attached to a household and its land.
+      - Law in this reconstruction emerged from religious distinctions and obligations before it appeared as an agreement among naturally separate individuals.
+    people:
+      - household head
+      - heir
+      - ancestor
+    institutions:
+      - domestic cult
+      - hearth
+      - tomb
+      - inheritance
+      - household property
+    boundary: >-
+      Fustel's reconstruction is a governing source for this layer but is not
+      treated as an uncontested or universal account of every ancient household.
+    evidence:
+      - SRC-FUSTEL-ANCIENT-CITY
+
+  polis_and_regime:
+    period: Ancient Greek city and classical political life
+    claim_class: DOCUMENTED_INSTITUTIONAL_FORM
+    facts:
+      - The polis joined territory, worship, law, citizenship, education, military obligation, office, and a publicly authoritative way of life.
+      - Conflicts among kings, aristocratic families, magistrates, assemblies, and popular classes concerned who ruled, under what claim, and toward which end.
+      - A regime was more than a written constitution: it joined rulers, institutions, laws, education, honored human types, and a conception of the good.
+      - Citizenship formed persons as members of a political whole rather than merely protecting pre-political private selves.
+    institutions:
+      - polis
+      - civic cult
+      - assembly
+      - magistracy
+      - law
+      - civic education
+    evidence:
+      - SRC-FUSTEL-ANCIENT-CITY
+      - SRC-STRAUSS-CITY-AND-MAN
+      - SRC-STRAUSS-ARISTOTLE-POLITICS-1967
+      - SRC-STRAUSS-INTRO-POLITICAL-PHILOSOPHY-1965
+
+  discovery_of_nature_and_socratic_turn:
+    period: Classical Greek philosophy
+    claim_class: ATTRIBUTED_PHILOSOPHICAL_TRANSFORMATION
+    facts:
+      - The distinction between nature and convention made ancestral custom available for rational examination.
+      - The traditional account of Socrates says that he brought philosophy down to the city by directing inquiry toward justice, courage, moderation, law, virtue, and the good.
+      - Socratic inquiry began from authoritative opinions, exposed their contradictions, and replaced confident possession with knowledge of the question.
+      - The trial of Socrates disclosed a recurring tension between a city's need for authoritative opinions and philosophy's examination of those opinions by a standard not created by the city.
+    people:
+      - Socrates
+    boundary: >-
+      The phrase that Socrates brought philosophy down to the city is preserved
+      as the traditional account, not asserted as a literal first beginning of
+      every philosophical reflection on human affairs.
+    evidence:
+      - SRC-STRAUSS-ORIGINS-1960
+      - SRC-STRAUSS-PROBLEM-SOCRATES
+      - SRC-STRAUSS-CITY-AND-MAN
+      - SRC-STRAUSS-INTRO-POLITICAL-PHILOSOPHY-1965
+
+  plato_aristotle_and_cicero:
+    period: Classical and Roman political philosophy
+    claim_class: ATTRIBUTED_TEACHINGS
+    facts:
+      - Plato's dialogues relate argument to character, circumstance, action, and the limits of political communication.
+      - The Republic connects regimes to corresponding orders of the soul and shows political orders educating characteristic human types and desires.
+      - The best city in speech supplies a standard for judging actual cities while displaying the improbability and limits of uniting philosophy with political rule.
+      - Aristotle treats the polis as natural because it completes capacities for speech, judgment, and action concerning justice and the good.
+      - Aristotle distinguishes correct regimes ordered to a common good from deviant regimes ordered primarily to the rulers' advantage, while judging practicability through circumstance and political prudence.
+      - Cicero carries Greek political philosophy into Roman law and statesmanship by presenting natural right as a rational standard above enacted law and political prudence as action within imperfect circumstances.
+    people:
+      - Plato
+      - Aristotle
+      - Cicero
+    evidence:
+      - SRC-STRAUSS-CITY-AND-MAN
+      - SRC-STRAUSS-ARISTOTLE-POLITICS-1967
+      - SRC-STRAUSS-ARISTOTLE-ETHICS-1968
+      - SRC-STRAUSS-CICERO-1959
+
+  revelation_and_divine_law:
+    period: Medieval Jewish, Christian, and Islamic philosophical worlds
+    claim_class: ATTRIBUTED_THEOLOGICAL_POLITICAL_TRANSFORMATION
+    facts:
+      - Biblical revelation confronted the city and philosophy with a law claiming divine rather than civic or merely rational authority.
+      - The resulting conflict concerned not only church and state but whether the highest life was grounded in obedient faith or autonomous inquiry.
+      - In Strauss's treatment of Maimonides, philosophical writing had to address different readers and protect both political law and philosophic inquiry through careful modes of presentation.
+      - The theological-political problem became a lasting question about the relation among revelation, philosophy, law, and political authority.
+    people:
+      - Maimonides
+    boundary: >-
+      This layer maps the revelation-philosophy problem relevant to the later
+      sequence; it is not a complete history of Judaism, Christianity, Islam, or
+      medieval political institutions.
+    evidence:
+      - SRC-STRAUSS-MAIMONIDES
+      - SRC-STRAUSS-SPINOZA-CRITIQUE-RELIGION
+      - SRC-STRAUSS-ORIGINS-1960
+
+  modern_project_machiavelli_bacon_descartes:
+    period: Sixteenth and seventeenth centuries
+    claim_class: ATTRIBUTED_TEACHINGS_AND_SYNTHESIS
+    facts:
+      - Machiavelli lowered the immediate standard of political action from the best regime and classical virtue toward effectual truth, necessity, acquisition, founding, and preservation under adverse conditions.
+      - The modern scientific project associated with Bacon redirected knowledge toward invention, relief of the human condition, and the enlargement of human power over natural processes.
+      - Descartes's method made radical doubt and the certainty of the thinking subject a point of departure for reconstructing knowledge.
+      - Nature was increasingly represented as measurable process rather than an intrinsically purposive whole whose ends governed human action.
+      - The joining of method to prediction and intervention made knowledge operational: to know a process increasingly meant to acquire a capacity to reproduce, redirect, or overcome it.
+    people:
+      - Niccolo Machiavelli
+      - Francis Bacon
+      - Rene Descartes
+    boundary: >-
+      The three projects are related but not identical. The map does not reduce
+      early modern science to Machiavelli's politics or claim that every modern
+      scientist shared one political intention.
+    evidence:
+      - SRC-STRAUSS-THOUGHTS-MACHIAVELLI-1958
+      - SRC-STRAUSS-NATURAL-RIGHT-1962
+      - SRC-STRAUSS-BASIC-PRINCIPLES-1961
+      - SRC-STRAUSS-INTRO-POLITICAL-PHILOSOPHY-1965
+
+  sovereignty_natural_right_and_the_separate_individual:
+    period: Seventeenth and eighteenth centuries
+    claim_class: ATTRIBUTED_TEACHINGS_AND_INSTITUTIONAL_TRANSFORMATION
+    facts:
+      - Grotius articulated natural law in a form intended to remain intelligible across confessional division and to regulate relations among states and persons.
+      - Hobbes reconstructed political order from fear of violent death, self-preservation, authorization, and the consent of naturally separate individuals.
+      - In Hobbes, natural right precedes civil society, while enforceable law and stable obligation require a sovereign power capable of ending the condition of mutual insecurity.
+      - Spinoza's critique of revealed religion separated philosophy from theological authority and joined freedom of thought to a political order able to contain religious conflict.
+      - Locke connected natural rights to life, liberty, property, consent, limited government, and a right of resistance.
+      - Across these differences, the individual increasingly appeared as the bearer of rights prior to the particular political society that protected them.
+    people:
+      - Hugo Grotius
+      - Thomas Hobbes
+      - Baruch Spinoza
+      - John Locke
+    institutions:
+      - sovereign state
+      - natural right
+      - contract
+      - property
+      - toleration
+    boundary: >-
+      Natural right did not acquire one uncontested meaning. The positions of
+      Grotius, Hobbes, Spinoza, and Locke remain distinct and may not be collapsed
+      into a single liberal doctrine.
+    evidence:
+      - SRC-STRAUSS-GROTIUS-1964
+      - SRC-STRAUSS-HOBBES-1964
+      - SRC-STRAUSS-SPINOZA-CRITIQUE-RELIGION
+      - SRC-STRAUSS-NATURAL-RIGHT-1962
+
+  autonomy_history_and_revolution:
+    period: Eighteenth and nineteenth centuries
+    claim_class: ATTRIBUTED_TEACHINGS_AND_SYNTHESIS
+    facts:
+      - Rousseau exposed dependence, inequality, amour-propre, and artificial desire within commercial society and placed legitimate authority in a general will through which citizens would obey laws they prescribed to themselves.
+      - Kant located freedom in rational autonomy: the capacity of a rational being to give itself a universal moral law rather than being ruled by inclination.
+      - Hegel located freedom within historical institutions of recognition, law, civil society, and the state rather than in an isolated will outside history.
+      - Marx transformed the historical account of freedom into a critique of class society, private property, alienated labor, ideology, and the material organization of production.
+      - The promise of liberation thus moved through different accounts of self-legislation, recognition, historical development, and revolutionary transformation.
+    people:
+      - Jean-Jacques Rousseau
+      - Immanuel Kant
+      - G. W. F. Hegel
+      - Karl Marx
+    boundary: >-
+      Rousseau, Kant, Hegel, and Marx do not teach one continuous doctrine. Their
+      sequence records successive transformations in the location and meaning of
+      freedom, not a proof that one position mechanically caused the next.
+    evidence:
+      - SRC-STRAUSS-ROUSSEAU-1962
+      - SRC-STRAUSS-KANT-1967
+      - SRC-STRAUSS-HEGEL-1965
+      - SRC-STRAUSS-MARX-1960
+      - SRC-STRAUSS-NATURAL-RIGHT-1962
+
+  nietzsche_historicism_positivism_and_existentialism:
+    period: Late nineteenth and twentieth centuries
+    claim_class: ATTRIBUTED_TEACHINGS_AND_INTELLECTUAL_HISTORY
+    facts:
+      - Nietzsche diagnosed the collapse of inherited standards as nihilism and interpreted values as human creations bound to rank, will, perspective, and the problem of future legislation.
+      - Historicism denied that standards could be understood apart from the historical horizons in which they arose.
+      - Positivism restricted valid knowledge toward empirically observable and scientifically testable relations while excluding final ends from scientific determination.
+      - Existentialism began, in Strauss's formulation, where positivism left off: scientific explanation could describe conditions of conduct but could not supply the fundamental choice of an end.
+      - Existentialism affirmed decision, responsibility, authenticity, and self-creation in a world whose ends could no longer be secured by inherited nature, revelation, or progressive history.
+      - Strauss treated existentialism as a serious response to relativism while arguing that its preference for authenticity already relied upon a judgment it could not ground through groundless choice alone.
+    people:
+      - Friedrich Nietzsche
+      - Edmund Husserl
+      - Martin Heidegger
+    boundary: >-
+      Psychology did not simply turn into existentialism. Positivistic explanation
+      and existential self-creation formed distinct intellectual lines that later
+      crossed in institutions and popular practices.
+    evidence:
+      - SRC-STRAUSS-NIETZSCHE-BGE-1971
+      - SRC-STRAUSS-NIETZSCHE-ZARATHUSTRA
+      - SRC-STRAUSS-HISTORICISM-RELATIVISM-1956
+      - SRC-STRAUSS-RELATIVISM
+      - SRC-STRAUSS-PHILOSOPHY-RIGOROUS-SCIENCE
+      - SRC-STRAUSS-EXISTENTIALISM
+      - SRC-STRAUSS-GERMAN-NIHILISM
+
+  straussian_reopening_of_the_socratic_question:
+    period: Twentieth century
+    claim_class: ATTRIBUTED_INTERPRETIVE_PROJECT
+    facts:
+      - Strauss returned to Socratic political philosophy to reopen questions of the good, justice, nature, and the best way of life against the claim that all standards were historically enclosed.
+      - His critique identified a self-referential problem in historicism when the universal historical limitation of truth was itself asserted as a transhistorically valid truth.
+      - His critique of positivism distinguished scientific explanation of means and causes from rational judgment of ends.
+      - His treatment of psychology resisted reducing rational judgment to subrational drives and preserved a distinction between desiring something and choosing or approving it.
+      - The return to Socrates did not claim guaranteed possession of final answers; it defended rational inquiry into permanent questions against their premature closure.
+    people:
+      - Leo Strauss
+      - Socrates
+    boundary: >-
+      This layer records Strauss's project and distinctions. It does not make
+      Strauss the hidden cause of later political movements or treat every later
+      appropriation of his work as faithful to his teaching.
+    evidence:
+      - SRC-STRAUSS-PROBLEM-SOCRATES
+      - SRC-STRAUSS-RELATIVISM
+      - SRC-STRAUSS-PHILOSOPHY-RIGOROUS-SCIENCE
+      - SRC-STRAUSS-EXISTENTIALISM
+      - SRC-STRAUSS-NATURAL-RIGHT-1962
+      - SRC-STRAUSS-CITY-AND-MAN
+
+  psychoanalysis_and_mass_management:
+    period: Late nineteenth century through the interwar twentieth century
+    claim_class: DOCUMENTED_INTELLECTUAL_AND_INSTITUTIONAL_HISTORY
+    facts:
+      - Freud described conscious reason as limited by unconscious conflict, repression, fantasy, sexuality, aggression, and inherited psychic structures.
+      - Freud regarded civilization as requiring restraints upon drives whose unrestricted expression could threaten durable cooperation.
+      - Edward Bernays applied psychological ideas to public relations by associating goods and public images with unconscious wishes, identity, status, and emotional attachment.
+      - These techniques contributed to a model of mass democracy in which institutions sought to stabilize populations by organizing desires rather than relying only upon rational persuasion or direct command.
+    people:
+      - Sigmund Freud
+      - Edward Bernays
+    institutions:
+      - psychoanalysis
+      - public relations
+      - advertising
+      - corporation
+      - mass media
+    boundary: >-
+      Nietzsche's influence forms part of the background to depth psychology, but
+      Freud's psychology is not reduced to Nietzsche's philosophy and its
+      institutional history remains distinct.
+    evidence:
+      - SRC-CURTIS-CENTURY-SELF-2002
+      - SRC-CURTIS-CENTURY-SELF-TRANSCRIPT
+      - SRC-STRAUSS-PHILOSOPHY-RIGOROUS-SCIENCE
+
+  adjustment_repression_and_revolt:
+    period: Mid-twentieth century
+    claim_class: DOCUMENTED_INTELLECTUAL_AND_INSTITUTIONAL_HISTORY
+    facts:
+      - Ego psychology and postwar therapeutic practice often emphasized a stronger ego capable of managing impulse and adapting to social reality.
+      - Psychological expertise entered family life, education, personnel management, government, and consumer research as a means of producing stable and cooperative personalities.
+      - Critics of adjustment argued that conformity reproduced the needs of corporations, bureaucracies, and established social authority.
+      - Wilhelm Reich and later liberation movements reversed the valuation of repression by treating release of the inner self as a path toward emancipation from authoritarian society.
+      - When collective political revolt met institutional resistance and fragmentation, important parts of the counterculture redirected political hope inward toward personal transformation.
+    people:
+      - Anna Freud
+      - Wilhelm Reich
+      - Herbert Marcuse
+    institutions:
+      - therapy
+      - education
+      - personnel management
+      - counterculture
+      - New Left
+    evidence:
+      - SRC-CURTIS-CENTURY-SELF-2002
+      - SRC-CURTIS-CENTURY-SELF-TRANSCRIPT
+
+  human_potential_and_self_creation:
+    period: 1960s and 1970s
+    claim_class: DOCUMENTED_CULTURAL_AND_INSTITUTIONAL_HISTORY
+    facts:
+      - The human-potential movement developed practices intended to free an authentic or unrealized self from inherited social roles and internal restraints.
+      - Esalen became an institutional center for encounter groups, therapeutic experiment, bodily practice, and personal transformation.
+      - EST joined confrontational training to the proposition that the individual was responsible for the meaning of experience and could create a self rather than discover a fixed one.
+      - Curtis presents Werner Erhard's formulation as a popular endpoint of existential self-creation, not as a direct continuation of academic existential philosophy.
+    people:
+      - Abraham Maslow
+      - Fritz Perls
+      - Werner Erhard
+    institutions:
+      - Esalen Institute
+      - encounter group
+      - EST
+      - human-potential movement
+    boundary: >-
+      Similar language does not establish that EST faithfully represented
+      Nietzsche, Heidegger, Sartre, or Strauss. The relation is one of cultural
+      reception and institutional convergence, not doctrinal identity.
+    evidence:
+      - SRC-CURTIS-CENTURY-SELF-2002
+      - SRC-CURTIS-CENTURY-SELF-TRANSCRIPT
+      - SRC-STRAUSS-EXISTENTIALISM
+
+  measured_lifestyles_and_the_market_of_identity:
+    period: 1970s through the late twentieth century
+    claim_class: DOCUMENTED_INSTITUTIONAL_HISTORY
+    facts:
+      - Stanford Research Institute's Values and Lifestyles program used questionnaires and psychological categories to segment consumers by values, aspirations, and forms of self-expression.
+      - Market researchers converted anti-conformity, authenticity, spirituality, sexuality, ecological concern, rebellion, and personal growth into differentiated consumer profiles.
+      - Flexible production and proliferating product varieties allowed firms to sell goods as instruments of identity rather than only as answers to stable material needs.
+      - Individuals could experience consumption as self-creation while organizations treated their choices as predictable expressions of a lifestyle group.
+      - Positivistic measurement and existential language crossed institutionally: one described a self creating meaning, while the other translated its expressions into data.
+    institutions:
+      - Stanford Research Institute
+      - Values and Lifestyles program
+      - market research
+      - segmented production
+      - advertising
+    evidence:
+      - SRC-CURTIS-CENTURY-SELF-2002
+      - SRC-CURTIS-CENTURY-SELF-TRANSCRIPT
+
+  consumer_democracy:
+    period: 1980s through the early twenty-first century
+    claim_class: DOCUMENTED_POLITICAL_AND_INSTITUTIONAL_HISTORY
+    facts:
+      - Reagan and Thatcher linked political freedom to market choice, private initiative, and reduced collective direction by the state.
+      - Clinton's Democrats and New Labour adopted focus groups, lifestyle research, and psychological segmentation to reach voters no longer understood primarily through class or durable collective identity.
+      - Political organizations increasingly treated fears, aspirations, frustrations, and private wants as demands to be discovered, reflected, and satisfied.
+      - This made politics more responsive to expressed preferences without transferring control of major institutions to the people whose preferences were measured.
+      - The citizen was increasingly addressed as a political consumer, while collective judgment about common ends became harder to sustain.
+    people:
+      - Ronald Reagan
+      - Margaret Thatcher
+      - Bill Clinton
+      - Tony Blair
+    institutions:
+      - focus group
+      - political consultancy
+      - lifestyle segmentation
+      - permanent campaign
+    boundary: >-
+      Responsiveness, manipulation, democratic participation, and institutional
+      control are distinct relations. The use of market techniques does not prove
+      that every voter preference was manufactured or that elections ceased to
+      matter.
+    evidence:
+      - SRC-CURTIS-CENTURY-SELF-2002
+      - SRC-CURTIS-CENTURY-SELF-TRANSCRIPT
+
+  digital_extension:
+    period: Twenty-first century
+    claim_class: ANALYTICAL_EXTENSION_REQUIRING_CONTINUED_PROBE
+    facts:
+      - Digitally mediated activity produces continuous behavioral records from searches, attention, purchases, movement, communication, and social relations.
+      - Organizations can use those records to segment people, predict conduct, test responses, personalize environments, and alter subsequent behavior.
+      - Personalization can appear to users as an environment produced by their own choices while the system observes and modifies the conditions under which later choices are made.
+      - The digital system enlarges the scale and speed at which the measured self and the self-creating individual can be joined institutionally.
+    institutions:
+      - digital platform
+      - behavioral advertising system
+      - recommender system
+      - data broker
+      - computational political campaign
+    boundary: >-
+      This is a post-Curtis extension of the mapped structure, not part of the
+      historical endpoint narrated in The Century of the Self. Specific platform
+      claims require their own sources and may become separate Stars.
+    evidence:
+      - SRC-CURTIS-CANT-GET-YOU-OUT-2021
+
+crossing_lines:
+  positivistic_explanation:
+    proposition: >-
+      Human conduct can be treated as an object produced by observable causes,
+      classified through repeatable methods, and predicted with varying degrees
+      of success.
+    strength: It creates operational knowledge of patterns and means.
+    limit: It cannot by its own method determine the human end for which that knowledge should be used.
+
+  existential_self_creation:
+    proposition: >-
+      The individual is not exhausted by causal description and may understand
+      himself as responsible for choosing, creating, or affirming meaning.
+    strength: It preserves responsibility and the experience of freedom against reduction to mechanism.
+    limit: Choice alone cannot establish why one commitment is just, good, or worthy rather than another.
+
+  institutional_convergence:
+    proposition: >-
+      Modern institutions can invite individuals to experience themselves as
+      creators of meaning while measuring the expressions of that creation as
+      preferences, lifestyles, probabilities, and administrable signals.
+    result: >-
+      Liberation and classification cease to be simple opposites. The release of
+      desire can enlarge both individual options and institutional capacities to
+      organize conduct.
+    evidence:
+      - SRC-CURTIS-CENTURY-SELF-2002
+      - SRC-STRAUSS-EXISTENTIALISM
+      - SRC-STRAUSS-PHILOSOPHY-RIGOROUS-SCIENCE
+
+forms_of_authority:
+  - form: sacred authority
+    principal_relations:
+      - myth
+      - rite
+      - sacred place and time
+      - divine and ancestral order
+  - form: household authority
+    principal_relations:
+      - kinship
+      - paternal rule
+      - inheritance
+      - property
+      - worship of the dead
+  - form: civic and regime authority
+    principal_relations:
+      - citizenship
+      - law
+      - office
+      - education
+      - honored way of life
+  - form: divine law
+    principal_relations:
+      - revelation
+      - obedience
+      - interpretation
+      - theological-political rule
+  - form: sovereign authority
+    principal_relations:
+      - security
+      - authorization
+      - enforceable law
+      - administration
+      - war
+  - form: property and market authority
+    principal_relations:
+      - ownership
+      - contract
+      - production
+      - wage relation
+      - consumption
+  - form: historical and ideological authority
+    principal_relations:
+      - progress
+      - class
+      - emancipation
+      - revolutionary future
+  - form: psychological expertise
+    principal_relations:
+      - diagnosis
+      - therapy
+      - adjustment
+      - liberation
+      - personality classification
+  - form: public-relations and commercial authority
+    principal_relations:
+      - image
+      - emotional association
+      - market segmentation
+      - lifestyle
+      - managed choice
+  - form: data-mediated authority
+    principal_relations:
+      - observation
+      - prediction
+      - experimentation
+      - personalization
+      - behavioral modification
+
+connections_to_other_stars:
+  STAR-NEOCON-001:
+    relation: >-
+      Leo Strauss's recovery of classical political philosophy became one of
+      several intellectual influences carried by people and institutions later
+      associated with American neoconservatism. The present Star maps Strauss's
+      place within a much longer history of nature, right, historicism, nihilism,
+      and the modern individual; STAR-NEOCON-001 maps the separate historical
+      movement in which some of those ideas were received, transformed, combined
+      with other streams, and applied politically.
+    shared_people_and_nodes:
+      - Leo Strauss
+      - classical political philosophy
+      - natural right
+      - critique of relativism
+      - modernity
+    boundary: >-
+      Strauss is not reducible to neoconservatism, and neoconservatism is not
+      treated as the necessary political result of Strauss's teaching.
+
+  STAR-US-NATSEC-001:
+    relation: >-
+      The postwar national-security architecture became one institutional field
+      in which psychological strategy, covert action, scientific expertise,
+      surveillance, and mass administration operated as permanent governmental
+      capabilities. The present Star maps the longer transformation through which
+      human conduct and inner life became objects of scientific and political
+      technique; STAR-US-NATSEC-001 maps the distinct American institutions that
+      exercised some of those capabilities after World War II.
+    shared_functions_and_techniques:
+      - psychological strategy
+      - scientific and technical expertise
+      - surveillance
+      - classification
+      - mass administration
+      - public persuasion
+    boundary: >-
+      The national-security state is institutionally older and broader than the
+      twentieth-century psychological sequence mapped here. Neither Star is
+      derived from the other, and an overlap of techniques does not establish a
+      single purpose or unified control.
+
+boundaries:
+  - The Star does not treat power as a single agent, substance, or intention moving unchanged through history.
+  - The Star does not claim that sacred order inevitably produced the digital platform.
+  - The Star does not claim that later forms wholly replaced earlier religious, household, civic, legal, or sovereign forms.
+  - The Star is a bounded Mediterranean-European-Atlantic genealogy, not a universal ranking of civilizations.
+  - Fustel, Eliade, Strauss, and Curtis remain identifiable interpreters whose frameworks must not be mistaken for unmediated total history.
+  - Documentary narration and archival montage establish a source record and historical sequence but do not independently prove every broad causal interpretation.
+  - The existence of psychological or market influence does not prove that individual desires are unreal, wholly fabricated, or never freely affirmed.
+  - The capacity to predict conduct does not establish complete control over persons.
+  - The use of consumer research in politics does not erase elections, law, political conflict, or institutional differences.
+  - Strauss's criticism of reductive psychology does not entail denial of unconscious motivation, bodily influence, or empirical psychological findings.
+  - Existentialism is not treated as a stage produced by positivistic psychology; the two lines remain analytically distinct.
+  - The digital extension requires additional institution-specific Stars and sources before claims about particular platforms can be fixed as canonical fact.
+
+navigational_questions:
+  - Which older forms of authority remain active inside a later regime, and in what altered institutional form?
+  - When does an appeal to individual freedom transfer effective control, and when does it only personalize the options offered by existing institutions?
+  - Which institutions possess the power to classify desires, define alternatives, and act on the resulting knowledge?
+  - How does a regime educate the characteristic human type it publicly honors?
+  - Where do causal explanation and judgment of ends become confused?
+  - Which connections are documented transmissions, which are parallel responses to a shared problem, and which are only retrospective resemblance?
+  - What collective capacities are lost when the citizen is addressed primarily as a consumer?
+  - What standards remain available for judging desires after nature, revelation, and historical progress have lost public authority?
+
+sources:
+  - source_id: SRC-ELIADE-HISTORY-RELIGIOUS-IDEAS-V1
+    type: SCHOLARLY_BOOK
+    author: Mircea Eliade
+    title: "A History of Religious Ideas, Volume 1: From the Stone Age to the Eleusinian Mysteries"
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - sacred_cosmic_order
+
+  - source_id: SRC-FUSTEL-ANCIENT-CITY
+    type: HISTORICAL_STUDY
+    author: Numa Denis Fustel de Coulanges
+    title: The Ancient City
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - household_ancestral_order
+      - polis_and_regime
+
+  - source_id: SRC-STRAUSS-ORIGINS-1960
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Origins of Political Philosophy
+    year: 1960
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - discovery_of_nature_and_socratic_turn
+      - revelation_and_divine_law
+
+  - source_id: SRC-STRAUSS-INTRO-POLITICAL-PHILOSOPHY-1965
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Introduction to Political Philosophy
+    year: 1965
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - polis_and_regime
+      - discovery_of_nature_and_socratic_turn
+      - modern_project_machiavelli_bacon_descartes
+
+  - source_id: SRC-STRAUSS-CITY-AND-MAN
+    type: BOOK
+    author: Leo Strauss
+    title: The City and Man
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - polis_and_regime
+      - discovery_of_nature_and_socratic_turn
+      - plato_aristotle_and_cicero
+      - straussian_reopening_of_the_socratic_question
+
+  - source_id: SRC-STRAUSS-PROBLEM-SOCRATES
+    type: ESSAY_OR_LECTURE
+    author: Leo Strauss
+    title: The Problem of Socrates
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - discovery_of_nature_and_socratic_turn
+      - straussian_reopening_of_the_socratic_question
+
+  - source_id: SRC-STRAUSS-ARISTOTLE-POLITICS-1967
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Aristotle's Politics
+    year: 1967
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - polis_and_regime
+      - plato_aristotle_and_cicero
+
+  - source_id: SRC-STRAUSS-ARISTOTLE-ETHICS-1968
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Aristotle's Nicomachean Ethics
+    year: 1968
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - plato_aristotle_and_cicero
+
+  - source_id: SRC-STRAUSS-CICERO-1959
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Cicero
+    year: 1959
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - plato_aristotle_and_cicero
+
+  - source_id: SRC-STRAUSS-MAIMONIDES
+    type: COLLECTED_STUDY
+    author: Leo Strauss
+    title: Leo Strauss on Maimonides
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - revelation_and_divine_law
+
+  - source_id: SRC-STRAUSS-SPINOZA-CRITIQUE-RELIGION
+    type: BOOK
+    author: Leo Strauss
+    title: Spinoza's Critique of Religion
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - revelation_and_divine_law
+      - sovereignty_natural_right_and_the_separate_individual
+
+  - source_id: SRC-STRAUSS-THOUGHTS-MACHIAVELLI-1958
+    type: BOOK
+    author: Leo Strauss
+    title: Thoughts on Machiavelli
+    year: 1958
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - modern_project_machiavelli_bacon_descartes
+
+  - source_id: SRC-STRAUSS-BASIC-PRINCIPLES-1961
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Basic Principles of Political Philosophy
+    year: 1961
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - modern_project_machiavelli_bacon_descartes
+
+  - source_id: SRC-STRAUSS-GROTIUS-1964
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Grotius
+    year: 1964
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - sovereignty_natural_right_and_the_separate_individual
+
+  - source_id: SRC-STRAUSS-HOBBES-1964
+    type: SEMINAR_TRANSCRIPT_COLLECTION
+    author: Leo Strauss
+    title: Hobbes
+    year: 1964
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - sovereignty_natural_right_and_the_separate_individual
+
+  - source_id: SRC-STRAUSS-ROUSSEAU-1962
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Rousseau
+    year: 1962
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - autonomy_history_and_revolution
+
+  - source_id: SRC-STRAUSS-KANT-1967
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Kant
+    year: 1967
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - autonomy_history_and_revolution
+
+  - source_id: SRC-STRAUSS-HEGEL-1965
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Hegel
+    year: 1965
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - autonomy_history_and_revolution
+
+  - source_id: SRC-STRAUSS-MARX-1960
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Marx
+    year: 1960
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - autonomy_history_and_revolution
+
+  - source_id: SRC-STRAUSS-NATURAL-RIGHT-1962
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Natural Right
+    year: 1962
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - modern_project_machiavelli_bacon_descartes
+      - sovereignty_natural_right_and_the_separate_individual
+      - autonomy_history_and_revolution
+      - straussian_reopening_of_the_socratic_question
+
+  - source_id: SRC-STRAUSS-NIETZSCHE-BGE-1971
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Nietzsche's Beyond Good and Evil
+    year: 1971
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - nietzsche_historicism_positivism_and_existentialism
+
+  - source_id: SRC-STRAUSS-NIETZSCHE-ZARATHUSTRA
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Nietzsche's Thus Spoke Zarathustra
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - nietzsche_historicism_positivism_and_existentialism
+
+  - source_id: SRC-STRAUSS-HISTORICISM-RELATIVISM-1956
+    type: LECTURE_OR_ESSAY
+    author: Leo Strauss
+    title: Historicism and Modern Relativism
+    year: 1956
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - nietzsche_historicism_positivism_and_existentialism
+
+  - source_id: SRC-STRAUSS-RELATIVISM
+    type: ESSAY_OR_LECTURE
+    author: Leo Strauss
+    title: Relativism
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - nietzsche_historicism_positivism_and_existentialism
+      - straussian_reopening_of_the_socratic_question
+
+  - source_id: SRC-STRAUSS-PHILOSOPHY-RIGOROUS-SCIENCE
+    type: ESSAY
+    author: Leo Strauss
+    title: Philosophy as Rigorous Science and Political Philosophy
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - nietzsche_historicism_positivism_and_existentialism
+      - straussian_reopening_of_the_socratic_question
+      - psychoanalysis_and_mass_management
+      - crossing_lines
+
+  - source_id: SRC-STRAUSS-EXISTENTIALISM
+    type: LECTURE
+    author: Leo Strauss
+    title: Existentialism
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - nietzsche_historicism_positivism_and_existentialism
+      - straussian_reopening_of_the_socratic_question
+      - human_potential_and_self_creation
+      - crossing_lines
+
+  - source_id: SRC-STRAUSS-GERMAN-NIHILISM
+    type: LECTURE
+    author: Leo Strauss
+    title: German Nihilism
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - nietzsche_historicism_positivism_and_existentialism
+
+  - source_id: SRC-CURTIS-CENTURY-SELF-2002
+    type: DOCUMENTARY_PRIMARY_AUDIOVISUAL
+    creator: Adam Curtis
+    title: The Century of the Self
+    year: 2002
+    parts:
+      - Happiness Machines
+      - The Engineering of Consent
+      - There Is a Policeman Inside All Our Heads; He Must Be Destroyed
+      - Eight People Sipping Wine in Kettering
+    witness_status: OWNER_SUPPLIED_LOCAL_VIDEO_FILES
+    supports:
+      - psychoanalysis_and_mass_management
+      - adjustment_repression_and_revolt
+      - human_potential_and_self_creation
+      - measured_lifestyles_and_the_market_of_identity
+      - consumer_democracy
+      - crossing_lines
+
+  - source_id: SRC-CURTIS-CENTURY-SELF-TRANSCRIPT
+    type: DERIVATIVE_TRANSCRIPT
+    creator: Adam Curtis
+    title: Transcript of The Century of the Self
+    url: https://elaineou.com/wp-content/uploads/2022/01/20160219cpy..-Century-of-the-Self-Transcript-4-part-film-series-by-A.Curtis-55p.pdf
+    supports:
+      - verification of spoken sequence
+      - searchable witness for the documentary
+    boundary: The owner-supplied video files control where the transcript and audiovisual work diverge.
+
+  - source_id: SRC-CURTIS-CANT-GET-YOU-OUT-2021
+    type: DOCUMENTARY_PRIMARY_AUDIOVISUAL
+    creator: Adam Curtis
+    title: Can't Get You Out of My Head
+    year: 2021
+    witness_status: OWNER_SUPPLIED_LOCAL_VIDEO_FILE
+    supports:
+      - opening interpretive frame
+      - persistence and transformation of older powers
+      - digital_extension as a lead requiring independent expansion
+
+completeness: PENDING_PROBE
