@@ -31,11 +31,10 @@ movement_definition:
       meaning: >-
         Commitment to the continued existence and security of Israel as a Jewish
         state.
-      classification_rule: >-
-        Zionism is part of the definition of neoconservatism in this Star, not an
-        optional preference or merely a recurring coalition position. A person may
-        share other neoconservative ideas, networks, or policies but is not
-        classified here as a neoconservative without evidence of this commitment.
+      constitutive_role: >-
+        Zionism is a defining commitment of American neoconservatism across its
+        historical transformations, not an optional preference or merely a
+        recurring coalition position.
       evidentiary_boundaries:
         - Jewish identity alone is not evidence of Zionism.
         - >-
@@ -676,9 +675,10 @@ research_provenance:
       texts by leading figures carry that commitment through the movement's first,
       second, and third ages.
     evidentiary_boundary: >-
-      This classification concerns a political commitment. It neither infers
-      Zionism from Jewish identity nor converts policy support into a claim of
-      obedience to an Israeli government.
+      This claim concerns the movement's political commitments. It neither derives
+      those commitments from the Jewish identity of particular figures nor
+      converts support for Israel into a claim of obedience to an Israeli
+      government.
 
 sources:
   - source_id: SRC-HORTON-LOBE-2008-02-01
