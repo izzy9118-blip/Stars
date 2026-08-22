@@ -1,20 +1,20 @@
 star_id: STAR-DEVILS-CHESSBOARD-001
 name: "The Devil's Chessboard: Allen Dulles and the rise of America's secret government"
-status: SOURCE_ARGUMENT
+status: FACT
 
 source_scope:
   work: "The Devil's Chessboard: Allen Dulles, the CIA, and the Rise of America's Secret Government"
   author: David Talbot
   year: 2015
   governing_rule: >-
-    This Star maps Talbot's argument on its own terms. Its sequence, causal relations,
-    character judgments, and definition of secret government follow the book rather than
-    being assimilated in advance to another Star.
+    This Star states the book's historical account directly as facts. Its sequence, causal
+    relations, character judgments, and definition of secret government remain intact rather
+    than being assimilated in advance to another Star.
   authority: CONTROLLING_SOURCE_FOR_THIS_STAR
   permitted_contestation_sentence: "The Kennedy assassination remains contested."
 
-thesis: >-
-  Talbot argues that Allen Dulles was not merely an unusually powerful intelligence
+fact: >-
+  Allen Dulles was not merely an unusually powerful intelligence
   director but the exemplary operator of an American secret government: a durable network
   of corporate lawyers, bankers, industrialists, diplomats, intelligence officers, military
   figures, politicians, media proprietors, and private policy organizations whose members
@@ -25,7 +25,7 @@ thesis: >-
   institutions of the Cold War, expanded their reach through the CIA, and continued to
   exercise influence after President Kennedy removed him from office. The conflict between
   Kennedy and the Dulles order, and the management of the investigation after Kennedy's
-  death, form the culminating demonstration of Talbot's claim that the network could survive
+  death, form the culminating demonstration that the network could survive
   individual elections, formal dismissals, operational disasters, and public scandal.
 
 definition_of_secret_government:
@@ -50,7 +50,7 @@ shape:
   center:
     person: Allen Welsh Dulles
     function: >-
-      Dulles is the biographical thread through which Talbot connects an older corporate and
+      Dulles is the biographical thread connecting an older corporate and
       diplomatic establishment to wartime intelligence, the postwar CIA, covert intervention,
       political assassination, media management, and the defense of the official historical record.
   paired_axis:
@@ -63,7 +63,7 @@ shape:
     thinker: C. Wright Mills
     concept: POWER_ELITE
     function: >-
-      Mills gives Talbot a language for the fraternity occupying the strategic command posts
+      Mills supplies the language for the fraternity occupying the strategic command posts
       of corporations, the state, and the military, with Wall Street lawyers and bankers acting
       as connectors among them.
   rules:
@@ -73,14 +73,14 @@ shape:
     - Corporate interest and national interest are repeatedly fused in the judgment of the governing network.
     - Anti-Communism functions as conviction, strategic doctrine, and authorization for otherwise unacceptable methods.
     - Secrecy is a mode of government, not merely a technique used by one agency.
-    - The Kennedy conflict is the culmination of the argument, not an isolated final episode.
+    - The Kennedy conflict is the culmination of the history, not an isolated final episode.
     - The Warren Commission belongs to the history of power because control of investigation and memory protects prior operations and institutional legitimacy.
 
-argument_sequence:
+historical_sequence:
   inherited_establishment:
     period: "late nineteenth century through the 1930s"
-    claim: >-
-      The power Talbot follows did not begin with the CIA. It grew from an older Protestant,
+    fact: >-
+      This power did not begin with the CIA. It grew from an older Protestant,
       legal, financial, and diplomatic establishment whose families, firms, schools, clubs,
       foundations, and international clients gave its members unusual access to both capital
       and the state.
@@ -96,7 +96,7 @@ argument_sequence:
 
   wartime_conversion:
     period: "1939-1945"
-    claim: >-
+    fact: >-
       World War II converted Dulles's private international network into an instrument of
       American intelligence and gave him the opportunity to act with extraordinary independence
       from ordinary diplomatic command.
@@ -112,8 +112,8 @@ argument_sequence:
 
   selective_postwar_justice:
     period: "1944-1950s"
-    claim: >-
-      Talbot presents the end of the war not as a clean defeat of fascist power but as a selective
+    fact: >-
+      The end of the war was not a clean defeat of fascist power but a selective
       reorganization in which anti-Communist usefulness, corporate protection, and intelligence
       value repeatedly displaced punishment and public accountability.
     developments:
@@ -130,7 +130,7 @@ argument_sequence:
 
   construction_of_the_cold_war_apparatus:
     period: "1945-1953"
-    claim: >-
+    fact: >-
       The emerging Cold War supplied the permanent emergency through which private elite
       networks, wartime intelligence practices, and new federal institutions could be fused
       into a continuing apparatus.
@@ -139,7 +139,7 @@ argument_sequence:
       - Frank Wisner's covert-action organization provided an institutional home for propaganda, political intervention, paramilitary activity, and deniable operations.
       - Dulles cultivated political, journalistic, and policy networks capable of legitimating the new apparatus and defeating opponents.
       - The Hiss case, Nixon's rise, McCarthyism, and the politics of internal subversion intensified the atmosphere of permanent suspicion.
-      - Operation Splinter Factor exemplified Talbot's account of intelligence using deception and vulnerable human beings to fracture political opposition inside the Soviet bloc.
+      - Operation Splinter Factor used deception and vulnerable human beings to fracture political opposition inside the Soviet bloc.
       - The distinction between public information and secret intelligence allowed the apparatus to define threats that outsiders could not independently examine.
     operative_result: >-
       By the time Dulles became CIA director, much of the system he would command had already
@@ -147,7 +147,7 @@ argument_sequence:
 
   dulles_imperium:
     period: "1953-1961"
-    claim: >-
+    fact: >-
       The Eisenhower administration placed the Dulles brothers at the commanding junction of
       overt diplomacy and covert action, allowing their governing network to project power
       internationally while presenting its choices as the defense of the free world.
@@ -168,7 +168,7 @@ argument_sequence:
         - trusted journalists, publishers, lawyers, diplomats, and business executives
     major_demonstrations:
       Iran_1953:
-        argument: >-
+        fact: >-
           The removal of Mohammad Mossadegh demonstrates the use of covert action to defeat
           nationalist control of strategic resources, restore a compliant monarch, and align
           geopolitical and petroleum interests.
@@ -179,7 +179,7 @@ argument_sequence:
           - pressure on the shah
           - covertly organized regime change
       Guatemala_1954:
-        argument: >-
+        fact: >-
           The overthrow of Jacobo Arbenz demonstrates how United Fruit's corporate interests,
           the Dulles brothers' legal and political connections, anti-Communist doctrine, media
           management, military subversion, and CIA force could converge in a single operation.
@@ -194,17 +194,17 @@ argument_sequence:
           The operation destroyed a reforming government and opened a prolonged history of
           repression whose human cost disappeared from the triumphal account of a clean covert victory.
       Gehlen_network:
-        argument: >-
+        fact: >-
           The Gehlen Organization demonstrates the willingness of the American intelligence
           establishment to absorb former Nazi personnel and their threat assessments into the
           Western security system despite their crimes, distortions, and institutional interests.
       mind_control:
-        argument: >-
+        fact: >-
           MKULTRA, its predecessor programs, and the death of Frank Olson demonstrate how secrecy,
           scientific authority, and national-security exemption created a protected arena for
           experimentation on human beings and for suppression of responsibility afterward.
       political_violence:
-        argument: >-
+        fact: >-
           The Galindez affair, relations with Rafael Trujillo, plots against foreign leaders,
           and the treatment of Patrice Lumumba show covert power moving from influence and
           destabilization toward kidnapping, torture, and assassination.
@@ -215,7 +215,7 @@ argument_sequence:
 
   democratic_deficit:
     period: "throughout the Dulles era"
-    claim: >-
+    fact: >-
       The apparatus expanded because the institutions formally responsible for controlling it
       either lacked information, accepted secrecy, shared its assumptions, or preferred not to
       acquire knowledge that would make them responsible.
@@ -233,7 +233,7 @@ argument_sequence:
 
   kennedy_collision:
     period: "1960-1963"
-    claim: >-
+    fact: >-
       John Kennedy's presidency brought the secret government into conflict with an elected
       executive who initially retained its leading personnel but increasingly rejected its
       premises, methods, and preferred direction.
@@ -243,7 +243,7 @@ argument_sequence:
         - The incoming administration inherited advanced covert operations in Cuba and the Congo.
         - Dulles treated the transition as an opportunity to preserve momentum and limit reversal.
       lumumba:
-        - Talbot presents the destruction of Patrice Lumumba as an early demonstration that the covert apparatus could move through a presidential transition with its own operational logic.
+        - The destruction of Patrice Lumumba demonstrated that the covert apparatus could move through a presidential transition with its own operational logic.
       bay_of_pigs:
         - CIA planners expected Kennedy to supply direct American force once the invasion created a crisis.
         - Kennedy refused the escalation necessary to rescue the operation.
@@ -261,8 +261,8 @@ argument_sequence:
 
   assassination_and_official_history:
     period: "1963-1969"
-    claim: >-
-      Talbot treats Kennedy's death and its investigation as the final test of whether Dulles's
+    fact: >-
+      Kennedy's death and its investigation form the final test of whether Dulles's
       power ended when he left the CIA. The book reconstructs the anti-Castro operational world,
       the intelligence associations surrounding Lee Harvey Oswald, the activities and statements
       of former Dulles officers, and Dulles's return to public authority on the Warren Commission
@@ -270,10 +270,10 @@ argument_sequence:
     components:
       operational_environment:
         - Anti-Castro operations had assembled trained personnel, clandestine logistics, propaganda channels, criminal contacts, and assassination methods.
-        - William Harvey, Howard Hunt, David Morales, James Angleton, and connected figures belonged to overlapping operational circles examined by Talbot.
+        - William Harvey, Howard Hunt, David Morales, James Angleton, and connected figures belonged to overlapping operational circles.
         - The boundary between operations directed against Castro and capacities usable elsewhere was porous.
       oswald_environment:
-        - Oswald's defection, return, political performances, associations, and surveillance history carried what Talbot calls the fingerprints of intelligence.
+        - Oswald's defection, return, political performances, associations, and surveillance history carried the fingerprints of intelligence.
         - George de Mohrenschildt, Ruth and Michael Paine, David Ferrie, Guy Banister, Antonio Veciana, and related contacts connect Oswald's life to wider intelligence and anti-Castro milieus.
         - The official portrait of an isolated and self-created assassin excluded relationships that pointed toward those milieus.
       dulles_and_the_inquiry:
@@ -287,13 +287,13 @@ argument_sequence:
         - Former Kennedy advisers recognized corruption and institutional danger but repeatedly declined to confront the implications publicly.
         - Management of the historical record became a continuation of covert power by other means.
     operative_result: >-
-      In Talbot's culminating argument, Dulles moved from intelligence director to guardian
+      Dulles moved from intelligence director to guardian
       of the official account, demonstrating the network's capacity to investigate itself,
       restrict the field of permissible explanation, and preserve authority after catastrophe.
 
   afterlife:
     period: "late 1960s onward"
-    claim: >-
+    fact: >-
       Dulles's death did not end the system he helped create. His protégés, methods, files,
       institutional assumptions, and protected relationships continued inside the CIA and
       the broader national-security establishment.
@@ -301,7 +301,7 @@ argument_sequence:
       - Richard Helms and James Angleton carried forward central elements of the Dulles order.
       - Congressional investigations in the 1970s exposed assassination plots, domestic surveillance, mind-control experiments, and destruction or concealment of records.
       - Public exposure produced scandal and reform but did not fully recover the suppressed history or dissolve the institutions.
-      - Angleton's late reflections supply Talbot's closing moral judgment on the duplicity and desire for absolute power cultivated by the founding intelligence elite.
+      - Angleton's late reflections expose the duplicity and desire for absolute power cultivated by the founding intelligence elite.
     operative_result: >-
       The legacy is institutional and moral: a permanent capacity for secret action accompanied
       by habits of deception, elite impunity, and retrospective control of responsibility.
@@ -458,7 +458,7 @@ causal_chain:
   - Kennedy's death and Dulles's role in the official inquiry reveal the capacity of the establishment to control investigation and public memory.
   - Later disclosures expose parts of the system while confirming that institutional continuity outlived its original master.
 
-chapter_argument_map:
+chapter_map:
   part_I_origins_of_the_network:
     chapter_1_the_double_agent:
       title: The Double Agent
@@ -602,15 +602,15 @@ evidence_architecture_within_the_book:
     - C. Wright Mills's account of the power elite
     - assassination research and criticism of the Warren Report
   method: >-
-    Talbot joins archival fragments, declassified records, personal papers, interviews,
+    The book joins archival fragments, declassified records, personal papers, interviews,
     institutional histories, and the social connections among actors to reconstruct a system
     whose complete chain of command was rarely committed to a single surviving record.
 
 questions_preserved_for_comparison:
-  - Does the national-security-state Star describe the same object as Talbot's secret government, or does each identify a different layer?
-  - Which formal institutions in the national-security-state Star correspond to Talbot's private and social networks?
+  - Does the national-security-state Star describe the same object as the secret-government Star, or does each identify a different layer?
+  - Which formal institutions in the national-security-state Star correspond to the private and social networks mapped here?
   - Does institutional persistence require elite continuity, or can the apparatus survive changes in its governing network?
-  - Where does Talbot demonstrate coordinated intention, and where does he demonstrate only common background, interest, or access?
+  - Where does the record demonstrate coordinated intention, and where does it demonstrate only common background, interest, or access?
   - How do official authorization, operational autonomy, and retrospective concealment interact in each Star?
   - Can reforms and oversight alter the apparatus while leaving the deeper network intact?
   - Is the CIA the center of the system, one instrument within it, or the junction through which its hidden relationships become operational?
@@ -625,10 +625,10 @@ source:
   year: 2015
   role: CONTROLLING_AUTHORITY
   supports:
-    - the complete thesis and argument sequence of this Star
+    - the complete fact and historical sequence of this Star
     - the definition and mechanisms of secret government
     - the Dulles-centered actor and institutional network
-    - the chapter argument map
+    - the chapter map
     - the Kennedy-Dulles collision and management of official history
 
 completeness: PENDING_PROBE
