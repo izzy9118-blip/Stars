@@ -6,11 +6,7 @@ source_scope:
   work: "The Devil's Chessboard: Allen Dulles, the CIA, and the Rise of America's Secret Government"
   author: David Talbot
   year: 2015
-  governing_rule: >-
-    This Star states the book's historical account directly as facts. Its sequence, causal
-    relations, character judgments, and definition of secret government remain intact rather
-    than being assimilated in advance to another Star.
-  authority: CONTROLLING_SOURCE_FOR_THIS_STAR
+  authority: CONTROLLING_SOURCE
   permitted_contestation_sentence: "The Kennedy assassination remains contested."
 
 fact: >-
@@ -606,16 +602,6 @@ evidence_architecture_within_the_book:
     institutional histories, and the social connections among actors to reconstruct a system
     whose complete chain of command was rarely committed to a single surviving record.
 
-questions_preserved_for_comparison:
-  - Does the national-security-state Star describe the same object as the secret-government Star, or does each identify a different layer?
-  - Which formal institutions in the national-security-state Star correspond to the private and social networks mapped here?
-  - Does institutional persistence require elite continuity, or can the apparatus survive changes in its governing network?
-  - Where does the record demonstrate coordinated intention, and where does it demonstrate only common background, interest, or access?
-  - How do official authorization, operational autonomy, and retrospective concealment interact in each Star?
-  - Can reforms and oversight alter the apparatus while leaving the deeper network intact?
-  - Is the CIA the center of the system, one instrument within it, or the junction through which its hidden relationships become operational?
-  - How should the Kennedy-Dulles conflict be positioned within the longer history of the postwar national-security state?
-
 source:
   source_id: SRC-TALBOT-DEVILS-CHESSBOARD-2015
   type: INVESTIGATIVE_HISTORICAL_MONOGRAPH
@@ -625,7 +611,7 @@ source:
   year: 2015
   role: CONTROLLING_AUTHORITY
   supports:
-    - the complete fact and historical sequence of this Star
+    - the complete fact and historical sequence
     - the definition and mechanisms of secret government
     - the Dulles-centered actor and institutional network
     - the chapter map
