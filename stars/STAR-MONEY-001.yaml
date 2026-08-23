@@ -54,32 +54,52 @@ fact: >-
   Pure economics became an exact theory of systemic interdependence, but Walras
   kept the useful direction of production and the just distribution of wealth as
   distinct applied and moral questions that pure equilibrium could not answer.
+  Marshall consolidated the marginal turn into a neoclassical economics of
+  continuity, time, and partial equilibrium. Marginal utility generated demand,
+  while labor, waiting, organization, and the expenses of production generated
+  supply; neither utility nor cost alone governed value, and their relative force
+  changed with the period under examination. The same demand-and-supply
+  framework extended to wages, interest, profit, rent, and the distribution of
+  the national dividend, while representative firms, internal and external
+  economies, substitution, and quasi-rent connected price theory to industrial
+  organization and change. Money then appeared as both a medium of current
+  exchange and a standard of deferred payment whose purchasing power shaped
+  contracts, debts, wages, and real interest. The quantity of currency worked
+  through the amount of ready purchasing power people chose to hold and through
+  the credit instruments that economized cash; banking, joint-stock finance,
+  securities markets, international payments, and cumulative movements of
+  confidence transformed individual exchange into a monetary system capable of
+  expanding prosperity and amplifying crisis across nations.
 
 scope:
   subject: >-
     The intellectual formation of the modern money economy from the classical
     subordination of acquisition to the polis through Locke, Hume, Smith,
-    Ricardo, Marx, and the independent Jevonsian, Mengerian, and Walrasian
-    reconstructions of post-classical marginalism.
+    Ricardo, Marx, the independent Jevonsian, Mengerian, and Walrasian
+    reconstructions of post-classical marginalism, and their Marshallian
+    consolidation into neoclassical economics.
   geography:
     - ancient Greek political philosophy as the comparative baseline
     - seventeenth-century England
     - eighteenth-century Scotland and Great Britain
     - nineteenth-century Britain and continental Europe
-  period: Classical political philosophy through the threefold marginalist opening
+  period: Classical political philosophy through Marshallian neoclassical economics
   narrative_companion: narratives/STAR-MONEY-001.md
   periodization: >-
     Locke and Hume form the pre-classical foundations of the sequence; Smith and
     Ricardo establish classical political economy; Marx is treated as its
     culmination and internal critique; Jevons, Menger, and Walras independently
-    open three distinct constructions of the post-classical marginalist period.
-    This organizing periodization does not require every history of economics to
-    use identical boundaries.
+    open three distinct constructions of the post-classical marginalist period;
+    Marshall consolidates the new analysis into a time-sensitive neoclassical
+    framework of value, distribution, money, credit, commerce, and industrial
+    fluctuation. This organizing periodization does not require every history of
+    economics to use identical boundaries.
   exclusions:
     - A universal history of money in every civilization
     - A complete history of banking, corporations, securities, central banking, or public finance
-    - The institutional development of modern corporate finance after Marx
+    - A complete institutional history of modern corporate finance beyond the organizations analyzed by Marshall
     - Later revisions of Walras and post-Walrasian developments in general equilibrium theory
+    - Continental and later neoclassical branches not represented by the supplied primary texts
     - A claim that intellectual teachings alone caused later economic institutions
 
 shape:
@@ -99,7 +119,11 @@ shape:
     - Walras's technical term rareté means both the condition of usefulness joined to limited quantity and, in its exact marginal use, the intensity of the last want satisfied; it is not reduced to ordinary-language rarity or treated as identical to Menger's terminology.
     - Walras's numéraire, which states relative prices in a common unit, remains distinct from money as the intermediary that decomposes barter into sale and purchase.
     - Walras's division of pure, applied, and social economics remains visible; mathematical equilibrium is not converted into a proof of utility, justice, or political legitimacy.
-    - Later institutional histories of banking, corporate finance, financial markets, and monetary government require their own evidence and subsequent layers.
+    - Marshall's partial-equilibrium method is distinguished from Walras's simultaneous general equilibrium and from a claim that the surrounding forces held constant are actually inert.
+    - Marshall's synthesis of utility and cost is not reduced to the slogan that price is determined by two curves; time, substitution, organization, market structure, and the distinction between prime and supplementary costs remain visible.
+    - Marginal productivity enters Marshall's account as the demand side of factor remuneration and is not treated as a complete theory of distribution apart from the supply, training, bargaining position, institutions, and historical conditions of each agent.
+    - Marshall's cash-balance account of money is distinguished from a mechanically causal reading of the transactions identity; desired holdings, credit substitutes, confidence, and circulation alter the relation between currency and prices.
+    - Later institutional histories of banking, corporate finance, financial markets, and monetary government beyond Marshall's cited treatment require their own evidence and subsequent layers.
 
 claim_policy:
   documented_textual_fact: >-
@@ -107,7 +131,8 @@ claim_policy:
     primary work or seminar transcript.
   attributed_teaching: >-
     A proposition assigned to Locke, Hume, Smith, Ricardo, Marx, Jevons, Menger,
-    Walras, Aristotle, Strauss, or Cropsey only as presented in a named source.
+    Walras, Marshall, Aristotle, Strauss, or Cropsey only as presented in a named
+    source.
   analytical_synthesis: >-
     A bounded relation drawn across teachings to clarify a transformation in the
     place of money and economics within political and social life.
@@ -465,6 +490,131 @@ historical_spectrum:
       - SRC-WALRAS-ELEMENTS-PURE-1874
       - SRC-STRAUSS-CROPSEY-MARX-1960
 
+  marshall_neoclassical_value_time_and_partial_equilibrium:
+    period: The Marshallian consolidation of neoclassical economics
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Economics studies humanity in the ordinary business of life, especially the individual and social action connected with attaining and using the material requisites of wellbeing; it is a study of wealth but more importantly a part of the study of human beings.
+      - Economic laws state tendencies rather than ethical commands, and economic reasoning supplies material that conscience, common sense, and political judgment must use in practical decisions.
+      - Regular altruistic, familial, customary, and ethical motives belong within economic analysis rather than being excluded in favor of a perfectly selfish economic man.
+      - The continuity of economic development makes later theory a supplementation and correction of earlier doctrines rather than a complete break, while the categories used in analysis shade into one another instead of forming rigid natural divisions.
+      - Marginal utility diminishes as a person's stock of a good increases, and the marginal demand price translates that changing utility into the maximum price offered for an additional unit, given the person's resources and the marginal utility of money.
+      - Individual demand schedules aggregate into market demand, elasticity measures the responsiveness of quantity demanded to price, and consumer's surplus represents the excess of willingness to pay over the amount actually paid.
+      - Unequal incomes make the marginal utility of money differ across persons, limiting any inference from market demand or consumer's surplus to a complete measure of social wellbeing.
+      - Supply price includes the money expenses required to call forth labor, waiting, materials, management, and the other factors needed for a given rate of output.
+      - Utility and cost act together in determining value; demand has greater immediate force when existing stocks and plant are fixed, while the expenses of production acquire greater influence as time permits productive capacity to adjust.
+      - Market, short-period normal, and long-period normal values correspond to different adjustment horizons rather than to one timeless equilibrium price.
+      - Partial equilibrium provisionally holds surrounding forces constant so that the demand, supply, and price of a particular commodity can be studied before additional interactions are released.
+      - A representative firm connects normal cost to a business with a fair share of the internal economies of its own organization and the external economies of its industrial district.
+      - Increasing return, diminishing return, substitution, prime cost, supplementary cost, and quasi-rent show how organization, scale, fixed investment, and time alter the shape and meaning of supply.
+      - Statical equilibrium is an instrument for precision and an introduction to the more difficult economic biology of movement, development, and organic growth, not the final form of economic explanation.
+    decisive_relation: >-
+      Marshall turns the marginal revolution into a durable method by joining
+      marginal demand to classical cost through explicitly bounded periods of
+      adjustment: partial equilibrium gains precision by isolating forces, while
+      time and continuity reconnect each result to industrial change.
+    evidence:
+      - SRC-MARSHALL-PRINCIPLES-1930
+
+  marshall_distribution_organization_and_progress:
+    period: The neoclassical extension from commodity value to the national dividend
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - The equilibrium of demand and supply supplies one fundamental framework for the values of commodities, labor, capital services, land services, and business organization, though the practical conditions of each market differ.
+      - The national dividend is both the aggregate net product of the agents of production and the source from which wages, interest, profits, and rents are paid.
+      - The demand price for an agent of production reflects the value of its marginal net product and the possibilities of substituting other agents, but this demand-side condition does not by itself determine the agent's remuneration.
+      - Wages are jointly influenced by marginal productivity and by the expense, time, custom, education, health, and family conditions required to rear, train, and sustain efficient labor.
+      - Labor cannot be treated in practice as an ordinary commodity because a worker has only one unit of labor to sell, urgent need changes the marginal utility of money, and bargaining advantage commonly lies more heavily with employers.
+      - Interest is the price paid for the use of free capital and tends toward the rate at which the demand for new investment meets the supply of saving, while habit, foresight, family affection, security, and income also govern accumulation.
+      - The earnings of capital already sunk in a specialized machine or plant are quasi-rents over shorter periods because their supply cannot then respond as new free capital can.
+      - Profit includes distinct returns to capital, management, organization, knowledge, risk-bearing, and business connection rather than constituting one homogeneous reward.
+      - Land differs from reproducible capital because the national stock of land cannot expand in response to higher earnings, although the services of land and existing capital are both allocated among uses through demand and substitution.
+      - Internal economies arise within an expanding firm, while external economies arise from the collective organization, specialized labor, knowledge, and supporting trades of an industrial district.
+      - Education, health, reduced poverty, and the development of human capacities can enlarge both the efficiency of labor and the national dividend, making the quality of human life an economic cause as well as an end beyond production.
+    decisive_relation: >-
+      Classical class distribution is reorganized as the pricing of differentiated
+      agents within one demand-and-supply system, but Marshall does not reduce
+      their incomes to marginal product alone: factor supply, organization,
+      bargaining, institutions, and time remain co-determinants.
+    evidence:
+      - SRC-MARSHALL-PRINCIPLES-1930
+
+  marshall_money_credit_and_financial_organization:
+    period: The monetary and financial structure of neoclassical economics
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Money and currency have narrower and broader meanings according to the inquiry; generally accepted coin and notes transfer command over purchasing power, while private notes and other claims depend more explicitly upon credit and legal status.
+      - A cheque normally transfers command over cash between bank accounts without transferring currency itself, making bank money a central means of payment while preserving the bank's obligation to pay currency on demand.
+      - Money serves immediate exchange as currency and long contracts as a standard of deferred payment, and violent changes in purchasing power impair both functions while redistributing real burdens between debtors and creditors.
+      - General purchasing power cannot be measured by one invariant commodity; weighted index numbers approximate its movement, but different consumption patterns cause the same price changes to affect social classes differently.
+      - People balance the convenience and bargaining power of ready purchasing power against the income or use sacrificed by holding resources in currency rather than commodities, productive assets, or securities.
+      - The aggregate value of currency therefore tends toward the amount of ready purchasing power that people choose to hold in relation to their income, property, occupations, payment habits, and access to banking.
+      - The identity relating currency, its circulation, and the value of transactions does not by itself explain causation; desired holdings, the circulation of goods, cheques, bills, and the state of credit govern how much work a given currency performs.
+      - Credit and clearing reduce the currency needed at a given purchasing power during confidence, while distrust increases demands for currency and can abruptly contract the effective means of payment.
+      - In the money market the value of money means the rate of discount or short-period interest paid for present command over money relative to a secured future payment.
+      - Changes in the price level alter the real rate of interest even when the contracted money rate is unchanged, so inflation and deflation change the real burden of loans, fixed wages, salaries, mortgages, and debentures.
+      - Joint-stock companies, debentures, banks, the Bank of England, stock exchanges, and internationally traded securities organize the transfer, pricing, and supervision of capital at scales beyond personal lending.
+    decisive_relation: >-
+      Money becomes a chosen stock of ready purchasing power embedded in a layered
+      credit system: currency, bank deposits, cheques, bills, securities, and
+      interest rates jointly determine how purchasing power is held, transferred,
+      contracted through time, and exposed to changes in confidence and prices.
+    evidence:
+      - SRC-MARSHALL-MONEY-CREDIT-COMMERCE-1929
+
+  marshall_international_commerce_and_credit_cycle:
+    period: International interdependence and industrial fluctuation
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Domestic value theory assumes comparatively mobile labor and capital within a country, while international trade requires separate analysis because those agents move less freely across political boundaries.
+      - The terms of trade depend upon the reciprocal volume and elasticity of national demands, and the incidence of an import or export duty varies with the responsiveness and productive conditions of the countries and goods concerned.
+      - A merchandise balance does not measure a country's complete international position because shipping services, insurance, interest, profits, capital exports, and other claims also generate payments and receipts.
+      - Foreign exchange, discount rates, transfers of securities, and movements of gold connect national money markets and allow multilateral claims to be settled through third and further markets.
+      - An improvement of confidence expands bank book credits, bills, new enterprises, orders, employment, wages, profits, speculative purchases, and prices, each increase reinforcing the next.
+      - As borrowed commitments and unfinished investments multiply, the demand for further loans rises, lenders become cautious, interest rates increase, and the refusal to renew credit forces the sale of goods and securities.
+      - Falling prices weaken collateral and confidence; solvent businesses can fail when liquid obligations mature before their assets can be realized, so distrust, failure, and panic become cumulative as confidence had been.
+      - The immediate failure that precipitates a crisis is not necessarily its underlying cause, which lies in the volume of credit resting on slender foundations after the expansion.
+      - Telegraphy, integrated securities markets, multinational banking, and mobile financial claims widen the area of fluctuations and increasingly transmit credit conditions across national borders.
+      - Monetary instability amplifies the cycle because rising prices reduce the real burden of debt during expansion, while falling prices increase it during contraction and transfer real command from traders to creditors.
+      - Wider information, prudent banking, central-bank influence over discount, provision for liquidity, and contracts indexed to general purchasing power can moderate instability, but no mechanical device abolishes uncertainty or changes human nature at once.
+      - Commercial fluctuation is therefore not external to neoclassical order; it arises from the cumulative interaction of expectations, credit, prices, fixed commitments, financial institutions, and international settlement.
+    decisive_relation: >-
+      The price system operates through a credit system whose movements are
+      cumulative rather than self-correcting at every moment: confidence can
+      mobilize capital and employment, then turn through leverage, illiquidity,
+      falling prices, and internationally transmitted distrust into crisis.
+    evidence:
+      - SRC-MARSHALL-MONEY-CREDIT-COMMERCE-1929
+
+  neoclassical_economics_layer:
+    period: Marshallian consolidation of the neoclassical framework
+    claim_class: ANALYTICAL_SYNTHESIS
+    facts:
+      - Jevons, Menger, and Walras establish distinct marginal reconstructions; Marshall converts the marginal turn into an encompassing but deliberately provisional framework for value, distribution, industrial organization, money, credit, and commerce.
+      - Marginal utility becomes the demand side of price rather than a complete theory of value, while the classical concern with labor, production, cost, capital, and distribution returns on the supply side in reconstructed form.
+      - Time reconciles propositions that appear contradictory when stated without a period: demand dominates the disposition of existing stocks, prime cost governs immediate production decisions, and full expenses of production gain force as capacity and organization adjust.
+      - Partial equilibrium replaces the attempt to solve every market simultaneously with a sequence of bounded inquiries whose surrounding conditions are provisionally held constant and later reintroduced.
+      - The theory of distribution translates the classical classes into differentiated agents of production priced through marginal demand and responsive supply, while retaining distinctive institutional conditions for labor, land, capital, and management.
+      - Money is not a neutral label placed over barter: desired cash balances, bank credit, the monetary standard, debt contracts, financial markets, and changes in confidence alter prices, real obligations, investment, and employment.
+      - Commercial equilibrium and commercial crisis belong to the same institutional order because credit expansion and contraction connect expectations to cumulative movements of output, leverage, prices, and solvency.
+      - Marshallian neoclassical economics differs from Marx's historical anatomy of capital by treating property and enterprise chiefly as conditions and organizations within the analysis rather than as a class relation whose reproduction supplies the explanatory whole.
+      - Marshall nevertheless resists treating equilibrium as a complete social philosophy: poverty, education, character, bargaining inequality, institutional change, and the ethical limits of economic inference remain explicit.
+      - Neoclassical economics supplies a unified technical language for marginal demand, cost, elasticity, substitution, time periods, partial equilibrium, factor pricing, purchasing power, credit, and cycles without supplying by itself the ends that economic power should serve.
+    decisive_relation: >-
+      The marginal revolution becomes neoclassical economics when Marshall joins
+      subjective demand to productive cost, applies their mutual determination to
+      distribution, and embeds exchange in time, organization, money, credit, and
+      commercial fluctuation; the resulting science is broader than a calculus of
+      choice but narrower than a political philosophy of the human whole.
+    evidence:
+      - SRC-MARSHALL-PRINCIPLES-1930
+      - SRC-MARSHALL-MONEY-CREDIT-COMMERCE-1929
+      - SRC-JEVONS-THEORY-POLITICAL-ECONOMY-1871
+      - SRC-JEVONS-MONEY-MECHANISM-1875
+      - SRC-MENGER-GRUNDSATZE-1871-1934
+      - SRC-WALRAS-ELEMENTS-PURE-1874
+      - SRC-STRAUSS-CROPSEY-MARX-1960
+
 conceptual_chain:
   classical_baseline:
     sequence:
@@ -622,6 +772,39 @@ conceptual_chain:
       - common net rate of return
     governing_principle: Money, production, and capital formation are connected markets within general equilibrium, while usefulness and justice remain questions outside the proof of equilibrium itself.
 
+  marshall_neoclassical_price_and_distribution:
+    sequence:
+      - wants and marginal utility
+      - marginal demand price
+      - market demand and elasticity
+      - labor waiting and organization
+      - marginal supply price
+      - temporary market equilibrium
+      - short-period normal value
+      - long-period normal value
+      - representative firm and economies of scale
+      - substitution among productive agents
+      - marginal net products
+      - wages interest profit and rent
+      - distribution of the national dividend
+    governing_principle: Demand and supply mutually determine value and distribution, but the content of each side and the margin relevant to it change with time, organization, bargaining conditions, and the responsiveness of productive agents.
+
+  marshall_money_credit_and_cycle:
+    sequence:
+      - medium of current exchange
+      - standard of deferred payment
+      - desired ready purchasing power
+      - currency and bank deposits
+      - cheques bills and clearing
+      - money-market discount rate
+      - joint-stock finance and securities
+      - expanding confidence and credit
+      - investment employment and rising prices
+      - leverage and tightening liquidity
+      - forced sales falling prices and failures
+      - internationally transmitted contraction
+    governing_principle: The amount and value of effective purchasing power depend upon desired holdings and credit organization, while changes in confidence make that organization a cumulative transmitter of both expansion and crisis.
+
 comparative_matrix:
   Locke:
     property: A natural right originating in self-ownership and labor.
@@ -679,6 +862,13 @@ comparative_matrix:
     politics: Pure economics identifies formal market relations, applied economics asks what production is useful, and social economics asks what appropriation and distribution are just.
     unresolved_problem: Existence or formal consistency of equilibrium cannot prove that adjustment is continuously realized, that initial possession is rightful, or that the resulting order serves the human good.
 
+  Marshall:
+    property: Existing possession and enterprise form part of the institutional setting of exchange and production, while the rightful origin of property is not derived by the price theory itself.
+    money: Ready command over general purchasing power held through currency and bank accounts, transferred through cash, cheques, bills, and securities, and valued through both its purchasing power and its money-market rate.
+    value: The time-dependent equilibrium of marginal demand and marginal supply, with utility, cost, substitution, organization, and the available period of adjustment acting together.
+    politics: Economic tendencies inform practical judgment but do not issue ethical commands; poverty, education, labor's bargaining position, monetary stability, banking responsibility, and institutional reform remain political concerns.
+    unresolved_problem: A flexible analysis of market adjustment can disclose inequality and instability without determining whether initial purchasing power, the distribution of the national dividend, or the ends of commercial development are just.
+
 boundaries:
   - The intellectual genealogy does not establish that modern monetary institutions were caused by texts alone.
   - The existence of money before Locke does not make Locke's account its historical origin; Locke marks a transformation in its relation to natural right and accumulation.
@@ -697,6 +887,14 @@ boundaries:
   - The Walrasian equilibrium state is an ideal analytical construction, not a claim that actual markets remain continuously at equilibrium or converge without friction, interruption, institutions, or error.
   - Equality of effective demand and supply and consistency of relative prices establish formal economic conditions, not the legitimacy of initial possession, the justice of distribution, or the goodness of the wants being satisfied.
   - Walras's separation of pure, applied, and social economics is preserved even where the first-edition text temporarily combines pure and practical monetary analysis.
+  - The Neoclassical Economics layer is specifically Marshallian and is not treated as a complete map of every British, Austrian, Lausanne, Swedish, American, or later neoclassical tradition.
+  - Marshall's demand-and-supply scissors do not mean that utility and cost contribute in identical ways at every moment; their apparent relative force changes with stocks, expectations, capacity, organization, and the time allowed for adjustment.
+  - Partial equilibrium is a deliberate analytical isolation under other-things-equal assumptions, not evidence that markets outside the selected field exert no influence.
+  - Marshall's representative firm and long-period supply analysis are theoretical instruments whose usefulness diminishes when increasing returns, monopoly, financial control, or rapid structural change dominate actual industry.
+  - Factor remuneration corresponding to marginal net product states a demand condition and does not demonstrate that the distribution of endowments, bargaining power, education, or income is natural or just.
+  - Marshall's monetary analysis does not equate currency, bank deposits, cheques, bills, and securities; each transfers purchasing power through different legal, temporal, and credit relations.
+  - The relation between currency and the price level is conditional upon desired cash balances, credit substitutes, confidence, and payment practices, not an invariant mechanical proportion.
+  - Credit cycles are attributed to cumulative institutional processes in Marshall's account and are not converted into a universal periodic law with fixed timing.
   - Exchange equilibrium is a statical analytical construction and is not treated as proof that an actual economy is naturally harmonious, historically motionless, or politically just.
   - The separation of monetary functions does not make all credit instruments equivalent; their legal form, convertibility, maturity, and probability of payment remain distinct.
   - The institutional history of corporate finance belongs to the next layer and remains outside the present evidentiary boundary.
@@ -712,6 +910,15 @@ navigational_questions:
   - What does the numéraire make measurable without becoming an invariant measure of absolute value, and what additional work does money perform?
   - Can money be abstracted from the equations of equilibrium after it has institutionally separated sales from purchases and joined productive-service markets to product markets?
   - How do saving, credit, and the creation of new capital connect current consumption choices to the future productive structure?
+  - How does Marshall use time to reconcile marginal utility with cost of production without returning to the classical labor theory of value?
+  - What is gained and lost when Walras's simultaneous general equilibrium is replaced by Marshall's sequence of partial equilibria under other-things-equal assumptions?
+  - How do representative firms, internal and external economies, and increasing returns connect price theory to the organization and geography of industry?
+  - Does marginal productivity explain distribution, or only the demand side of remuneration within a wider system of supply, training, bargaining, and institutions?
+  - How does unequal purchasing power limit the use of demand curves and consumer's surplus as measures of social wellbeing?
+  - Why does Marshall begin monetary theory from desired holdings of ready purchasing power rather than from the transactions identity alone?
+  - How do bank money, cheques, bills, securities, and central-bank reserves alter the effective supply and velocity of purchasing power without becoming identical monetary instruments?
+  - At what point does mutually reinforcing confidence become leverage, illiquidity, falling collateral values, and a cumulative credit crisis?
+  - How do international trade, securities, discount rates, and foreign exchange transmit a national credit movement into a wider monetary system?
   - How do labor and production remain present after they cease to be treated as the direct cause or substance of value?
   - How does value pass from anticipated consumer goods backward to complementary productive inputs operating through time?
   - When does an economic law describe recurring conduct, and when is it treated as a limit upon political judgment?
@@ -876,4 +1083,30 @@ sources:
       - walras_production_capitalization_and_credit
       - post_classical_marginalist_turn
 
-completeness: COMPLETE_THROUGH_WALRAS_PENDING_CERTIFICATION
+  - source_id: SRC-MARSHALL-PRINCIPLES-1930
+    type: PRIMARY_TEXT
+    author: Alfred Marshall
+    title: Principles of Economics, An Introductory Volume
+    original_year: 1890
+    edition: Eighth edition, 1930 reprint
+    publisher: Macmillan and Co., Limited
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - marshall_neoclassical_value_time_and_partial_equilibrium
+      - marshall_distribution_organization_and_progress
+      - neoclassical_economics_layer
+
+  - source_id: SRC-MARSHALL-MONEY-CREDIT-COMMERCE-1929
+    type: PRIMARY_TEXT
+    author: Alfred Marshall
+    title: Money, Credit & Commerce
+    original_year: 1923
+    edition: 1929 reprint of the first edition
+    publisher: Macmillan and Co., Limited
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - marshall_money_credit_and_financial_organization
+      - marshall_international_commerce_and_credit_cycle
+      - neoclassical_economics_layer
+
+completeness: COMPLETE_THROUGH_MARSHALLIAN_NEOCLASSICAL_ECONOMICS_PENDING_CERTIFICATION
