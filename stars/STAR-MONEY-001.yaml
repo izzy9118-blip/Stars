@@ -82,7 +82,14 @@ fact: >-
   denying that every uncertainty could be reduced to a numerical risk. Monetary
   reform therefore became an exercise of deliberate judgment directed toward
   stable prices, trade, and employment rather than a mechanical defense of gold
-  parity. In The General Theory, money entered the determination of output as a
+  parity. Volume II of A Treatise on Money then carried monetary theory into the
+  statistical and institutional movement of an economy out of equilibrium. It
+  distinguished industrial from financial circulation, traced fluctuations in
+  fixed, working, and liquid investment through the credit cycle, and treated
+  central-bank control, national monetary autonomy, the gold standard, and
+  supranational management as parts of one problem: the attempt to influence
+  investment while preserving the value and international usability of money.
+  In The General Theory, money entered the determination of output as a
   whole: effective demand governed employment; consumption depended upon income;
   investment depended upon prospective yields, confidence, and the rate of
   interest; liquidity preference made the interest rate a monetary phenomenon;
@@ -98,8 +105,9 @@ scope:
     Ricardo, Marx, the independent Jevonsian, Mengerian, and Walrasian
     reconstructions of post-classical marginalism, their Marshallian
     consolidation into neoclassical economics, and Keynes's reconstruction of
-    the economy as a monetary system governed by effective demand, expectations,
-    liquidity, and politically administered institutions.
+    the economy as a monetary system governed first through circulation,
+    investment, and monetary management and then through effective demand,
+    expectations, liquidity, and politically administered institutions.
   geography:
     - ancient Greek political philosophy as the comparative baseline
     - seventeenth-century England
@@ -116,17 +124,19 @@ scope:
     Marshall consolidates the new analysis into a time-sensitive neoclassical
     framework of value, distribution, money, credit, commerce, and industrial
     fluctuation; Keynes begins within that inherited monetary and analytical
-    world and reconstructs it around uncertainty, effective demand, aggregate
-    output, employment, liquidity preference, and the public guidance of
-    investment. This organizing periodization does not require every history of
-    economics to use identical boundaries.
+    world; the applied volume of A Treatise on Money analyzes circulation,
+    investment disequilibrium, the credit cycle, and national and international
+    monetary management; The General Theory then reconstructs the system around
+    effective demand, aggregate output, employment, liquidity preference, and
+    the public guidance of investment. This organizing periodization does not
+    require every history of economics to use identical boundaries.
   exclusions:
     - A universal history of money in every civilization
     - A complete history of banking, corporations, securities, central banking, or public finance
     - A complete institutional history of modern corporate finance beyond the organizations analyzed by Marshall
     - Later revisions of Walras and post-Walrasian developments in general equilibrium theory
     - Continental and later neoclassical branches not represented by the supplied primary texts
-    - A complete reconstruction of Keynes's 1930 Treatise on Money, which is not among the supplied sources
+    - A complete reconstruction of Volume I of Keynes's 1930 Treatise on Money, The Pure Theory of Money, which is not among the supplied sources
     - Later Keynesian, neo-Keynesian, New Keynesian, Post-Keynesian, monetarist, or macroeconomic schools
     - A claim that intellectual teachings alone caused later economic institutions
 
@@ -153,6 +163,8 @@ shape:
     - Marshall's cash-balance account of money is distinguished from a mechanically causal reading of the transactions identity; desired holdings, credit substitutes, confidence, and circulation alter the relation between currency and prices.
     - Keynes's monetary administration is not reduced to discretionary note issue; reserves, exchange, bank rate, banking structure, lender-of-last-resort action, international claims, and domestic employment belong to the same institutional field.
     - Keynes's Treatise on Probability is connected to the General Theory through rational judgment, non-numerical probability, evidential weight, and Keynes's own citation in his discussion of long-term expectation; it is not converted into a claim that the two works contain one unchanged technical doctrine.
+    - Volume II of Keynes's Treatise on Money supplies the applied analysis of circulation, investment, credit cycles, and monetary management; concepts whose formal exposition belongs to the absent Volume I are not silently reconstructed as though the complete two-volume Treatise had been supplied.
+    - The Treatise on Money is not collapsed into the General Theory: the former explains disequilibrium between saving and investment through its monetary equations and the control of investment, while the latter makes realized saving and investment equal through changes in aggregate income and reconstructs the determination of output and employment.
     - Keynes's effective demand is an aggregate relation between expected proceeds, supply price, output, and employment, not a synonym for consumer demand alone.
     - The identity of saving and investment is not treated as prior equality between intended saving and intended investment; in Keynes's system aggregate income changes until realized saving equals realized investment.
     - Liquidity preference is distinguished from the cash-balance demand for transactions alone and from a loanable-funds theory in which saving mechanically fixes the interest rate.
@@ -734,6 +746,50 @@ historical_spectrum:
     evidence:
       - SRC-KEYNES-TRACT-MONETARY-REFORM-1923
 
+  keynes_treatise_money_circulation_investment_and_cycle:
+    period: Applied monetary theory, investment fluctuation, and the credit cycle
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - The applied theory moves from the qualitative relations established in Volume I to a quantitative and institutional study of British and American monetary experience; the monetary factors, investment factors, historical record, and problems of management form successive parts of one inquiry.
+      - Bank deposits perform different economic functions: cash deposits support the industrial circulation of current output and income, while savings deposits are more closely connected to the financial circulation in which claims to wealth are exchanged.
+      - An unchanged total of bank deposits can conceal deflationary pressure when money moves from cash accounts into savings accounts, because less bank money is then available to support industrial circulation.
+      - The velocity of circulation is not an independently acting cause that can be read directly from a single ratio; it condenses changing habits of payment, banking arrangements, the division of deposits, business activity, and the relation of transactions to income.
+      - Disequilibrium between saving and investment normally arises more from fluctuations in investment than from abrupt changes in saving, requiring separate analysis of investment in fixed, working, and liquid capital.
+      - Fixed investment varies with innovation, expected profit, interest, and the willingness of the banking system to finance entrepreneurs; fluctuations in working capital connect changing production and employment to the time required for goods to pass through the productive process.
+      - The economic system makes no stable provision for surplus liquid stocks: attempts to dispose of them force prices and production downward, aggravating the slump, while the rebuilding of working capital helps make recovery slower than contraction.
+      - The expansion and collapse of investment therefore become monetary phenomena without becoming creations of banks alone; entrepreneurial expectations and innovations supply impulses whose scale and transmission depend upon credit conditions.
+      - Modern banks unite two functions that can conflict: they provide representative money and payment services while also intermediating savings and extending short-term loans to trade and industry.
+    decisive_relation: >-
+      The monetary economy is reconstructed as a moving relation among bank
+      money, industrial and financial circulation, investment in several forms,
+      prices, profits, output, and employment; the credit cycle arises when these
+      relations move out of alignment and amplify the original disturbance.
+    evidence:
+      - SRC-KEYNES-TREATISE-MONEY-APPLIED-1930-2013
+
+  keynes_treatise_money_management_and_monetary_order:
+    period: Central banking, national autonomy, the gold standard, and supranational management
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - A central bank does not directly command individual prices or money earnings; it attempts to influence them through bank rate, open-market operations, credit conditions, and ultimately the rate of investment.
+      - Monetary management is both technical and judgmental: institutions must possess effective instruments, but they must also forecast when and how strongly to use them in light of the objective assigned to the monetary system.
+      - Bank rate works through the relationships among the central bank, member-bank reserves, money-market rates, deposit rates, lending conventions, security prices, and the long-term terms on which new investment can be financed.
+      - Open-market operations can alter central-bank money and member-bank reserves, but easier money need not move uniformly into industrial circulation; it can instead satisfy a demand for liquidity or finance a rise in security prices.
+      - Monetary authority is consequently powerful but not mechanically sovereign: the response of long-term rates, borrowers, underwriters, expectations, inventories, world prices, and the public's mood limits any promise to fix the price level by formula.
+      - Membership in an international monetary standard stabilizes the long-period relation of a national currency to the common standard but restricts the short-period freedom to set interest and foreign lending according to domestic investment and employment.
+      - National monetary autonomy and fixed international parity therefore form a dilemma rather than two automatically compatible goods, especially when mobile financial lending responds faster than trade and domestic wages or costs adjust slowly.
+      - Gold can serve an international standard only if it is subordinated to cooperation among central banks rather than allowed to govern them as an automatic sovereign.
+      - Supranational management must distinguish the long-period value of the international standard from the short-period task of restraining the world credit cycle and maintaining investment equilibrium.
+      - A supranational monetary institution would coordinate central banks through reserve accounts, credit, discount policy, and open-market powers, preserving an international standard while allowing safeguards for domestic autonomy.
+    decisive_relation: >-
+      Money becomes an object of constitutional government at national and
+      international scales: public authority seeks to guide investment and
+      employment, yet its instruments operate through banks, markets,
+      expectations, and foreign relations that no national authority controls
+      alone.
+    evidence:
+      - SRC-KEYNES-TREATISE-MONEY-APPLIED-1930-2013
+
   keynes_general_theory_of_the_monetary_economy:
     period: Aggregate output, employment, liquidity, and investment
     claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
@@ -770,7 +826,8 @@ historical_spectrum:
       - Monetary institutions are present from the beginning of the reconstruction: administered exchange, reserves, central banking, contracts, international debts, and price stability precede the formal theory of effective demand.
       - The probability layer prevents expectations from being treated as mechanically computable forecasts; the amount and weight of evidence, conventional judgment, confidence, and animal spirits affect present investment.
       - The political critique of the Versailles settlement demonstrates that financial claims are constrained by productive capacity and systemic interdependence, anticipating the later refusal to treat accounting identities as self-executing causal mechanisms.
-      - The Tract moves from an allegedly automatic gold standard to conscious monetary management, while the General Theory moves from management of the price standard to management of aggregate demand and employment.
+      - The Tract moves from an allegedly automatic gold standard to conscious monetary management; the applied Treatise maps how circulation, investment, banks, and international constraints make that management operate; the General Theory then moves from the control of prices through investment to the determination of aggregate output and employment.
+      - The applied Treatise is the intermediate rather than the final Keynesian architecture: it analyzes saving-investment disequilibrium and the credit cycle, while the General Theory reconstructs realized saving and investment as equal through income and makes underemployment equilibrium the central problem.
       - Money connects an uncertain future to present action through contracts, debts, liquidity, the rate of interest, asset prices, and expected yields; it cannot be added to a completed barter equilibrium as a neutral veil.
       - A deficiency of effective demand can reproduce itself as an equilibrium, so unemployment is not necessarily a temporary deviation eliminated by flexible prices and wages.
       - State action is justified at the level where decentralized decisions fail to determine an adequate aggregate volume of investment, while decentralized allocation and private initiative remain operative within the resulting level of output.
@@ -787,6 +844,7 @@ historical_spectrum:
       - SRC-KEYNES-ECONOMIC-CONSEQUENCES-1919-1920
       - SRC-KEYNES-TREATISE-PROBABILITY-1921
       - SRC-KEYNES-TRACT-MONETARY-REFORM-1923
+      - SRC-KEYNES-TREATISE-MONEY-APPLIED-1930-2013
       - SRC-KEYNES-GENERAL-THEORY-1936-2013
       - SRC-MARSHALL-PRINCIPLES-1930
       - SRC-MARSHALL-MONEY-CREDIT-COMMERCE-1929
@@ -995,6 +1053,20 @@ conceptual_chain:
       - present investment
     governing_principle: The future influences current production through judgments whose rationality depends upon evidence but whose uncertainty and weight cannot ordinarily be compressed into a mechanically complete calculation.
 
+  keynes_applied_money_investment_and_management:
+    sequence:
+      - cash deposits and savings deposits
+      - industrial circulation and financial circulation
+      - velocity reserves and bank money
+      - fixed working and liquid investment
+      - saving-investment disequilibrium
+      - prices profits output and employment
+      - bank rate and open-market operations
+      - national monetary autonomy
+      - international monetary standard
+      - supranational management
+    governing_principle: Monetary management seeks to influence prices and employment through investment, but its national instruments operate inside banking, market, and international relations that make control conditional rather than automatic.
+
   keynes_monetary_economy_and_effective_demand:
     sequence:
       - administered currency and international reserves
@@ -1078,7 +1150,7 @@ comparative_matrix:
 
   Keynes:
     property: Private property, monetary contracts, and decentralized enterprise remain operative, but their aggregate results depend upon public institutions and need not generate full employment or an equitable distribution by themselves.
-    money: An administered system of currency, bank credit, reserves, liquidity, contractual claims, and international settlement through which changing expectations about the future determine present investment and employment.
+    money: An administered system of currency, industrial and financial circulation, bank credit, reserves, liquidity, contractual claims, and international settlement through which changing expectations about the future determine present investment and employment.
     value: Neoclassical price and distribution theory remains valid within a given volume of output, while effective demand determines the aggregate scale at which that analysis operates.
     politics: Monetary, fiscal, banking, and investment policy must sustain domestic employment and stability without converting the entire economy into state ownership; international policy must respect the productive interdependence through which financial claims are paid.
     unresolved_problem: Public authority can raise employment and moderate monetary disorder without the economic theory alone determining the rightful distribution of wealth, the proper objects of investment, or the ultimate ends that full employment should serve.
@@ -1115,7 +1187,8 @@ boundaries:
   - Keynes's probability theory makes rational belief dependent upon evidence without making every degree of belief numerical, subjectively arbitrary, or identical to observed statistical frequency.
   - The link from the Treatise on Probability to the General Theory is anchored in Keynes's explicit discussion of uncertainty, evidential weight, and confidence; it does not imply that every later economic concept is deduced from the earlier logical treatise.
   - The Tract on Monetary Reform is not yet the General Theory: it establishes managed money and domestic stability as political problems without yet reconstructing output and employment through effective demand as a whole.
-  - The absence of Keynes's Treatise on Money from the supplied sources leaves the development between the Tract and the General Theory deliberately incomplete rather than silently reconstructed from secondary accounts.
+  - The supplied Treatise on Money is Volume II, The Applied Theory of Money; it supplies the statistical, historical, and policy analysis but not the complete theoretical exposition contained in the absent Volume I, The Pure Theory of Money.
+  - The Treatise on Money is not read backward as though it already contained the General Theory: its saving-investment disequilibrium, natural-rate framework, and control of prices through investment mark an intermediate architecture that Keynes later reconstructed around effective demand, liquidity preference, output, and employment.
   - Effective demand denotes expected aggregate proceeds at the employment level selected by entrepreneurs, not every political desire, consumer preference, or expenditure considered without supply conditions.
   - The accounting equality of realized saving and investment does not mean that planned saving automatically finances planned investment or that the interest rate equilibrates them at full employment.
   - Keynes's uncertainty is not synonymous with low probability; the same best forecast can carry different confidence when the weight and stability of its evidential basis differ.
@@ -1155,6 +1228,9 @@ navigational_questions:
   - How can the weight of evidence change without producing an equal change in the estimated probability of a conclusion?
   - Why does monetary instability alter class relations and production even when every contract continues to state the same nominal sum?
   - When domestic price and employment stability conflict with a fixed exchange parity, which object should govern monetary policy and by what judgment?
+  - How can an unchanged quantity of bank deposits produce different effects when money moves between industrial and financial circulation?
+  - Can central banks influence investment strongly enough to stabilize prices and employment without controlling the expectations, markets, and international movements through which their instruments operate?
+  - What institutional order can reconcile national monetary autonomy with a stable international standard and a world credit cycle?
   - Why does Keynes treat a monetary economy as one in which changing views of the future alter the quantity rather than merely the direction of employment?
   - How does effective demand determine the aggregate scale of output within which neoclassical allocation and price theory can operate?
   - Why does realized saving equal realized investment through changes in income rather than through an interest rate that guarantees full employment?
@@ -1398,6 +1474,19 @@ sources:
     witness_status: OWNER_SUPPLIED_LOCAL_COPY
     supports:
       - keynes_monetary_reform_and_managed_currency
+      - keynesian_economics_layer
+
+  - source_id: SRC-KEYNES-TREATISE-MONEY-APPLIED-1930-2013
+    type: PRIMARY_TEXT_COLLECTED_EDITION
+    author: John Maynard Keynes
+    title: 'A Treatise on Money, Volume II: The Applied Theory of Money'
+    original_year: 1930
+    edition: The Collected Writings of John Maynard Keynes, Volume VI, second-edition text, 2013 printing
+    publisher: Cambridge University Press for the Royal Economic Society
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - keynes_treatise_money_circulation_investment_and_cycle
+      - keynes_treatise_money_management_and_monetary_order
       - keynesian_economics_layer
 
   - source_id: SRC-KEYNES-GENERAL-THEORY-1936-2013
