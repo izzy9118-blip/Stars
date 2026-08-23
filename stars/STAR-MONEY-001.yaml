@@ -34,30 +34,42 @@ fact: >-
   mathematical theory of choice and exchange, while Jevons's analysis of money
   showed how monetary functions were distributed among coin, paper, bank credit,
   cheques, and clearing rather than embodied in a single monetary substance.
+  Menger independently reconstructed value from the causal relation between
+  human needs and goods, the scarcity of available quantities, and the importance
+  of the least important satisfaction dependent upon a concrete unit. He carried
+  this valuation backward through time from goods of first order to the
+  complementary goods of higher orders required to produce them, and explained
+  exchange, price formation, and money without reducing the economy to a
+  mathematical equilibrium. Money emerged through individuals accepting more
+  saleable goods for less saleable ones; custom generalized their acceptance,
+  while state recognition and coinage perfected rather than originally created
+  their monetary character.
 
 scope:
   subject: >-
     The intellectual formation of the modern money economy from the classical
     subordination of acquisition to the polis through Locke, Hume, Smith,
-    Ricardo, Marx, and the Jevonsian opening of post-classical marginalism.
+    Ricardo, Marx, and the independent Jevonsian and Mengerian reconstructions of
+    post-classical marginalism.
   geography:
     - ancient Greek political philosophy as the comparative baseline
     - seventeenth-century England
     - eighteenth-century Scotland and Great Britain
     - nineteenth-century Britain and continental Europe
-  period: Classical political philosophy through Jevonsian marginalism and monetary mechanism
+  period: Classical political philosophy through Jevonsian and Mengerian marginalism
   narrative_companion: narratives/STAR-MONEY-001.md
   periodization: >-
     Locke and Hume form the pre-classical foundations of the sequence; Smith and
     Ricardo establish classical political economy; Marx is treated as its
-    culmination and internal critique; Jevons opens the post-classical marginalist
-    reconstruction. This organizing periodization does not require every history
-    of economics to use identical boundaries.
+    culmination and internal critique; Jevons and Menger independently open two
+    distinct constructions of the post-classical marginalist period. This
+    organizing periodization does not require every history of economics to use
+    identical boundaries.
   exclusions:
     - A universal history of money in every civilization
     - A complete history of banking, corporations, securities, central banking, or public finance
     - The institutional development of modern corporate finance after Marx
-    - The Mengerian and Walrasian branches of marginalism, which require their own primary sources
+    - The Walrasian branch of marginalism, which requires its own primary source
     - A claim that intellectual teachings alone caused later economic institutions
 
 shape:
@@ -70,8 +82,10 @@ shape:
     - Locke's natural right, Hume's convention, Smith's commercial society, Ricardo's distribution system, and Marx's critique remain distinct positions.
     - The technical economic reconstruction supplied by Joseph Cropsey remains distinguishable from Leo Strauss's philosophical interpretation of Marx.
     - Marx's account of capitalist economic laws as historically specific is distinguishable from a claim that every society is governed by the same categories.
-    - Jevons's marginal utility theory is distinguished from the broader marginal revolution and is not made to stand in for Menger or Walras.
+    - Jevons's and Menger's independent marginal utility theories remain distinct and are not made to stand in for Walras.
     - Jevons's rejection of labor as the direct cause of value is not converted into a denial that labor and production affect supply and therefore exchange value.
+    - Menger's subjective theory of value is not reduced to Jevons's calculus of pleasure and pain; its causal-genetic structure, treatment of production through time, and non-mathematical method remain visible.
+    - Menger's account of the non-legislative origin of money is distinguished from the state's later role in legal tender, sanction, and coinage.
     - Later institutional histories of banking, corporate finance, financial markets, and monetary government require their own evidence and subsequent layers.
 
 claim_policy:
@@ -79,8 +93,8 @@ claim_policy:
     A text, distinction, sequence, or teaching directly present in the listed
     primary work or seminar transcript.
   attributed_teaching: >-
-    A proposition assigned to Locke, Hume, Smith, Ricardo, Marx, Aristotle,
-    Strauss, or Cropsey only as presented in a named source.
+    A proposition assigned to Locke, Hume, Smith, Ricardo, Marx, Jevons, Menger,
+    Aristotle, Strauss, or Cropsey only as presented in a named source.
   analytical_synthesis: >-
     A bounded relation drawn across teachings to clarify a transformation in the
     place of money and economics within political and social life.
@@ -296,24 +310,78 @@ historical_spectrum:
     evidence:
       - SRC-JEVONS-MONEY-MECHANISM-1875
 
+  menger_causal_genetic_marginalism:
+    period: The Mengerian opening of marginalism, 1871
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - A thing becomes a good only where a human need exists, the thing possesses a causal capacity to satisfy it, the person knows that causal connection, and the thing can be brought under human command.
+      - Goods of first order satisfy wants directly, while goods of second and higher orders contribute indirectly through causal chains of production and must be joined with their complementary goods.
+      - Economic activity is prospective provision for future needs and therefore depends upon estimates of future requirements, available quantities, production periods, technical knowledge, and uncertainty.
+      - A good becomes economic when the anticipated requirement for it exceeds the quantity available within the period of foresight; goods available beyond requirements remain non-economic under those circumstances.
+      - Value is neither an intrinsic property nor an independent substance but the importance a concrete good acquires when a person recognizes that some satisfaction depends upon command over it.
+      - The value of a unit is governed by the least important satisfaction that would be lost if the available stock were diminished by that unit.
+      - Value is subjective both in its existence and its magnitude because needs, available quantities, knowledge, and circumstances differ among persons and across time.
+      - Past labor and production cost do not directly determine value; a costly product may be valueless, while a good found without labor may possess great value.
+      - Value runs causally backward from the anticipated value of goods of lower order to the complementary goods of higher order required to produce them.
+      - The value of productive inputs therefore depends upon the expected value of their future products rather than the value of present products or the historical expenditures already incurred.
+      - Exchange becomes economic when each party values what the other possesses more highly than what would be surrendered, both recognize the opportunity, and both possess the power to transfer the goods.
+      - Exchange ends at the point beyond which a further transfer would cease improving and begin worsening the satisfaction of either party's needs.
+      - Price is an objective outcome formed within limits established by the parties' unequal subjective valuations; it is not identical with either party's valuation.
+    decisive_relation: >-
+      Menger reconstructs marginalism as a causal theory of purposive provision:
+      needs confer goods-character, scarcity makes goods economic, dependence
+      produces value, valuation guides exchange, and the anticipated value of
+      consumer goods is imputed backward through production over time.
+    evidence:
+      - SRC-MENGER-GRUNDSATZE-1871-1934
+
+  menger_saleability_and_origin_of_money:
+    period: Commodity circulation and the emergence of money, 1871
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Commodities differ in saleability according to the number of possible buyers, the geographical reach of demand, the quantities that can be sold without a price concession, the time within which sale is possible, transport and storage costs, legal restrictions, and the organization of markets.
+      - A producer unable to barter directly for the goods he needs can advance his purpose by accepting a more saleable commodity even when he has no immediate use for it.
+      - Repeated acceptance of the most saleable commodities enlarges their marketability further, and habit and imitation generalize their acceptance throughout a trading community.
+      - Money originates through the convergent actions of individuals pursuing their own economic interests rather than through an original agreement, legislative invention, or concern for a public monetary plan.
+      - Different goods become money among different peoples and periods because saleability depends upon historically varying economic circumstances.
+      - State sanction does not first make a commodity money, but it strengthens monetary character by making the sanctioned good acceptable for obligations to the state and for legally unspecified or substitute payments.
+      - Coinage standardizes the weight and quality of monetary metal and reduces the information and verification costs that otherwise impede exchange.
+      - Money cannot serve as an exact measure of an objective exchange value because actual prices form within ranges and no fixed objective equivalence between goods exists.
+      - Money nevertheless becomes the most practical common instrument for estimating prices because developed exchange normally states and settles commodity prices in the most saleable good.
+      - Menger's explanation connects subjective valuation to an unintended institution: money is produced by purposive acts without requiring that the resulting monetary order be designed as a whole.
+    decisive_relation: >-
+      Money emerges when unequal saleability changes the path of exchange: the
+      individual accepts what others are most likely to accept, custom turns that
+      recurring strategy into a general institution, and law subsequently
+      standardizes and strengthens an order it did not originally invent.
+    evidence:
+      - SRC-MENGER-GRUNDSATZE-1871-1934
+
   post_classical_marginalist_turn:
-    period: First post-classical synthesis
+    period: Jevonsian and Mengerian synthesis
     claim_class: ANALYTICAL_SYNTHESIS
     facts:
       - Ricardo organizes economics around labor-regulated value and distribution among social classes; Marx expands that structure into a historical theory of capital and social power.
       - Jevons reorganizes the field around individual wants, marginal increments, exchange ratios, and equilibrium while preserving production only as an indirect determinant operating through supply.
-      - The change narrows the immediate field of economic explanation from the historical constitution of society to formally expressible relations among quantities, preferences, and exchanges.
-      - The narrowing increases analytical precision but brackets questions concerning the historical origin of property, the constitution of classes, and the ends by which production and distribution should be judged.
+      - Menger reorganizes the same field through causal relations among needs, scarce goods, ranked satisfactions, production through time, exchange, price formation, and the differential saleability from which money emerges.
+      - Jevons formulates marginalism as a mathematical calculus of pleasure and pain centered on statical equilibrium, while Menger develops a non-mathematical causal-genetic account centered on purposive provision and the formation of institutions.
+      - Both reject labor or cost as the direct cause of value, but Jevons makes labor operate through supply and final utility while Menger derives the value of productive inputs from the expected value of their future products.
+      - The marginalist change narrows the immediate field of economic explanation from the historical constitution of society to the allocation and exchange of scarce means as evaluated by individuals.
+      - The narrowing increases analytical precision but brackets questions concerning the rightful origin of property, the constitution of classes, the formation of wants, and the ends by which production and distribution should be judged.
       - Jevons's monetary analysis simultaneously reveals that actual exchange depends upon complex institutions of credit, banking, law, and settlement that cannot be deduced from marginal utility alone.
+      - Menger's monetary analysis shows how one such institution can arise from repeated individual actions before legislation and then be perfected through legal sanction and coinage.
       - Marginalism therefore begins a new theoretical period without dissolving the political and institutional questions inherited from the classical system and its Marxian critique.
     decisive_relation: >-
       Marx closes classical political economy by making production the key to the
-      social whole; Jevons opens post-classical economics by converting value and
-      exchange into a bounded mathematical problem whose institutional conditions
-      and human purposes must still be supplied from outside the formal theory.
+      social whole; Jevons and Menger open post-classical economics by locating
+      value in individual dependence upon marginal goods, while diverging over
+      mathematics, equilibrium, time, production, and institutional emergence.
+      Neither construction supplies the political standard by which the resulting
+      order should be judged.
     evidence:
       - SRC-JEVONS-THEORY-POLITICAL-ECONOMY-1871
       - SRC-JEVONS-MONEY-MECHANISM-1875
+      - SRC-MENGER-GRUNDSATZE-1871-1934
       - SRC-STRAUSS-CROPSEY-MARX-1960
 
 conceptual_chain:
@@ -418,6 +486,33 @@ conceptual_chain:
       - economized currency
     governing_principle: Monetary functions can be separated among different instruments, and institutional settlement can perform exchange without the physical movement of money.
 
+  menger_causal_genetic_sequence:
+    sequence:
+      - human need
+      - causal means of satisfaction
+      - knowledge and command
+      - goods of first and higher orders
+      - future requirements and available quantities
+      - economic scarcity
+      - subjective value of the marginal unit
+      - imputation to complementary productive goods
+      - exchange within valuation limits
+      - price formation
+    governing_principle: The importance of satisfying wants confers value upon scarce consumer goods and, prospectively, upon the productive goods that cause them.
+
+  menger_origin_of_money:
+    sequence:
+      - unequal saleability of commodities
+      - frustrated direct barter
+      - acceptance of a more saleable intermediate good
+      - repeated individual advantage
+      - habit and imitation
+      - general acceptability
+      - money
+      - state sanction
+      - standardized coinage
+    governing_principle: Money emerges unintentionally from individual efforts to improve exchange and is later strengthened and standardized by political authority.
+
 comparative_matrix:
   Locke:
     property: A natural right originating in self-ownership and labor.
@@ -461,6 +556,13 @@ comparative_matrix:
     politics: Law and administration shape coinage, legal tender, convertibility, banking, and settlement, but justice and the ends of the economic order lie outside the marginal calculus.
     unresolved_problem: Formal precision in choice and equilibrium does not explain the historical production of wants, property relations, class power, or the standard by which an allocation should be judged.
 
+  Menger:
+    property: Command over goods is a condition of economic action, but the rightful origin and distribution of that command are not derived within the theory of goods.
+    money: The most saleable commodity, produced through repeated individual exchanges and later perfected by custom, legal sanction, and coinage.
+    value: The subjective importance of a good determined by the least important satisfaction dependent upon a unit of the available stock.
+    politics: The state does not originate money, but its power over obligations, legal acceptance, and coinage can strengthen and standardize an existing monetary institution.
+    unresolved_problem: A causal explanation of how valuation and institutions arise does not establish that existing property, market outcomes, or distributions are just.
+
 boundaries:
   - The intellectual genealogy does not establish that modern monetary institutions were caused by texts alone.
   - The existence of money before Locke does not make Locke's account its historical origin; Locke marks a transformation in its relation to natural right and accumulation.
@@ -469,8 +571,11 @@ boundaries:
   - Ricardo's labor theory of relative value includes acknowledged modifications and is not identical to Marx's theory of value.
   - Marx's critique of capitalism is not treated as a neutral empirical description, and Strauss's criticism is not treated as a refutation of every Marxian economic claim.
   - Marx closes the classical period within this map but does not end the history of money, economic thought, capitalism, or financial institutions.
-  - Jevons's theory of final utility marks one branch of marginalism and is not evidence for attributing identical teachings to Menger or Walras.
+  - Jevons's and Menger's theories are independent branches of marginalism and are not evidence for attributing identical teachings to Walras.
   - Marginal utility does not make labor or cost irrelevant; in Jevons's sequence, labor alters supply, supply alters final utility, and final utility governs exchange value.
+  - Menger does not derive value from past labor or production cost, but his theory gives production a causal structure through complementary higher-order goods, time, expectations, and the imputation of anticipated product value.
+  - Menger's description of money as a non-legislative emergence does not imply that law is irrelevant to monetary obligations, standardization, coinage, or later monetary development.
+  - Spontaneous emergence explains how a practice can arise without a common plan; it does not establish the justice, efficiency, or permanence of every institution that emerges in this manner.
   - Exchange equilibrium is a statical analytical construction and is not treated as proof that an actual economy is naturally harmonious, historically motionless, or politically just.
   - The separation of monetary functions does not make all credit instruments equivalent; their legal form, convertibility, maturity, and probability of payment remain distinct.
   - The institutional history of corporate finance belongs to the next layer and remains outside the present evidentiary boundary.
@@ -480,12 +585,15 @@ navigational_questions:
   - Which economic relations are conventional, which are legally constituted, and which operate as unintended regularities?
   - How does a theory of value connect to a theory of distribution among classes?
   - What is lost and what is gained when value is reconstructed from class production and distribution as individual choice at the margin?
+  - How do Jevons's mathematical equilibrium and Menger's causal-genetic analysis produce different versions of marginalism from a shared subjective turn?
   - How do labor and production remain present after they cease to be treated as the direct cause or substance of value?
+  - How does value pass from anticipated consumer goods backward to complementary productive inputs operating through time?
   - When does an economic law describe recurring conduct, and when is it treated as a limit upon political judgment?
   - Who receives the benefit created by monetary issue, credit creation, and the replacement of costly currency with cheaper instruments?
   - How can increasing wealth coexist with displacement, dependency, or declining command over the conditions of life?
   - Which parts of capitalist reproduction require markets, which require law and government, and which require historically produced class relations?
   - When money's functions are distributed among coin, paper, deposits, cheques, and clearing, where do liquidity, convertibility, and settlement risk reside?
+  - Which parts of monetary order emerge through decentralized exchange, and which are created, standardized, or enforced by political authority?
   - What standards can judge an economic order if preference, production, or historical success cannot supply the human good by themselves?
 
 sources:
@@ -611,4 +719,20 @@ sources:
       - jevons_money_credit_and_clearing
       - post_classical_marginalist_turn
 
-completeness: COMPLETE_THROUGH_JEVONS_PENDING_CERTIFICATION
+  - source_id: SRC-MENGER-GRUNDSATZE-1871-1934
+    type: PRIMARY_TEXT_WITH_EDITORIAL_INTRODUCTION
+    author: Carl Menger
+    title: Grundsätze der Volkswirtschaftslehre
+    original_year: 1871
+    edition: Facsimile of the 1871 first edition in The Collected Works of Carl Menger, Volume I
+    series: London School of Economics Series of Reprints of Scarce Tracts in Economic and Political Science, No. 17
+    editorial_introduction: F. A. von Hayek
+    edition_year: 1934
+    language: German with English editorial introduction
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - menger_causal_genetic_marginalism
+      - menger_saleability_and_origin_of_money
+      - post_classical_marginalist_turn
+
+completeness: COMPLETE_THROUGH_MENGER_PENDING_CERTIFICATION
