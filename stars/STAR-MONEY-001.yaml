@@ -158,6 +158,40 @@ fact: >-
   rule. The result was neither Keynesian fine tuning nor monetary impotence, but
   a doctrine of powerful nominal authority restrained by imperfect knowledge,
   delayed effects, and the distinction between nominal instruments and real ends.
+  Varoufakis carries the sequence into the current economic environment by
+  proposing that capitalism has been displaced from the commanding position it
+  once occupied. His claim is not that commodities, wage labor, markets, or
+  profit have disappeared. It is that the system's governing dynamic has shifted
+  from competitive markets and profit toward privately owned digital domains
+  and cloud rent. Cloud capital joins data centers, fiber, devices, software,
+  algorithms, artificial intelligence, and the continuously supplied data of
+  users into a produced means of behavioral modification and command. It captures
+  attention, shapes desire, organizes access to buyers and sellers, directs labor,
+  and elicits the unpaid activity through which users reproduce the system that
+  governs them. The owners of this infrastructure become cloudalists; conventional
+  firms become vassal capitalists when access to customers requires rent paid to
+  a platform; workers directed and monitored through algorithms become cloud
+  proles; and users whose searches, reviews, movements, content, and choices train
+  and enlarge cloud capital become cloud serfs. Varoufakis names this order
+  technofeudalism because markets resemble privately governed cloud fiefs and
+  profit is increasingly subordinated to rent. He connects its formation to the
+  enclosure of the early internet, the financial rescue and austerity that
+  followed 2008, the concentration of cheap liquidity in asset markets and Big
+  Tech, and the acceleration of platform dependence during the pandemic. His
+  subsequent work distinguishes competitive artificial-intelligence services
+  from AI incorporated into cloud capital, where personalization, accumulated
+  data, switching costs, and control of digital infrastructure deepen extractive
+  power. It also extends the account into an ideology of techlordism, the growing
+  dependence of states upon private cloud systems, the convergence of cloud
+  capital with finance and military administration, and a geopolitical division
+  between American and Chinese cloud domains. His proposed escape returns the
+  economic question to property and political freedom: collective control of
+  cloud capital, enforceable digital rights, democratic workplaces, public
+  payment infrastructure, and international monetary clearing are offered as
+  institutions through which users and workers might cease to be governed by
+  assets they collectively create but do not own. This is an attributed and
+  contested diagnosis of the present, not a settled periodization or a verified
+  forecast of capitalism's extinction.
 
 scope:
   subject: >-
@@ -176,7 +210,11 @@ scope:
     constitutional limits of economic government, followed by Friedman's
     reconstruction of consumption through permanent income, Friedman and
     Schwartz's institutional history of the United States money stock, and
-    Friedman's natural-rate critique and rule-bound doctrine of monetary policy.
+    Friedman's natural-rate critique and rule-bound doctrine of monetary policy,
+    and Varoufakis's attributed account of cloud capital, cloud rent,
+    technofeudal class relations, artificial intelligence, state dependence,
+    geopolitical division, and the recovery of freedom through transformed
+    property rights and common control of digital infrastructure.
   geography:
     - ancient Greek political philosophy as the comparative baseline
     - seventeenth-century England
@@ -186,7 +224,8 @@ scope:
     - twentieth-century United States and postwar mathematical economics
     - twentieth-century Austria and Britain in the development of Austrian economics and liberal constitutional theory
     - the United States from 1867 to 1960 as the historical field of Friedman and Schwartz's monetary history
-  period: Classical political philosophy through the Friedmanian reconstruction of consumption, monetary history, and monetary policy in 1968
+    - the global digital economy, with particular attention to the United States, China, Europe, and the Global South from the early internet through July 2026
+  period: Classical political philosophy through Varoufakis's developing account of the current cloud-capital order, incorporating his published work through July 2026
   narrative_companion: narratives/STAR-MONEY-001.md
   periodization: >-
     Locke and Hume form the pre-classical foundations of the sequence; Smith and
@@ -216,6 +255,12 @@ scope:
     function, the second reconstructs causal monetary evidence across changing
     American institutions, and the third states what a monetary authority cannot
     permanently determine and what stable nominal task it can perform.
+    Varoufakis's 2023 Technofeudalism and his articles, interviews, and video
+    essays through July 2026 form a final current-moment layer. This layer joins
+    the privatization of internet infrastructure, the post-2008 monetary and
+    fiscal settlement, platform ownership, artificial intelligence, state and
+    military dependence, and geopolitical payment systems into a hypothesis
+    about the displacement of capitalism's governing dynamic by cloud rent.
     This organizing periodization does not require every history of economics to
     use identical boundaries.
   exclusions:
@@ -231,6 +276,9 @@ scope:
     - United States monetary history after 1960 or the subsequent implementation and revision of monetary policy after Friedman's 1967 address
     - Hayek's The Road to Serfdom, Law, Legislation and Liberty, and later proposals for the denationalisation of money, which are not among the supplied sources
     - A complete history of Austrian economics, the socialist calculation debate, neoliberalism, or twentieth-century liberal and conservative movements
+    - A comprehensive empirical history of Big Tech, artificial intelligence, digital labor, platform regulation, surveillance, the technology industry, or the United States-China conflict independent of Varoufakis's stated account
+    - A finding that every platform fee is economically a rent, that platform markets have ceased to be markets under every definition, or that technofeudalism is the consensus description of the current economy
+    - Online statements by Varoufakis published after July 2026
     - A claim that intellectual teachings alone caused later economic institutions
 
 shape:
@@ -294,6 +342,19 @@ shape:
     - Friedman's proposed steady monetary growth rule is preserved as a policy judgment made under uncertainty and variable lags, not treated as a timeless theorem that fixes one aggregate or numerical rate for every institutional order.
     - The authority to stabilize nominal conditions does not settle the rightful distribution of property and income, the structure of banking power, or the ends that stable money should serve.
     - Later institutional histories of banking, corporate finance, financial markets, and monetary government beyond the cited sources require their own evidence and subsequent layers.
+    - Technofeudalism is preserved as Varoufakis's explicit hypothesis about a systemic transformation, not converted into an uncontested empirical classification of the present.
+    - The claim that capitalism has been killed means that markets and profit no longer govern the system's commanding heights in Varoufakis's account; it does not mean that capitalist production, commodities, wages, competition, or profit have literally disappeared.
+    - Cloud capital is a material and institutional network of devices, data centers, fiber, software, algorithms, artificial intelligence, and accumulated user data; the term does not refer to an immaterial cloud detached from energy, labor, minerals, land, and physical infrastructure.
+    - Cloud serf, cloud prole, vassal capitalist, cloudalist, cloud fief, and cloud rent are Varoufakis's analytical categories; they are not assertions that contemporary users possess the legal status of medieval serfs or that historical feudalism and the current digital economy are identical.
+    - Varoufakis's account of post-2008 formation traces an indirect sequence through bank rescues, austerity, weak investment, asset inflation, cheap finance, and Big Tech's construction of cloud capital; it is not restated as a claim that central banks directly transferred newly printed money to platform companies.
+    - Platform commissions, control of visibility, and charges for access are classified by Varoufakis as cloud rent; competing descriptions such as monopoly profit, intellectual-property rent, rentier capitalism, and platform capitalism remain analytically possible.
+    - The capitalist sector continues to produce commodities, exchange value, and surplus value inside Varoufakis's model even as cloud rents divert part of the resulting surplus toward owners of cloud capital.
+    - Varoufakis distinguishes artificial-intelligence services sold competitively as commodities from artificial intelligence integrated into cloud capital for behavioral modification, personalized command, surveillance, and extraction.
+    - Claims that particular AI sectors form a bubble, that cloud capital creates natural monopoly, or that the relation between capitalist and technofeudal sectors will become systemically destructive are dated arguments and forecasts, not verified inevitabilities.
+    - The concentration of cloud capital in American and Chinese domains and its connection to a new cold war are Varoufakis's geopolitical interpretation; they do not exhaust the causes of United States-China conflict or establish that every state and firm belongs wholly to one domain.
+    - Later extensions involving military targeting, policing, public administration, private government contractors, and state reliance upon corporate cloud systems are attributed to Varoufakis and require independent evidence before being treated as a complete institutional history.
+    - Techlordism names the legitimating ideology Varoufakis sees emerging around the colonization of human activity, state institutions, and finance by cloud capital; it is not treated as an already uniform doctrine held by every technology executive or government.
+    - His proposed digital rights, employee governance, public digital money, basic dividend, international clearing unit, and social ownership of cloud capital are normative institutional proposals whose administrative feasibility, constitutional safeguards, and unintended effects remain open questions.
 
 claim_policy:
   documented_textual_fact: >-
@@ -302,7 +363,7 @@ claim_policy:
   attributed_teaching: >-
     A proposition assigned to Locke, Hume, Smith, Ricardo, Marx, Jevons, Menger,
     Walras, Marshall, Keynes, Samuelson, Hayek, Friedman, Schwartz, Aristotle,
-    Strauss, or Cropsey only as
+    Strauss, Cropsey, or Varoufakis only as
     presented in a named source.
   analytical_synthesis: >-
     A bounded relation drawn across teachings to clarify a transformation in the
@@ -1193,6 +1254,90 @@ historical_spectrum:
     evidence:
       - SRC-FRIEDMAN-ROLE-MONETARY-POLICY-1968
 
+  varoufakis_cloud_capital_and_technofeudal_transformation:
+    period: The enclosure of the internet, post-2008 formation of cloud capital, and the technofeudal hypothesis
+    claim_class: ATTRIBUTED_CONTEMPORARY_HYPOTHESIS_AND_TEXTUAL_RECORD
+    facts:
+      - Varoufakis begins from historical materialism: technologies become socially transformative through the property relations and institutions governing them, not through technical capability alone.
+      - The early internet opened a comparatively decentralized digital commons, but its commercial enclosure placed the infrastructure, interfaces, data, and rules of access under a small number of private owners.
+      - Cloud capital is the physical and software network formed by servers, data centers, fiber, devices, code, algorithms, artificial intelligence, and accumulated behavioral data; it is not an ethereal place located outside the material economy.
+      - Unlike industrial capital understood primarily as a produced means of production, cloud capital is described as a produced means of behavioral modification and individuated command.
+      - It captures attention, manufactures and curates desire, connects desire directly to purchase inside proprietary domains, directs and monitors waged work, and induces users to perform unpaid activity that trains and reproduces the system.
+      - Searches, movements, reviews, photographs, recommendations, posts, clicks, and conversational interactions therefore function simultaneously as consumption, behavioral disclosure, and unpaid inputs into the improvement of cloud capital.
+      - Platform users are cloud serfs when their unpaid activity reproduces assets owned by others; workers subjected to algorithmic direction are cloud proles; conventional firms dependent upon platform access are vassal capitalists; owners of cloud capital are cloudalists.
+      - Amazon and comparable platforms appear in this account as cloud fiefs rather than markets because their proprietors centralize information, rank visibility, isolate participants, set the rules of encounter, and control access to the domain in which exchange occurs.
+      - Profit arises through the production and sale of commodities and remains exposed to competition; cloud rent arises through privileged ownership of access, infrastructure, data, and networked domains. App-store commissions supply Varoufakis's recurring example.
+      - Capitalist production remains embedded within the new order. The claim that capitalism has died means that its characteristic dynamic of markets and profit has been dethroned at the commanding center, not that every capitalist relation has vanished.
+      - Varoufakis connects this transformation to two developments: the privatization of internet infrastructure by American and Chinese technology firms, and the post-2008 combination of bank rescue, austerity, weak productive investment, abundant liquidity, and rapid construction of cloud capital.
+      - Pandemic lockdowns intensified dependence upon digital platforms and accelerated the transfer of economic and social activity into privately governed cloud domains.
+    decisive_relation: >-
+      Money, capital, and property converge in a new form of command. The
+      infrastructure collectively supplied with data and activity remains
+      privately owned, allowing its owners to shape desire, govern access, direct
+      labor, and extract cloud rent from a capitalist sector that continues to
+      produce commodities and profit beneath it.
+    evidence:
+      - SRC-VAROUFAKIS-TECHNOFEUDALISM-2023
+      - SRC-VAROUFAKIS-QA-TECHNOFEUDALISM-2024
+      - SRC-VAROUFAKIS-VIDEO-ESSAY-TECHNOFEUDALISM-2024
+
+  varoufakis_current_economic_order_ai_state_and_geopolitics:
+    period: Post-book extensions of the technofeudal thesis, 2024-July 2026
+    claim_class: ATTRIBUTED_CONTEMPORARY_ANALYSIS_AND_DATED_FORECAST
+    facts:
+      - Cloud rent removes part of the surplus produced in the capitalist sector from competitive reinvestment, while stagnant wages, unpaid digital activity, and rent leakage weaken effective demand; Varoufakis presents this interaction as a source of chronic fragility rather than a self-contained equilibrium.
+      - The liberal individual's protected private sphere is weakened when identity, attention, memory, relationships, location, and choice are continuously shaped and recorded within privately owned systems.
+      - Post-book analysis separates artificial intelligence sold as a competitive service from artificial intelligence incorporated into cloud capital. A language-model subscription can face price and open-source competition, while an assistant integrated into a platform's accumulated data and network can deepen switching costs, dependence, and behavioral command.
+      - Varoufakis interprets DeepSeek's 2025 emergence as pressure upon the market valuation and scarcity claims of proprietary AI services, not as the destruction of cloud capital itself.
+      - In his later account, personalized agents, data accumulation, individualized pricing, and dependence upon familiar interfaces can extend cloud extraction from online platforms into retail, finance, work, and everyday decision making.
+      - Techlordism names an emerging ideology that legitimates three connected expansions: the replacement or colonization of human activity by machines, the penetration of state institutions by private cloud systems, and the fusion of cloud capital with finance outside older market forms.
+      - Public agencies increasingly lease cloud storage, communication, analytical, administrative, policing, and military capacities from corporations whose infrastructure they do not control; Varoufakis treats this dependency as an alteration of state capacity rather than merely government procurement.
+      - Platform-wide centralized matching resembles private planning in his later comparison to the Soviet Gosplan, but its objective is the extraction of private rent rather than the administration of a publicly declared social plan.
+      - American and Chinese firms possess the only cloud-capital concentrations large enough to organize rival global domains in Varoufakis's account, while Europe remains dependent upon imported cloud infrastructure and the Global South faces pressure from both domains.
+      - The American domain joins dollar finance, Wall Street, military power, and privately owned cloud platforms; the Chinese domain joins state power, technology firms, integrated payment systems, and an expanding yuan-centered infrastructure.
+      - Digital payment networks and cloud finance can weaken the exclusive force of dollar-centered sanctions, making data, payment rails, advanced chips, platforms, and artificial intelligence parts of a new cold-war struggle.
+      - Artificial intelligence and cloud infrastructure can lower the cost of surveillance and targeted violence, while engagement systems reward polarization and weaken the public deliberation capable of restraining conflict; Varoufakis therefore calls technofeudalism a handmaiden of war rather than its sole cause.
+      - His 2026 forecasts distinguish the competitive fragility of commodity AI from the durable extractive power of hyperscale cloud capital and warn that the latter's predation upon the capitalist value-producing sector may become systemically destructive.
+      - Anthropomorphizing conversational systems can produce a false consciousness in which dependence appears as companionship or autonomous choice, concealing the property relation and institutional power embodied in the interface.
+    decisive_relation: >-
+      The current economic environment cannot be described only through prices,
+      money supply, aggregate demand, or industrial ownership in Varoufakis's
+      account. Control of digital infrastructure now connects the shaping of
+      individual conduct to corporate rent, public administration, finance,
+      military capacity, and geopolitical sovereignty.
+    evidence:
+      - SRC-VAROUFAKIS-IAI-TECHNOFEUDALISM-2025
+      - SRC-VAROUFAKIS-DEEPSEEK-CLOUD-CAPITAL-2025
+      - SRC-VAROUFAKIS-WARS-HANDMAIDEN-2025
+      - SRC-VAROUFAKIS-TECHLORDISM-2025-2026
+      - SRC-VAROUFAKIS-BIG-TECH-SOVIETS-2025
+      - SRC-VAROUFAKIS-AI-SLAVERY-2026
+      - SRC-VAROUFAKIS-AI-FALSE-CONSCIOUSNESS-2026
+
+  varoufakis_freedom_property_and_cloud_commons:
+    period: The proposed escape from technofeudal power
+    claim_class: ATTRIBUTED_NORMATIVE_PROGRAM
+    facts:
+      - Personal withdrawal, reduced screen time, cash use, conventional antitrust, platform regulation, and cryptocurrency do not by themselves alter ownership of cloud capital and therefore cannot independently end cloud rent.
+      - Varoufakis defines the governing political aim as universal freedom from the extractive power of both concentrated private owners and unaccountable state institutions.
+      - A Bill of Digital Rights would make collection and use of personal data conditional upon continuing consent and compensation rather than the irrevocable acceptance of opaque platform terms.
+      - Socialized cloud capital would treat digital infrastructure and the data produced through collective activity as a common productive resource rather than the exclusive asset of cloudalists.
+      - Workplace democracy would give each employee one non-tradable share and one vote, joining income and investment decisions to the persons who perform the work without recreating an external market in control rights.
+      - Public central-bank accounts or wallets would give every person direct access to the payment system, permit a universal basic dividend, and reduce dependence upon commercial banks and private payment platforms.
+      - An international clearing unit modeled on Keynes's bancor would impose symmetric pressure upon persistent surplus and deficit countries and direct adjustment charges toward green development rather than convert every imbalance into debtor austerity.
+      - Citizen supervision, local public media, assemblies selected partly by lot, and constitutional safeguards are proposed as counterweights to the risks created when digital and monetary infrastructure becomes publicly governed.
+      - The potential coalition joins cloud proles, cloud serfs, conventional workers, and vassal capitalists whose autonomy is diminished by platform dependence.
+      - Cloud mobilization would combine coordinated labor action with the withdrawal of user attention and data, bringing the paid and unpaid producers of cloud capital into one contest over ownership and control.
+    decisive_relation: >-
+      The escape from technofeudalism is a property transformation before it is a
+      change of consumer preference. Freedom requires that those whose labor,
+      attention, data, and public institutions reproduce cloud capital gain
+      enforceable authority over its ownership, purposes, and governing rules.
+    evidence:
+      - SRC-VAROUFAKIS-TECHNOFEUDALISM-2023
+      - SRC-VAROUFAKIS-FREEDOM-2026
+      - SRC-VAROUFAKIS-AI-SLAVERY-2026
+
 conceptual_chain:
   classical_baseline:
     sequence:
@@ -1477,6 +1622,25 @@ conceptual_chain:
       - steady publicly known monetary growth
     governing_principle: Consumption and money must be analyzed across time rather than inferred mechanically from current measurements; because institutionally produced nominal changes have powerful but nonpermanent real effects, monetary authority should stabilize its own conduct instead of promising continuous control of real outcomes.
 
+  varoufakis_technofeudal_current_moment:
+    sequence:
+      - decentralized internet commons
+      - privatization and enclosure of digital infrastructure
+      - post-2008 bank rescue austerity and abundant liquidity
+      - construction and concentration of cloud capital
+      - capture of attention and manufacture of desire
+      - unpaid reproduction of cloud capital by users
+      - algorithmic command of paid labor
+      - cloud serfs cloud proles and vassal capitalists
+      - privately governed cloud fiefs
+      - cloud rent above embedded capitalist profit
+      - commodity AI distinguished from AI embedded in cloud capital
+      - techlord ideology and state dependence
+      - convergence of cloud capital finance and military administration
+      - rival American and Chinese cloud domains
+      - transformed property rights and democratic cloud commons
+    governing_principle: Control of the digital infrastructure through which persons work, communicate, pay, choose, and supply data allows cloudalists to convert collective activity into behavioral command and rent; political freedom therefore requires a redistribution of ownership and authority over cloud capital itself.
+
 comparative_matrix:
   Locke:
     property: A natural right originating in self-ownership and labor.
@@ -1569,6 +1733,13 @@ comparative_matrix:
     politics: The monetary authority must prevent monetary collapse and provide a stable nominal framework, yet variable lags and adaptive expectations require rule-bound restraint rather than discretionary promises to peg interest, unemployment, or output.
     unresolved_problem: A stable monetary rule does not choose a just distribution, settle which monetary aggregate and growth rate will remain appropriate as institutions change, or remove the political problem of governing an authority whose errors can reorganize wealth, employment, and economic life.
 
+  Varoufakis:
+    property: Ownership of cloud infrastructure, algorithms, interfaces, and accumulated data confers the power to exclude, rank, personalize, and command; the proposed alternative joins digital rights to common and employee governance of those assets.
+    money: Post-2008 liquidity helps explain the formation of cloud capital, while private payment systems connect cloud rent to the dollar-yuan geopolitical divide; public digital wallets, a basic dividend, and an international clearing unit form the proposed monetary alternative.
+    value: Capitalist production continues to create commodities, exchange value, and surplus, while unpaid user activity reproduces cloud capital and privileged control of digital domains diverts surplus as cloud rent.
+    politics: Cloudalists shape desire and labor, make firms and states dependent upon private infrastructure, and carry economic ownership into public administration and geopolitical power; freedom requires altering property and control rather than merely regulating conduct at the margin.
+    unresolved_problem: The empirical boundary between profit and cloud rent, the measure of unpaid digital production, the persistence of platform competition, the feasibility and safeguards of public cloud and monetary institutions, and the claim that capitalism has been systemically displaced remain contested.
+
 boundaries:
   - The intellectual genealogy does not establish that modern monetary institutions were caused by texts alone.
   - The existence of money before Locke does not make Locke's account its historical origin; Locke marks a transformation in its relation to natural right and accumulation.
@@ -1647,7 +1818,19 @@ boundaries:
   - Monetary stability is a bounded economic objective, not a substitute for political judgment about distribution, banking organization, employment institutions, public purposes, or the good society.
   - Exchange equilibrium is a statical analytical construction and is not treated as proof that an actual economy is naturally harmonious, historically motionless, or politically just.
   - The separation of monetary functions does not make all credit instruments equivalent; their legal form, convertibility, maturity, and probability of payment remain distinct.
-  - The institutional history of corporate finance belongs to the next layer and remains outside the present evidentiary boundary.
+  - Varoufakis's book presents technofeudalism as a hypothesis and intervention in an active debate; the Star does not convert the title What Killed Capitalism into an independently established historical fact.
+  - Markets and profit remain operative inside the technofeudal account; death denotes loss of systemic primacy rather than literal disappearance.
+  - Cloud capital remains dependent upon industrial production, energy, mineral extraction, logistics, wage labor, law, finance, and states even when it acquires power over their organization.
+  - The medieval vocabulary marks a structural analogy centered on private domains, dependence, and rent; it does not erase differences in law, citizenship, labor mobility, technology, violence, or sovereignty between feudal and contemporary societies.
+  - Unpaid digital activity may reproduce platform assets without being identical in duration, compulsion, or social form to wage labor; Varoufakis's classification remains distinct from a settled labor-accounting measure.
+  - A platform can centralize matching, visibility, and access while transactions and competition continue within and among platforms; whether this constitutes a nonmarket cloud fief depends upon the adopted definition of market coordination.
+  - Post-2008 central-bank policy forms one condition within Varoufakis's causal account and does not alone explain the prior enclosure of the internet, the technical development of platforms, every firm's valuation, or the subsequent structure of cloud ownership.
+  - The post-book layer is time-indexed. DeepSeek, particular AI business models, platform interfaces, government contracts, military uses, payment networks, and geopolitical alignments can change after the cited publication dates.
+  - Artificial intelligence does not possess one economic form: competitive services, open-source models, industrial tools, public systems, and models embedded in proprietary cloud ecosystems must be distinguished.
+  - The use of privately supplied cloud services by a state does not by itself establish that the corporation controls every governmental decision, and state regulation or ownership does not by itself guarantee democratic control.
+  - The account of American and Chinese cloud domains is a map of concentration and strategic rivalry, not a complete political economy of either country, Europe, the Global South, or the international system.
+  - Digital rights and social ownership can redistribute formal authority while still creating risks of surveillance, bureaucracy, cybersecurity failure, political capture, exclusion, and concentrated public power.
+  - The institutional history of corporate finance beyond the earlier cited sources remains outside the present evidentiary boundary.
 
 navigational_questions:
   - When does money merely facilitate exchange, and when does it organize production and political dependence?
@@ -1729,6 +1912,25 @@ navigational_questions:
   - When money's functions are distributed among coin, paper, deposits, cheques, and clearing, where do liquidity, convertibility, and settlement risk reside?
   - Which parts of monetary order emerge through decentralized exchange, and which are created, standardized, or enforced by political authority?
   - What standards can judge an economic order if preference, production, or historical success cannot supply the human good by themselves?
+  - What must be shown empirically before the displacement of market and profit by cloud fiefs and rent can be described as a new mode of production rather than a transformed stage of capitalism?
+  - Which powers of cloud capital derive from technology, which from network effects, which from intellectual-property and contract law, and which from the ownership of infrastructure and accumulated data?
+  - When does a platform commission represent payment for a competitively supplied service, monopoly profit, intellectual-property rent, or Varoufakis's cloud rent?
+  - How does unpaid user activity reproduce cloud capital, and what measure could distinguish productive contribution from consumption, communication, play, or voluntary expression?
+  - Can platform users meaningfully exit when identity, social relations, commercial reputation, work, public services, and accumulated data are bound to the same cloud domain?
+  - Does cloud capital resolve Hayek's knowledge problem through centralized computation, intensify it through private opacity and manipulated signals, or create a different problem of who owns and chooses the objective of coordination?
+  - How does Varoufakis's private-Gosplan analogy differ from Walrasian equilibrium, Samuelsonian planning, competitive price discovery, and public economic planning?
+  - How do post-2008 monetary institutions connect to cloud ownership without reducing the growth of Big Tech to a direct act of central-bank financing?
+  - What remains capitalist in a system where commodity production and profit continue but access to customers, payments, data, and visibility is governed through cloud fiefs?
+  - Why can competitive pressure undermine the price of an AI service without undermining the cloud capital into which artificial intelligence is integrated?
+  - When do personalized assistance and lower search costs become behavioral command, discriminatory pricing, dependence, or the enclosure of autonomous judgment?
+  - How does private control of cloud infrastructure alter the capacity and sovereignty of states that rely upon it for administration, policing, health, communication, or war?
+  - Does the division between American and Chinese cloud domains principally follow currency and payment systems, state strategy, technical standards, military rivalry, or ownership of cloud capital?
+  - Can Europe or countries of the Global South build autonomous digital infrastructure without reproducing either private cloudalism or centralized state surveillance?
+  - Which property rights must change if data are jointly produced by users, workers, public institutions, and the owners of physical infrastructure?
+  - Can a Bill of Digital Rights make consent meaningful when participation in work and public life requires access to the relevant platform?
+  - How would one-person-one-vote firms, public digital wallets, a universal dividend, and an international clearing unit allocate investment, bear losses, secure privacy, and resist political capture?
+  - What coalition could unite cloud proles, cloud serfs, traditional workers, and vassal capitalists when their immediate interests and forms of dependence differ?
+  - If freedom means emancipation from extractive power, what constitutional limits must bind both private cloud owners and public institutions governing common digital infrastructure?
 
 sources:
   - source_id: SRC-STRAUSS-ARISTOTLE-POLITICS-1967
@@ -2082,4 +2284,125 @@ sources:
     supports:
       - friedman_monetary_policy_natural_rate_and_rule
 
-completeness: COMPLETE_THROUGH_FRIEDMANIAN_CONSUMPTION_AND_MONETARY_POLICY_PENDING_CERTIFICATION
+  - source_id: SRC-VAROUFAKIS-TECHNOFEUDALISM-2023
+    type: PRIMARY_TEXT_BOOK
+    author: Yanis Varoufakis
+    title: 'Technofeudalism: What Killed Capitalism'
+    year: 2023
+    publisher: The Bodley Head
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - varoufakis_cloud_capital_and_technofeudal_transformation
+      - varoufakis_freedom_property_and_cloud_commons
+
+  - source_id: SRC-VAROUFAKIS-QA-TECHNOFEUDALISM-2024
+    type: AUTHOR_INTERVIEW_TRANSCRIPT
+    author: Yanis Varoufakis
+    interviewer: Lorenzo Tecleme
+    title: Q&A on Technofeudalism
+    publication_date: 2024-01-13
+    url: https://www.yanisvaroufakis.eu/2024/01/13/qa-on-technofeudalism-interviewed-by-lorenzo-tecleme-for-valori-it/
+    witness_status: AUTHOR_WEBSITE
+    supports:
+      - varoufakis_cloud_capital_and_technofeudal_transformation
+
+  - source_id: SRC-VAROUFAKIS-VIDEO-ESSAY-TECHNOFEUDALISM-2024
+    type: AUTHOR_VIDEO_ESSAY
+    author: Yanis Varoufakis
+    title: Technofeudalism - a video essay summarising the book
+    publication_date: 2024-02-04
+    url: https://www.yanisvaroufakis.eu/2024/02/04/technofeudalism-a-video-essay-summarising-the-book/
+    witness_status: AUTHOR_WEBSITE
+    supports:
+      - varoufakis_cloud_capital_and_technofeudal_transformation
+
+  - source_id: SRC-VAROUFAKIS-IAI-TECHNOFEUDALISM-2025
+    type: RECORDED_AUTHOR_INTERVIEW
+    author: Yanis Varoufakis
+    title: Yanis Varoufakis on technofeudalism, capitalism and democracy
+    publication_date: 2025-02-13
+    publisher: The Institute of Art and Ideas
+    url: https://www.youtube.com/watch?v=Y_3_PnnZ14I
+    witness_status: VERIFIED_PUBLISHER_VIDEO
+    supports:
+      - varoufakis_current_economic_order_ai_state_and_geopolitics
+
+  - source_id: SRC-VAROUFAKIS-DEEPSEEK-CLOUD-CAPITAL-2025
+    type: AUTHOR_ARTICLE_AND_VIDEO
+    author: Yanis Varoufakis
+    title: 'Cloud Capital vs AI: What DeepSeek means for Technofeudalism and the New Cold War'
+    publication_date: 2025-01-28
+    url: https://www.yanisvaroufakis.eu/2025/01/28/cloud-capital-vs-ai-what-deepseek-means-for-technofeudalism-the-new-cold-war/
+    witness_status: AUTHOR_WEBSITE
+    supports:
+      - varoufakis_current_economic_order_ai_state_and_geopolitics
+
+  - source_id: SRC-VAROUFAKIS-WARS-HANDMAIDEN-2025
+    type: AUTHOR_ARTICLE
+    author: Yanis Varoufakis
+    title: Technofeudalism Is War's Handmaiden
+    publication_date: 2025-02-15
+    publication: Project Syndicate, reproduced on the author's website
+    url: https://www.yanisvaroufakis.eu/2025/02/15/technofeudalism-is-wars-handmaiden-project-syndicate/
+    witness_status: AUTHOR_WEBSITE_REPRODUCTION
+    supports:
+      - varoufakis_current_economic_order_ai_state_and_geopolitics
+
+  - source_id: SRC-VAROUFAKIS-TECHLORDISM-2025-2026
+    type: AUTHOR_ARTICLE_WITH_UPDATED_VERSION
+    author: Yanis Varoufakis
+    title: Neoliberalism is dead. Say hello to techlordism
+    initial_publication_date: 2025-04-15
+    initial_url: https://www.yanisvaroufakis.eu/2025/04/15/neoliberalism-is-dead-say-hello-to-techlordism/
+    updated_publication_date: 2026-05-05
+    updated_title: 'Palantir and the New Order: Neoliberalism is dead. Say hello to techlordism'
+    updated_url: https://www.yanisvaroufakis.eu/2026/05/05/palantir-and-the-new-order-neoliberalism-is-dead-say-hello-to-techlordism-the-point/
+    witness_status: AUTHOR_WEBSITE
+    supports:
+      - varoufakis_current_economic_order_ai_state_and_geopolitics
+
+  - source_id: SRC-VAROUFAKIS-BIG-TECH-SOVIETS-2025
+    type: AUTHOR_ARTICLE
+    author: Yanis Varoufakis
+    title: Big Tech are the new Soviets
+    publication_date: 2025-12-04
+    publication: UnHerd, reproduced on the author's website
+    url: https://www.yanisvaroufakis.eu/2025/12/04/big-tech-are-the-new-soviets-unherd/
+    witness_status: AUTHOR_WEBSITE_REPRODUCTION
+    supports:
+      - varoufakis_current_economic_order_ai_state_and_geopolitics
+
+  - source_id: SRC-VAROUFAKIS-FREEDOM-2026
+    type: AUTHOR_ARTICLE
+    author: Yanis Varoufakis
+    title: The Left must embrace freedom - notions of fairness and equality won't cut it
+    publication_date: 2026-01-03
+    publication: UnHerd, reproduced on the author's website
+    url: https://www.yanisvaroufakis.eu/2026/01/03/the-left-must-embrace-freedom-notions-of-fairness-and-equality-wont-cut-it-unherd-op-ed/
+    witness_status: AUTHOR_WEBSITE_REPRODUCTION
+    supports:
+      - varoufakis_freedom_property_and_cloud_commons
+
+  - source_id: SRC-VAROUFAKIS-AI-SLAVERY-2026
+    type: AUTHOR_ARTICLE
+    author: Yanis Varoufakis
+    title: Can we escape AI slavery? Only the Left can tame Big Tech
+    publication_date: 2026-02-12
+    url: https://www.yanisvaroufakis.eu/2026/02/12/can-we-escape-ai-slavery-only-the-left-can-tame-big-tech-2/
+    witness_status: AUTHOR_WEBSITE
+    supports:
+      - varoufakis_current_economic_order_ai_state_and_geopolitics
+      - varoufakis_freedom_property_and_cloud_commons
+
+  - source_id: SRC-VAROUFAKIS-AI-FALSE-CONSCIOUSNESS-2026
+    type: AUTHOR_ARTICLE
+    author: Yanis Varoufakis
+    title: AI and the false consciousness trap
+    publication_date: 2026-07-11
+    publication: UnHerd, reproduced on the author's website
+    url: https://www.yanisvaroufakis.eu/2026/07/11/ai-and-the-false-consciousness-trap-unherd/
+    witness_status: AUTHOR_WEBSITE_REPRODUCTION
+    supports:
+      - varoufakis_current_economic_order_ai_state_and_geopolitics
+
+completeness: COMPLETE_THROUGH_VAROUFAKIS_TECHNOFEUDAL_CURRENT_MOMENT_PENDING_CERTIFICATION
