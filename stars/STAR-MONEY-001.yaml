@@ -135,7 +135,29 @@ fact: >-
   measures required political judgment. Modern credit made some deliberate
   monetary control unavoidable, but policy had to be bounded by known objectives
   and rules because discretionary pursuit of short-run full employment could turn
-  inflation into a mechanism of dependence and expanding control.
+  inflation into a mechanism of dependence and expanding control. Friedman then
+  reconstructed consumption, monetary history, and policy as one empirical and
+  theoretical sequence. The permanent-income hypothesis separated measured
+  income and consumption into lasting and transitory components and explained
+  consumption through the longer-run resources people expected to command rather
+  than through current receipts alone. With Anna Schwartz, Friedman traced the
+  American money stock from 1867 to 1960 through currency, deposits, high-powered
+  money, banking ratios, gold flows, Treasury operations, and Federal Reserve
+  decisions. Their history treated monetary change as institutionally produced
+  and mutually related to business conditions, yet often independently initiated
+  and especially consequential in major movements. The Great Contraction became
+  the decisive case: the collapse of money and banking was not an unavoidable
+  reflection of declining activity, but a disaster the Federal Reserve possessed
+  ordinary means to arrest and failed to arrest. Friedman finally converted this
+  history into limits and obligations for policy. A monetary authority could not
+  permanently peg interest rates or unemployment, nor determine real output by
+  nominal action, because expectations
+  and market adjustments would undo the initial real effects of nominal action;
+  it could prevent money itself from becoming a major source of disorder and
+  provide a stable nominal background through a publicly known, steady monetary
+  rule. The result was neither Keynesian fine tuning nor monetary impotence, but
+  a doctrine of powerful nominal authority restrained by imperfect knowledge,
+  delayed effects, and the distinction between nominal instruments and real ends.
 
 scope:
   subject: >-
@@ -151,7 +173,10 @@ scope:
     Keynesian income analysis, and economic dynamics, together with Hayek's
     overlapping reconstruction of monetary capital, dispersed knowledge,
     competitive discovery, spontaneous order, freedom under law, and the
-    constitutional limits of economic government.
+    constitutional limits of economic government, followed by Friedman's
+    reconstruction of consumption through permanent income, Friedman and
+    Schwartz's institutional history of the United States money stock, and
+    Friedman's natural-rate critique and rule-bound doctrine of monetary policy.
   geography:
     - ancient Greek political philosophy as the comparative baseline
     - seventeenth-century England
@@ -160,7 +185,8 @@ scope:
     - twentieth-century Britain, British India, and the European and international monetary system
     - twentieth-century United States and postwar mathematical economics
     - twentieth-century Austria and Britain in the development of Austrian economics and liberal constitutional theory
-  period: Classical political philosophy through the overlapping Keynesian, Samuelsonian, and Hayekian reconstructions of economic order
+    - the United States from 1867 to 1960 as the historical field of Friedman and Schwartz's monetary history
+  period: Classical political philosophy through the Friedmanian reconstruction of consumption, monetary history, and monetary policy in 1968
   narrative_companion: narratives/STAR-MONEY-001.md
   periodization: >-
     Locke and Hume form the pre-classical foundations of the sequence; Smith and
@@ -184,6 +210,12 @@ scope:
     theory to dispersed knowledge, competitive discovery, general rules, and
     constitutional liberty. Hayek is therefore organized after Samuelson here to
     make the contrast intelligible, not presented as a chronological successor.
+    Friedman's 1957 consumption theory, the 1963 monetary history coauthored with
+    Anna Jacobson Schwartz, and his 1967 presidential address published in 1968
+    form the next analytical sequence. The first revises the Keynesian consumption
+    function, the second reconstructs causal monetary evidence across changing
+    American institutions, and the third states what a monetary authority cannot
+    permanently determine and what stable nominal task it can perform.
     This organizing periodization does not require every history of economics to
     use identical boundaries.
   exclusions:
@@ -194,7 +226,9 @@ scope:
     - Continental and later neoclassical branches not represented by the supplied primary texts
     - A complete reconstruction of Volume I of Keynes's 1930 Treatise on Money, The Pure Theory of Money, which is not among the supplied sources
     - Samuelson's Economics textbook and a complete reconstruction of the doctrine later called the neoclassical synthesis
-    - Later Keynesian, neo-Keynesian, New Keynesian, Post-Keynesian, monetarist, or macroeconomic schools beyond the supplied Samuelson sources
+    - Later Keynesian, neo-Keynesian, New Keynesian, Post-Keynesian, new classical, rational-expectations, or macroeconomic schools beyond the supplied Friedman sources
+    - A complete history of the Chicago school or monetarism beyond A Theory of the Consumption Function, A Monetary History of the United States, and The Role of Monetary Policy
+    - United States monetary history after 1960 or the subsequent implementation and revision of monetary policy after Friedman's 1967 address
     - Hayek's The Road to Serfdom, Law, Legislation and Liberty, and later proposals for the denationalisation of money, which are not among the supplied sources
     - A complete history of Austrian economics, the socialist calculation debate, neoliberalism, or twentieth-century liberal and conservative movements
     - A claim that intellectual teachings alone caused later economic institutions
@@ -250,6 +284,15 @@ shape:
     - Hayek's criticism of the welfare state is not read as rejection of every public service or social provision; particular measures must be distinguished by their methods, coercive structure, compatibility with general law, and consequences.
     - The Constitution of Liberty accepts deliberate control of modern money and credit as unavoidable under existing institutions while seeking to limit discretion; it is not read backward as the later proposal for competitive private currencies.
     - Hayek's preference for price stability over inflationary pursuit of maximal short-run employment remains distinct from Keynes's and Samuelson's analyses and is not treated here as a settled empirical refutation of them.
+    - Friedman's permanent income is a theoretical magnitude inferred from behavior and evidence, not a claim that every person possesses perfect foresight, follows a complete lifetime plan, or ignores transitory income.
+    - Friedman and Schwartz's monetary history combines quantitative series with institutional and narrative evidence; statistical association alone is not treated as proof that money caused every movement in income or prices.
+    - Their claim that monetary changes often had an independent origin is distinguished from a claim that money was exogenous in every episode; they expressly describe mutual interaction between money and business.
+    - Their Great Contraction argument is attributed to Friedman and Schwartz and distinguishes the avoidable monetary and banking collapse from a claim that monetary action could have eliminated every prior cause or every decline in activity.
+    - Velocity is not treated as mechanically constant: permanent income, interest, inflation expectations, institutional substitutes for money, uncertainty, and changing expectations about stability enter the demand for balances.
+    - Friedman's natural rate is an attributed analytical construct determined by structural features of labor and commodity markets; it is neither a morally natural rate nor an immutable or precisely known constant.
+    - The short-run effects of monetary policy depend upon unanticipated changes and adaptive expectations; the absence of a permanent nominal-real tradeoff is not converted into a denial that monetary disturbances have powerful transitional effects.
+    - Friedman's proposed steady monetary growth rule is preserved as a policy judgment made under uncertainty and variable lags, not treated as a timeless theorem that fixes one aggregate or numerical rate for every institutional order.
+    - The authority to stabilize nominal conditions does not settle the rightful distribution of property and income, the structure of banking power, or the ends that stable money should serve.
     - Later institutional histories of banking, corporate finance, financial markets, and monetary government beyond the cited sources require their own evidence and subsequent layers.
 
 claim_policy:
@@ -258,7 +301,8 @@ claim_policy:
     primary work or seminar transcript.
   attributed_teaching: >-
     A proposition assigned to Locke, Hume, Smith, Ricardo, Marx, Jevons, Menger,
-    Walras, Marshall, Keynes, Samuelson, Hayek, Aristotle, Strauss, or Cropsey only as
+    Walras, Marshall, Keynes, Samuelson, Hayek, Friedman, Schwartz, Aristotle,
+    Strauss, or Cropsey only as
     presented in a named source.
   analytical_synthesis: >-
     A bounded relation drawn across teachings to clarify a transformation in the
@@ -1076,6 +1120,79 @@ historical_spectrum:
     evidence:
       - SRC-HAYEK-CONSTITUTION-LIBERTY-1960-2011
 
+  friedman_permanent_income_and_consumption:
+    period: The permanent-income reconstruction of consumption, 1957
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Measured income and measured consumption over a year need not be the magnitudes governing a household's conduct, just as expenditure on a payday need not be explained by that day's receipts; the relevant horizon extends beyond the accounting period.
+      - Friedman decomposes measured income and consumption into permanent and transitory components. Permanent income is the longer-run flow a consumer expects from human and nonhuman wealth, while transitory components register departures associated with chance, timing, windfalls, losses, and measurement.
+      - Permanent consumption is proportional to permanent income through a ratio that does not depend upon the level of permanent income but can vary with interest rates, the relation of nonhuman wealth to income, uncertainty, age, household composition, tastes, and cultural conditions.
+      - The formal hypothesis assumes that transitory income is uncorrelated with permanent income, that transitory consumption is uncorrelated with permanent consumption, and that transitory income and consumption are mutually uncorrelated; these are empirical restrictions rather than definitions guaranteed to hold in every sample.
+      - Permanent components are not directly observed. They are inferred from budget data, time series, relations among incomes in successive years, and the consistency of results across bodies of evidence whose definitions, sample biases, and periods differ.
+      - The approximately three-year horizon that performs well in Friedman's tests is a tentative empirical result, not a claim of perfect foresight or a complete lifetime consumption plan.
+      - Transitory income is not irrelevant. It can change saving, assets, and liabilities and can affect consumption when the event changes expected resources beyond the horizon or when a nominally transitory event becomes persistent.
+      - The hypothesis reconciles the rising saving ratio found in cross-sectional budget studies with the comparatively stable aggregate consumption share over long periods: measured-income classes differ partly because transitory components sort households above or below their permanent positions.
+      - Annual measured-income inequality can therefore exceed inequality in permanent income, but the conclusion depends upon the source and persistence of income differences and does not erase inequalities of wealth, command, or durable earning capacity.
+      - In a Keynesian income-expenditure model, a smaller response of consumption to transitory current income reduces the implied multiplier and removes the necessity of a secularly rising saving ratio as income grows; it does not by itself refute every theory of cyclical unemployment or investment instability.
+    decisive_relation: >-
+      Consumption is relocated from a direct function of current measured income
+      to a decision formed across time from expected lasting resources. The
+      revision narrows the mechanical Keynesian multiplier while making wealth,
+      uncertainty, expectations, and the distinction between observation and
+      theoretical magnitude central to aggregate consumption.
+    evidence:
+      - SRC-FRIEDMAN-CONSUMPTION-FUNCTION-1957
+
+  friedman_schwartz_us_monetary_history_and_institutions:
+    period: The United States money stock and its institutional determinants, 1867-1960
+    claim_class: ATTRIBUTED_HISTORICAL_ARGUMENT_AND_TEXTUAL_RECORD
+    facts:
+      - Friedman and Schwartz construct a selective monetary history rather than a general economic history, tracing the stock of currency and commercial-bank deposits, the factors changing it, and its reflex influence upon economic activity, money income, and prices.
+      - The money stock can be decomposed arithmetically into high-powered money, the public's deposit-currency ratio, and the banking system's deposit-reserve ratio; which persons and institutions alter those determinants changes across monetary regimes.
+      - From the Greenback period through specie resumption, the silver controversy, the gold-standard expansion, banking panics, the creation of the Federal Reserve, two world wars, the New Deal, and the postwar settlement, money was produced through law, politics, gold flows, Treasury operations, public portfolio choices, banking conduct, and central-bank decisions.
+      - Monetary relations remained comparatively stable across radical changes in these arrangements, but velocity was neither fixed nor mechanical; income, interest, expectations, uncertainty, and the availability and perceived quality of substitute assets altered the amount of money the public wished to hold.
+      - Monetary movements and business conditions interacted, yet monetary changes often had an independently identifiable origin in gold discoveries, war finance, policy decisions, reserve requirements, institutional conflict, or other events not mechanically caused by contemporaneous income.
+      - The Federal Reserve successfully reduced seasonal monetary strain after 1914, but elasticity between deposits and currency did not guarantee an elastic total money stock; the doctrine that money should contract with the needs of trade could intensify rather than offset a contraction.
+      - During the Great Contraction of 1929-1933, the money stock fell by more than one-third, more than one-fifth of commercial banks suspended, the number of banks fell by more than one-third, and the banking collapse ended in a nationwide holiday.
+      - Friedman and Schwartz reject the interpretation of that monetary collapse as an unavoidable passive response. They maintain that open-market purchases and lender-of-last-resort measures already within the Federal Reserve's capacity could have prevented the cumulative fall in money and contained the banking crisis.
+      - The failure was institutional and intellectual as well as technical: Benjamin Strong's death, conflict between the Board and the New York Bank, diffusion of authority among twelve Reserve Bank governors, weak leadership, commitment to gold, and prevailing liquidationist and needs-of-trade ideas produced deadlock and inaction.
+      - The 1936-1937 doubling of reserve requirements, acting upon banks still seeking unusually high liquidity, contributed to the monetary decline accompanying the severe 1937-1938 contraction; deposit insurance, by contrast, changed the conversion risk between deposits and currency after 1934.
+      - Wartime deficits, gold movements, Federal Reserve credit, and support of government-security prices joined political decisions to monetary expansion and inflation, while price controls and rationing complicated the appearance and measurement of the price rise.
+      - The 1951 Treasury-Federal Reserve Accord broke the commitment to rigid support of government bond prices and restored greater monetary independence, with formal abandonment completed later; subsequent attempts to lean against the wind exposed the danger that delayed effects could turn confident discretionary reactions into alternating monetary overcorrection.
+      - The postwar rise in velocity was partly a reversal of exceptional wartime liquidity accumulation and partly related to interest, price expectations, substitutes, and confidence in stability, but Friedman and Schwartz label their residual expectations explanation tentative and quantitatively unconfirmed.
+      - Their summation finds money closely associated with income and prices, the relation comparatively stable, and monetary changes often independently initiated, while retaining feedback from business to money and treating money as the senior rather than the sole partner in major movements.
+    decisive_relation: >-
+      The quantity of money is neither an automatic metallic datum nor a simple
+      policy dial. It is an institutional outcome formed by government, banks,
+      and the public; because changes in that outcome can independently amplify
+      or arrest major economic movements, the organization and conduct of
+      monetary authority become part of causal economic history.
+    evidence:
+      - SRC-FRIEDMAN-SCHWARTZ-MONETARY-HISTORY-1963
+
+  friedman_monetary_policy_natural_rate_and_rule:
+    period: The limits, responsibilities, and conduct of monetary policy, 1967-1968
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Friedman presents the postwar revival of monetary policy as a correction both to the 1920s faith in fine tuning and to the Keynesian-era belief that money was impotent in deep contraction; the Great Depression disclosed destructive monetary power rather than the absence of power.
+      - A monetary authority cannot peg a nominal interest rate at a low level indefinitely. An initial liquidity effect can lower the rate, but higher spending, prices, and expected inflation raise nominal rates through income, price, and Fisher effects.
+      - It cannot permanently peg unemployment below its natural rate. Unexpected inflation can temporarily change real wages and employment because workers and firms respond to different perceived prices, but adjustment of expectations removes the effect unless inflation accelerates.
+      - The natural rate is the unemployment rate consistent with the structural characteristics of labor and commodity markets, including frictions, information, mobility, bargaining, and institutional arrangements; it is not fixed, precisely observable, morally natural, or necessarily optimal.
+      - Monetary authority commands nominal magnitudes and can exert powerful transitional effects, but it cannot permanently determine real interest rates, real output, or unemployment independently of real structures and expectations.
+      - Policy can prevent money from becoming a major source of economic disturbance, provide a stable nominal background for decentralized adjustment, and respond to major dangers when the need for action is clear.
+      - Interest rates and unemployment are misleading guides because the authority does not control their real components and can make apparently easy money tight or apparently tight money easy; a monetary total is closer to an instrument it can control.
+      - Uncertain knowledge, variable magnitudes, and long and variable delays between action and effect make discretionary fine tuning liable to destabilize the system it is intended to correct.
+      - Friedman therefore recommends a publicly announced steady rate of growth in a specified monetary aggregate. His illustrative numerical range and choice of aggregate are practical judgments; the governing principle is steadiness and predictability rather than confidence in continuous short-run adjustment.
+      - The rule limits the monetary authority by its own sphere of competence: it assigns a powerful institution responsibility for nominal stability while denying that nominal power can continuously manufacture real prosperity or select the ends of economic life.
+    decisive_relation: >-
+      Historical evidence of monetary power is converted into a doctrine of
+      monetary restraint. Because policy can cause vast nominal and transitional
+      real disturbances but cannot permanently fix real outcomes, its highest
+      contribution is to prevent monetary disorder and make its own nominal
+      conduct stable, public, and predictable.
+    evidence:
+      - SRC-FRIEDMAN-ROLE-MONETARY-POLICY-1968
+
 conceptual_chain:
   classical_baseline:
     sequence:
@@ -1343,6 +1460,23 @@ conceptual_chain:
       - stability without comprehensive direction
     governing_principle: Economic and political coordination must use knowledge that no mind possesses as a whole; money, prices, competition, and general law therefore form a constitutional order that enables decentralized plans while restraining both private and governmental coercion.
 
+  friedman_consumption_monetary_history_and_policy:
+    sequence:
+      - measured income and consumption
+      - permanent and transitory components
+      - expected lasting resources and wealth
+      - permanent consumption
+      - currency and commercial-bank deposits
+      - high-powered money
+      - public and bank portfolio ratios
+      - monetary institutions and policy decisions
+      - money income prices and economic activity
+      - independent monetary disturbances and reciprocal effects
+      - natural rates and adaptive expectations
+      - nominal instruments and real limits
+      - steady publicly known monetary growth
+    governing_principle: Consumption and money must be analyzed across time rather than inferred mechanically from current measurements; because institutionally produced nominal changes have powerful but nonpermanent real effects, monetary authority should stabilize its own conduct instead of promising continuous control of real outcomes.
+
 comparative_matrix:
   Locke:
     property: A natural right originating in self-ownership and labor.
@@ -1428,6 +1562,13 @@ comparative_matrix:
     politics: Freedom under general law preserves the use of dispersed knowledge, while government maintains rules, competition, public services, minimum security, and a stable monetary framework without directing the detailed purposes of the social order.
     unresolved_problem: Epistemic limits discipline claims to comprehensive direction but do not by themselves decide rightful initial holdings, the acceptable degree of material dependence, the content of minimum provision, or the substantive human ends that freedom should serve.
 
+  Friedman:
+    property: Human and nonhuman wealth determine the longer-run resources entering permanent income, but the theory analyzes their effects without deriving the justice of their original ownership or distribution.
+    money: Currency and commercial-bank deposits formed through high-powered money, public portfolio choice, bank reserve behavior, law, Treasury operations, and central-bank action; the authority can govern nominal magnitudes but not permanently dictate real outcomes.
+    value: Permanent income and consumption, money demand, expectations, and empirically stable relations replace mechanical dependence upon current measured flows or a fixed velocity without returning to introspective utility as a directly observed magnitude.
+    politics: The monetary authority must prevent monetary collapse and provide a stable nominal framework, yet variable lags and adaptive expectations require rule-bound restraint rather than discretionary promises to peg interest, unemployment, or output.
+    unresolved_problem: A stable monetary rule does not choose a just distribution, settle which monetary aggregate and growth rate will remain appropriate as institutions change, or remove the political problem of governing an authority whose errors can reorganize wealth, employment, and economic life.
+
 boundaries:
   - The intellectual genealogy does not establish that modern monetary institutions were caused by texts alone.
   - The existence of money before Locke does not make Locke's account its historical origin; Locke marks a transformation in its relation to natural right and accumulation.
@@ -1492,6 +1633,18 @@ boundaries:
   - Limited welfare provision remains possible inside Hayek's constitutional order, but no supplied text fixes one timeless institutional formula for every society and condition.
   - Hayek's 1960 monetary framework accepts central banking under existing credit institutions and therefore cannot be collapsed into either pure laissez-faire money or his later competitive-currency proposals.
   - The broad practical price-stability objective of The Constitution of Liberty does not erase the earlier argument that a stable consumer-price index can conceal monetary changes in relative prices and production; practical constraint and theoretical neutrality remain distinct.
+  - Friedman's permanent-income hypothesis applies a horizon longer than the observation period but is not identified with perfect foresight, a fixed lifetime plan, or an assertion that current income never matters.
+  - Permanent and transitory components are theoretical classifications inferred from evidence; they are not labels that make every windfall temporary, every recurring receipt permanent, or every empirical correlation vanish by definition.
+  - The permanent-income account can explain differences between cross-sectional and aggregate consumption functions without proving that observed wealth or permanent-income distributions are just or politically irrelevant.
+  - Friedman and Schwartz define their monetary object as currency plus commercial-bank deposits; savings-and-loan shares and other near-moneys enter as possible substitutes rather than silently becoming identical components of the series.
+  - The arithmetic decomposition of the money stock into high-powered money and portfolio ratios does not by itself determine causation; public behavior, bank behavior, policy, gold, law, and business conditions must be recovered historically.
+  - Close and temporally ordered association between money and income is combined with qualitative institutional evidence; it is not treated as sufficient proof that every monetary movement independently caused every economic movement.
+  - The Great Contraction counterfactual concerns feasible policies that could have prevented the collapse of money and banking; it is not converted into certainty about the exact output path that every alternative policy would have produced.
+  - Deposit insurance altered the danger that attempts to convert deposits into currency would cumulate into panic; this claim does not establish the complete consequences or justice of every deposit-insurance design.
+  - The United States evidence ends in 1960 and cannot by itself establish monetary relations, velocity behavior, or optimal policy under every later financial technology and institutional regime.
+  - Friedman's natural-rate argument denies a permanent unemployment-inflation tradeoff at a fixed expected inflation rate; it does not deny temporary real effects, structural unemployment policy, or the possibility that institutions can change the natural rate.
+  - The proposed monetary growth rule is an attributed response to limited knowledge and policy lags; its illustrative aggregate and numerical growth range are not elevated into permanent constitutional constants.
+  - Monetary stability is a bounded economic objective, not a substitute for political judgment about distribution, banking organization, employment institutions, public purposes, or the good society.
   - Exchange equilibrium is a statical analytical construction and is not treated as proof that an actual economy is naturally harmonious, historically motionless, or politically just.
   - The separation of monetary functions does not make all credit instruments equivalent; their legal form, convertibility, maturity, and probability of payment remain distinct.
   - The institutional history of corporate finance belongs to the next layer and remains outside the present evidentiary boundary.
@@ -1555,6 +1708,18 @@ navigational_questions:
   - Why does modern bank credit make some discretionary monetary action unavoidable even in a theory committed to limiting discretion?
   - Can a monetary authority protect employment without turning short-run expansion into persistent inflation and a cumulative demand for controls?
   - Where do Keynes, Samuelson, and Hayek disagree about aggregates, adjustment, stability, and the proper object of economic government, and where do all three reject a mechanically automatic monetary order?
+  - What changes when consumption is related to expected permanent income rather than to the income measured during the current accounting period?
+  - How do permanent and transitory components reconcile household budget evidence with the long-run stability of aggregate consumption without assuming perfect foresight?
+  - When does a transitory receipt alter only saving and asset holdings, and when does it revise the lasting resources upon which consumption depends?
+  - How do currency, deposits, high-powered money, the public's deposit-currency ratio, and banks' deposit-reserve ratio divide causal agency among government, banks, and the public?
+  - Which monetary changes originate independently of current business activity, and where does business activity react back upon money?
+  - Why did the creation of the Federal Reserve fail to prevent the cumulative conversion of deposits into currency and the monetary collapse of 1929-1933?
+  - How did the distribution of authority, institutional conflict, and prevailing doctrine shape what technically feasible monetary actions were taken or refused?
+  - What does changing velocity reveal about permanent income, interest, uncertainty, substitute assets, and expectations of stability?
+  - Why can easy money initially lower interest rates while sustained monetary expansion ultimately raises nominal rates?
+  - How can unexpected inflation temporarily lower unemployment, and why does the effect disappear as workers and firms revise expectations?
+  - What can a monetary authority control reliably if nominal instruments cannot permanently peg real interest, employment, or output?
+  - Does a steady monetary rule adequately discipline institutional power, or does selecting and revising the aggregate and growth rate necessarily return policy to judgment?
   - How do labor and production remain present after they cease to be treated as the direct cause or substance of value?
   - How does value pass from anticipated consumer goods backward to complementary productive inputs operating through time?
   - When does an economic law describe recurring conduct, and when is it treated as a limit upon political judgment?
@@ -1880,4 +2045,41 @@ sources:
     supports:
       - hayek_constitutional_liberty_law_and_money
 
-completeness: COMPLETE_THROUGH_HAYEKIAN_ECONOMIC_AND_CONSTITUTIONAL_ORDER_PENDING_CERTIFICATION
+  - source_id: SRC-FRIEDMAN-CONSUMPTION-FUNCTION-1957
+    type: PRIMARY_TEXT_SCANNED_EDITION
+    author: Milton Friedman
+    title: A Theory of the Consumption Function
+    original_year: 1957
+    series: National Bureau of Economic Research, General Series Number 63
+    supplied_edition: Indian edition, 1970, published by arrangement with the original publisher, Princeton University Press
+    publisher: Oxford and IBH Publishing Co.
+    witness_status: OWNER_SUPPLIED_LOCAL_SCAN
+    supports:
+      - friedman_permanent_income_and_consumption
+
+  - source_id: SRC-FRIEDMAN-SCHWARTZ-MONETARY-HISTORY-1963
+    type: PRIMARY_TEXT_SCANNED_EDITION
+    authors:
+      - Milton Friedman
+      - Anna Jacobson Schwartz
+    title: A Monetary History of the United States, 1867-1960
+    original_year: 1963
+    series: National Bureau of Economic Research, Studies in Business Cycles Number 12
+    supplied_edition: Ninth paperback printing, 1993
+    publisher: Princeton University Press
+    witness_status: OWNER_SUPPLIED_LOCAL_SCAN
+    supports:
+      - friedman_schwartz_us_monetary_history_and_institutions
+
+  - source_id: SRC-FRIEDMAN-ROLE-MONETARY-POLICY-1968
+    type: PRIMARY_TEXT_JOURNAL_ARTICLE
+    author: Milton Friedman
+    title: The Role of Monetary Policy
+    year: 1968
+    publication: The American Economic Review, Volume 58, Number 1, March 1968
+    address_date: December 29, 1967
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - friedman_monetary_policy_natural_rate_and_rule
+
+completeness: COMPLETE_THROUGH_FRIEDMANIAN_CONSUMPTION_AND_MONETARY_POLICY_PENDING_CERTIFICATION
