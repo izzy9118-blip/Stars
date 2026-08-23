@@ -96,7 +96,24 @@ fact: >-
   and saving adjusted to investment through changes in income. A monetary
   economy could consequently settle into equilibrium below full employment,
   making public influence over consumption, interest, and investment a condition
-  for preserving both productive capacity and individual freedom.
+  for preserving both productive capacity and individual freedom. Samuelson then
+  reconstructed the inherited fields of economic theory as instances of a common
+  formal method. Operationally meaningful theorems had to restrict observable
+  behavior in ways that could conceivably be refuted; maximization supplied such
+  restrictions for individual economic units, while stability supplied them for
+  interdependent systems that could not be reduced to a single maximum. Revealed
+  preference relocated consumer theory from introspective utility to consistent
+  choices among affordable alternatives. Comparative statics asked how an
+  equilibrium changed when its data changed, and the correspondence principle
+  joined those displacements to the conditions governing dynamic stability. The
+  Keynesian system could therefore be represented as an interdependent relation
+  among consumption, investment, liquidity preference, money, income, and
+  interest and tested for the conditions under which its conclusions followed.
+  Welfare economics, linear programming, capital theory, and modern
+  reconstructions of Ricardo and Marx extended the same analytical program while
+  preserving a decisive limit: a technically stable or efficient equilibrium did
+  not by itself determine a just distribution, a social welfare ordering, or the
+  ends the economy should serve.
 
 scope:
   subject: >-
@@ -104,17 +121,20 @@ scope:
     subordination of acquisition to the polis through Locke, Hume, Smith,
     Ricardo, Marx, the independent Jevonsian, Mengerian, and Walrasian
     reconstructions of post-classical marginalism, their Marshallian
-    consolidation into neoclassical economics, and Keynes's reconstruction of
-    the economy as a monetary system governed first through circulation,
-    investment, and monetary management and then through effective demand,
-    expectations, liquidity, and politically administered institutions.
+    consolidation into neoclassical economics, Keynes's reconstruction of the
+    economy as a monetary system governed first through circulation, investment,
+    and monetary management and then through effective demand, expectations,
+    liquidity, and politically administered institutions, and Samuelson's
+    formalization of consumer behavior, production, welfare, equilibrium,
+    Keynesian income analysis, and economic dynamics.
   geography:
     - ancient Greek political philosophy as the comparative baseline
     - seventeenth-century England
     - eighteenth-century Scotland and Great Britain
     - nineteenth-century Britain and continental Europe
     - twentieth-century Britain, British India, and the European and international monetary system
-  period: Classical political philosophy through Keynes's General Theory
+    - twentieth-century United States and postwar mathematical economics
+  period: Classical political philosophy through Samuelson's postwar foundations of economic analysis
   narrative_companion: narratives/STAR-MONEY-001.md
   periodization: >-
     Locke and Hume form the pre-classical foundations of the sequence; Smith and
@@ -128,8 +148,11 @@ scope:
     investment disequilibrium, the credit cycle, and national and international
     monetary management; The General Theory then reconstructs the system around
     effective demand, aggregate output, employment, liquidity preference, and
-    the public guidance of investment. This organizing periodization does not
-    require every history of economics to use identical boundaries.
+    the public guidance of investment; Samuelson then gathers consumer theory,
+    production, welfare, capital, money, Keynesian income analysis, and business
+    cycles into a common language of maximization, comparative statics,
+    stability, and dynamics. This organizing periodization does not require every
+    history of economics to use identical boundaries.
   exclusions:
     - A universal history of money in every civilization
     - A complete history of banking, corporations, securities, central banking, or public finance
@@ -137,7 +160,8 @@ scope:
     - Later revisions of Walras and post-Walrasian developments in general equilibrium theory
     - Continental and later neoclassical branches not represented by the supplied primary texts
     - A complete reconstruction of Volume I of Keynes's 1930 Treatise on Money, The Pure Theory of Money, which is not among the supplied sources
-    - Later Keynesian, neo-Keynesian, New Keynesian, Post-Keynesian, monetarist, or macroeconomic schools
+    - Samuelson's Economics textbook and a complete reconstruction of the doctrine later called the neoclassical synthesis
+    - Later Keynesian, neo-Keynesian, New Keynesian, Post-Keynesian, monetarist, or macroeconomic schools beyond the supplied Samuelson sources
     - A claim that intellectual teachings alone caused later economic institutions
 
 shape:
@@ -169,6 +193,16 @@ shape:
     - The identity of saving and investment is not treated as prior equality between intended saving and intended investment; in Keynes's system aggregate income changes until realized saving equals realized investment.
     - Liquidity preference is distinguished from the cash-balance demand for transactions alone and from a loanable-funds theory in which saving mechanically fixes the interest rate.
     - Keynes's proposal for central controls and a socialization of investment is not described as comprehensive state ownership; his stated aim is public determination of aggregate investment and employment alongside a wide field for private initiative.
+    - Samuelson's mathematics is treated as a method for making assumptions and implications explicit, not as a claim that mathematical form alone establishes empirical truth, political legitimacy, or moral authority.
+    - Samuelson's operationally meaningful theorem is a restriction on conceivable empirical observations; a definitional identity or an equilibrium whose assumptions impose no refutable consequences is not treated as an empirical economic law.
+    - Maximization and stability remain distinct sources of comparative-static restrictions: individual units may be represented through constrained extrema, while an interacting system need not maximize a single magnitude in order to possess a stable equilibrium.
+    - Dynamic stability carries no teleological or normative implication; a stable system can preserve mass unemployment, inequality, or another politically undesirable condition.
+    - Revealed preference reconstructs consumer theory from observable consistency of choice and is not converted into a proof that the resulting choices are psychologically autonomous, morally good, or sufficient for social welfare.
+    - Samuelson's formalization of the Keynesian system is a deliberately simplified model used to derive conditional comparative-static and dynamic results; it is not substituted for the complete argument of The General Theory.
+    - Samuelson's analysis of money distinguishes transactional demand, uncertainty, liquidity differentials, and the general rate of interest; it does not reduce interest to the price of money or claim that interest could not exist without money.
+    - Pareto efficiency and linear-programming optimality identify constrained technical relations but do not select a distribution of income, determine a social welfare function, or decide which final goods and purposes should govern production.
+    - Samuelson's mathematical reconstructions of Ricardo and Marx are attributed modern models and criticisms; they do not constitute a complete interpretation or refutation of either thinker's historical, political, or philosophical teaching.
+    - The supplied collected papers are Volume I, arranged topically and extending through late 1964 with limited 1965 corrections; they are not treated as the whole of Samuelson's scientific work.
     - Later institutional histories of banking, corporate finance, financial markets, and monetary government beyond the cited sources require their own evidence and subsequent layers.
 
 claim_policy:
@@ -177,8 +211,8 @@ claim_policy:
     primary work or seminar transcript.
   attributed_teaching: >-
     A proposition assigned to Locke, Hume, Smith, Ricardo, Marx, Jevons, Menger,
-    Walras, Marshall, Keynes, Aristotle, Strauss, or Cropsey only as presented in
-    a named source.
+    Walras, Marshall, Keynes, Samuelson, Aristotle, Strauss, or Cropsey only as
+    presented in a named source.
   analytical_synthesis: >-
     A bounded relation drawn across teachings to clarify a transformation in the
     place of money and economics within political and social life.
@@ -849,6 +883,76 @@ historical_spectrum:
       - SRC-MARSHALL-PRINCIPLES-1930
       - SRC-MARSHALL-MONEY-CREDIT-COMMERCE-1929
 
+  samuelson_operational_analysis_and_revealed_preference:
+    period: The postwar formalization of economic theory
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Formally similar theorems recur across production, consumer behavior, international trade, public finance, business cycles, and income analysis, making it possible to construct a general theory of their common analytical features.
+      - An operationally meaningful theorem restricts conceivable empirical observations in a way that could be refuted under ideal conditions; it can be false, difficult to test, or quantitatively unimportant without becoming meaningless.
+      - The mere existence of enough equilibrium equations to determine unknown prices and quantities supplies no useful empirical conclusion unless the theory also restricts how those unknowns change when specified data or parameters change.
+      - Comparative statics therefore becomes the inquiry into the qualitative or quantitative displacement of equilibrium produced by a change in the environment represented by the model.
+      - For individual consumers and firms, the hypothesis that equilibrium represents a constrained maximum or minimum supplies inequalities from which determinate comparative-static restrictions can be derived.
+      - Revealed preference removes the need to begin consumer theory from introspective psychological utility by treating chosen quantities at given prices and income as the empirical data of the analysis.
+      - If one affordable collection of goods is selected over another, consistent behavior rules out the simultaneous reverse selection; this restriction yields testable implications for demand without requiring a cardinal measure of satisfaction.
+      - Consumer behavior and welfare remain distinct subjects: the consistency revealed by choice does not by itself determine whether a choice or its social consequences are good.
+      - Mathematics is used to expose common assumptions, symmetries, inequalities, and consequences that literary formulations can obscure; the empirical force of the conclusions cannot exceed the force of the hypotheses from which they are derived.
+    decisive_relation: >-
+      Economic theory becomes a formal science of conditional and potentially
+      refutable relations: observed choice, constrained maximization, and changes
+      in parameters replace psychological introspection or equilibrium existence
+      alone as the basis of determinate economic propositions.
+    evidence:
+      - SRC-SAMUELSON-FOUNDATIONS-1947
+      - SRC-SAMUELSON-COLLECTED-PAPERS-V1-1966
+
+  samuelson_money_keynesian_system_and_economic_dynamics:
+    period: Money, stability, and the formal dynamics of income and cycles
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Money can be introduced into consumer choice as a good whose physical quantity demanded is homogeneous of degree one in other prices and income and whose demand ordinarily falls when the opportunity cost represented by interest rises.
+      - Transactional demand does not exhaust the monetary problem: uncertainty, contingency needs, asynchronous receipts and payments, liquidity preference, and differences among assets explain why money is held and why yields differ.
+      - The general rate of interest is not simply the price of money and need not disappear in an economy without money; liquidity and transaction differentials help explain the structure of yields without necessarily explaining their average level in every condition.
+      - Interacting economic systems need not maximize a single magnitude, so their meaningful comparative-static restrictions can instead be derived from hypotheses concerning dynamic stability.
+      - The correspondence principle links the response of an equilibrium to changed parameters with the conditions under which a dynamic process returns toward equilibrium, making the study of dynamics necessary even for fruitful statics.
+      - A simplified Keynesian system relates consumption, intended investment, liquidity preference, the quantity of money, income, and interest; its equilibrium equations alone leave many comparative-static effects indeterminate.
+      - When a dynamic adjustment process and stability conditions are added, an increased propensity to consume or an upward shift in the marginal efficiency of capital raises income and interest, while an increase in money lowers interest; further conclusions about income and investment require additional behavioral restrictions.
+      - Stability is not a claim of welfare or full employment: a dynamically persistent equilibrium can contain extensive unemployment.
+      - A system is dynamic when economically significant variables at different dates are related through lags, rates of change, or other temporal functions; a historically changing sequence is not dynamic merely because its values carry dates.
+      - Business cycles can arise from exogenous impulses, endogenous propagation, nonlinear limits, or random shocks acting upon a damped structure, so no single contrast between equilibrium and disturbance exhausts dynamic behavior.
+      - Comparative dynamics extends the question from the final displacement of equilibrium to the entire path by which changes in initial conditions, external forces, or structural parameters alter an economy through time.
+    decisive_relation: >-
+      Keynes's monetary economy is converted into a formally specified moving
+      system: money, interest, consumption, investment, and income yield definite
+      conclusions only when their adjustment process and stability conditions are
+      made explicit, and those same conditions reveal the difference between a
+      persistent equilibrium and a desirable one.
+    evidence:
+      - SRC-SAMUELSON-FOUNDATIONS-1947
+      - SRC-SAMUELSON-COLLECTED-PAPERS-V1-1966
+      - SRC-KEYNES-GENERAL-THEORY-1936-2013
+
+  samuelson_welfare_market_mechanisms_and_formal_limits:
+    period: Welfare economics, linear programming, and the reach of formal reconstruction
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Competitive exchange and production can satisfy efficiency conditions only relative to an existing distribution of income, property, abilities, technology, and external effects; marginal productivity does not prove that the resulting personal distribution is ethically justified.
+      - A Pareto optimum is not unique: different transfers of income generate different efficient positions, and the Pareto criterion alone cannot rank them or exclude a socially preferred movement through an inefficient position.
+      - A social welfare function makes the ethical judgments required for collective ordering explicit instead of deriving them from the behavior of isolated consumers or from the price system itself.
+      - If some optimality conditions fail, blindly imposing the remaining first-best conditions need not improve welfare; the appropriate conditions change with the constraints and distortions already present.
+      - Dynamic consequences can reverse a judgment formed from static efficiency alone because present organization, saving, research, invention, and future production enter the social comparison.
+      - Linear programming expresses the maximization of a stated objective under technological and resource constraints and produces shadow prices that behave like scarcity prices even when no actual market exists.
+      - Competitive prices can decentralize parts of a technical maximization problem, while a planning authority can use the same shadow prices; neither mechanism chooses the final social objective whose maximization gives the prices their meaning.
+      - Samuelson's modern reconstruction of Ricardo and Marx replaces embodied-labor calculation with a simultaneous model of technology, wages, interest, and relative prices and presents the labor theory of exchange value as a special limiting case rather than a general pricing law.
+      - That reconstruction expressly brackets the noneconomic, historical, and imperfect-competition dimensions of Marx's thought, demonstrating the limited reach of the formal model even while advancing a strong criticism of Marxian value theory.
+    decisive_relation: >-
+      Formal economic analysis can disclose efficient allocations, scarcity
+      prices, dynamic constraints, and inconsistencies within earlier models, but
+      it cannot generate from those results the distribution, social objective,
+      or conception of human welfare by which the economic order is to be judged.
+    evidence:
+      - SRC-SAMUELSON-FOUNDATIONS-1947
+      - SRC-SAMUELSON-COLLECTED-PAPERS-V1-1966
+
 conceptual_chain:
   classical_baseline:
     sequence:
@@ -1084,6 +1188,22 @@ conceptual_chain:
       - public guidance of aggregate investment
     governing_principle: Money connects views of the future to present employment, so the aggregate volume of production is not self-adjusting and must be sustained through political influence over credit, consumption, interest, and investment.
 
+  samuelson_operational_formalization:
+    sequence:
+      - observed prices income and chosen quantities
+      - revealed preference and consistency
+      - constrained maximization
+      - equilibrium equations
+      - changed parameters
+      - comparative statics
+      - dynamic adjustment
+      - stability conditions
+      - correspondence principle
+      - Keynesian income and monetary system
+      - comparative dynamics
+      - welfare and social choice boundary
+    governing_principle: Economic propositions acquire determinate empirical content when assumptions restrict observable responses to change, while stability, efficiency, and mathematical consistency remain distinct from welfare and political legitimacy.
+
 comparative_matrix:
   Locke:
     property: A natural right originating in self-ownership and labor.
@@ -1155,6 +1275,13 @@ comparative_matrix:
     politics: Monetary, fiscal, banking, and investment policy must sustain domestic employment and stability without converting the entire economy into state ownership; international policy must respect the productive interdependence through which financial claims are paid.
     unresolved_problem: Public authority can raise employment and moderate monetary disorder without the economic theory alone determining the rightful distribution of wealth, the proper objects of investment, or the ultimate ends that full employment should serve.
 
+  Samuelson:
+    property: Endowments, productive assets, and their distribution enter formal models as initial data or constraints whose economic consequences can be analyzed without their moral legitimacy being established by the analysis.
+    money: A demanded asset and transaction medium joined to income and interest, and a parameter within the Keynesian system whose effects depend upon liquidity, behavior, adjustment, and stability rather than quantity alone.
+    value: Observable choice, constrained maximization, technology, and equilibrium determine conditional price and quantity relations; comparative statics and dynamics disclose how those relations change when data change.
+    politics: Policy requires an explicitly selected social objective and knowledge of institutional constraints; market prices and planning shadow prices can both coordinate technical decisions without choosing that objective.
+    unresolved_problem: Formal analysis can identify consistency, stability, efficiency, and policy tradeoffs without deriving the social welfare function, rightful initial distribution, or ends by which the economic system should be judged.
+
 boundaries:
   - The intellectual genealogy does not establish that modern monetary institutions were caused by texts alone.
   - The existence of money before Locke does not make Locke's account its historical origin; Locke marks a transformation in its relation to natural right and accumulation.
@@ -1196,6 +1323,16 @@ boundaries:
   - Keynes does not reject Marshallian or classical price theory in every field; he restricts it to a special case or to allocation within an independently determined aggregate level of output.
   - The socialization of investment concerns public influence over its aggregate volume and basic return; it is not treated as a proposal for comprehensive state ownership or the abolition of private enterprise.
   - Full employment is an economic and political objective in this layer, not a complete definition of justice, freedom, or the good society.
+  - The Samuelsonian layer is based on Foundations of Economic Analysis and Volume I of the Collected Scientific Papers; it is not expanded into a complete history of Samuelson's textbook, policy writing, or every later form of the neoclassical synthesis.
+  - An operationally meaningful theorem is capable of conceivable refutation; this standard does not guarantee that the theorem is true, important, or testable with the data presently available.
+  - Revealed preference constrains observed demand behavior without recovering a psychological quantity of utility or converting consumer consistency into a welfare judgment.
+  - Maximization and stability are hypotheses from which conditional theorems follow, not universal descriptions of every person, institution, market, or historical economy.
+  - The correspondence principle relates comparative statics to dynamic stability but does not imply that every equilibrium is reached, unique, efficient, or socially desirable.
+  - Samuelson's formal Keynesian system isolates consumption, investment, liquidity preference, money, income, and interest; conclusions that require additional stability or sign assumptions remain conditional upon them.
+  - Samuelson's claim that interest can exist without money distinguishes the general intertemporal rate from liquidity differentials; it does not deny that money and uncertainty shape the observed structure and movement of interest rates.
+  - A shadow price is the value of relaxing a constraint relative to a stated objective; it is not by itself a market price, a moral valuation, or a proof that the objective is legitimate.
+  - Pareto efficiency cannot rank alternative efficient distributions, and a social welfare function cannot avoid ethical judgment merely by being written mathematically.
+  - Samuelson's modern dissection of Marx deliberately abstracts from historical, political, and imperfect-competition dimensions; its conclusions are not treated as a complete judgment on Marx's account of capitalist society.
   - Exchange equilibrium is a statical analytical construction and is not treated as proof that an actual economy is naturally harmonious, historically motionless, or politically just.
   - The separation of monetary functions does not make all credit instruments equivalent; their legal form, convertibility, maturity, and probability of payment remain distinct.
   - The institutional history of corporate finance belongs to the next layer and remains outside the present evidentiary boundary.
@@ -1238,6 +1375,13 @@ navigational_questions:
   - When can liquidity preference prevent additional money or a lower policy rate from restoring investment and employment?
   - Why can falling wages intensify debt burdens, pessimism, and deficient demand instead of automatically clearing the labor market?
   - What must public authority determine at the aggregate level while leaving the direction of much production to decentralized initiative?
+  - What changes when economic theory is required to state restrictions that conceivable observations could refute rather than merely solve a determinate set of equilibrium equations?
+  - How does revealed preference preserve the empirical implications of consumer theory while separating them from psychological utility and welfare?
+  - When does maximization supply meaningful comparative-static results, and when must stability replace maximization as the governing hypothesis?
+  - Which conclusions of a formal Keynesian system follow from its equilibrium equations, and which depend upon a specified adjustment process and stability conditions?
+  - How can an equilibrium be dynamically stable while preserving unemployment or another politically undesirable condition?
+  - What does a shadow price reveal about a technological constraint without deciding the social objective or distribution that the constraint should serve?
+  - Why can Pareto efficiency compare movements away from waste without choosing among alternative efficient distributions?
   - How do labor and production remain present after they cease to be treated as the direct cause or substance of value?
   - How does value pass from anticipated consumer goods backward to complementary productive inputs operating through time?
   - When does an economic law describe recurring conduct, and when is it treated as a limit upon political judgment?
@@ -1502,4 +1646,30 @@ sources:
       - keynes_general_theory_of_the_monetary_economy
       - keynesian_economics_layer
 
-completeness: COMPLETE_THROUGH_KEYNESIAN_ECONOMICS_PENDING_CERTIFICATION
+  - source_id: SRC-SAMUELSON-FOUNDATIONS-1947
+    type: PRIMARY_TEXT_SCANNED_EDITION
+    author: Paul Anthony Samuelson
+    title: Foundations of Economic Analysis
+    original_year: 1947
+    supplied_edition: Sixth printing, Oxford University Press, Bombay, Calcutta, and Madras, marked 1947
+    witness_status: OWNER_SUPPLIED_LOCAL_SCAN
+    supports:
+      - samuelson_operational_analysis_and_revealed_preference
+      - samuelson_money_keynesian_system_and_economic_dynamics
+      - samuelson_welfare_market_mechanisms_and_formal_limits
+
+  - source_id: SRC-SAMUELSON-COLLECTED-PAPERS-V1-1966
+    type: PRIMARY_TEXT_COLLECTED_PAPERS
+    author: Paul A. Samuelson
+    editor: Joseph E. Stiglitz
+    title: The Collected Scientific Papers of Paul A. Samuelson, Volume I
+    year: 1966
+    publisher: Oxford and IBH Publishing Co.
+    editorial_scope: Papers arranged by subject, extending through late 1964, with limited corrections and marked 1965 postscripts
+    witness_status: OWNER_SUPPLIED_LOCAL_SCAN
+    supports:
+      - samuelson_operational_analysis_and_revealed_preference
+      - samuelson_money_keynesian_system_and_economic_dynamics
+      - samuelson_welfare_market_mechanisms_and_formal_limits
+
+completeness: COMPLETE_THROUGH_SAMUELSONIAN_ECONOMIC_ANALYSIS_PENDING_CERTIFICATION
