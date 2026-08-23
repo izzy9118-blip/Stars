@@ -33,6 +33,18 @@ fact: >-
   architectural placement therefore communicated together; the temple did not
   illustrate a doctrine existing elsewhere but embodied and enacted it.
 
+  Herodotus enters this order as an authoritative witness to Egypt's encounter
+  with Greek historical inquiry. He learns from the priests of Ptah at Memphis,
+  compares their account with Heliopolis and Thebes, distinguishes observation,
+  inference, priestly record, and report, and preserves disagreement where
+  inquiry cannot decide it. The priests place 341 generations of human kings and
+  high priests within a succession preceded by divine kings and ending with
+  Horus before mortal rule. Statues, papyrus records, monuments, calendars,
+  measures, rites, and offices make Egypt the keeper of a memory vastly older
+  than Greek genealogies. Greece enters the relation as learner: Greek inquiry
+  receives Egyptian accounts of calendrical order, divine names, temple and
+  ritual forms, geometry, specialized medicine, and historical knowledge.
+
   Kingship continues creation within the Two Lands. The royal principle, not the
   private personality of the reigning man, stands at the center. The living king
   appears as Horus, Son of Ra, lord of the Two Lands, bearer of the Double Crown
@@ -78,7 +90,13 @@ fact: >-
   The palace and bureaucracy distribute the same order through offices.
   Ptahhotep presents the vizier as a servant of the dual king whose authority
   depends upon hearing, measured speech, self-command, impartial judgment, care
-  for the weak, and the endurance of Right since Osiris.
+  for the weak, and the endurance of Right since Osiris. Herodotus makes the
+  distribution visible through hereditary priesthoods and animal keepers,
+  warriors supported by untaxed land, royal guards, specialized physicians,
+  scribes, translators, pilots, artisans, traders, governors, and differentiated
+  classes of service. The Nile joins these institutions to territory: dyke,
+  canal, flood, survey, field, tax, city, and boundary make land governable.
+  Geometry restores proportion when the river changes the taxable holding.
 
   Egyptian reflections on failed rule preserve the distance between the office
   and every occupant. The Teaching for Merikare makes a king responsible for
@@ -94,16 +112,40 @@ fact: >-
   worship. This was neither the hidden essence toward which all earlier Egypt
   tended nor an event that made the older forms unreal; it disclosed the power
   of kingship to reorder cult and the resistance of inherited divine centers to
-  permanent concentration.
+  permanent concentration. Herodotus preserves the same distinction between
+  royal office and royal appetite through Cheops, who closes sanctuaries and
+  compels labor; Mycerinus, who restores sacrifice and just judgment; Sabacos,
+  who relinquishes rule rather than obey a command to commit sacrilege; and
+  Amasis, who teaches how a common man can be transformed by royal office.
 
   Egyptian form could absorb conquerors and foreign communities while assigning
   them unequal statuses. Foreign rulers assumed Egyptian crowns and sustained
   temples; foreigners also entered as skilled artisans, scribes, soldiers,
-  merchants, tributary laborers, and protected settlers. Jewish communities later
-  built temples, held property, entered Egyptian legal forms, and adopted elements
-  of Egyptian practice, while changes of dynasty and conflict with local temples
-  could remove their security. Incorporation was a power to classify, transform,
-  and distribute rights and obligations, not a guarantee of equality.
+  merchants, tributary laborers, and protected settlers. Psammetichus used Ionian
+  and Carian soldiers to reunify rule, settled them on Egyptian land, and created
+  a hereditary class of Greek interpreters; Amasis concentrated Greek settlement
+  and trade at Naucratis and used foreign soldiers as royal guards. Apries then
+  lost Egyptian allegiance while relying upon those mercenaries. Jewish
+  communities later built temples, held property, entered Egyptian legal forms,
+  and adopted elements of Egyptian practice, while changes of dynasty and
+  conflict with local temples could remove their security. Incorporation was a
+  power to classify, transform, and distribute rights and obligations, not a
+  guarantee of equality.
+
+  Cambyses exposed the difference between conquest and incorporation. He entered
+  Egypt with subjects understood as inherited slaves, defeated its army,
+  humiliated its royal house, opened tombs, violated restricted sanctuaries, and
+  ordered a mummified body burned against Egyptian and Persian funerary law. In
+  Herodotus he wounded Apis and punished priests and worshippers; in Egyptian
+  monumental evidence he also assumed pharaonic forms and provided for an Apis
+  burial. Both witnesses remain authoritative and their difference remains
+  visible. Herodotus gives the culminating judgment through nomos: inherited
+  custom forms what a people experiences as pious, just, shameful, and
+  intolerable, while the ruler who makes private appetite its own law dissolves
+  the order that gives law its purpose. Nomos and ma'at are not identical. One
+  names the plurality of inherited human orders; the other names right order in
+  cosmos, land, divine life, and human action. Their conjunction opens the
+  question whether ancestral order answers to a standard beyond ancestry.
 
   Sacred science also distinguishes the Osirian and Horian paths. The Osirian way
   works through death, consequence, reincarnation, judgment, and gradual renewal.
@@ -125,19 +167,21 @@ fact: >-
   natural symbol articulate genesis; temple, body, craft, rite, and sacred
   geography embody those functions; divine succession becomes the royal
   principle; kingship makes ma'at effective through ritual, law, office, land,
-  education, initiation, and force; death submits ruler and ruled to judgment;
-  and Osirian renewal and Horian liberation return life toward its source. This
-  is the first older force in the History of Power: an entire civilization
-  organized as sacred science and carried across generations through names,
-  crowns, images, rites, numbers, measures, monuments, teachings, offices, and
-  the dead.
+  education, initiation, and force; nomos forms inherited ways of seeing and
+  acting; priestly record, monument, measure, and historical inquiry transmit the
+  order across peoples and generations; death submits ruler and ruled to
+  judgment; and Osirian renewal and Horian liberation return life toward its
+  source. This is the first older force in the History of Power: an entire
+  civilization organized as sacred science and carried across generations
+  through names, crowns, images, rites, numbers, measures, monuments, customs,
+  teachings, offices, and the dead.
 
 scope:
   subject: >-
     Egyptian power as sacred science from inherited civilizational knowledge,
     creation and divine succession through myth, natural symbol, number, temple,
-    Anthropocosmos, the royal principle, ma'at, office, land, coercion, death,
-    judgment, and renewal.
+    Anthropocosmos, the royal principle, ma'at, nomos, priestly memory,
+    historical inquiry, office, land, coercion, death, judgment, and renewal.
   geography: >-
     The Two Lands and the Egyptian cosmic field of sky, earth, Nile Valley,
     Delta, desert, neighboring lands, and Duat as the sources themselves order
@@ -168,6 +212,8 @@ shape:
     - Inscription, symbol, number, measure, material, architecture, ritual, and kingship are read together where sacred science joins them.
     - The completeness of the earliest visible civilization is not forced into a developmental sequence unsupported by its remains.
     - Atlantis designates the prior high civilization from which the Egyptian legacy may descend; its location and transmission remain open.
+    - Herodotus is an authority on Egyptian priestly memory, custom, institutions, kingship, foreign incorporation, and the encounter between Egypt and Greek inquiry.
+    - Herodotus's stated distinctions among sight, inference, Egyptian report, and other report are preserved without subordinating his witness to later commentary.
 
 claim_policy:
   self_witness: >-
@@ -187,6 +233,12 @@ claim_policy:
     Archaeological description of workmanship, artistic form, architecture,
     ritual sequence, and institutional practice supplies the material expression
     of sacred science without reducing its spiritual meaning to technique.
+  herodotean_witness: >-
+    Herodotus's account governs the historical encounter between Egypt and Greece,
+    including priestly chronology, autopsy, comparative inquiry, inherited custom,
+    kingship, foreign settlement, conquest, and the remembered sacrilege of
+    Cambyses. His deliberate silence concerning divine secrets marks the boundary
+    of his inquiry; it does not make the sacred science itself absent.
   synthesis: >-
     General claims about Egyptian power must be supported by more than one class
     of witness or clearly marked as a tension internal to the sources.
@@ -194,8 +246,8 @@ claim_policy:
     Ptah, Atum-Ra, Osiris-Horus, local divine centers, and the Aten are not made
     interchangeable. Royal ideals, royal failures, priestly delegation,
     individual judgment, changes in mortuary access, symbolic and historical
-    readings, and ornament with different densities of meaning remain
-    distinguishable.
+    readings, ornament with different densities of meaning, Herodotean report,
+    and Egyptian monumental record remain distinguishable.
 
 historical_spectrum:
   inherited_sacred_science:
@@ -203,6 +255,13 @@ historical_spectrum:
     - civilization as legacy rather than visible development
     - an older high civilization whose true age and transmission remain open
     - Atlantis as the name of that prior civilizational source
+  herodotean_inquiry_and_memory:
+    - Memphis, Heliopolis, and Thebes as compared centers of priestly knowledge
+    - observation, inference, Egyptian report, and foreign report
+    - statues, papyrus records, monuments, and continuous priestly succession
+    - 341 mortal generations preceded by divine kings
+    - Horus as the last divine king before the human succession
+    - Egypt as teacher and Greece as learner
   creation_and_effective_speech:
     - primeval possibility
     - heart as design and understanding
@@ -246,6 +305,8 @@ historical_spectrum:
     - monument, image, name, boundary, decree, and teaching
     - training of architects, sculptors, scribes, and ritual specialists
     - absorption and classification of foreign rulers and communities
+    - hereditary priesthood, warrior land, royal guard, physician, interpreter, pilot, artisan, and trader
+    - Nile, dyke, canal, survey, field, tax, city, and boundary
   material_embodiment:
     - stability, strength, endurance, truth, justice, discipline, and harmony in art
     - precise quarrying, sawing, drilling, grinding, transport, alignment, and setting
@@ -260,12 +321,20 @@ historical_spectrum:
     - offerings, memory, justified life, and renewed order
     - Osirian renewal through consequence and reincarnation
     - Horian liberation through conscious struggle and reconciliation
+  custom_conquest_and_incorporation:
+    - nomos as the inherited order that forms perception and conduct
+    - Greek mercenaries, interpreters, Naucratis, and regulated foreign settlement
+    - conquest distinguished from assumption of Egyptian royal form
+    - Cambyses between pharaonic incorporation and remembered sacrilege
+    - royal appetite becoming law and dissolving the purpose of law
+    - the unresolved relation between plural custom and ma'at
 
 conceptual_chain:
   egyptian_power:
     sequence:
       - undifferentiated possibility
       - creative heart and effective speech
+      - priestly memory, historical inquiry, and civilizational transmission
       - myth, number, natural symbol, and functional divine centers
       - gods, names, forms, arts, and provisions
       - temple and Anthropocosmos
@@ -276,16 +345,19 @@ conceptual_chain:
       - ma'at against isfet
       - offering and recurring ritual
       - palace, office, land, law, craft, and administration
+      - Nile, measure, survey, tax, and territorial order
       - incorporation and classification of foreign peoples
       - royal protection, punishment, and war
+      - nomos, conquest, sacrilege, and the judgment of imperial will
       - death, Osirian continuity, and succession
       - judgment by the heart and divine court
       - Osirian renewal and Horian liberation
     governing_principle: >-
       Sacred science continues creation by embodying its functions in symbol,
-      temple, body, royal office, and institution; rightful power makes ma'at
-      effective while judgment, Osirian renewal, and Horian liberation place
-      every mortal bearer within an order no bearer created.
+      temple, body, royal office, and institution; priestly memory and inquiry
+      transmit those forms; nomos shapes inherited ways of life; rightful power
+      makes ma'at effective; and judgment, Osirian renewal, and Horian liberation
+      place every mortal bearer within an order no bearer created.
 
 internal_tensions:
   - tension: Visible beginning and inherited completion
@@ -293,6 +365,16 @@ internal_tensions:
       - The earliest surviving horizon already possesses complete writing, measure, art, craft, and kingship.
       - The source, true age, and means of transmission of that complete legacy remain unknown.
     preservation_rule: Absence of an excavated developmental sequence is not converted into proof that the legacy began with its earliest surviving remains.
+  - tension: Sacred knowledge and historical inquiry
+    sides:
+      - Egyptian priests, monuments, rites, and records preserve an order whose highest meanings require initiation.
+      - Herodotus compares testimony, observation, measurement, and inference while refusing to disclose or discuss divine secrets beyond necessity.
+    preservation_rule: Greek inquiry is an authoritative witness to Egypt without becoming the measure of the sacred science it approaches only in part.
+  - tension: Maat and nomos
+    sides:
+      - Ma'at names right order in cosmos, divine life, land, kingship, and human conduct.
+      - Nomos names the inherited customs through which different peoples experience piety, justice, shame, and necessity.
+    preservation_rule: Ancestral formation and right by nature or cosmic order remain joined as a question rather than made identical.
   - tension: Multiple beginnings
     sides:
       - Ptah creates through heart and tongue.
@@ -354,6 +436,11 @@ internal_tensions:
       - Egyptian forms absorb foreign kings, artisans, soldiers, merchants, and religious communities.
       - Foreign status can also mean tribute, labor, exclusion, temple conflict, or expulsion.
     preservation_rule: Incorporation is treated as a civilizational power without being mistaken for equal membership.
+  - tension: Cambyses as pharaoh and violator
+    sides:
+      - Egyptian monumental evidence places Cambyses within pharaonic forms and the provision of an Apis burial.
+      - Herodotus records his humiliation of Egyptian kingship, violation of tombs and sanctuaries, and wounding of Apis.
+    preservation_rule: Neither witness erases the other; foreign rule can assume Egyptian form while remaining remembered through acts of sacrilege.
 
 comparative_matrix:
   Sacred_Science:
@@ -376,6 +463,14 @@ comparative_matrix:
     form_of_power: Incorporation of conquerors and foreign communities through crowns, labor obligations, craft, law, property, settlement, and temple relations.
     political_implication: Egyptian order can transform outsiders into rulers or participants while maintaining unequal and reversible statuses.
     unresolved_question: Assimilation, autonomy, protection, coercion, and conflict vary by dynasty and community and cannot be compressed into a single status.
+  Herodotus_Book_Two:
+    form_of_power: Priestly memory, monumental witness, comparative inquiry, custom, territorial measure, differentiated service, kingship, foreign settlement, and civilizational transmission.
+    political_implication: Egypt teaches Greece through records and institutions older than Greek memory, while historical inquiry learns to distinguish sight, inference, Egyptian report, and competing accounts.
+    unresolved_question: Herodotus's deliberate reticence about divine matters makes his account authoritative but partial in relation to the sacred science preserved by Egyptian authorities.
+  Herodotus_on_Cambyses:
+    form_of_power: Imperial conquest severed from sacred restraint and converted into humiliation, sacrilege, arbitrary law, and the ruler's private appetite.
+    political_implication: Nomos forms ruler and ruled before individual choice; a king who treats inherited limits as objects of ridicule dissolves his own capacity to distinguish law from will.
+    unresolved_question: Herodotus's violated Apis and the Egyptian record of Cambyses providing an Apis burial remain distinct witnesses to conquest and pharaonic incorporation.
   Shabaka_Stone:
     form_of_power: Creation through heart, tongue, command, name, and hieroglyphic form.
     political_implication: Effective speech and intelligent design precede and ground ordered action.
@@ -425,10 +520,16 @@ boundaries:
   - Temple economy is not treated as a secular economy merely controlled by priests, because offering and cosmic maintenance define its stated end.
   - Akhenaten is not treated as the inventor of modern monotheism or as the necessary culmination of Egyptian religion.
   - Wider access to mortuary texts is not called political democracy.
-  - This Egyptian layer does not yet establish the transition to Mesopotamia, Israel, Greece, Rome, Christianity, Islam, or modern sovereignty.
+  - Herodotus's account is not subordinated to the later editorial notes accompanying the translation.
+  - Herodotus's reluctance to speak about divine secrets is not treated as evidence that Egyptian religion lacked the initiatory and symbolic dimensions preserved by the Egyptian authorities.
+  - Nomos is not simply equated with ma'at; ancestral custom and right order remain a permanent question.
+  - The conflicting records of Cambyses and Apis are preserved without forcing either into silence.
+  - The transition to Mesopotamia, Israel, Greece, Rome, Christianity, Islam, or modern sovereignty remains outside the Egyptian opening.
 
 navigational_questions:
   - What older civilizational source accounts for the completeness visible at the beginning of the surviving record?
+  - How does Egypt teach Greek historiē to compare priestly testimony, monument, measurement, observation, and inference?
+  - What does the Egyptian chronology do to the Greek assumption that Greek memory measures antiquity?
   - How do myth, number, natural symbol, and divine centers articulate one sacred science?
   - How does Luxor embody Anthropocosmos and make the temple an initiatory text?
   - How does control of initiation organize political and spiritual access to knowledge?
@@ -440,6 +541,9 @@ navigational_questions:
   - What does royal mortality reveal about the distinction between person and office?
   - How do Osirian renewal and Horian liberation order different paths of human transformation?
   - How does Egyptian form absorb foreign peoples while assigning unequal statuses?
+  - When does foreign military service strengthen kingship, and when does it estrange the king from the Egyptian order?
+  - What does Cambyses reveal about the difference between conquering Egypt and becoming an Egyptian king?
+  - How does nomos preserve a people, and by what standard can an inherited custom be judged?
   - How do judgment and afterlife prevent power from ending with physical death?
   - Which Egyptian forms persist, change, or collide with the civilizations added later?
 
@@ -470,6 +574,12 @@ sources:
       author: W. M. Flinders Petrie
       role: Foreign rule, labor status, skilled artisans, protected settlements, Egyptian legal assimilation, temple communities, and the reversibility of security.
       url: https://www.gutenberg.org/ebooks/56444
+  classical_witnesses:
+    - title: The Histories
+      author: Herodotus
+      translator: Robin Waterfield
+      editor: Carolyn Dewald
+      role: Book Two on Egyptian priestly memory, historical inquiry, custom, the Nile, ritual, institutions, kingship, monuments, foreign settlement, and transmission to Greece; Book Three on Cambyses, conquest, sacrilege, nomos, and arbitrary royal will.
   primary_and_direct_witnesses:
     - title: The Ancient Egyptian Pyramid Texts
       author: James P. Allen
