@@ -113,7 +113,29 @@ fact: >-
   reconstructions of Ricardo and Marx extended the same analytical program while
   preserving a decisive limit: a technically stable or efficient equilibrium did
   not by itself determine a just distribution, a social welfare ordering, or the
-  ends the economy should serve.
+  ends the economy should serve. Hayek developed a parallel reconstruction that
+  crossed this formal and Keynesian sequence rather than merely following it.
+  In Prices and Production, monetary disturbances worked through relative prices,
+  interest, and the temporal structure of production even when the general price
+  level remained stable; bank credit could redirect resources toward longer
+  processes that could not be completed when the underlying relation between
+  saving and consumption reasserted itself. In Individualism and Economic Order,
+  the central economic problem became the use of knowledge dispersed among
+  persons who possessed different information about particular circumstances of
+  time and place. Prices communicated condensed changes in relative scarcity;
+  competition discovered costs, wants, products, and capacities that the model of
+  perfect competition assumed to be already known; and the calculation problem
+  exposed the limits of replacing decentralized adjustment with a single plan.
+  In The Constitution of Liberty, the same epistemic limit became a political
+  principle. Freedom meant a protected sphere in which persons could use their
+  knowledge for their own purposes, while general, abstract, prospective laws
+  restrained coercion and allowed an order to form that no authority had designed
+  in detail. This was not an argument for the disappearance of government: law,
+  competition policy, public services, monetary institutions, and limited welfare
+  measures required political judgment. Modern credit made some deliberate
+  monetary control unavoidable, but policy had to be bounded by known objectives
+  and rules because discretionary pursuit of short-run full employment could turn
+  inflation into a mechanism of dependence and expanding control.
 
 scope:
   subject: >-
@@ -126,7 +148,10 @@ scope:
     and monetary management and then through effective demand, expectations,
     liquidity, and politically administered institutions, and Samuelson's
     formalization of consumer behavior, production, welfare, equilibrium,
-    Keynesian income analysis, and economic dynamics.
+    Keynesian income analysis, and economic dynamics, together with Hayek's
+    overlapping reconstruction of monetary capital, dispersed knowledge,
+    competitive discovery, spontaneous order, freedom under law, and the
+    constitutional limits of economic government.
   geography:
     - ancient Greek political philosophy as the comparative baseline
     - seventeenth-century England
@@ -134,7 +159,8 @@ scope:
     - nineteenth-century Britain and continental Europe
     - twentieth-century Britain, British India, and the European and international monetary system
     - twentieth-century United States and postwar mathematical economics
-  period: Classical political philosophy through Samuelson's postwar foundations of economic analysis
+    - twentieth-century Austria and Britain in the development of Austrian economics and liberal constitutional theory
+  period: Classical political philosophy through the overlapping Keynesian, Samuelsonian, and Hayekian reconstructions of economic order
   narrative_companion: narratives/STAR-MONEY-001.md
   periodization: >-
     Locke and Hume form the pre-classical foundations of the sequence; Smith and
@@ -151,8 +177,15 @@ scope:
     the public guidance of investment; Samuelson then gathers consumer theory,
     production, welfare, capital, money, Keynesian income analysis, and business
     cycles into a common language of maximization, comparative statics,
-    stability, and dynamics. This organizing periodization does not require every
-    history of economics to use identical boundaries.
+    stability, and dynamics. Hayek's Prices and Production belongs earlier in
+    time, beside the transition from Marshall to Keynes, while the essays later
+    collected in Individualism and Economic Order and The Constitution of
+    Liberty extend a parallel line from Mengerian emergence and monetary-capital
+    theory to dispersed knowledge, competitive discovery, general rules, and
+    constitutional liberty. Hayek is therefore organized after Samuelson here to
+    make the contrast intelligible, not presented as a chronological successor.
+    This organizing periodization does not require every history of economics to
+    use identical boundaries.
   exclusions:
     - A universal history of money in every civilization
     - A complete history of banking, corporations, securities, central banking, or public finance
@@ -162,6 +195,8 @@ scope:
     - A complete reconstruction of Volume I of Keynes's 1930 Treatise on Money, The Pure Theory of Money, which is not among the supplied sources
     - Samuelson's Economics textbook and a complete reconstruction of the doctrine later called the neoclassical synthesis
     - Later Keynesian, neo-Keynesian, New Keynesian, Post-Keynesian, monetarist, or macroeconomic schools beyond the supplied Samuelson sources
+    - Hayek's The Road to Serfdom, Law, Legislation and Liberty, and later proposals for the denationalisation of money, which are not among the supplied sources
+    - A complete history of Austrian economics, the socialist calculation debate, neoliberalism, or twentieth-century liberal and conservative movements
     - A claim that intellectual teachings alone caused later economic institutions
 
 shape:
@@ -203,6 +238,18 @@ shape:
     - Pareto efficiency and linear-programming optimality identify constrained technical relations but do not select a distribution of income, determine a social welfare function, or decide which final goods and purposes should govern production.
     - Samuelson's mathematical reconstructions of Ricardo and Marx are attributed modern models and criticisms; they do not constitute a complete interpretation or refutation of either thinker's historical, political, or philosophical teaching.
     - The supplied collected papers are Volume I, arranged topically and extending through late 1964 with limited 1965 corrections; they are not treated as the whole of Samuelson's scientific work.
+    - Hayek's Prices and Production is placed chronologically beside Keynes's early monetary reconstruction even though its analytical contrast is presented after the Samuelsonian layer.
+    - Hayek's business-cycle account is an attributed theory of how monetary credit can alter relative prices and the structure of production; it is not converted into an empirically universal law governing every expansion and recession.
+    - Stable aggregates do not establish monetary neutrality in Hayek's account, because changes in money and credit reach particular prices and productive stages at different times.
+    - Hayek's individualism is not atomism or self-sufficiency; it depends upon traditions, voluntary associations, general rules, and institutions that allow limited and dispersed knowledge to be used.
+    - Hayek's price system communicates condensed information without giving anyone perfect knowledge, guaranteeing instantaneous equilibrium, or proving the justice of the underlying distribution of property and purchasing power.
+    - Competition is treated by Hayek as a temporal process that discovers information and opportunities, not as the static condition of perfect competition in which the relevant information is already known.
+    - An institution's spontaneous origin does not make it natural, immutable, efficient in every condition, or just; Hayek permits deliberate improvement of general rules while denying that the resulting order can be designed in all its particulars.
+    - Hayek's liberty is his attributed definition of a protected sphere free from coercion by other persons; it is not equated with wealth, power, capacity, democratic participation, or a complete account of human flourishing.
+    - Freedom under the rule of law is not the absence of government action: enforcement of general rules, provision of services, monetary institutions, and measures compatible with equal and prospective law remain within the constitutional field.
+    - Hayek's criticism of the welfare state is not read as rejection of every public service or social provision; particular measures must be distinguished by their methods, coercive structure, compatibility with general law, and consequences.
+    - The Constitution of Liberty accepts deliberate control of modern money and credit as unavoidable under existing institutions while seeking to limit discretion; it is not read backward as the later proposal for competitive private currencies.
+    - Hayek's preference for price stability over inflationary pursuit of maximal short-run employment remains distinct from Keynes's and Samuelson's analyses and is not treated here as a settled empirical refutation of them.
     - Later institutional histories of banking, corporate finance, financial markets, and monetary government beyond the cited sources require their own evidence and subsequent layers.
 
 claim_policy:
@@ -211,7 +258,7 @@ claim_policy:
     primary work or seminar transcript.
   attributed_teaching: >-
     A proposition assigned to Locke, Hume, Smith, Ricardo, Marx, Jevons, Menger,
-    Walras, Marshall, Keynes, Samuelson, Aristotle, Strauss, or Cropsey only as
+    Walras, Marshall, Keynes, Samuelson, Hayek, Aristotle, Strauss, or Cropsey only as
     presented in a named source.
   analytical_synthesis: >-
     A bounded relation drawn across teachings to clarify a transformation in the
@@ -953,6 +1000,82 @@ historical_spectrum:
       - SRC-SAMUELSON-FOUNDATIONS-1947
       - SRC-SAMUELSON-COLLECTED-PAPERS-V1-1966
 
+  hayek_prices_production_and_monetary_capital:
+    period: Monetary disturbances, relative prices, and production through time
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    chronological_position: The 1931 lectures and the revised 1935 edition overlap Keynes's reconstruction of monetary theory and precede Samuelson's postwar formalization.
+    facts:
+      - Monetary theory must be integrated with the individualistic analysis of value and production rather than built from direct causal relations among total money, a general price level, and total output, because aggregates as such do not make the decisions through which production changes.
+      - Money can alter production while a general price index remains stable, since new money reaches particular persons and markets in sequence and changes relative prices before its effects are dispersed through the economy.
+      - Production is temporally structured: present original factors, intermediate goods, and specialized capital are arranged in stages whose products mature at different dates, and a longer process can produce more consumer goods only if the required complementary investments are completed.
+      - Equilibrium between the production of consumers' goods and producers' goods depends upon the relation between present consumption and provision for future production, expressed through relative prices, price margins, and the rate of interest.
+      - Voluntary saving reduces current demand for consumers' goods while making resources available for longer production processes; because consumption plans and investment plans change together, the resulting extension contains no inherent necessity of reversal.
+      - Credit supplied to entrepreneurs below the equilibrium rate can instead raise the relative demand for producers' goods without a corresponding reduction in consumption, redirecting nonspecific factors and beginning processes whose completion requires a continuing stream of complementary investment.
+      - When credit expansion ceases or rising consumer demand reasserts itself, the relative profitability of later and earlier stages reverses; specific capital and unfinished processes cannot all be transferred without loss, producing contraction and unemployment rather than a frictionless return to the former structure.
+      - Forced saving denotes the temporary transfer of command over resources produced by the credit expansion; it lengthens production at first, while the instability arises because the public's saving and spending plans have not changed enough to sustain the new structure.
+      - Stabilization of the general price level can therefore conceal monetary misdirection when rising productivity would otherwise have lowered prices; an elastic supply that offsets every price decline is not neutral merely because the index remains constant.
+      - Hayek nevertheless distinguishes a theoretically neutral money stream from a literally fixed national note issue: changes in velocity, substitute media, open-economy flows, and emergency liquidity complicate the practical meaning of monetary constancy.
+    decisive_relation: >-
+      Money enters the temporal organization of production through the persons,
+      prices, and stages at which it is spent. A stable aggregate price level can
+      therefore coexist with a credit-induced structure that cannot be completed,
+      making monetary order a problem of coordination through time rather than
+      control of one statistical magnitude.
+    evidence:
+      - SRC-HAYEK-PRICES-PRODUCTION-1931-1935
+
+  hayek_individualism_knowledge_competition_and_order:
+    period: Dispersed knowledge, competitive discovery, planning, money, and federation
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - True individualism begins from the limits of individual reason and from the fact that languages, morals, law, money, and market coordination can result from human action without being the execution of a single human design.
+      - This individualism is social rather than atomistic: persons depend upon inherited rules, traditions, voluntary associations, and the cooperation of strangers whose knowledge and purposes they do not share.
+      - The central economic problem is not allocation by a mind already possessing all relevant data but the use of knowledge that is divided among many persons, much of it practical knowledge of particular circumstances of time and place.
+      - Scientific and statistical knowledge cannot replace this local knowledge, because aggregation suppresses differences of location, quality, availability, and timing that can be decisive for a concrete adjustment.
+      - Decentralization leaves decisions with those who know immediate circumstances, but local knowledge alone is insufficient; persons also require signals that allow their plans to adjust to changes beyond their field of vision.
+      - Relative prices perform this communicative function by condensing changes in scarcity and alternative use, enabling participants to economize a resource without knowing the distant event that made the adjustment necessary.
+      - The price system economizes knowledge rather than creating omniscience: its adjustments remain imperfect, and its achievement is coordination by limited, overlapping fields of knowledge without a comprehensive order from a central mind.
+      - Perfect-competition theory assumes complete knowledge and mutual adjustment among plans, thereby assuming the result that actual competition must help produce; competition is a dynamic process of discovery through entry, rivalry, experimentation, advertising, reputation, changing products, and learning.
+      - Socialist calculation is therefore not only an equation-solving problem. A planning authority must acquire and continuously revise dispersed information, form prices for capital and intermediate goods, and reproduce a process of discovery whose results cannot be treated as prior data.
+      - A competitive order requires deliberate general institutions against coercion, fraud, privilege, and private restraints on entry; adopting competition as an ordering principle is different from directing each enterprise or protecting organized producers from competition.
+      - A commodity-reserve currency is proposed as a rule-governed attempt to stabilize the aggregate price of a broad basket without fixing each component price, while interstate federation would require free movement of goods, persons, capital, and money and place monetary policy at the federal rather than member-state level.
+      - Federation limits national protection and planning but does not automatically establish justice; its economic possibility depends upon constitutional agreement concerning the powers exercised jointly and the diversity that remains outside central direction.
+    decisive_relation: >-
+      The price system and competition are recast as procedures for discovering
+      and communicating knowledge that no participant possesses as a whole.
+      Economic order therefore depends simultaneously upon decentralized action
+      and a deliberately maintained framework of general rules, while neither
+      equilibrium equations nor central statistics can substitute for the
+      process through which the relevant facts become known.
+    evidence:
+      - SRC-HAYEK-INDIVIDUALISM-ECONOMIC-ORDER-1949
+
+  hayek_constitutional_liberty_law_and_money:
+    period: Freedom, coercion, the rule of law, welfare, and the monetary framework
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Liberty is defined as a condition in which coercion of one person by another is reduced as far as possible, leaving a protected sphere within which each can use knowledge and capacities in pursuit of chosen aims.
+      - Coercion makes one person's action serve another's will by manipulating the alternatives from which the coerced must choose; physical constraint, poverty, dependence, influence, and coercion must therefore be distinguished rather than treated as a single phenomenon.
+      - The case for freedom begins in acknowledged ignorance. Because no person or authority can foresee all uses of existing knowledge or the discoveries that free action will produce, progress depends upon experiments whose particular benefits cannot be specified in advance.
+      - General, abstract, prospective, equally applicable rules allow persons to form plans without making their purposes instruments of an official command, and their regular enforcement can make the state's unavoidable coercion predictable rather than arbitrary.
+      - Law is not simply a sequence of sovereign orders. Many rules of conduct grow through custom and adjudication before being articulated by legislation, while constitutionalism subjects government itself to standing rules and divided powers.
+      - Economic freedom historically meant freedom under law, not absence of every governmental activity; the decisive constitutional distinction concerns general rules and services available without discrimination versus commands, privileges, and prohibitions directed toward particular outcomes or persons.
+      - Government may enforce property and contract, protect competition, supply services that cannot be adequately supplied through markets, address some external effects, and provide a minimum of security, provided that each measure is judged by its methods and compatibility with a free order rather than assimilated to comprehensive direction.
+      - The welfare state is not identical to socialism, but its measures can generate discretionary discrimination, monopolized provision, inflationary commitments, and organized claims that progressively replace general law with bargaining over particular benefits.
+      - Modern credit institutions make some deliberate monetary control necessary; Hayek accepts a central institution capable of supplying liquidity and influencing total credit while seeking maximum independence from day-to-day government finance and constitutional protection for alternative media of exchange.
+      - Monetary changes disturb relative prices and production in self-reversing sequences, and modern credit is perversely elastic because the desire of the public and banks for liquidity tends to contract credit together during stress and expand it together during confidence.
+      - A monetary authority cannot eliminate discretion, because it must anticipate changes, supply cash in crisis, and act before a mechanical rule is triggered; discretion must therefore be limited primarily through publicly known goals and institutional restraints.
+      - As a practical objective under those institutional constraints, Hayek favors stability of a comprehensive price level that is not confined to final goods and is oriented as far as possible toward international prices; this target limits discretion without being equated with the theoretical neutrality of money.
+      - Hayek gives monetary stability priority over the maximum employment attainable by short-run monetary expansion, arguing that continuous inflation destroys saving, redistributes claims obscurely, increases dependence upon government, and creates demands for further controls.
+    decisive_relation: >-
+      The epistemic problem of dispersed knowledge becomes a constitutional
+      problem. Freedom requires a legal and monetary framework strong enough to
+      prevent coercion and maintain coordination, yet limited enough that public
+      authority cannot substitute its particular purposes for the unknown plans
+      through which social order and discovery proceed.
+    evidence:
+      - SRC-HAYEK-CONSTITUTION-LIBERTY-1960-2011
+
 conceptual_chain:
   classical_baseline:
     sequence:
@@ -1204,6 +1327,22 @@ conceptual_chain:
       - welfare and social choice boundary
     governing_principle: Economic propositions acquire determinate empirical content when assumptions restrict observable responses to change, while stability, efficiency, and mathematical consistency remain distinct from welfare and political legitimacy.
 
+  hayek_monetary_and_constitutional_order:
+    sequence:
+      - relative prices rather than the price level alone
+      - interest and credit
+      - production through time
+      - sustainable or unsustainable investment structure
+      - divided knowledge
+      - prices as condensed information
+      - competition as discovery
+      - spontaneous order within general rules
+      - liberty as a protected sphere
+      - rule of law and constitutional restraint
+      - limited monetary discretion
+      - stability without comprehensive direction
+    governing_principle: Economic and political coordination must use knowledge that no mind possesses as a whole; money, prices, competition, and general law therefore form a constitutional order that enables decentralized plans while restraining both private and governmental coercion.
+
 comparative_matrix:
   Locke:
     property: A natural right originating in self-ownership and labor.
@@ -1282,6 +1421,13 @@ comparative_matrix:
     politics: Policy requires an explicitly selected social objective and knowledge of institutional constraints; market prices and planning shadow prices can both coordinate technical decisions without choosing that objective.
     unresolved_problem: Formal analysis can identify consistency, stability, efficiency, and policy tradeoffs without deriving the social welfare function, rightful initial distribution, or ends by which the economic system should be judged.
 
+  Hayek:
+    property: A legally protected individual sphere within an evolved order of general rules; its coordination function does not by itself establish the justice of every historical acquisition or distribution.
+    money: A medium and credit system whose sequential entry changes relative prices and production, whose information cannot be compressed into a price-level index, and whose modern institutional form requires deliberate but constitutionally limited control.
+    value: Subjective valuations and relative prices coordinate plans and communicate changes in scarcity; actual competition discovers the data that static equilibrium analysis treats as already given.
+    politics: Freedom under general law preserves the use of dispersed knowledge, while government maintains rules, competition, public services, minimum security, and a stable monetary framework without directing the detailed purposes of the social order.
+    unresolved_problem: Epistemic limits discipline claims to comprehensive direction but do not by themselves decide rightful initial holdings, the acceptable degree of material dependence, the content of minimum provision, or the substantive human ends that freedom should serve.
+
 boundaries:
   - The intellectual genealogy does not establish that modern monetary institutions were caused by texts alone.
   - The existence of money before Locke does not make Locke's account its historical origin; Locke marks a transformation in its relation to natural right and accumulation.
@@ -1333,6 +1479,19 @@ boundaries:
   - A shadow price is the value of relaxing a constraint relative to a stated objective; it is not by itself a market price, a moral valuation, or a proof that the objective is legitimate.
   - Pareto efficiency cannot rank alternative efficient distributions, and a social welfare function cannot avoid ethical judgment merely by being written mathematically.
   - Samuelson's modern dissection of Marx deliberately abstracts from historical, political, and imperfect-competition dimensions; its conclusions are not treated as a complete judgment on Marx's account of capitalist society.
+  - Hayek's 1931 cycle theory is a rival reconstruction within the interwar monetary debate, not the chronological consequence of Samuelson's 1947 formalization or a later response to it.
+  - Hayek's criticism of general-price-level stabilization does not deny that inflation and deflation matter; it argues that the index can conceal the relative-price sequence through which money changes production.
+  - Forced saving is Hayek's term for a credit-induced reallocation of command over resources, not voluntary abstinence and not a moral accusation against every borrower, bank, or investment.
+  - The Hayekian structure of production is an attributed account of complementary capital through time; its use here does not establish that every recession results from an excessively lengthened structure.
+  - Knowledge of particular circumstances cannot be fully centralized in Hayek's account, but this does not imply that expertise, statistics, organizations, or public administration possess no useful knowledge.
+  - Prices communicate relative changes only within institutions of ownership, contract, currency, and competition; they neither disclose all relevant moral facts nor guarantee that every participant possesses adequate purchasing power.
+  - Competition as discovery may require rules against privilege and restraints on entry; it is not identical to laissez-faire acceptance of every existing market structure.
+  - Hayekian spontaneous order describes an unintended pattern produced by rule-following action and does not make the order uncreated in every part, immune to criticism, or independent of law.
+  - Generality, equality, and prospectivity are constitutional tests of law in Hayek's account, not sufficient proof that every law satisfying them is substantively just.
+  - Hayek distinguishes coercion from adverse circumstance; the Star preserves that distinction without treating deprivation, dependency, or unequal power as politically irrelevant.
+  - Limited welfare provision remains possible inside Hayek's constitutional order, but no supplied text fixes one timeless institutional formula for every society and condition.
+  - Hayek's 1960 monetary framework accepts central banking under existing credit institutions and therefore cannot be collapsed into either pure laissez-faire money or his later competitive-currency proposals.
+  - The broad practical price-stability objective of The Constitution of Liberty does not erase the earlier argument that a stable consumer-price index can conceal monetary changes in relative prices and production; practical constraint and theoretical neutrality remain distinct.
   - Exchange equilibrium is a statical analytical construction and is not treated as proof that an actual economy is naturally harmonious, historically motionless, or politically just.
   - The separation of monetary functions does not make all credit instruments equivalent; their legal form, convertibility, maturity, and probability of payment remain distinct.
   - The institutional history of corporate finance belongs to the next layer and remains outside the present evidentiary boundary.
@@ -1382,6 +1541,20 @@ navigational_questions:
   - How can an equilibrium be dynamically stable while preserving unemployment or another politically undesirable condition?
   - What does a shadow price reveal about a technological constraint without deciding the social objective or distribution that the constraint should serve?
   - Why can Pareto efficiency compare movements away from waste without choosing among alternative efficient distributions?
+  - How can money redirect production through relative prices even when the measured general price level remains unchanged?
+  - What distinguishes an extension of production sustained by voluntary saving from one initiated by credit without a corresponding change in consumption plans?
+  - Why do incomplete and specific capital goods make monetary misdirection costly to reverse rather than instantly correctable through flexible prices?
+  - Which knowledge can be stated scientifically or statistically, and which remains attached to particular persons, places, and moments?
+  - How do prices communicate the consequences of a change without communicating its complete cause?
+  - What does actual competition discover that the equilibrium model of perfect competition assumes to be known from the beginning?
+  - When does deliberate economic policy create the general conditions of competition, and when does it replace competition with commands serving particular outcomes?
+  - How can an institution result from human action without a common design, and what standards remain available for criticizing or reforming it?
+  - Why does Hayek move from the division of knowledge to a protected legal sphere for the use of individual knowledge?
+  - What distinguishes freedom under general law from both governmental inactivity and discretionary economic administration?
+  - Which public services and minimum protections can remain compatible with a constitutional market order, and by what tests are their methods judged?
+  - Why does modern bank credit make some discretionary monetary action unavoidable even in a theory committed to limiting discretion?
+  - Can a monetary authority protect employment without turning short-run expansion into persistent inflation and a cumulative demand for controls?
+  - Where do Keynes, Samuelson, and Hayek disagree about aggregates, adjustment, stability, and the proper object of economic government, and where do all three reject a mechanically automatic monetary order?
   - How do labor and production remain present after they cease to be treated as the direct cause or substance of value?
   - How does value pass from anticipated consumer goods backward to complementary productive inputs operating through time?
   - When does an economic law describe recurring conduct, and when is it treated as a limit upon political judgment?
@@ -1672,4 +1845,39 @@ sources:
       - samuelson_money_keynesian_system_and_economic_dynamics
       - samuelson_welfare_market_mechanisms_and_formal_limits
 
-completeness: COMPLETE_THROUGH_SAMUELSONIAN_ECONOMIC_ANALYSIS_PENDING_CERTIFICATION
+  - source_id: SRC-HAYEK-PRICES-PRODUCTION-1931-1935
+    type: PRIMARY_TEXT_SCANNED_EDITION
+    author: Friedrich A. Hayek
+    title: Prices and Production
+    original_year: 1931
+    edition: Second edition, revised and enlarged, 1935; supplied 1949 reprint
+    publisher: Routledge and Kegan Paul Ltd.
+    witness_status: OWNER_SUPPLIED_LOCAL_SCAN
+    supports:
+      - hayek_prices_production_and_monetary_capital
+
+  - source_id: SRC-HAYEK-INDIVIDUALISM-ECONOMIC-ORDER-1949
+    type: PRIMARY_TEXT_ESSAY_COLLECTION_SCAN
+    author: Friedrich A. Hayek
+    title: Individualism and Economic Order
+    year: 1949
+    publisher: Routledge and Kegan Paul Ltd.
+    contents_scope: Essays on individualism, knowledge, competition, socialist calculation, commodity-reserve currency, and interstate federalism
+    witness_status: OWNER_SUPPLIED_LOCAL_SCAN
+    supports:
+      - hayek_individualism_knowledge_competition_and_order
+
+  - source_id: SRC-HAYEK-CONSTITUTION-LIBERTY-1960-2011
+    type: PRIMARY_TEXT_DEFINITIVE_EDITION
+    author: Friedrich A. Hayek
+    editor: Ronald Hamowy
+    title: The Constitution of Liberty
+    original_year: 1960
+    edition: The Definitive Edition, The Collected Works of F. A. Hayek, Volume XVII
+    edition_year: 2011
+    publisher: University of Chicago Press
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - hayek_constitutional_liberty_law_and_money
+
+completeness: COMPLETE_THROUGH_HAYEKIAN_ECONOMIC_AND_CONSTITUTIONAL_ORDER_PENDING_CERTIFICATION
