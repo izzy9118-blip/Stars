@@ -1,5 +1,5 @@
 star_id: STAR-MONEY-001
-name: Money and the formation of classical political economy
+name: Money and the transformation of political economy
 status: DRAFT
 
 fact: >-
@@ -25,29 +25,39 @@ fact: >-
   classical period mapped here: the science that began by separating economic
   relations from political rule culminated in a critique showing that those
   apparently autonomous relations constituted a historically specific form of
-  social power.
+  social power. Jevons opened the post-classical marginalist reconstruction by
+  relocating value from embodied labor and class distribution to the final
+  degree of utility, individual choice, scarcity, and exchange equilibrium.
+  Labor remained causally important through its effect upon supply, but it no
+  longer served as the substance or direct regulator of value. Political economy
+  thereby contracted from Marx's historical science of the social whole into a
+  mathematical theory of choice and exchange, while Jevons's analysis of money
+  showed how monetary functions were distributed among coin, paper, bank credit,
+  cheques, and clearing rather than embodied in a single monetary substance.
 
 scope:
   subject: >-
     The intellectual formation of the modern money economy from the classical
     subordination of acquisition to the polis through Locke, Hume, Smith,
-    Ricardo, and Marx.
+    Ricardo, Marx, and the Jevonsian opening of post-classical marginalism.
   geography:
     - ancient Greek political philosophy as the comparative baseline
     - seventeenth-century England
     - eighteenth-century Scotland and Great Britain
     - nineteenth-century Britain and continental Europe
-  period: Classical political philosophy through Marx's critique of political economy
+  period: Classical political philosophy through Jevonsian marginalism and monetary mechanism
   narrative_companion: narratives/STAR-MONEY-001.md
   periodization: >-
     Locke and Hume form the pre-classical foundations of the sequence; Smith and
     Ricardo establish classical political economy; Marx is treated as its
-    culmination and internal critique. This organizing periodization does not
-    require every history of economics to use identical boundaries.
+    culmination and internal critique; Jevons opens the post-classical marginalist
+    reconstruction. This organizing periodization does not require every history
+    of economics to use identical boundaries.
   exclusions:
     - A universal history of money in every civilization
     - A complete history of banking, corporations, securities, central banking, or public finance
     - The institutional development of modern corporate finance after Marx
+    - The Mengerian and Walrasian branches of marginalism, which require their own primary sources
     - A claim that intellectual teachings alone caused later economic institutions
 
 shape:
@@ -60,6 +70,8 @@ shape:
     - Locke's natural right, Hume's convention, Smith's commercial society, Ricardo's distribution system, and Marx's critique remain distinct positions.
     - The technical economic reconstruction supplied by Joseph Cropsey remains distinguishable from Leo Strauss's philosophical interpretation of Marx.
     - Marx's account of capitalist economic laws as historically specific is distinguishable from a claim that every society is governed by the same categories.
+    - Jevons's marginal utility theory is distinguished from the broader marginal revolution and is not made to stand in for Menger or Walras.
+    - Jevons's rejection of labor as the direct cause of value is not converted into a denial that labor and production affect supply and therefore exchange value.
     - Later institutional histories of banking, corporate finance, financial markets, and monetary government require their own evidence and subsequent layers.
 
 claim_policy:
@@ -237,7 +249,72 @@ historical_spectrum:
       - Ricardo makes value and class distribution the unified scientific problem of political economy.
       - Marx makes the classical system the object of an immanent historical critique and reveals capital as a form of social power.
       - By the end of the sequence, money has appeared as metallic substance, legal denomination, convention, medium of exchange, measure of value, circulating social capital, credit instrument, universal equivalent, and money-capital.
-      - The next historical period requires the institutional development of corporations, banking systems, securities markets, central banks, managerial organization, and modern corporate finance rather than further extension of classical theory alone.
+      - The theoretical sequence after Marx requires the post-classical reconstruction of value and exchange, while the historical sequence requires the development of corporations, banking systems, securities markets, central banks, managerial organization, and modern corporate finance.
+
+  jevons_marginal_utility_and_exchange:
+    period: The Jevonsian opening of marginalism, 1871
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Jevons rejects the claim that the classical theory of value had reached a finished form and proposes to reconstruct political economy as a mathematical calculus of pleasure and pain.
+      - Utility is not an intrinsic quality residing in a commodity; it is a relation between a quantity of a good and the wants of a person under particular circumstances.
+      - Total utility is distinguished from the degree of utility attached to an increment of a commodity, and the final degree of utility designates the utility of the last or next possible increment.
+      - As the available quantity of an ordinary commodity increases, the final degree of utility generally declines, resolving the apparent contradiction between the immense usefulness and low exchange value of abundant goods such as water.
+      - Value is treated as a ratio of exchange rather than a substance contained in a thing, and exchange proceeds until neither party can gain additional utility by continuing at the prevailing ratio.
+      - At equilibrium, the ratio of exchange between two commodities is inversely related to their final degrees of utility after exchange.
+      - Labor does not directly cause value: labor affects the quantity supplied, supply affects final utility, and final utility governs the ratio of exchange.
+      - Cost and production therefore remain causally present but are mediated through scarcity and the marginal conditions of consumption rather than embodied in value as a labor substance.
+      - Labor itself is treated as disutility, and the duration of work is determined at the point where the expected utility of additional product no longer compensates for the pain of additional labor.
+      - The focus of value theory shifts from the production and distribution of a social product among classes toward the choices of trading bodies and the statical conditions of exchange equilibrium.
+      - Jevons explicitly treats equilibrium as a simplifying statical construction within an industrial world that is actually in perpetual motion and change.
+    decisive_relation: >-
+      Marginalism does not merely substitute desire for labor; it reconstructs
+      value as the outcome of changing wants, available quantities, and exchange
+      at the margin, thereby moving the organizing center of economics from class
+      production and distribution toward individual calculation and equilibrium.
+    evidence:
+      - SRC-JEVONS-THEORY-POLITICAL-ECONOMY-1871
+
+  jevons_money_credit_and_clearing:
+    period: Monetary mechanism after the marginalist turn, 1875
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Money remedies the double coincidence required by barter, the absence of a common measure, and the difficulty of dividing and distributing goods of unequal value.
+      - Its principal functions include a medium of exchange, a common measure of value, a standard for deferred payments, and a store or means of transmitting value.
+      - These functions need not be performed by one material or instrument, so the monetary system cannot be understood by identifying money with a single substance.
+      - Coin, token coin, convertible and inconvertible notes, cheques, bills, and other credit documents possess different legal and economic properties even when each can perform some work associated with payment.
+      - Credit is a deferral of payment and a claim upon future settlement, not an unlimited multiplication of real resources by the mere production of promises.
+      - Bank deposits and book credit permit reciprocal claims to be recorded and offset rather than settled separately in coin.
+      - Cheques and clearing balance debts against one another so that money may remain only the unit in which obligations are expressed and need not physically pass in the great majority of large settlements.
+      - The quantity of currency a nation needs depends upon the volume and prices of transactions, the speed and efficiency of circulation, banking arrangements, and the extent to which claims are cleared without cash.
+      - A more developed mechanism of credit and clearing can support a larger volume of exchange with a smaller quantity of metallic or paper currency.
+      - Monetary order is therefore an institutional architecture of denomination, convertibility, promises, banking relationships, settlement, and law rather than a stock of coins alone.
+    decisive_relation: >-
+      The same post-classical movement that locates value at the margin also
+      decomposes money into functions and mechanisms: value is represented by an
+      exchange ratio, while payment is increasingly accomplished through legally
+      differentiated claims and the cancellation of reciprocal debts.
+    evidence:
+      - SRC-JEVONS-MONEY-MECHANISM-1875
+
+  post_classical_marginalist_turn:
+    period: First post-classical synthesis
+    claim_class: ANALYTICAL_SYNTHESIS
+    facts:
+      - Ricardo organizes economics around labor-regulated value and distribution among social classes; Marx expands that structure into a historical theory of capital and social power.
+      - Jevons reorganizes the field around individual wants, marginal increments, exchange ratios, and equilibrium while preserving production only as an indirect determinant operating through supply.
+      - The change narrows the immediate field of economic explanation from the historical constitution of society to formally expressible relations among quantities, preferences, and exchanges.
+      - The narrowing increases analytical precision but brackets questions concerning the historical origin of property, the constitution of classes, and the ends by which production and distribution should be judged.
+      - Jevons's monetary analysis simultaneously reveals that actual exchange depends upon complex institutions of credit, banking, law, and settlement that cannot be deduced from marginal utility alone.
+      - Marginalism therefore begins a new theoretical period without dissolving the political and institutional questions inherited from the classical system and its Marxian critique.
+    decisive_relation: >-
+      Marx closes classical political economy by making production the key to the
+      social whole; Jevons opens post-classical economics by converting value and
+      exchange into a bounded mathematical problem whose institutional conditions
+      and human purposes must still be supplied from outside the formal theory.
+    evidence:
+      - SRC-JEVONS-THEORY-POLITICAL-ECONOMY-1871
+      - SRC-JEVONS-MONEY-MECHANISM-1875
+      - SRC-STRAUSS-CROPSEY-MARX-1960
 
 conceptual_chain:
   classical_baseline:
@@ -315,6 +392,32 @@ conceptual_chain:
       - fetishism and alienation
     governing_principle: Self-expanding value organizes production and reproduces the social conditions of its own continuation.
 
+  jevons_marginalism:
+    sequence:
+      - want
+      - utility
+      - available quantity
+      - declining final degree of utility
+      - allocation among uses
+      - ratio of exchange
+      - equilibrium
+      - labor and production acting through supply
+    governing_principle: Value is determined at the margin by the relation between wants and available quantities, not embodied directly in labor.
+
+  jevons_monetary_mechanism:
+    sequence:
+      - inconveniences of barter
+      - medium of exchange
+      - common measure of value
+      - standard of deferred payment
+      - store and transfer of value
+      - coin and representative money
+      - credit and bank deposits
+      - cheques
+      - clearing and cancellation of debts
+      - economized currency
+    governing_principle: Monetary functions can be separated among different instruments, and institutional settlement can perform exchange without the physical movement of money.
+
 comparative_matrix:
   Locke:
     property: A natural right originating in self-ownership and labor.
@@ -351,6 +454,13 @@ comparative_matrix:
     politics: Law and the state secure and reproduce a social order whose economic categories appear autonomous.
     unresolved_problem: The diagnosis of alienation does not by itself prove that collective ownership and productive abundance will abolish necessity, hierarchy, or the need for moral and political judgment.
 
+  Jevons:
+    property: Treated chiefly as an existing condition of possession and exchange rather than derived through a political theory of rightful acquisition.
+    money: A differentiated set of functions performed through coin, paper, credit documents, bank accounts, cheques, and clearing.
+    value: A ratio of exchange governed at equilibrium by the final degrees of utility attached to available quantities.
+    politics: Law and administration shape coinage, legal tender, convertibility, banking, and settlement, but justice and the ends of the economic order lie outside the marginal calculus.
+    unresolved_problem: Formal precision in choice and equilibrium does not explain the historical production of wants, property relations, class power, or the standard by which an allocation should be judged.
+
 boundaries:
   - The intellectual genealogy does not establish that modern monetary institutions were caused by texts alone.
   - The existence of money before Locke does not make Locke's account its historical origin; Locke marks a transformation in its relation to natural right and accumulation.
@@ -359,16 +469,23 @@ boundaries:
   - Ricardo's labor theory of relative value includes acknowledged modifications and is not identical to Marx's theory of value.
   - Marx's critique of capitalism is not treated as a neutral empirical description, and Strauss's criticism is not treated as a refutation of every Marxian economic claim.
   - Marx closes the classical period within this map but does not end the history of money, economic thought, capitalism, or financial institutions.
+  - Jevons's theory of final utility marks one branch of marginalism and is not evidence for attributing identical teachings to Menger or Walras.
+  - Marginal utility does not make labor or cost irrelevant; in Jevons's sequence, labor alters supply, supply alters final utility, and final utility governs exchange value.
+  - Exchange equilibrium is a statical analytical construction and is not treated as proof that an actual economy is naturally harmonious, historically motionless, or politically just.
+  - The separation of monetary functions does not make all credit instruments equivalent; their legal form, convertibility, maturity, and probability of payment remain distinct.
   - The institutional history of corporate finance belongs to the next layer and remains outside the present evidentiary boundary.
 
 navigational_questions:
   - When does money merely facilitate exchange, and when does it organize production and political dependence?
   - Which economic relations are conventional, which are legally constituted, and which operate as unintended regularities?
   - How does a theory of value connect to a theory of distribution among classes?
+  - What is lost and what is gained when value is reconstructed from class production and distribution as individual choice at the margin?
+  - How do labor and production remain present after they cease to be treated as the direct cause or substance of value?
   - When does an economic law describe recurring conduct, and when is it treated as a limit upon political judgment?
   - Who receives the benefit created by monetary issue, credit creation, and the replacement of costly currency with cheaper instruments?
   - How can increasing wealth coexist with displacement, dependency, or declining command over the conditions of life?
   - Which parts of capitalist reproduction require markets, which require law and government, and which require historically produced class relations?
+  - When money's functions are distributed among coin, paper, deposits, cheques, and clearing, where do liquidity, convertibility, and settlement risk reside?
   - What standards can judge an economic order if preference, production, or historical success cannot supply the human good by themselves?
 
 sources:
@@ -473,4 +590,25 @@ sources:
       - marx_commodity_money_and_capital
       - straussian_location_of_economics_within_the_whole
 
-completeness: COMPLETE_THROUGH_MARX_PENDING_CERTIFICATION
+  - source_id: SRC-JEVONS-THEORY-POLITICAL-ECONOMY-1871
+    type: PRIMARY_TEXT
+    author: William Stanley Jevons
+    title: The Theory of Political Economy
+    edition: First edition
+    year: 1871
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - jevons_marginal_utility_and_exchange
+      - post_classical_marginalist_turn
+
+  - source_id: SRC-JEVONS-MONEY-MECHANISM-1875
+    type: PRIMARY_TEXT
+    author: William Stanley Jevons
+    title: Money and the Mechanism of Exchange
+    year: 1875
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - jevons_money_credit_and_clearing
+      - post_classical_marginalist_turn
+
+completeness: COMPLETE_THROUGH_JEVONS_PENDING_CERTIFICATION
