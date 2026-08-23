@@ -1,6 +1,6 @@
 star_id: STAR-MONEY-001
 name: Money and the transformation of political economy
-status: DRAFT
+status: FACT
 
 fact: >-
   Modern political economy arose through a transformation in the place assigned
@@ -2410,4 +2410,4 @@ sources:
     supports:
       - varoufakis_current_economic_order_ai_state_and_geopolitics
 
-completeness: COMPLETE_THROUGH_VAROUFAKIS_TECHNOFEUDAL_CURRENT_MOMENT_PENDING_CERTIFICATION
+completeness: COMPLETE
