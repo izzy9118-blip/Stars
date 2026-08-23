@@ -634,6 +634,100 @@ fact: >-
   information, land, memory, and force into concentrated crowns, territorial
   churches, and competing states without wholly escaping the medieval field.
 
+  The sixth older force begins when knowledge and history become deliberate
+  powers of human reformation. Bacon addresses the Advancement of Learning to
+  James I because sustained discovery requires political magnitude: places,
+  books, learned persons, endowments, privileges, salaries, instruments,
+  experimental expense, correspondence, and divided labor must be coordinated
+  across institutions and generations. Learning is not to culminate in verbal
+  victory, inherited professional authority, curiosity, private profit, or
+  courtly display. It is to join contemplation to action, return repeatedly to
+  the works of nature, rise from experiments toward causes, descend from causes
+  toward new experiments, and produce generation, fruit, comfort, and benefit
+  for human life.
+
+  Bacon does not make this activity an unlimited human sovereignty. The book of
+  God's word and the book of God's works remain distinct, sensible inquiry does
+  not reveal the nature or will of God, and knowledge becomes sovereign only
+  when mixed with charity and directed to human good rather than the swelling
+  of the knower. State and inquiry therefore enlarge one another without
+  becoming identical. Political power can finance, protect, coordinate, and use
+  discovery, while effective command remains dependent upon investigators,
+  instruments, experiments, and truths that royal will cannot enact. Civil
+  knowledge extends the architecture through conversation, negotiation,
+  government, education, rhetoric, law, history, and the formation of public
+  conduct.
+
+  Hume reconstructs England through critical and comparative history. Where
+  written monuments fail, language, manners, customs, neighboring peoples, and
+  institutional remains replace pleasing fables; where the evidence remains
+  incomplete, conjecture remains conjecture. Kings and battles take their
+  political meaning from landholding, military service, jurisdiction,
+  assemblies, church power, commerce, inheritance, protection, and refinement.
+  Anglo-Saxon liberty is neither denied nor converted into a finished
+  constitution. Feudal hierarchy arises when the failure of public protection
+  leads independent possessors to exchange allodial freedom for land held under
+  service, civil jurisdiction joins military command, and a kingdom comes to
+  resemble a great barony. Magna Carta introduces no complete new distribution
+  of power, but converts injuries once governed by status and private connection
+  into public violations of a charter directed toward general security.
+
+  Voltaire enlarges philosophical history from one nation to the spirit,
+  manners, and customs of nations. Dynastic succession, genealogy, disputed
+  title, and battle cease to be the substance of universal history. Law,
+  religion, commerce, agriculture, towns, domestic life, useful arts,
+  invention, and the work of obscure persons become historical powers. India,
+  China, Persia, the Arabs, and other eastern civilizations break the identity
+  of universal history with western Christendom, even as Voltaire continues to
+  rank peoples and periods through civilization, barbarism, superstition,
+  refinement, utility, and happiness. Merchants and artisans preserve and
+  enlarge capacities that princes can exploit or destroy but cannot create by
+  command alone.
+
+  The Age of Louis XIV organizes a European world around one monarch without
+  making the age the king's private biography. The states of Europe, the Fronde,
+  Mazarin, court, ministers, finances, commanders, diplomacy, war, peace,
+  conquest, and coalition together constitute the reign. Louis concentrates
+  direction, representation, patronage, and military purpose, but civil war
+  forms the monarchy before personal rule, institutions mediate his action,
+  revenue sustains it, and other powers combine against it. Naming an age after
+  a ruler magnifies the king's historical form while submitting magnificence,
+  ambition, glory, and public happiness to judgment.
+
+  Condorcet turns philosophical history into a universal sequence running from
+  early subsistence through agriculture, writing, Greece, Rome, decline,
+  revival, printing, the overthrow of authority by philosophy and science, the
+  French Republic, and the future progress of the human mind. Printing changes
+  the political conditions of truth by multiplying copies, enlarging the
+  reading public, preserving discoveries, sustaining controversy, and weakening
+  the ability of one ruling party to suppress memory. Historical succession
+  becomes a body of observation from which future development may be inferred.
+
+  Perfectibility has no fixed bound beyond the duration of the globe and has
+  passed beyond the final control of any power that wishes to stop it. The
+  future is ordered by three hopes: the destruction of inequality among
+  nations, the progress of equality within each nation, and the real improvement
+  of the human being. Public instruction is to reduce dependence by making
+  people capable of understanding interests and rights, judging representatives,
+  resisting imposture, and conducting ordinary life through their own reason.
+  The universal promise nevertheless measures other peoples by the present
+  civilization of the French and Anglo-Americans. The doctrine that no people
+  is naturally condemned to ignorance or servitude opposes hereditary hierarchy
+  and colonial domination while allowing those who call themselves advanced to
+  claim tutelage over those they call backward.
+
+  Baconian institutional progress, Humean historical reserve, Voltairean
+  civilizational judgment, and Condorcet's confidence in irreversible
+  perfectibility remain different accounts. Together they establish
+  early-modern and Enlightenment power as organized knowledge joined to
+  philosophical history and the promise of progress. Power now includes the
+  capacity to finance inquiry, define valid knowledge, organize transmission,
+  classify civilizations, name an age, reconstruct the causes of the present,
+  educate judgment, and decide which future counts as improvement. The same
+  movement creates standards by which inherited rule can be criticized and new
+  authorities capable of governing in the name of knowledge, civilization,
+  equality, and the future.
+
 scope:
   subject: >-
     Egyptian power as sacred science, Persian power as imperial expansion, and
@@ -653,13 +747,16 @@ scope:
     kingship, augury, census, consulship, Senate, people, tribunate, citizenship,
     colony, alliance, army, province, natural law, exceptional command, Caesar,
     Augustus, imperial household, Guard, provincial army, and dynasty.
-    The final present layer adds the two cities, eastern Roman continuity,
+    The post-imperial and medieval layer adds the two cities, eastern Roman continuity,
     western successor kingdoms, Carolingian reconstruction, competing Roman
     empires, bishop and monastery, conversion, sacred and martial lineage,
     election, consecration, burh, fief, regalia, estate, commune, parliament,
     council, town, chivalric law, armed company, group feeling, royal authority,
     taxation, historical apology, diplomatic balance, territorial statecraft,
-    urban civilization, and dynastic decline.
+    urban civilization, and dynastic decline. The final present layer adds
+    Baconian learning, institutional inquiry, experiment, philosophical history,
+    comparative manners, commerce, print, public instruction, natural rights,
+    civilizational judgment, equality, perfectibility, and progress.
   geography: >-
     The Two Lands and the Egyptian cosmic field of sky, earth, Nile Valley,
     Delta, desert, neighboring lands, and Duat; Media, Persia, Lydia, Ionia,
@@ -676,7 +773,10 @@ scope:
     Venice, Scandinavia, Denmark, France, Burgundy, Flanders, the Papal States,
     Florence, Milan, Naples, the Islamic East and Maghrib, and the connected
     imperial, dynastic, ecclesiastical, diplomatic, and urban world examined by
-    the medieval witnesses and Ibn Khaldun.
+    the medieval witnesses and Ibn Khaldun; then England, France, the European
+    state system, India, China, Persia, the Arab and Ottoman worlds, the Americas,
+    Africa, and the comparative global field constructed by Bacon, Hume,
+    Voltaire, and Condorcet.
   period: >-
     The beginning is not assigned a modern date. Egypt's stated succession runs
     from divine rulers through spirits to human kings. Persia is followed through
@@ -696,8 +796,12 @@ scope:
     parliaments, the later chivalric and corporate order, Ibn Khaldun's
     fourteenth-century science of dynasty and civilization, and the
     fifteenth-century papal and Italian crisis that opens the wars narrated by
-    Commines and Guicciardini. Modern dates remain metadata for witnesses and
-    conventional placement.
+    Commines and Guicciardini. The early-modern and Enlightenment layer runs
+    from Bacon's program for the advancement of learning through Hume's
+    reconstruction of English institutions, Voltaire's philosophical histories
+    of nations and the age of Louis XIV, and Condorcet's ten epochs culminating
+    in the French Republic and the projected future of the human species.
+    Modern dates remain metadata for witnesses and conventional placement.
   purpose: >-
     To establish successive historical forms of the older forces of power that
     will later meet the hopes, desires, dreams, and uncertainties of the
@@ -717,7 +821,11 @@ shape:
     post-imperial world in which Roman, Christian, warrior, ecclesiastical,
     dynastic, urban, chivalric, juristic, fiscal, and diplomatic powers overlap,
     compete for universal title, and become partially concentrated without one
-    authority becoming the complete sovereign of all the others?
+    authority becoming the complete sovereign of all the others, and then by an
+    early-modern and Enlightenment order in which inquiry is institutionally
+    organized, historical comparison judges inherited authority, print enlarges
+    the public of knowledge, and progress converts the future into an object of
+    political reason?
   operative_rules:
     - Ancient self-descriptions are stated in their own categories before later interpretations are introduced.
     - The true age of the civilization is treated as unknown.
@@ -767,6 +875,17 @@ shape:
     - Ibn Khaldun's group feeling includes kinship and relations operating like kinship; it is not reduced to race, ethnicity, sentiment, or ideology.
     - Ibn Khaldun's stages identify recurrent political conditions and do not impose an exact timetable or an identical fate upon every dynasty.
     - Taxation, public expenditure, unjust confiscation, forced labor, and fiscal decline are distinguished rather than collapsed into a claim that every levy destroys civilization.
+    - Baconian knowledge is directed toward works and human benefit without being detached from charity, divine limits, contemplation, civil knowledge, or truthful inquiry into nature.
+    - Political support for inquiry is distinguished from a ruler's power to determine the truth produced by inquiry.
+    - Bacon's institutional program for places, books, investigators, experiments, and correspondence is not reduced to the slogan that knowledge is power.
+    - Hume's reconstruction of constitutional change preserves evidentiary uncertainty and does not project a finished plan of liberty into remote English origins.
+    - Hume's account of feudal protection, property, service, jurisdiction, and private force is preserved as an historical structure rather than a succession of rulers alone.
+    - Voltaire's philosophical history retains laws, manners, commerce, religion, domestic life, arts, and obscure producers as historical causes alongside rulers and wars.
+    - Voltaire's expansion beyond western Christendom is preserved together with the civilizational hierarchy through which he judges nations and ages.
+    - The age of Louis XIV is treated as a configuration of crown, court, minister, finance, army, diplomacy, war, coalition, and historical reputation rather than the biography of an isolated sovereign.
+    - Condorcet's indefinite perfectibility is preserved as a stronger claim than Baconian institutional improvement, Humean reserve, or Voltairean comparison.
+    - Printing, public instruction, natural rights, equality, and future improvement remain distinct powers even where Condorcet joins them in one sequence.
+    - Condorcet's universal equality is preserved together with the tension created when French and Anglo-American civilization supplies its privileged model of advancement.
 
 claim_policy:
   self_witness: >-
@@ -905,6 +1024,36 @@ claim_policy:
     urban civilization, craft, writing, science, luxury, senility, and decline.
     His account retains religion and divine law while explaining political
     recurrence through observable social relations.
+  baconian_witness: >-
+    Bacon governs the reformation of learning through the critique of verbalism,
+    fruitless controversy, inherited dictatorship of authors, and knowledge
+    directed to ostentation or private gain; the union of contemplation and
+    action; the ascent from experiment to cause and descent from cause to new
+    experiment; the distinction between divine and natural knowledge; charity
+    as the governing end of use; and the institutional coordination of places,
+    books, learned persons, expense, instruments, correspondence, education,
+    rhetoric, civil knowledge, negotiation, and government.
+  humean_historical_witness: >-
+    Hume governs the critical reconstruction of English power from Britain
+    through King John, including evidentiary limits in remote history,
+    comparison of language, manners, and custom, Anglo-Saxon freedom and
+    kingship, the witenagemot, the origin and consolidation of feudal tenure,
+    the union of military and civil jurisdiction, church and baronial checks,
+    commerce and refinement, and Magna Carta's gradual constitutional effect.
+  voltairean_historical_witness: >-
+    Voltaire's Essay on Universal History governs philosophical comparison of
+    the spirit, manners, customs, laws, religions, commerce, arts, inventions,
+    domestic life, and happiness of nations beyond western Christendom. The Age
+    of Louis XIV governs the European state system, Fronde, Mazarin, court,
+    ministers, finance, commanders, diplomacy, war, conquest, coalition, and the
+    concentration and historical judgment of one monarch's age.
+  condorcetian_witness: >-
+    Condorcet governs the ten-epoch sequence of the human mind, printing's
+    transformation of transmission and authority, the relation among science,
+    natural rights, revolution, public instruction, equality, and social art,
+    and the projected future of indefinite perfectibility. His prediction and
+    universalism remain qualified by the evidentiary language and
+    civilizational hierarchy stated within his own account.
   synthesis: >-
     General claims about a civilizational form of power must be supported by the
     relevant authorities and must preserve conflicts among stated principles,
@@ -937,7 +1086,12 @@ claim_policy:
     Froissart's aristocratic law of arms, Commines's prudential statecraft, Pius
     II's papal apology as analyzed by O'Brien, Guicciardini's balance of powers,
     and Ibn Khaldun's science of solidarity and civilization remain distinct and
-    sometimes incompatible explanations of the post-imperial world.
+    sometimes incompatible explanations of the post-imperial world. Bacon's
+    charitable and institutional reform of learning, Hume's skeptical and
+    constitutional reconstruction, Voltaire's comparative judgment of manners
+    and civilizations, and Condorcet's philosophy of indefinite progress remain
+    distinct and sometimes incompatible accounts of knowledge, history, and
+    improvement.
 
 historical_spectrum:
   inherited_sacred_science:
@@ -1227,6 +1381,38 @@ historical_spectrum:
     - fiscal circulation joining tax, salary, gift, purchase, production, and revenue
     - confiscation, forced labor, manipulated exchange, and injustice ruining civilization
     - luxury weakening the founding solidarity that made conquest and government possible
+  baconian_reformation_of_learning:
+    - learning directed away from verbal victory, ostentation, inherited dictatorship, private profit, and fruitless controversy
+    - contemplation joined to action, experiment, cause, new operation, use, and human benefit
+    - charity governing the end of knowledge and divine and natural learning kept distinct
+    - places, books, learned persons, endowment, privilege, salary, instrument, garden, anatomy, furnace, engine, and experimental expense
+    - universities connected by correspondence across territorial sovereignties
+    - education, rhetoric, conversation, negotiation, government, and civil knowledge shaping public conduct
+    - prince and state coordinating inquiry without possessing authority to enact truth
+  humean_constitutional_history:
+    - remote origin reconstructed through evidence, language, manners, custom, comparison, and stated uncertainty
+    - Anglo-Saxon liberty, limited kingship, national council, and irregular succession
+    - no completed constitutional plan projected backward into a fragmentary past
+    - allodial possession exchanged for feudal protection and service
+    - land, inheritance, military following, civil jurisdiction, revenue, and private dependence forming political order
+    - baronial force checking the crown without constituting popular liberty
+    - Magna Carta turning private and status-bound injuries toward public constitutional violation and general security
+  voltairean_philosophical_history:
+    - spirit, manners, customs, law, religion, commerce, arts, invention, domestic life, and happiness replacing dynastic chronology as the principal object
+    - India, China, Persia, the Arabs, and eastern civilizations displacing western Christendom from the whole of universal history
+    - comparative history continuing to rank nations and periods through civilization, barbarism, superstition, refinement, and utility
+    - merchants, artisans, towns, agriculture, and ordinary social cooperation surviving and repairing princely destruction
+    - Louis XIV's age formed by European states, civil war, court, minister, finance, army, diplomacy, conquest, and coalition
+    - historical reputation magnifying a monarch while judging glory by public happiness and cost
+  condorcetian_history_and_progress:
+    - ten epochs from early subsistence through agriculture, writing, classical civilization, decline, revival, printing, philosophy, republic, and future
+    - each condition produced by preceding conditions and acting upon those that follow
+    - printing multiplying copies, preserving discoveries, widening controversy, and weakening monopolies of authoritative memory
+    - philosophy and science throwing off authority and joining natural rights to revolutionary emancipation
+    - inequality among nations, inequality within nations, and real human improvement as the three future questions
+    - public instruction reducing dependence and enabling judgment of representatives, rights, interests, and imposture
+    - indefinite perfectibility beyond the final control of hostile power
+    - universal equality measured through a hierarchy that assigns exemplary advancement to France and Anglo-America
 
 conceptual_chain:
   egyptian_power:
@@ -1397,6 +1583,34 @@ conceptual_chain:
       can consume in attempting to possess them, while every attempt to become
       the summit calls rival universal, dynastic, ecclesiastical, and corporate
       titles into action.
+  early_modern_and_enlightenment_power:
+    sequence:
+      - inherited learning criticized as verbal, fruitless, and governed by authoritative names
+      - contemplation joined to experiment, work, use, and human benefit
+      - charity and divine limits governing the end and scope of natural knowledge
+      - places, books, investigators, endowments, instruments, expense, and correspondence organized for discovery
+      - civil knowledge, rhetoric, education, negotiation, and government joined to the formation of conduct
+      - remote history reconstructed through evidence, comparison, manners, custom, and conjecture
+      - property, protection, service, jurisdiction, military organization, and commerce becoming historical causes
+      - constitutional liberty emerging through change rather than descending as a finished inheritance
+      - universal history redirected from dynasties and battles toward nations, laws, religion, commerce, arts, and ordinary life
+      - western Christendom displaced from the whole historical field by comparison with eastern civilizations
+      - monarchy interpreted through an age formed by court, minister, finance, army, diplomacy, coalition, and reputation
+      - printing multiplying knowledge beyond the control of one school, court, church, or manuscript tradition
+      - historical succession converted into observable development of the human mind
+      - natural rights, revolution, equality, public instruction, and social art joined to future improvement
+      - indefinite perfectibility declared beyond the final control of hostile power
+      - universal emancipation generating a new hierarchy of advanced peoples and tutelage over the backward
+    governing_principle: >-
+      Early-modern and Enlightenment power reorganizes inquiry and historical
+      understanding as active human capacities. Its strength is the ability to
+      coordinate discovery, preserve and circulate knowledge, reconstruct the
+      causes of institutions, compare civilizations, educate judgment, and make
+      inherited authority answer to standards of utility, happiness, rights,
+      equality, and progress. Its contradiction is that the authorities capable
+      of defining knowledge and improvement can govern in their name, while a
+      universal promise of emancipation can assign particular nations the right
+      to represent the future of all the others.
 
 internal_tensions:
   - tension: Visible beginning and inherited completion
@@ -1716,6 +1930,56 @@ internal_tensions:
       - Durable rule produces cities, markets, crafts, writing, sciences, monuments, salaries, and refined life.
       - Luxury, injustice, confiscation, forced labor, fiscal contraction, and military neglect consume production and founding solidarity.
     preservation_rule: Urban civilization is neither blamed as decadence alone nor detached from the political relations that finance, protect, and endanger it.
+  - tension: Political patronage and intellectual truth
+    sides:
+      - Baconian inquiry requires rulers, states, endowments, institutions, salaries, instruments, and continuing expense.
+      - No patron, office, or decree can make a false account of nature true or replace disciplined experiment and correction.
+    preservation_rule: Political power and organized inquiry are recorded as reciprocal powers without making truth the creation of sovereignty.
+  - tension: Useful knowledge and charitable limit
+    sides:
+      - Learning is to issue in works, inventions, benefit, comfort, and enlarged human capacity.
+      - Knowledge severed from charity, directed to swelling or lucre, or confused with revelation corrupts its own end.
+    preservation_rule: Baconian action is not reduced either to passive contemplation or to unlimited technological mastery.
+  - tension: Institutional memory and intellectual renewal
+    sides:
+      - Books, universities, colleges, teachers, traditions, and authoritative authors preserve knowledge across generations.
+      - The same institutions and authorities can reward repetition, verbalism, professional enclosure, and fruitless controversy.
+    preservation_rule: Intellectual inheritance remains both the condition and the possible obstruction of discovery.
+  - tension: Ancient liberty and historical constitution
+    sides:
+      - Hume preserves Anglo-Saxon independence, limited kingship, popular acquiescence, and the national council as real political forms.
+      - Fragmentary evidence and changing practice do not disclose a regular original constitution of election or liberty.
+    preservation_rule: Early freedom is neither denied nor converted into a completed constitutional plan.
+  - tension: Feudal protection and political oppression
+    sides:
+      - Dependence upon a lord joins landholders into a structure capable of providing protection, service, judgment, and coordinated defense.
+      - Hereditary jurisdiction and private force make barons petty sovereigns capable of obstructing law and oppressing subjects.
+    preservation_rule: Feudal dependence is explained by its protective capacity without treating necessity as freedom or private checks as popular government.
+  - tension: Universal history and civilizational judgment
+    sides:
+      - Voltaire enlarges history beyond western Christendom to nations with their own antiquity, government, religion, arts, commerce, and moral teaching.
+      - He continues to order peoples and ages through categories of civilization, barbarism, superstition, refinement, and happiness.
+    preservation_rule: Enlargement of the historical field is preserved together with the hierarchy through which comparison judges it.
+  - tension: Monarch and age
+    sides:
+      - Louis XIV concentrates enough command, representation, war, patronage, and reputation for an historical period to bear his name.
+      - Fronde, minister, court, finance, army, diplomacy, coalition, and rival states remain constitutive powers that the king neither creates nor wholly controls.
+    preservation_rule: Naming the age after the ruler does not convert the ruler into the sole cause of the age.
+  - tension: Historical development and inevitable progress
+    sides:
+      - Bacon, Hume, and Voltaire disclose discovery, constitutional change, refinement, and improvement through institutions, contingency, conflict, and correction.
+      - Condorcet interprets the succession as an indefinite perfectibility that no hostile power can finally reverse.
+    preservation_rule: A common concern with improvement does not dissolve the difference between contingent development and irreversible progress.
+  - tension: Printing and authority
+    sides:
+      - Reproducible texts widen access, sustain controversy, preserve discovery, and weaken the ability of one ruling party to suppress knowledge.
+      - Censorship, unequal instruction, political prejudice, religious authority, and control of institutions continue after the multiplication of books.
+    preservation_rule: Printing changes the conditions of authority without abolishing political and social control over knowledge.
+  - tension: Universal equality and civilizational tutelage
+    sides:
+      - Condorcet denies that any people is naturally condemned to ignorance, slavery, or exclusion from reason and rights.
+      - He describes the future of other peoples through a scale whose exemplary present is occupied by French and Anglo-American civilization.
+    preservation_rule: The emancipatory universality of progress and its capacity to authorize tutelage remain powers of the same doctrine.
 
 comparative_matrix:
   Sacred_Science:
@@ -1914,6 +2178,26 @@ comparative_matrix:
     form_of_power: Taxation, salary, gift, public expenditure, market circulation, property, labor, cultivation, confiscation, price coercion, and revenue.
     political_implication: The ruler's finances depend upon the productive cooperation of subjects, so injustice and fiscal extraction can destroy the civilization from which sovereign revenue comes.
     unresolved_question: What measure of tax and expenditure sustains public authority without allowing the dynasty's needs to consume its economic substance?
+  Bacon_on_the_advancement_of_learning:
+    form_of_power: Institutionally coordinated inquiry through places, books, learned persons, endowment, experiment, instrument, correspondence, education, rhetoric, and civil knowledge.
+    political_implication: Political magnitude can sustain discovery and use its fruits, while knowledge enlarges command only by answering to nature, disciplined correction, charity, and limits no ruler enacts.
+    unresolved_question: Can institutions powerful enough to organize discovery remain governed by truth and human benefit rather than patronage, professional authority, ostentation, and gain?
+  Hume_on_the_history_of_England:
+    form_of_power: Critical national history reconstructing government through evidence, custom, property, military service, jurisdiction, commerce, refinement, charter, and unintended institutional change.
+    political_implication: Liberty and constitution emerge historically from changing relations and public restraints rather than descending as a complete ancestral possession.
+    unresolved_question: How can historical conjecture explain a constitutional inheritance without turning either national fable or later judgment into evidence?
+  Voltaire_on_universal_history:
+    form_of_power: Philosophical comparison of the manners, spirit, law, religion, commerce, arts, domestic life, and happiness of nations across a global field.
+    political_implication: History can judge rulers and civilizations by effects beyond dynastic success while making the historian's categories of refinement and barbarism a new authority.
+    unresolved_question: Can universal comparison escape the civilizational hierarchy through which it selects what deserves memory and which lives count as advanced?
+  Voltaire_on_the_age_of_Louis_XIV:
+    form_of_power: Monarchical concentration operating through court, minister, finance, commander, army, diplomacy, conquest, coalition, patronage, and historical reputation.
+    political_implication: A ruler can impress a name upon an age only through institutions and rival powers that constitute both his reach and his limits.
+    unresolved_question: Does historical magnificence serve the happiness of a people, or convert public cost and recurring war into the glory of one sovereign?
+  Condorcet_on_the_progress_of_the_human_mind:
+    form_of_power: Epochal history, printing, science, natural rights, revolution, public instruction, social art, equality, prediction, and indefinite perfectibility.
+    political_implication: The future becomes an object of organized reason, and hostile authority loses its claim to make inherited inequality permanent.
+    unresolved_question: Who governs the definition and pace of progress when universal emancipation takes particular modern nations as the model toward which all peoples are expected to move?
 
 boundaries:
   - No modern BCE date is treated as the demonstrated beginning of Egyptian civilization.
@@ -2002,6 +2286,22 @@ boundaries:
   - Taxation is not treated as inherently destructive; fiscal circulation, public expenditure, arbitrary seizure, forced labor, insecure property, and civilizational ruin remain distinct relations.
   - The Christian, Procopian, and Khaldunian explanations are not harmonized into one philosophy of history.
   - Byzantine, Islamic, papal, canonical, monastic, Carolingian, crusading, feudal, communal, parliamentary, and later medieval histories remain open beyond the episodes governed by the authorities supplied.
+  - Bacon's program is not reduced to technological domination, and the exact slogan that knowledge is power is not substituted for the distinctions made in The Advancement of Learning.
+  - Charity, theology, moral formation, civil knowledge, and contemplation are not removed from Bacon's account in order to make utility its only end.
+  - Royal patronage of learning is not treated as royal ownership of truth or as proof that discovery is merely an instrument of the state.
+  - Bacon's criticism of inherited authorities does not make books, universities, traditions, teachers, and preservation dispensable to discovery.
+  - Hume's language of civilization, barbarism, and refinement is preserved as part of his historical judgment rather than adopted as a neutral classification of peoples.
+  - The evidentiary limits Hume states for remote history are not silently filled by national fable or later constitutional theory.
+  - Anglo-Saxon liberty is not treated as a finished modern constitution, and feudal restraint of the crown is not treated as popular liberty.
+  - Magna Carta is not treated either as politically empty or as the complete invention of constitutional government in one act.
+  - Voltaire's universal history is not reduced to European diplomacy, and its inclusion of eastern civilizations is not treated as freedom from civilizational hierarchy.
+  - Manners, commerce, arts, domestic life, and obscure productive labor are not subordinated to dynastic succession where Voltaire makes them the principal historical object.
+  - The Age of Louis XIV is not reduced to biography, and its monarchical name is not allowed to erase ministers, finance, civil war, military command, diplomacy, coalition, and the European state system.
+  - Condorcet's projected progress is not inserted into Bacon, Hume, or Voltaire as though all four authorities asserted irreversible historical development.
+  - Printing is not treated as the abolition of censorship, prejudice, unequal education, religious authority, or political control.
+  - Condorcet's prediction is preserved as reasoned historical conjecture and philosophical confidence rather than restated as a demonstrated law of future events.
+  - The universalism of natural rights and equality does not erase the hierarchy through which Condorcet identifies some modern nations as the model of civilization for others.
+  - Early-modern and Enlightenment histories, sciences, states, religions, empires, colonial relations, and revolutions remain open beyond the episodes governed by the authorities supplied.
 
 navigational_questions:
   - What older civilizational source accounts for the completeness visible at the beginning of the surviving record?
@@ -2116,6 +2416,25 @@ navigational_questions:
   - Why does hoarded revenue or reduced public expenditure diminish the ruler's own tax base?
   - When does taxation become injustice that destroys production, and what makes just revenue politically sustainable?
   - How do Augustine, the providential chroniclers, Procopius, and Ibn Khaldun disagree about the causes and meaning of political catastrophe?
+  - What changes when learning itself becomes an object of deliberate political and institutional reformation?
+  - Why does Bacon require royal magnitude for discovery, and what remains beyond the king's power to command?
+  - How do places, books, investigators, instruments, experiments, expense, and correspondence convert knowledge from a personal possession into an intergenerational power?
+  - Why does charity govern Bacon's union of contemplation, action, use, and human benefit?
+  - How do rhetoric, education, negotiation, government, and civil knowledge shape conduct before coercion is required?
+  - What can historical inquiry know when written records disappear, and how does Hume distinguish evidence, comparison, and conjecture?
+  - Why does Hume preserve ancient English liberty while rejecting a regular original constitution of liberty?
+  - How do property, protection, service, jurisdiction, inheritance, and military force create feudal order without a single legislator?
+  - What changes when a charter converts injuries against particular persons into public violations of a constitutional standard?
+  - Why does Voltaire replace dynastic succession and battles with manners, laws, religion, commerce, arts, domestic life, and happiness as the substance of history?
+  - How can universal history enlarge its field beyond western Christendom while retaining a hierarchy of civilized and barbarous peoples?
+  - What makes Louis XIV powerful enough to give his name to an age, and which institutions and rival states prevent that age from becoming his private creation?
+  - How do merchants, artisans, towns, inventions, and commerce create capacities on which royal power depends?
+  - What political monopoly over memory is broken when printing multiplies texts and controversies?
+  - When does historical explanation become a forecast and program for the future?
+  - Why does Condorcet expect perfectibility to escape the final control of every hostile power?
+  - How do public instruction, natural rights, social art, equality, and representative judgment become powers of emancipation?
+  - When does a universal doctrine of progress authorize advanced peoples to act as tutors of those it calls backward?
+  - What do Bacon, Hume, Voltaire, and Condorcet disagree about concerning contingency, correction, civilization, and irreversible progress?
 
 sources:
   authoritative_syntheses:
@@ -2306,6 +2625,35 @@ sources:
       translator: Franz Rosenthal
       role: Writing, education, science, craft, transmission across peoples and ages, and the intellectual culture made possible by developed urban civilization.
       path: /Users/onepiece/Downloads/407035380-THE-MUQADDIMAH-VOLUME-3-pdf.pdf
+  early_modern_and_enlightenment_witnesses:
+    - title: The Advancement of Learning
+      author: Francis Bacon
+      editor: G. W. Kitchin
+      role: Reformation of learning, critique of verbalism and authoritative repetition, union of contemplation and action, works and human benefit, charity and divine limits, places, books, learned persons, endowments, experiments, correspondence, education, rhetoric, civil knowledge, negotiation, and government.
+      path: /Users/onepiece/Downloads/baconlogicad00bacouoft.pdf
+    - title: The History of England - Volume One
+      author: David Hume
+      role: Critical treatment of remote origins, language, manners, custom, Anglo-Saxon government, feudal tenure, property, protection, military and civil jurisdiction, church and baronial power, commerce, refinement, King John, Magna Carta, and historical constitutional formation.
+      path: /Users/onepiece/Downloads/historyofengland01davirich.pdf
+    - title: An Essay on Universal History, the Manners, and Spirit of Nations - Volume One
+      author: Voltaire
+      translator: Thomas Nugent
+      role: Plan of philosophical history, comparative treatment of nations beyond western Christendom, spirit, manners, customs, religion, law, commerce, civilization, and the displacement of dynastic chronology as the principal historical object.
+      path: /Users/onepiece/Downloads/bim_eighteenth-century_an-essay-on-universal-hi_voltaire_1759_1.pdf
+    - title: An Essay on Universal History, the Manners, and Spirit of Nations - Volume Two
+      author: Voltaire
+      translator: Thomas Nugent
+      role: Laws and manners against genealogical chronicle, medieval and early-modern political formation, commerce, merchant wealth, towns, domestic life, inventions, arts, sciences, refinement, and the ordinary social powers obscured by battles.
+      path: /Users/onepiece/Downloads/bim_eighteenth-century_an-essay-on-universal-hi_voltaire_1759_2.pdf
+    - title: The Age of Louis XIV - Volume One
+      author: Voltaire
+      translator_and_editor: R. Griffith
+      role: European states before Louis XIV, the Fronde, Mazarin, court, ministers, finance, commanders, diplomacy, war, conquest, coalition, peace, monarchical concentration, and the historical naming and judgment of an age.
+      path: /Users/onepiece/Downloads/agelouisxivtowh00grifgoog.pdf
+    - title: Outlines of an Historical View of the Progress of the Human Mind
+      author: Marquis de Condorcet
+      role: Ten epochs of human development, printing and the overthrow of authority, philosophy and science, natural rights, the American and French Revolutions, public instruction, equality among and within nations, social art, future prediction, and indefinite perfectibility.
+      path: /Users/onepiece/Downloads/outlinesofhistor00cond.pdf
   primary_and_direct_witnesses:
     - title: The Ancient Egyptian Pyramid Texts
       author: James P. Allen
@@ -2369,4 +2717,4 @@ sources:
       role: Modern limits and disputes in reconstructing absolute chronology from regnal and material evidence.
       url: https://www.ucl.ac.uk/museums-static/digitalegypt/archaeology/dating.html
 
-completeness: COMPLETE_THROUGH_POST_IMPERIAL_AND_MEDIEVAL_WORLD_PENDING_CERTIFICATION
+completeness: COMPLETE_THROUGH_EARLY_MODERN_AND_ENLIGHTENMENT_OPENING_PENDING_CERTIFICATION
