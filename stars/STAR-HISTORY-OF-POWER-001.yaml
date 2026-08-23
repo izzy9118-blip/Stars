@@ -236,25 +236,105 @@ fact: >-
   imperial wealth thereby gained threatens the human qualities that founded
   their freedom.
 
+  In Greece power assumes a third form: the polis as regime. Common descent,
+  language, sanctuaries, sacrifices, and ways of life make Hellas intelligible,
+  but no single Greek state replaces the independent cities. Gods, ancestral
+  customs, laws, offices, assemblies, courts, property, education, military
+  service, public speech, civic honor, and the ruling body compose a way of
+  life that forms rulers and ruled together. Democracy, oligarchy, tyranny,
+  kingship, and mixed arrangements remain distinct. Freedom therefore means
+  both independence from a foreign master and participation within a civic
+  order; a polis can possess the first while denying the second to many of its
+  inhabitants, and free citizens can rule other cities as subjects.
+
+  Herodotus distinguishes two powers of civic freedom. Athens becomes stronger
+  after tyranny because each citizen acts for himself rather than for a master;
+  Sparta remains free by treating law as its master and obeying its command to
+  stand, win, or die. The Persian invasion compels divided poleis to act
+  together. Athens yields naval command rather than destroy the common cause in
+  a dispute over leadership and later refuses Persian gold by invoking shared
+  Greek descent, language, sanctuaries, rites, and life. The unity remains
+  contingent: Greek cities disagree, some serve Persia, and Athens yields
+  leadership only while common survival requires it.
+
+  Thucydides traces the material formation of this order through settlement,
+  surplus, walls, money, ships, commerce, and military organization. Sparta
+  becomes the leading land power and coordinates oligarchic allies; Athens
+  becomes the leading naval power, converts alliance into tribute empire, and
+  makes maritime citizenship a source of democratic strength. The growth of
+  Athenian power and Spartan fear make war necessary. Periclean Athens presents
+  equality under law, merit, private freedom, public obedience, discussion,
+  participation, courage, and cultivated life as one democratic way of life,
+  while the same city rules unwilling allies. Athenian speakers defend empire
+  through fear, honor, and advantage; Pericles calls it a tyranny dangerous to
+  surrender. Civic freedom and imperial independence diverge.
+
+  Speech, law, and faction become powers inside the regime. Pericles leads the
+  people rather than being led by them, while his successors compete through
+  popular gratification. The plague dissolves restraint by destroying the
+  expectation that law, piety, honor, and long effort will reach a future.
+  Cleon and Diodotus dispute whether terror or calculated moderation best
+  preserves empire, and the second Athenian vote barely saves Mytilene from
+  collective execution. At Corcyra, democratic and oligarchic parties call in
+  Athens and Sparta, make party stronger than kinship, reverse the meaning of
+  words, and use law, piety, and public ends as instruments of gain and
+  vengeance. Stasis turns one part of the city into a claimant to the whole.
+
+  Xenophon carries the conflict from Athenian defeat through the struggle over
+  Greek hegemony. After Arginusae, assembly anger overrules separate trial and
+  full defense, the generals are executed together, and the citizens soon
+  repent. Aegospotami destroys the fleet, blockade forces Athens to surrender,
+  and the Long Walls fall to the music of Greek liberation. Spartan victory
+  then installs the Thirty, whose garrison, citizen list, disarmament,
+  confiscations, and executions join foreign power to domestic oligarchy.
+  Thrasybulus restores democracy, while reconciliation and the oath not to
+  remember past wrongs prevent victory from reproducing civil war.
+
+  Sparta converts autonomy into hegemony. Lysander places oligarchic boards and
+  Spartan governors in captured cities, and the King's Peace assigns the Asian
+  Greeks to Artaxerxes while declaring the remaining Greek cities autonomous
+  under Spartan enforcement. Sparta dissolves other leagues while retaining
+  command over its own allies, seizes the Theban Cadmea despite its oath, and is
+  defeated at Leuctra by the power it had subordinated. Theban victory ends
+  Spartan invulnerability, carries war into Laconia, restores Messenian
+  independence, and produces another unstable hegemony. At Mantinea nearly all
+  Greece divides between rival coalitions expecting the victor to rule and the
+  defeated to obey. Epaminondas wins the battle and dies; both sides claim
+  victory, neither gains city, territory, or stable rule, and uncertainty and
+  disorder become greater than before. The polis can generate civic freedom,
+  disciplined law, deliberation, and common sacrifice, but it also generates
+  exclusion, empire, faction, regime change, and recurrent struggles in which
+  every liberation can become a new command.
+
 scope:
   subject: >-
-    Egyptian power as sacred science and Persian power as imperial expansion:
+    Egyptian power as sacred science, Persian power as imperial expansion, and
+    Greek power as polis, regime, civic freedom, empire, stasis, and hegemony:
     creation, divine succession, myth, natural symbol, number, temple,
     Anthropocosmos, the royal principle, ma'at, nomos, priestly memory,
     historical inquiry, office, land, coercion, death, and judgment, followed by
     Persian liberation, monarchy, conquest, slavery, satrapy, tribute, road,
-    dependent rule, information, law, freedom, expansion, and natural limit.
+    dependent rule, information, law, freedom, expansion, and natural limit;
+    followed by Greek settlement, walls, fleet, citizenship, democracy,
+    oligarchy, tyranny, assembly, public speech, empire, civil war, autonomy,
+    regime change, reconciliation, and hegemonic succession.
   geography: >-
     The Two Lands and the Egyptian cosmic field of sky, earth, Nile Valley,
     Delta, desert, neighboring lands, and Duat; Media, Persia, Lydia, Ionia,
     Babylon, Egypt, Scythia, the Massagetan lands, the Royal Road, the Persian
-    provinces, the Hellespont, and Greece as Herodotus orders their relations.
+    provinces, the Hellespont, and Greece as Herodotus orders their relations;
+    then Athens, Sparta, Thebes, the Aegean, Ionia, Boeotia, the Peloponnese,
+    Corcyra, Lesbos, and the allied and subject poleis ordered by Herodotus,
+    Thucydides, and Xenophon.
   period: >-
     The beginning is not assigned a modern date. Egypt's stated succession runs
     from divine rulers through spirits to human kings. Persia is followed through
     the Median succession and the reigns of Cyrus, Cambyses, Darius, and Xerxes
     without making a modern chronology the source of its self-understanding.
-    Modern dates remain metadata for witnesses and conventional placement.
+    Greece is followed from the formation of the polis and the Persian Wars
+    through the Athenian empire, Peloponnesian War, restoration of Athens,
+    Spartan and Theban hegemonies, and Mantinea. Modern dates remain metadata
+    for witnesses and conventional placement.
   purpose: >-
     To establish successive historical forms of the older forces of power that
     will later meet the hopes, desires, dreams, and uncertainties of the
@@ -266,7 +346,9 @@ shape:
     How does power change when Egyptian sacred science, which coordinates the
     maintenance of one created order, is followed by Persian empire, which
     coordinates different peoples by extending the Great King's house without
-    limit?
+    limit, and then by the Greek polis, which divides political authority among
+    self-governing regimes whose freedom repeatedly becomes empire, faction,
+    and hegemony?
   operative_rules:
     - Ancient self-descriptions are stated in their own categories before later interpretations are introduced.
     - The true age of the civilization is treated as unknown.
@@ -285,6 +367,12 @@ shape:
     - Cyrus's liberation of Persia and enslavement of other peoples remain joined as the founding contradiction of Persian empire.
     - Persian courage, truthfulness, counsel, reciprocity, administration, and adaptability are retained together with conquest, slavery, tribute, fear, and arbitrary command.
     - Natural limits, nomadic mobility, law-governed freedom, and distorted information are treated as distinct limits of imperial command.
+    - Greece is not treated as one sovereign state; the common Hellenic inheritance and the political independence of the poleis remain distinct.
+    - Democracy, oligarchy, tyranny, kingship, and mixed arrangements remain rival regimes rather than stages of one necessary development.
+    - Freedom of a polis from foreign rule is distinguished from the political standing of persons within it and from the freedom of allied cities under a hegemon.
+    - Herodotean, Thucydidean, and Xenophontic speeches preserve political positions within their narrated settings and are not detached from the actions that test them.
+    - Athens, Sparta, and Thebes are not reduced to fixed moral types; each changes through war, faction, leadership, alliance, and hegemony.
+    - Liberation, autonomy, and reconciliation are preserved together with the coercive arrangements that can appropriate their names.
 
 claim_policy:
   self_witness: >-
@@ -312,10 +400,27 @@ claim_policy:
     revolt through imperial administration, the invasions of Scythia and Greece,
     and the defeat of Xerxes. His deliberate silence concerning Egyptian divine
     secrets marks the boundary of his inquiry; it does not make the sacred science
-    itself absent.
+    itself absent. His account also governs the emergence of Athenian freedom,
+    Spartan obedience to law, the common Hellenic inheritance invoked against
+    Persia, and the contingent unity of independent poleis.
+  thucydidean_witness: >-
+    Thucydides governs the material formation of Greek power through settlement,
+    walls, money, fleet, and alliance; the rise of Athens and fear of Sparta; the
+    Athenian self-description of democracy; the imperial arguments of fear,
+    honor, and advantage; Periclean leadership; plague; the Mytilenean debate;
+    and Corcyraean stasis. Speeches preserve the political positions appropriate
+    to their occasions while the narrated acts disclose their limits.
+  xenophontic_witness: >-
+    Xenophon's Hellenica governs the passage from Arginusae and Aegospotami
+    through Athenian surrender, the Thirty, democratic restoration and amnesty,
+    Spartan enforcement of autonomy, seizure of the Cadmea, Leuctra, Theban
+    ascendancy, and the disorder after Mantinea. Its silences and partisan
+    sympathies do not erase the events and judgments it preserves.
   synthesis: >-
-    General claims about Egyptian power must be supported by more than one class
-    of witness or clearly marked as a tension internal to the sources.
+    General claims about a civilizational form of power must be supported by the
+    relevant authorities and must preserve conflicts between a city's stated
+    principles, its institutional form, and its conduct toward citizens, allies,
+    subjects, and enemies.
   disagreement: >-
     Ptah, Atum-Ra, Osiris-Horus, local divine centers, and the Aten are not made
     interchangeable. Royal ideals, royal failures, priestly delegation,
@@ -324,7 +429,12 @@ claim_policy:
     and Egyptian monumental record remain distinguishable. Cyrus, Cambyses,
     Darius, and Xerxes are not made interchangeable; the constitutional speeches,
     Persian counsel, subject peoples, and Greek accounts of law and freedom remain
-    in disagreement where the history preserves their disagreement.
+    in disagreement where the history preserves their disagreement. Herodotean
+    freedom, Periclean democracy, Cleon's terror, Diodotus's expediency,
+    democratic and oligarchic faction, Theramenes' restricted citizenship,
+    Critias's oligarchic tyranny, Thrasybulus's reconciliation, Spartan autonomy,
+    and Theban liberation remain different and sometimes incompatible accounts
+    of Greek order.
 
 historical_spectrum:
   inherited_sacred_science:
@@ -437,6 +547,54 @@ historical_spectrum:
     - throne, royal eye, scribal record, fear, flattery, and distorted information at Salamis
     - Persian magnificence and Spartan austerity
     - harsh land, hard men, fertile land, softness, rule, and slavery in Cyrus's final warning
+  greek_polis_and_regime:
+    - independent poleis joined by descent, language, sanctuaries, rites, and ways of life
+    - gods, law, office, assembly, court, property, education, military service, speech, and honor as one way of life
+    - democracy, oligarchy, tyranny, kingship, and mixed arrangements as rival regimes
+    - freedom from a foreign master distinguished from citizenship and participation within the polis
+    - walls, wealth, fleet, commerce, surplus, and settlement as material conditions of durable political order
+  greek_freedom_and_common_action:
+    - Athens strengthened when citizens act for themselves after tyranny
+    - Sparta free under the mastery of law
+    - Athenian naval contribution joined to voluntary surrender of command for common survival
+    - common Greek inheritance invoked against Persian gold and enslavement
+    - common action remaining contingent upon independent cities and disputed leadership
+  athenian_democracy_and_empire:
+    - equality under law, merit, private liberty, public obedience, discussion, and participation
+    - walls, fleet, tribute, money, subject allies, and maritime citizenship
+    - fear, honor, and advantage as grounds of imperial preservation
+    - democracy in name and leadership by the first man under Pericles
+    - popular competition, private ambition, and the surrender of judgment to immediate desire
+    - plague dissolving the future horizon of law, piety, honor, and restraint
+  speech_law_and_stasis:
+    - Cleon defending terror, stable law, and the necessities of imperial rule
+    - Diodotus defending calculated moderation, revenue, and division between oligarchic rebels and popular allies
+    - deliberation barely reversing the collective destruction of Mytilene
+    - Corcyraean faction calling in Athens and Sparta
+    - party becoming stronger than kinship and words changing with factional need
+    - declared democracy and moderate aristocracy becoming instruments of command, gain, and vengeance
+  athenian_defeat_tyranny_and_restoration:
+    - Arginusae victory followed by illegal collective judgment and execution of the generals
+    - Aegospotami, blockade, surrender, loss of fleet, and destruction of the Long Walls
+    - the Thirty joining citizen list, disarmament, confiscation, execution, and Spartan garrison
+    - Theramenes opposing rule by an unlimited few without accepting unrestricted democracy
+    - Thrasybulus restoring democratic institutions
+    - amnesty and refusal to remember wrongs as powers of civic reconstruction
+  spartan_and_theban_hegemony:
+    - Greek liberation followed by oligarchic boards and Spartan governors
+    - Persian ownership of Asian Greek cities joined to declared autonomy elsewhere
+    - Sparta enforcing autonomy against other leagues while retaining command over its allies
+    - seizure of the Cadmea exposing the contradiction between autonomy and Spartan advantage
+    - Leuctra ending Spartan invulnerability
+    - Theban invasion of Laconia and restoration of Messenian independence
+    - liberation opening another unstable claim to hegemony
+  mantinea_and_hegemonic_limit:
+    - nearly all Greece divided between rival coalitions
+    - victory expected to make one side ruler and the other subject
+    - Epaminondas winning the battle and dying before victory becomes settlement
+    - both sides raising trophies, recovering dead under truce, and claiming victory
+    - neither side gaining city, territory, or stable rule
+    - uncertainty and disorder greater after battle than before
 
 conceptual_chain:
   egyptian_power:
@@ -497,6 +655,35 @@ conceptual_chain:
       limit appears wherever law, custom, truthful counsel, political freedom,
       mobile life, reliable information, geography, or nature cannot be made the
       property of one will.
+  greek_power:
+    sequence:
+      - divided settlements, migration, insecurity, and poverty
+      - walls, surplus, commerce, money, fleet, and durable cities
+      - polis as gods, law, office, citizenship, education, arms, speech, and honor
+      - tyranny, oligarchy, democracy, kingship, and mixed regime
+      - Athenian initiative after tyranny and Spartan freedom under law
+      - common action against Persian empire without a sovereign Greece
+      - Spartan land power and Athenian maritime power
+      - alliance becoming tribute empire
+      - democratic freedom joined to rule over subject cities
+      - Periclean leadership and popular deliberation
+      - plague, demagoguery, and stasis dissolving civic restraint
+      - imperial expediency disputing terror in the assembly
+      - Athenian defeat and Spartan-sponsored oligarchic tyranny
+      - restoration through arms, law, reconciliation, and amnesty
+      - autonomy becoming the instrument of Spartan hegemony
+      - Leuctra and Messenian liberation breaking Spartan command
+      - Theban ascendancy and renewed coalition war
+      - Mantinea producing victory without settlement
+      - hegemonic succession ending in greater disorder
+    governing_principle: >-
+      Greek power locates political authority in the regime of the polis, where
+      law, citizenship, office, property, education, arms, speech, gods, honor,
+      and ruling purpose form a way of life. Its strength is the capacity of free
+      citizens to act for themselves under a shared order; its contradiction is
+      the conversion of civic freedom into exclusion, subject empire, faction,
+      and imposed regime; its limit appears when no victorious polis can turn
+      hegemony over other poleis into a stable common Greek order.
 
 internal_tensions:
   - tension: Visible beginning and inherited completion
@@ -636,6 +823,61 @@ internal_tensions:
       - Tribute, luxury, fertile lands, and imperial abundance display and sustain Persian power.
       - Cyrus warns that soft lands breed soft men and the Persians choose harsh land and rule over rich land and slavery.
     preservation_rule: Wealth is recorded as both an imperial resource and a danger to the character on which empire claims to depend.
+  - tension: Common Hellas and independent poleis
+    sides:
+      - Common descent, language, sanctuaries, sacrifices, and ways of life make concerted Greek resistance intelligible.
+      - Rival poleis preserve separate regimes, commands, interests, and claims to leadership even during common danger.
+    preservation_rule: Greek unity is preserved as a real civilizational bond without being converted into a sovereign Greek state.
+  - tension: Civic freedom and civic exclusion
+    sides:
+      - Citizens rule and are ruled through law, office, assembly, court, military service, and public speech.
+      - Women, slaves, resident foreigners, subject communities, and excluded citizens do not share the same standing.
+    preservation_rule: The political freedom of the citizen body is recorded exactly without expanding it into universal human freedom.
+  - tension: Freedom and law
+    sides:
+      - Athenians become stronger when released from tyranny and made responsible for a city they experience as their own.
+      - Spartans call themselves free while submitting to a law they fear more than Xerxes's subjects fear their king.
+    preservation_rule: Greek freedom means neither absence of rule nor one uniform regime; it raises the question of what kind of rule free citizens can recognize as their own.
+  - tension: Democracy and empire
+    sides:
+      - Periclean Athens describes equality before law, advancement by merit, private latitude, public obedience, deliberation, and active citizenship.
+      - Athenian speakers defend imperial command through fear, honor, advantage, revenue, deterrence, and the danger of losing what the city has acquired.
+    preservation_rule: Democratic freedom within Athens and Athenian domination beyond Athens are preserved as one political order rather than separated into unrelated histories.
+  - tension: Democratic rule and political leadership
+    sides:
+      - The assembly hears public arguments and decides matters of war, punishment, law, and empire.
+      - Pericles leads by authority and judgment, while later leaders compete by gratifying the people and turning policy into a struggle for personal ascendancy.
+    preservation_rule: Rule by the people and rule through leading speakers remain distinct but inseparable dimensions of Athenian democracy.
+  - tension: Law and sovereign anger
+    sides:
+      - Athenian law requires individual hearing and lawful judgment even in a moment of collective grief and victory.
+      - The assembly tries the Arginusae generals collectively, denies separate defense, and executes them under the pressure of anger and accusation.
+    preservation_rule: Democratic decision is not treated as lawful merely because the people decide it.
+  - tension: Public speech and imperial expediency
+    sides:
+      - Cleon defends terror, stable law, and exemplary punishment as necessities of imperial survival.
+      - Diodotus rejects mass execution as ineffective, strategically destructive, and likely to turn the democratic population of subject cities against Athens.
+    preservation_rule: The Mytilenean debate is preserved as a conflict over how an empire should rule, not recast as a simple contest between cruelty and humanitarian innocence.
+  - tension: Polis and stasis
+    sides:
+      - The polis claims to order citizens through common law, kinship, religion, friendship, and authoritative language.
+      - Civil faction subordinates these bonds to party victory, reverses the meaning of words, and uses democratic and oligarchic names as instruments of power.
+    preservation_rule: Stasis is recorded as a regime's internal possibility, not merely an external disturbance inflicted upon an otherwise unified city.
+  - tension: Liberation and imposed regime
+    sides:
+      - Sparta defeats an Athenian empire in the name of autonomy and Greek freedom.
+      - Spartan victory installs governors, oligarchic boards, a garrison, and the Thirty, whose rule depends upon confiscation, exclusion, and execution.
+    preservation_rule: The language of liberation is tested against the regime and dependencies produced by the victor.
+  - tension: Autonomy and hegemony
+    sides:
+      - The King's Peace declares the Greek cities autonomous.
+      - Persia reserves Asian Greek cities to itself, and Sparta enforces autonomy selectively as the governing power within Greece.
+    preservation_rule: Autonomy is preserved as both a claim against subjection and a principle capable of administration by a hegemon.
+  - tension: Victory and political settlement
+    sides:
+      - Military victory can destroy a fleet, break a battle line, remove a tyranny, restore exiles, or overturn a hegemony.
+      - Aegospotami, Leuctra, and Mantinea show that battlefield success does not by itself produce a legitimate or durable order.
+    preservation_rule: Tactical decision and political settlement are recorded as separate achievements.
 
 comparative_matrix:
   Sacred_Science:
@@ -686,6 +928,38 @@ comparative_matrix:
     form_of_power: Free human beings organized by obedience to a shared law rather than by fear of one human master.
     political_implication: Political freedom can intensify discipline and common action instead of dissolving authority.
     unresolved_question: Law can master free citizens, but its justice and the regime that gives it force still require judgment.
+  Herodotus_on_Greek_freedom:
+    form_of_power: Independent poleis acting through citizen responsibility, ancestral law, contested command, and a common Hellenic bond of descent, language, sanctuaries, sacrifices, and way of life.
+    political_implication: Freedom strengthens common action because citizens defend an order experienced as their own, yet unity remains an achievement among rival cities rather than a permanent central government.
+    unresolved_question: Can a law-governed city preserve freedom without excluding dependent human beings or converting victory into mastery of other cities?
+  Thucydides_on_polis_and_power:
+    form_of_power: Regime, population, walls, fleet, tribute, alliance, assembly, law, speech, fear, honor, advantage, and the shifting relations among poleis.
+    political_implication: Material capacities and regime purposes develop together; the growth that enables civic freedom and security can also generate empire and the fear that produces war.
+    unresolved_question: Can political deliberation govern necessity, or does an acquired empire eventually make preservation indistinguishable from expansion?
+  Periclean_Athens:
+    form_of_power: Democracy ordered through equality before law, merit, private latitude, public obedience, deliberation, naval empire, and the authority of a leading statesman.
+    political_implication: The most articulate Greek account of citizen freedom belongs to the city that commands tribute and obedience from other Greeks.
+    unresolved_question: Does leadership educate the demos toward judgment, or does the demos's sovereign power ultimately compel leaders to gratify its passions?
+  Mytilenean_debate:
+    form_of_power: Sovereign assembly choosing between terror and calculated moderation as rival techniques of imperial preservation.
+    political_implication: Public speech can revise a decision made in anger, but the revised policy may still treat human beings as instruments of revenue and security.
+    unresolved_question: What standard beyond imperial advantage can judge the city's treatment of a rebellious subject?
+  Corcyraean_stasis:
+    form_of_power: Factional organization, foreign alliance, fear, vengeance, ideological names, and the capture of words, law, kinship, and religion by party interest.
+    political_implication: A regime can be conquered from within when factions claim the whole city while treating fellow citizens as enemies.
+    unresolved_question: What common good can survive once victory over the opposing party becomes the supreme end?
+  Xenophon_on_Athenian_regime_crisis:
+    form_of_power: Assembly, jury, lawful procedure, sovereign anger, Spartan garrison, oligarchic list, confiscation, execution, armed restoration, and amnesty.
+    political_implication: Democracy can violate its own law, oligarchy can contract into tyranny, and reconciliation can restore civic order only by limiting the political command of vengeance.
+    unresolved_question: How can a restored regime remember injustice truthfully without allowing memory to reproduce civil war?
+  Kings_Peace:
+    form_of_power: Persian decree, territorial reservation, formal autonomy, threat of combined war, and Spartan enforcement.
+    political_implication: A universal principle of city autonomy becomes inseparable from the empire and hegemon that interpret and administer it.
+    unresolved_question: Who determines the content of autonomy when its guarantee depends upon superior force?
+  Leuctra_and_Mantinea:
+    form_of_power: Tactical innovation, alliance, federal organization, liberation of subject territory, battlefield victory, and the struggle to convert military ascendancy into Greek leadership.
+    political_implication: The defeat of one hegemon redistributes power without establishing a stable ruler or settlement for the whole Greek world.
+    unresolved_question: Can a plurality of self-governing poleis escape the recurrent movement from liberation through alliance to hegemony?
   Shabaka_Stone:
     form_of_power: Creation through heart, tongue, command, name, and hieroglyphic form.
     political_implication: Effective speech and intelligent design precede and ground ordered action.
@@ -746,7 +1020,20 @@ boundaries:
   - The Persian king's claim to command is not treated as demonstrated mastery of custom, geography, nature, or truthful information.
   - Greek freedom is not made morally complete by victory over Persia; Greek brutality, rivalry, slavery, and the later possibility of Greek empire remain visible.
   - Herodotus's account is not subordinated to the later editorial notes accompanying the translation in the Persian layer.
-  - The transition to Mesopotamia beyond its place in Persian conquest, Israel, the Greek polis as a complete form, Rome, Christianity, Islam, or modern sovereignty remains outside the present Egyptian and Persian layers.
+  - Greece is not reduced to Athens, and the Greek polis is not reduced to democracy; oligarchy, kingship, tyranny, mixed arrangements, federation, and hegemony remain within the Greek political field.
+  - Common Hellenic descent, language, sanctuaries, sacrifices, and ways of life are not converted into a sovereign Greek state.
+  - Civic freedom is not expanded into universal freedom; the exclusions and dependencies that delimit each citizen body remain visible.
+  - Spartan obedience to law and Athenian participation in rule are preserved as distinct forms of Greek freedom rather than collapsed into a single constitutional formula.
+  - Thucydidean speeches preserve political positions and the circumstances that test them; they are not detached from action or treated as stenographic transcripts of every spoken word.
+  - Periclean Athens's account of itself is not dismissed as hypocrisy, but neither is it permitted to erase the coercion, tribute, and strategic calculation of Athenian empire.
+  - Athens is not made the fixed representative of freedom or empire, Sparta of law or oligarchy, or Thebes of liberation; each city's practice changes with its position and power.
+  - The plague and stasis are not treated as accidental interruptions of political order; they disclose dependencies within law, piety, language, trust, and civic time.
+  - Popular sovereignty is not equated with lawful judgment, and oligarchy is not equated with every limited citizen body.
+  - Liberation, autonomy, and reconciliation are judged through the regimes and dependencies they produce, not through their names alone.
+  - Persian money and command do not disappear from Greek history after the Persian invasions; the King's Peace joins imperial kingship to the administration of Greek autonomy.
+  - Military victory is not treated as political settlement, and the fall of one hegemon is not treated as the arrival of stable freedom.
+  - Xenophon's omissions are not treated as proof that omitted events did not occur, while later editorial supplements remain distinguishable from his narrative.
+  - The transition to Mesopotamia beyond its place in Persian conquest, Israel, Greek philosophy as a distinct inquiry into nature and convention, Rome, Christianity, Islam, or modern sovereignty remains outside the present Egyptian, Persian, and Greek historical layers.
 
 navigational_questions:
   - What older civilizational source accounts for the completeness visible at the beginning of the surviving record?
@@ -778,7 +1065,25 @@ navigational_questions:
   - How do fear, flattery, hierarchy, and reward corrupt information reaching the center?
   - What is the difference between obedience to law and obedience to one human ruler?
   - What does Cyrus's warning about soft lands reveal about wealth, character, rule, and slavery?
-  - Which Egyptian and Persian forms persist, change, or collide with the civilizations added later?
+  - How does the polis concentrate a complete way of life in a self-governing city?
+  - How can common Hellas be politically real without becoming one sovereign state?
+  - Who belongs to the citizen body, who is excluded from it, and upon whose labor or subjection does civic freedom depend?
+  - How do Athenian participation and Spartan obedience to law disclose different forms of political freedom?
+  - How do walls, ships, money, tribute, population, and regime shape one another?
+  - Why does the same Athens that identifies itself with citizen freedom rule allied cities as subjects?
+  - When does political leadership educate a sovereign assembly, and when do leaders become competitors for its favor?
+  - What does the plague reveal when fear of law, gods, reputation, and the future loses its force?
+  - What do Cleon and Diodotus disagree about, and what imperial premise do they share?
+  - How does stasis alter the meaning of words and subordinate law, kinship, religion, and friendship to party?
+  - What does the Arginusae trial reveal about the difference between a democratic decision and lawful judgment?
+  - How does the Thirty transform a limited oligarchic claim into tyranny dependent upon foreign arms?
+  - How does the Athenian amnesty restore a common political world without declaring past injustice unreal?
+  - Why does Spartan liberation culminate in governors, oligarchic boards, garrisons, and enforcement of the King's Peace?
+  - Who governs when a Persian king declares Greek cities autonomous and Sparta enforces the declaration?
+  - How do Leuctra and Messenian independence overturn Spartan power without resolving the problem of hegemony?
+  - Why does victory at Mantinea leave Greece in greater uncertainty rather than establish a durable ruler?
+  - How does the historical conflict among regimes prepare philosophy's question whether ancestral law is the highest standard of justice?
+  - Which Egyptian, Persian, and Greek forms persist, change, or collide with the civilizations added later?
 
 sources:
   authoritative_syntheses:
@@ -813,6 +1118,14 @@ sources:
       translator: Robin Waterfield
       editor: Carolyn Dewald
       role: Book Two on Egyptian priestly memory, historical inquiry, custom, the Nile, ritual, institutions, kingship, monuments, foreign settlement, and transmission to Greece; Books One and Three through Nine on Median monarchy, Cyrus's Persian liberation and conquests, Persian custom, Cambyses, the constitutional debate, Darius's satrapies and tribute, the Royal Road, the Scythian expedition, dependent tyrants, the Ionian revolt, Athenian freedom, Xerxes's invasion, Demaratus on law, Salamis, Plataea, imperial defeat, and Cyrus's final warning about land, character, rule, and slavery.
+    - title: The History of the Peloponnesian War
+      author: Thucydides
+      translator: Henry Dale
+      role: Archaeology of Greek power, the growth of Athens and Spartan fear, Athenian accounts of empire, Periclean democracy and leadership, plague, the Mytilenean debate, and Corcyraean stasis as witnesses to the relation among regime, speech, necessity, and action.
+    - title: Hellenica - Selections
+      author: Xenophon
+      editor: Carleton L. Brownson
+      role: Arginusae, Aegospotami, the fall of Athens, the Thirty, Theramenes, democratic restoration and amnesty, Spartan governors and oligarchic boards, the King's Peace, the Cadmea, Leuctra, and Mantinea as witnesses to law, revolution, reconciliation, autonomy, and successive hegemonies.
   primary_and_direct_witnesses:
     - title: The Ancient Egyptian Pyramid Texts
       author: James P. Allen
@@ -876,4 +1189,4 @@ sources:
       role: Modern limits and disputes in reconstructing absolute chronology from regnal and material evidence.
       url: https://www.ucl.ac.uk/museums-static/digitalegypt/archaeology/dating.html
 
-completeness: COMPLETE_THROUGH_EGYPT_AND_PERSIA_PENDING_CERTIFICATION
+completeness: COMPLETE_THROUGH_EGYPT_PERSIA_AND_GREECE_PENDING_CERTIFICATION
