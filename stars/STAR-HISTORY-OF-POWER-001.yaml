@@ -1,0 +1,360 @@
+star_id: STAR-HISTORY-OF-POWER-001
+name: History of Power
+status: DRAFT
+
+fact: >-
+  Power first appears in Egypt not as a merely human capacity imposed upon an
+  already completed world, but as the efficacy through which the world is
+  brought forth, distinguished, named, nourished, ruled, judged, and renewed.
+  The Egyptian Royal Canon begins the succession of rule with gods, continues
+  through spirits, and only then reaches human kings. This sequence is retained
+  as Egypt states it. The date assigned by a modern catalog to the surviving
+  papyrus, stone, monument, or manuscript records the age of that witness; it
+  does not determine the beginning of the reality the witness describes. The
+  Shabaka Stone likewise states that it restores in durable stone a writing that
+  was already ancient and damaged when the king found it. Its account begins
+  power with Ptah: the heart devises, the tongue commands, the gods and
+  hieroglyphs come forth, and trades, arts, provisions, offerings, and bodily
+  action receive their form. Other Egyptian accounts begin from the primeval
+  waters and the emergence of Atum or Ra, trace generation through the Ennead,
+  or place creative life in the Aten. These accounts are preserved in their
+  difference. They agree that political order cannot be detached from the order
+  of the cosmos, but they do not collapse into one doctrine of creation.
+
+  Kingship continues creation within the Two Lands. The living king appears as
+  Horus, Son of Ra, lord of the Two Lands, bearer of the Double Crown and a
+  fivefold titulary; the dead king becomes Osiris while the successor assumes
+  the place of Horus. The union is not only territorial. Horus and Seth, conflict
+  and reconciliation, the Nile Valley and the Delta, sky, earth, and the Duat are
+  joined in a royal office whose mortal occupant embodies a more-than-mortal
+  succession. A woman could occupy this office, as Hatshepsut did by taking the
+  full titulary and ruling as king; the office absorbed the person into its
+  inherited divine forms rather than deriving its authority from the sex or
+  private will of its temporary bearer. The Pyramid Texts make the continuity
+  explicit: the departed king goes away alive, takes the seats and insignia of
+  rule, governs the living and distant regions, unites Horus and Seth in his
+  person, judges among the gods, and joins the imperishable stars. Death changes
+  the mode of royal power but does not abolish it.
+
+  The governing end of kingship is ma'at: right, truth, measure, justice, and the
+  ordered relation that lets gods, land, institutions, and human beings endure.
+  A royal composition states that Ra placed the king on earth to judge human
+  beings, satisfy the gods, make Right effective, and destroy Wrong. The king
+  offers to the gods and the blessed dead, founds and renews temples, fixes
+  boundaries, appoints officials, hears or causes cases to be heard, protects the
+  land, defeats rebellion and external enemies, and returns the products of the
+  Two Lands to their divine sources as offerings. Royal violence therefore
+  presents itself not as violence creating its own title, but as the defeat of
+  isfet, the disorder that threatens created order. This claim does not erase the
+  coercion exercised through war, tribute, labor, punishment, access, property,
+  and command; it states the Egyptian standard by which coercion claimed to be
+  rightful and by which a ruler could also be judged.
+
+  The temple carries creation into recurring action. Its rites feed and clothe
+  divine presence, renew life, and maintain the relations upon which the world
+  depends. Monumental scenes show the king alone before the gods even where
+  priests perform the daily acts: priesthood is a delegation of royal service,
+  not a secular institution standing outside kingship. Temple land, storehouses,
+  workshops, scribes, offerings, and labor join cosmic maintenance to economic
+  administration. The palace and bureaucracy distribute the same order through
+  offices. Ptahhotep presents the vizier as a servant of the dual king whose
+  authority depends upon hearing, measured speech, self-command, impartial
+  judgment, care for the weak, and the endurance of Right since Osiris. Office is
+  hierarchical and can pass from father to son, but its legitimacy is not mere
+  proximity to the ruler: the official must listen, restrain appetite, avoid
+  terror, refuse greed, and make the case work through truthful speech.
+
+  Egyptian reflections on failed rule preserve the distance between the office
+  and every occupant. The Teaching for Merikare makes a king responsible for
+  sacrilege committed under royal command and distinguishes the ideal of
+  kingship from the destruction performed in its name. The Teaching of
+  Amenemhat places instruction in the mouth of a murdered king: the divine office
+  survives while its embodied holder is exposed to conspiracy, dependence,
+  failed servants, and violence inside the palace. Hatshepsut's later erasure
+  shows that successors could try to reorganize royal memory, even though the
+  surviving names and monuments defeated complete removal. Akhenaten's boundary
+  stelae show royal power founding a city, fixing sacred space by oath, and
+  concentrating mediation between land and god through a distinct form of
+  worship. This was neither the hidden essence toward which all earlier Egypt
+  tended nor an event that made the older forms unreal; it disclosed the power
+  of kingship to reorder cult and the resistance of inherited divine centers to
+  permanent concentration.
+
+  Judgment finally prevents Egyptian power from being reduced to the ruler's
+  command. In mortuary texts the heart becomes a witness before the divine court,
+  earthly conduct follows the person into judgment, and continued life depends
+  upon a truth that neither wealth nor office can simply manufacture. The
+  extension of mortuary compositions beyond the king widens participation in
+  powers once most visibly concentrated in royal resurrection, without
+  abolishing differences of rank, resources, ritual access, or institutional
+  mediation. Egyptian power therefore forms a circuit rather than a single
+  instrument: creation becomes divine succession; succession becomes kingship;
+  kingship makes ma'at effective through ritual, law, office, land, speech, and
+  force; death submits ruler and ruled to judgment; and justified life returns
+  to the created order through renewal. This is the first older force in the
+  History of Power: authority grounded in an account of reality, embodied in a
+  sacred office, distributed through institutions, and carried across generations
+  by rites, images, names, monuments, teaching, and the dead.
+
+scope:
+  subject: >-
+    The Egyptian self-description of power from creation and divine succession
+    through kingship, ma'at, temple, office, land, coercion, death, judgment, and
+    renewal.
+  geography: >-
+    The Two Lands and the Egyptian cosmic field of sky, earth, Nile Valley,
+    Delta, desert, neighboring lands, and Duat as the sources themselves order
+    them.
+  period: >-
+    The beginning is not assigned a modern date. Egypt's stated succession runs
+    from divine rulers through spirits to human kings. Modern dates are retained
+    only as metadata for surviving witnesses and their conventional placement.
+  purpose: >-
+    To establish the first historical form of the older forces of power that
+    will later meet the hopes, desires, dreams, and uncertainties of the
+    individual.
+
+shape:
+  model: CIVILIZATIONAL_SELF_DESCRIPTION_OF_POWER
+  governing_question: >-
+    What is power when a civilization describes creation, divine rule, political
+    order, institutional authority, moral judgment, and life after death as
+    dimensions of one reality?
+  operative_rules:
+    - Ancient self-descriptions are stated in their own categories before later interpretations are introduced.
+    - The true age of the civilization is treated as unknown.
+    - A witness date identifies a surviving artifact or copy and does not date the origin of the reality or teaching it records.
+    - Divine reigns, spirits, and human reigns in the Royal Canon remain one Egyptian succession rather than being divided into myth and history.
+    - Incompatible Egyptian accounts remain distinct and no later account automatically supersedes an earlier one.
+    - Religion, government, economy, law, art, and death are not separated where the Egyptian sources join them.
+    - Egyptian claims are neither reduced to propaganda nor exempted from comparison with Egyptian records of failure, violence, and judgment.
+
+claim_policy:
+  self_witness: >-
+    What an Egyptian text, monument, title, image, or ritual says about the order
+    of reality is presented as that source's direct account, not translated into
+    a modern psychological or secular equivalent.
+  witness_metadata: >-
+    Material provenance, manuscript date, catalog history, philological
+    reconstruction, and modern chronology may identify the witness and the state
+    of the evidence but do not overrule its self-description.
+  synthesis: >-
+    General claims about Egyptian power must be supported by more than one class
+    of witness or clearly marked as a tension internal to the sources.
+  disagreement: >-
+    Ptah, Atum-Ra, Osiris-Horus, local divine centers, and the Aten are not made
+    interchangeable. Royal ideals, royal failures, priestly delegation,
+    individual judgment, and changes in mortuary access remain distinguishable.
+
+historical_spectrum:
+  creation_and_effective_speech:
+    - primeval possibility
+    - heart as design and understanding
+    - tongue as effective command
+    - naming and hieroglyphic form
+    - generation of gods, arts, provisions, and offerings
+  divine_succession:
+    - rule of gods
+    - rule of spirits
+    - rule of human kings
+    - Horus, Seth, Osiris, and the transfer of the throne
+  kingship:
+    - living Horus
+    - Son of Ra
+    - Double Crown and Two Lands
+    - fivefold titulary
+    - succession greater than the mortal bearer
+  maat_and_isfet:
+    - right, truth, measure, justice, and created order
+    - judgment and hearing
+    - offering and reciprocal nourishment
+    - punishment, smiting, defense, and defeat of disorder
+  institutional_distribution:
+    - temple and priesthood
+    - palace and access
+    - vizier, scribe, judge, steward, and inherited office
+    - land, storehouse, workshop, labor, levy, tribute, and provision
+    - monument, image, name, boundary, decree, and teaching
+  death_and_renewal:
+    - dead king as Osiris
+    - successor as Horus
+    - resurrection and celestial rule
+    - heart as witness
+    - divine court and judgment
+    - offerings, memory, justified life, and renewed order
+
+conceptual_chain:
+  egyptian_power:
+    sequence:
+      - undifferentiated possibility
+      - creative heart and effective speech
+      - gods, names, forms, and provisions
+      - divine reigns and succession
+      - Horus and the royal office
+      - union of the Two Lands
+      - ma'at against isfet
+      - temple, offering, and recurring ritual
+      - palace, office, land, law, and administration
+      - royal protection, punishment, and war
+      - death, Osirian continuity, and succession
+      - judgment by the heart and divine court
+      - renewal of created order
+    governing_principle: >-
+      Rightful power continues creation by making ma'at effective through a
+      sacred office and its institutions, while death and divine judgment place
+      every mortal bearer within an order no bearer created.
+
+internal_tensions:
+  - tension: Multiple beginnings
+    sides:
+      - Ptah creates through heart and tongue.
+      - Atum or Ra emerges from primeval possibility and generates the divine order.
+      - Aten gives life through radiance and is mediated through Akhenaten.
+    preservation_rule: The accounts illuminate different divine centers and are not forced into one theology.
+  - tension: Divine office and mortal body
+    sides:
+      - The king embodies Horus and continues divine succession.
+      - Kings age, can be murdered, depend upon servants, and require successors.
+    preservation_rule: Mortal vulnerability qualifies the occupant without secularizing the office.
+  - tension: Maat and coercion
+    sides:
+      - The king exists to make Right effective and protect the weak.
+      - Royal power levies, punishes, conquers, extracts tribute, and destroys enemies.
+    preservation_rule: Coercion is recorded together with the order that claims to justify and judge it.
+  - tension: Royal concentration and institutional delegation
+    sides:
+      - Monumental ritual presents the king as the sole intermediary.
+      - Priests, officials, scribes, soldiers, and estates perform and finance the continuing work.
+    preservation_rule: Delegation distributes royal power without making the institutions independent of its sacred source.
+  - tension: Permanent memory and political erasure
+    sides:
+      - Names, monuments, teachings, and offerings aim at endurance.
+      - Successors can alter monuments, omit predecessors, and redirect cult.
+    preservation_rule: Attempts to govern memory are included among the operations and limits of power.
+  - tension: Royal afterlife and wider judgment
+    sides:
+      - Pyramid Texts concentrate resurrection and celestial government in the king.
+      - Later mortuary corpora make divine judgment and renewed life available beyond kingship.
+    preservation_rule: Widening access is recorded without assuming equality of rank, wealth, or ritual means.
+
+comparative_matrix:
+  Shabaka_Stone:
+    form_of_power: Creation through heart, tongue, command, name, and hieroglyphic form.
+    political_implication: Effective speech and intelligent design precede and ground ordered action.
+    unresolved_question: Its Ptah-centered account remains distinct from other Egyptian beginnings.
+  Royal_Canon_of_Turin:
+    form_of_power: A single succession from divine rulers through spirits to human kings.
+    political_implication: Human kingship inherits rather than originates rule.
+    unresolved_question: Damage to the papyrus limits recovery of the complete sequence and durations.
+  Pyramid_Texts:
+    form_of_power: Royal resurrection, union with Horus and Seth, judgment, and government among gods and stars.
+    political_implication: Death transfers the royal person into a wider field of rule while succession continues on earth.
+    unresolved_question: Royal concentration cannot be projected unchanged onto every later mortuary corpus.
+  Kingship_compositions:
+    form_of_power: The king makes ma'at effective, offers to gods and dead, judges people, and destroys isfet.
+    political_implication: Cosmic, cultic, judicial, and coercive powers belong to one office.
+    unresolved_question: The ideal provides a standard by which acts performed under royal command can fail.
+  Ptahhotep:
+    form_of_power: Hierarchical office governed by hearing, truthful speech, restraint, justice, and transmission.
+    political_implication: Administration makes royal order effective only through disciplined officials.
+    unresolved_question: Inherited office and patronage coexist with the claim that conduct, not appetite, legitimates authority.
+  Merikare_and_Amenemhat:
+    form_of_power: Royal instruction produced through division, sacrilege, conspiracy, and succession.
+    political_implication: Kingship can judge its own failures and survive the destruction of its mortal holder.
+    unresolved_question: The texts preserve both responsibility and the temptation to identify every royal act with Right.
+  Amarna_boundary_stelae:
+    form_of_power: Royal foundation of sacred territory, oath, boundary, provision, and privileged mediation of the Aten.
+    political_implication: Kingship can attempt a concentrated reordering of cult, space, image, and institutional resources.
+    unresolved_question: A distinct reform cannot serve as the timeless summary of Egyptian power.
+  Mortuary_judgment:
+    form_of_power: The heart witnesses to earthly conduct before a divine court.
+    political_implication: Rank and office do not wholly replace truth in the judgment of a life.
+    unresolved_question: Wider ritual participation remains conditioned by material and institutional access.
+
+boundaries:
+  - No modern BCE date is treated as the demonstrated beginning of Egyptian civilization.
+  - No single surviving artifact is treated as the first expression of the reality it records.
+  - Divine rulers and spirits are not relabeled as fictive prefaces to the human king list.
+  - Taking Egyptian self-description at face value does not require harmonizing incompatible accounts.
+  - Maat is not reduced to law, morality, propaganda, stability, or ideology; it includes and exceeds each of those translations.
+  - Kingship is not reduced to personal despotism, although personal command and coercion remain part of its operation.
+  - Temple economy is not treated as a secular economy merely controlled by priests, because offering and cosmic maintenance define its stated end.
+  - Akhenaten is not treated as the inventor of modern monotheism or as the necessary culmination of Egyptian religion.
+  - Wider access to mortuary texts is not called political democracy.
+  - This Egyptian layer does not yet establish the transition to Mesopotamia, Israel, Greece, Rome, Christianity, Islam, or modern sovereignty.
+
+navigational_questions:
+  - How does creative command become a model of political command?
+  - What passes from divine rulers to human kings in Egypt's own succession?
+  - How do crown, titulary, image, monument, and boundary make rule present?
+  - How does ma'at both authorize coercion and provide a standard beyond an occupant's will?
+  - How do temple, land, office, literacy, and access distribute sacred power?
+  - What does royal mortality reveal about the distinction between person and office?
+  - How do judgment and afterlife prevent power from ending with physical death?
+  - Which Egyptian forms persist, change, or collide with the civilizations added later?
+
+sources:
+  primary_and_direct_witnesses:
+    - title: The Ancient Egyptian Pyramid Texts
+      author: James P. Allen
+      role: Translation of royal mortuary utterances concerning resurrection, divine identity, judgment, insignia, and government.
+      url: https://www.sbl-site.org/wp-content/uploads/2024/11/AncientEgyptianPyramid_Allen_SBL.pdf
+    - title: Shabaka Stone transcript
+      institution: British Museum
+      role: Translation of Ptah's creation through heart, tongue, command, hieroglyphs, arts, provisions, and offerings.
+      url: https://www.britishmuseum.org/sites/default/files/2022-11/Shabaka_Stone_transcript_Hieroglyphs_unlocking_ancient_Egypt_The_British_Musuem.pdf
+    - title: Shabaka Stone object record
+      institution: British Museum
+      role: Object record and the stone's preface describing restoration of an already ancient damaged writing.
+      url: https://www.britishmuseum.org/collection/object/Y_EA498
+    - title: The Turin King-List
+      author: Kim Ryholt
+      role: Reconstruction of the Royal Canon's sequence of gods, spirits, and human kings.
+      url: https://austriaca.at/0xc1aa5576%200x0007e84f.pdf
+    - title: Teaching of Ptahhotep
+      institution: UCL Digital Egypt
+      role: Transliteration and translation on office, hearing, speech, justice, restraint, succession, and service to the dual king.
+      url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/ptahhotep.html
+    - title: Teaching for King Merikare
+      institution: UCL Digital Egypt
+      role: Egyptian reflection upon good and evil government, conflict, sacrilege, monuments, and royal responsibility.
+      url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/merykara.html
+    - title: Teaching of Amenemhat I
+      institution: UCL Digital Egypt
+      role: Royal instruction on divine office, palace dependence, conspiracy, assassination, and succession.
+      url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/teachinga1sec1.html
+    - title: Boundary Stelae of Akhenaten
+      institution: UCL Digital Egypt
+      role: Transliteration and translation of royal foundation, oath, sacred territory, titulary, and life through ma'at.
+      url: https://www.ucl.ac.uk/museums-static/digitalegypt/amarna/boundary.html
+    - title: Book of the Dead, Chapter 30A
+      institution: UCL Digital Egypt
+      role: Translation of the heart's place as witness in postmortem judgment.
+      url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd30a.html
+  institutional_and_contextual_witnesses:
+    - title: What is an Egyptian king?
+      institution: UCL Digital Egypt
+      role: Titulary, Horus, Son of Ra, divine manifestation, mortal embodiment, Double Crown, and Two Lands.
+      url: https://www.ucl.ac.uk/museums-static/digitalegypt/ideology/king/what.html
+    - title: The duties of the king
+      institution: UCL Digital Egypt
+      role: Egyptian composition joining judgment, divine satisfaction, Right, Wrong, offerings, and royal action.
+      url: https://www.ucl.ac.uk/museums-static/digitalegypt/ideology/king/kingrepertory.html
+    - title: Creation accounts
+      institution: UCL Digital Egypt
+      role: Distinct Egyptian accounts of primeval possibility, Ra, Osiris, Horus, and the stages of created order.
+      url: https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html
+    - title: Ritual and cult
+      institution: UCL Digital Egypt
+      role: Recurring ritual, the king as represented officiant, priestly delegation, and maintenance of the universe.
+      url: https://www.ucl.ac.uk/museums-static/digitalegypt/religion/cultindex.html
+    - title: Hatshepsut
+      institution: UCL Digital Egypt
+      role: Full royal titulary, rule as king, divine-birth monuments, building, and later attempts at erasure.
+      url: https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/hatshepsut.html
+    - title: Dating the past
+      institution: UCL Digital Egypt
+      role: Modern limits and disputes in reconstructing absolute chronology from regnal and material evidence.
+      url: https://www.ucl.ac.uk/museums-static/digitalegypt/archaeology/dating.html
+
+completeness: COMPLETE_THROUGH_EGYPTIAN_OPENING_LAYER_PENDING_CERTIFICATION
