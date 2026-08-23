@@ -1,0 +1,410 @@
+star_id: STAR-US-MIC-001
+name: United States military-industrial complex
+status: FACT
+
+fact: >-
+  After the extraordinary military, industrial, and scientific mobilization of World
+  War II, the United States did not return to its earlier pattern of dismantling most
+  wartime capacity but maintained a permanent conjunction of armed forces,
+  congressional appropriations, private contractors, public production facilities,
+  universities, laboratories, bases, and skilled workforces. Recurring threats and
+  military commitments sustained budgets; those budgets sustained weapons programs,
+  research institutions, firms, plants, employment, and local economies; and the
+  resulting dependencies generated lobbying, personnel circulation, congressional
+  support, program persistence, modernization, and foreign sales that helped preserve
+  the capacity and political constituency for further military expenditure. These
+  participants pursued different purposes and did not act under unified control, but
+  their continuing material interdependence formed the military-industrial complex.
+
+shape:
+  model: SELF_REINFORCING_POLITICAL_ECONOMY
+  rules:
+    - No single president, military service, congressional committee, corporation, or ideology created or controls the whole complex.
+    - The armed services, Congress, contractors, public facilities, universities, laboratories, workforces, and local communities remain distinct institutions connected by recurring flows of money, contracts, personnel, knowledge, and political support.
+    - Congress is a constitutive participant because authorization, appropriations, program direction, and the geographic distribution of expenditure create and reproduce the material structure of the complex.
+    - The specialized defense industry depends unusually directly upon government demand, while the government depends upon the industrial, scientific, and technical capacity that continuing expenditure has created.
+    - Bases, plants, laboratories, payrolls, and subcontracts transform national military expenditure into employment and institutional dependence within particular states and congressional districts.
+    - Genuine security threats and military requirements can coexist with institutional and financial incentives that influence the scale, selection, duration, and geographic distribution of military programs.
+    - Political influence may be sought deliberately through lobbying and personnel circulation or arise without coordination from the shared interest of separate participants in preserving programs, institutions, employment, and productive capacity.
+    - Military expenditure can produce useful technologies, employment, and defensive capabilities without ceasing to generate political and economic constituencies invested in its continuation.
+    - Competition, oversight, procurement reform, budget reductions, base closures, and industrial conversion can constrain or reorganize the complex without necessarily dissolving its underlying relationships.
+    - The military-industrial complex is connected to but not synonymous with the armed forces, the defense-industrial base, the postwar national-security state, the Deep State, or neoconservatism.
+
+historical_spectrum:
+  wartime_mobilization:
+    period: "1940-1945"
+    facts:
+      - World War II joined federal military planning to mass industrial production on an unprecedented scale.
+      - Federal contracts, publicly financed facilities, guaranteed markets, and negotiated production arrangements enabled private firms to expand weapons output rapidly while government arsenals, shipyards, and laboratories also increased production.
+      - Universities, industrial laboratories, scientists, engineers, and military agencies were organized into federally financed research networks that produced radar, atomic weapons, aircraft, communications systems, and other military technologies.
+      - Wartime mobilization transformed previously temporary relations among the military, industry, government, and science into large institutions with specialized facilities, personnel, and technical knowledge.
+
+  incomplete_demobilization:
+    period: "1945-1950"
+    facts:
+      - Military expenditure and production fell sharply after World War II, but the wartime industrial, nuclear, scientific, and administrative structure was not completely dismantled.
+      - The Atomic Energy Commission inherited Manhattan Project laboratories and production facilities, while the Office of Naval Research and other military bodies continued financing scientific research in universities during peacetime.
+      - Project RAND and related organizations preserved collaboration among military officers, private industry, scientists, economists, mathematicians, and strategic analysts.
+      - The emerging Cold War, the National Security Act of 1947, permanent overseas commitments, and renewed procurement prevented a return to the prewar pattern of minimal standing military and industrial capacity.
+
+  permanent_mobilization:
+    period: "1950-1961"
+    facts:
+      - NSC-68 called for a rapid expansion of conventional forces, nuclear weapons, military production, and the scientific and technical capacity of the United States.
+      - The Korean War converted the proposed buildup into policy, and defense spending rose from 5 percent of gross domestic product in 1950 to 14.2 percent in 1953.
+      - From 1948 through 1963, defense outlays grew by an annual average of 8.4 percent, while procurement and military research, development, test, and evaluation outlays each grew by an annual average of 19.7 percent.
+      - Recurring appropriations supported specialized contractors, production facilities, research institutions, military installations, and skilled workforces that could not be maintained by temporary wartime orders alone.
+      - On January 17, 1961, Dwight D. Eisenhower publicly named the conjunction of a permanent military establishment and a large arms industry the military-industrial complex and warned that its economic, political, and intellectual influence extended throughout American society.
+
+  vietnam_expansion_and_public_scrutiny:
+    period: "1961-1975"
+    facts:
+      - Nuclear modernization, the space race, and the Vietnam War sustained extensive procurement of aircraft, missiles, electronics, communications systems, munitions, transportation, construction, and logistical services.
+      - Centralized planning and program-budgeting methods strengthened the Department of Defense’s ability to direct complex weapons programs across military services, contractors, and research organizations.
+      - Cost growth, noncompetitive contracting, contractor profits, weapons advocacy, and the movement of personnel between government and industry produced increasing congressional and public scrutiny.
+      - Congress expanded auditing and cost-accounting requirements, while legislators, investigators, journalists, economists, and antiwar movements challenged the scale and influence of military expenditure.
+      - Reduced spending after the Vietnam War contracted portions of the defense industry without ending the permanent relationships among the Pentagon, Congress, contractors, and scientific institutions.
+
+  middle_east_intervention_and_israel:
+    period: "1967 onward"
+    facts:
+      - After the 1967 Arab-Israeli War, and more decisively after the 1973 war, preserving Israel’s military superiority became a continuing objective of United States policy in the Middle East.
+      - Military grants, arms transfers, joint weapons development, intelligence cooperation, prepositioned supplies, and diplomatic and operational support joined Israel’s security requirements to American appropriations and weapons production.
+      - Much of the military assistance provided to Israel financed American-produced aircraft, munitions, missile-defense systems, electronics, and support services, returning appropriated funds to the United States defense industry.
+      - American military deployments, arms transfers, intelligence operations, sanctions, and direct uses of force repeatedly defended Israel or applied pressure against governments and armed movements regarded by Israel as regional adversaries.
+      - Neoconservative policy networks joined support for Israel to a broader program of American military predominance, preventive war, and regime change in the Middle East.
+      - Richard Perle, Douglas Feith, David Wurmser, and other participants in the 1996 policy paper A Clean Break recommended removing Saddam Hussein and weakening Syria as means of transforming Israel’s strategic environment; members of the same network later held influential positions or advocated the 2003 American invasion of Iraq.
+      - The removal of Saddam Hussein had therefore been promoted as an Israeli strategic objective before it became an American war aim, although the invasion also served additional ideological, geopolitical, bureaucratic, and economic purposes within the United States.
+      - Subsequent American policies toward Syria, Iran, Hezbollah, and Hamas repeatedly aligned United States military power and economic pressure with Israeli security objectives.
+      - The 2016 security-assistance memorandum committed the United States, subject to congressional appropriations, to provide Israel with $38 billion between fiscal years 2019 and 2028, including $33 billion in Foreign Military Financing and $5 billion for missile defense.
+      - After October 7, 2023, the United States accelerated the transfer and replenishment of munitions, missile-defense interceptors, and other weapons for Israel while deploying additional American military forces to the region.
+      - These continuing commitments sustained demand for American weapons, joint research, production-line capacity, stockpile replenishment, logistical support, and regional naval and air deployments.
+
+  reagan_buildup_and_the_gunbelt:
+    period: "1977-1989"
+    facts:
+      - The Reagan administration substantially increased military expenditure and accelerated procurement, nuclear modernization, naval expansion, missile-defense research, and advanced aerospace and electronics programs.
+      - Defense-related private employment increased from approximately 1.9 million workers in 1977 to 3.2 million in 1985.
+      - Contracts, bases, laboratories, aerospace facilities, and electronics production became increasingly concentrated in the South, West, and selected metropolitan regions surrounding major military and research institutions.
+      - This military remapping of American industry created regional economies and congressional constituencies with continuing material interests in defense programs and expenditure.
+
+  post_cold_war_consolidation:
+    period: "1989-2001"
+    facts:
+      - The dissolution of the Soviet Union produced reductions in defense expenditure, military employment, industrial output, and the number of installations.
+      - Base closures and contract reductions imposed concentrated economic losses on communities and firms dependent upon military expenditure.
+      - Because many contractors depended heavily upon the federal defense market, the Department of Defense encouraged industrial consolidation as military demand declined.
+      - By the early 2000s, mergers had reduced the number of major prime contractors from 51 to five, concentrating weapons production, technical knowledge, and bargaining power within a small group of corporations.
+      - Defense-industrial output declined by approximately 35 percent during the 1990s, but the remaining firms, facilities, procurement institutions, laboratories, and congressional relationships survived the end of the Cold War.
+
+  post_9_11_expansion:
+    period: "2001-2011"
+    facts:
+      - The wars in Afghanistan and Iraq increased demand for weapons, munitions, vehicles, intelligence technology, communications, construction, transportation, maintenance, security, logistics, and operational support.
+      - Contractors assumed expanded roles in sustaining deployed forces and performing functions previously carried out primarily by military or civilian government personnel.
+      - Emergency and supplemental appropriations allowed war-related expenditures to expand alongside the regular defense budget.
+      - Increased production and contracting strengthened established firms while creating new markets for information technology, surveillance, private security, unmanned systems, and counterterrorism services.
+
+  budget_reduction_without_dissolution:
+    period: "2011-2016"
+    facts:
+      - The Budget Control Act, military drawdowns, and reduced war expenditures constrained defense budgets and lowered production in portions of the industrial base.
+      - Contractors consolidated, restructured, reduced employment, pursued foreign customers, and competed for modernization, sustainment, intelligence, cybersecurity, and classified programs.
+      - Budget reduction changed the scale and composition of the complex without dismantling its principal military, industrial, scientific, congressional, and geographic relationships.
+
+  renewed_industrial_mobilization:
+    period: "2017 onward"
+    facts:
+      - Strategic competition with China and Russia, nuclear modernization, the war in Ukraine, demands for larger munitions stockpiles, and concerns about supply-chain vulnerability renewed emphasis on defense production capacity.
+      - Congress and the Department of Defense expanded the use of multiyear procurement, industrial-base funds, Defense Production Act authorities, direct facility investment, workforce programs, and allied production agreements.
+      - Foreign military sales and allied demand became increasingly important to maintaining production lines, expanding capacity, and distributing the costs of weapons development and sustainment.
+      - Continuing concern about industrial concentration, limited competition, cost growth, production delays, lobbying, and the revolving door accompanied renewed efforts to enlarge the defense-industrial base.
+
+  iran_war_and_direct_united_states_israeli_warfare:
+    period: "2025-2026"
+    facts:
+      - On June 13, 2025, Israel opened a war with Iran by attacking Iranian nuclear, ballistic-missile, military, and leadership targets, after which Iran launched missiles and drones against Israel.
+      - Israeli officials sought direct American participation against fortified Iranian nuclear facilities that Israel lacked the specialized weapons and delivery capabilities to destroy independently.
+      - On June 21, 2025, the United States entered the fighting through Operation Midnight Hammer, using more than 125 aircraft, fourteen GBU-57 Massive Ordnance Penetrators, and more than two dozen submarine-launched Tomahawk missiles against the Fordow, Natanz, and Isfahan nuclear facilities.
+      - On February 28, 2026, the United States and Israel began a much larger coordinated war against Iran, designated Operation Epic Fury by the United States.
+      - The stated American objectives included destroying Iran’s ballistic missiles and their production facilities, destroying its navy and other security infrastructure, severing support for regional armed movements, and preventing Iran from acquiring a nuclear weapon.
+      - On April 21, 2026, the State Department Legal Adviser stated that the United States was engaged in the conflict at Israel’s request and in the collective self-defense of its Israeli ally, as well as in what the administration described as the United States’ own self-defense.
+      - The war was initiated by the executive without a congressional declaration of war or a new specific statutory authorization, producing congressional attempts both to terminate and to endorse continued hostilities.
+      - American operations consumed large quantities of offensive missiles, precision-guided bombs, missile-defense interceptors, drones, fuel, spare parts, and other matériel while Iranian retaliation imposed additional costs upon American bases, forces, and regional logistics.
+      - By July 2026, the Defense Secretary placed the direct cost of the war at approximately $37.5 billion, while the administration requested $87.6 billion in supplemental funding, including $67.1 billion for the military and $21 billion for munitions, critical capabilities, and expansion of the industrial base.
+      - The expenditure of existing weapons produced demands for stockpile replenishment, accelerated contractor deliveries, expanded production capacity, base repair, classified programs, and additional appropriations extending beyond the immediate operations.
+      - The Iran war directly joined Israeli strategic objectives, American executive war-making, neoconservative and pro-Israel advocacy, military planning, congressional appropriations, weapons consumption, and contractor production within a single continuing cycle.
+
+sources:
+  - source_id: SRC-EISENHOWER-FAREWELL-1961
+    type: PRIMARY_PRESIDENTIAL_RECORD
+    title: "Farewell Address, January 17, 1961"
+    publisher: Dwight D. Eisenhower Presidential Library
+    url: https://www.eisenhowerlibrary.gov/research/online-documents/farewell-address
+    supports:
+      - permanent military establishment and arms industry
+      - economic, political, scientific, and intellectual influence
+      - military-industrial-complex terminology
+
+  - source_id: SRC-STATE-NSC68
+    type: OFFICIAL_HISTORY
+    title: "NSC-68, 1950"
+    publisher: U.S. Department of State, Office of the Historian
+    url: https://history.state.gov/milestones/1945-1952/NSC68
+    supports:
+      - permanent mobilization
+      - Korean War military buildup
+      - defense spending as a share of gross domestic product
+      - accelerated exploitation of scientific capacity
+
+  - source_id: SRC-OMB-HISTORICAL-TABLES
+    type: OFFICIAL_BUDGET_DATA
+    title: Historical Tables
+    publisher: White House Office of Management and Budget
+    url: https://www.whitehouse.gov/omb/information-resources/budget/historical-tables/
+    supports:
+      - historical defense outlays
+      - defense research and development
+      - national-defense capital investment
+
+  - source_id: SRC-CRS-DEFENSE-INDUSTRIAL-BASE-2024
+    type: OFFICIAL_CONGRESSIONAL_ANALYSIS
+    title: "The U.S. Defense Industrial Base: Background and Issues for Congress"
+    publisher: Congressional Research Service
+    year: 2024
+    url: https://www.congress.gov/crs_external_products/R/HTML/R47751.html
+    supports:
+      - Cold War industrial growth
+      - government dependence and contractor dependence
+      - defense-industry consolidation
+      - lobbying and employment of former defense personnel
+      - contemporary contract spending and industrial capacity
+
+  - source_id: SRC-CRS-DEFENSE-SPENDING-DISTRICTS
+    type: OFFICIAL_CONGRESSIONAL_ANALYSIS
+    title: Defense Spending and Your District
+    publisher: Congressional Research Service
+    url: https://www.congress.gov/crs-product/IF12274
+    supports:
+      - congressional authorization and appropriations
+      - geographic distribution of military expenditure
+      - contractors, universities, installations, and military constituencies
+
+  - source_id: SRC-NSF-HISTORY
+    type: OFFICIAL_INSTITUTIONAL_HISTORY
+    title: "The National Science Foundation: A Brief History"
+    publisher: U.S. National Science Foundation
+    url: https://www.nsf.gov/about/history/narrative
+    supports:
+      - wartime transformation of government-science relations
+      - permanent military support of scientific research
+      - university and laboratory participation
+
+  - source_id: SRC-GAO-REVOLVING-DOOR-2021
+    type: OFFICIAL_AUDIT
+    title: "Post-Government Employment Restrictions: DOD Could Further Enhance Its Compliance Efforts Related to Former Employees Working for Defense Contractors"
+    publisher: U.S. Government Accountability Office
+    year: 2021
+    url: https://www.gao.gov/products/gao-21-104311
+    supports:
+      - movement of personnel between the military and contractors
+      - conflict-of-interest and public-confidence risks
+
+  - source_id: SRC-GAO-WEAPONS-ASSESSMENT-2019
+    type: OFFICIAL_AUDIT
+    title: "Weapon Systems Annual Assessment: Limited Use of Knowledge-Based Practices Continues to Undercut DOD's Investments"
+    publisher: U.S. Government Accountability Office
+    year: 2019
+    url: https://www.gao.gov/products/gao-19-336sp
+    supports:
+      - weapons-program cost and schedule growth
+      - noncompetitive awards
+      - concentration of major contracts
+
+  - source_id: SRC-GAO-DEFENSE-MERGERS-2023
+    type: OFFICIAL_AUDIT
+    title: "Defense Industrial Base: DOD Needs Better Insight into Risks from Mergers and Acquisitions"
+    publisher: U.S. Government Accountability Office
+    year: 2023
+    url: https://www.gao.gov/products/gao-24-106129
+    supports:
+      - defense-industry consolidation
+      - competition, price, and innovation risks
+
+  - source_id: SRC-GAO-FOREIGN-MILITARY-SALES-2019
+    type: OFFICIAL_AUDIT
+    title: "Foreign Military Sales: Observations on DOD's Approach to Developing Price and Availability Estimates for Foreign Customers"
+    publisher: U.S. Government Accountability Office
+    year: 2019
+    url: https://www.gao.gov/products/gao-19-214
+    supports:
+      - foreign military sales
+      - contractor participation
+      - support for the defense-industrial base
+
+  - source_id: SRC-ADAMS-IRON-TRIANGLE-1981
+    type: HISTORICAL_POLITICAL_ECONOMY
+    author: Gordon Adams
+    title: "The Politics of Defense Contracting: The Iron Triangle"
+    publisher: Council on Economic Priorities
+    year: 1981
+    url: https://www.routledge.com/The-Politics-of-Defense-Contracting-The-Iron-Triangle/Adams/p/book/9780878710126
+    supports:
+      - Pentagon-contractor-congressional relationships
+      - lobbying, campaign contributions, advisory positions, and personnel circulation
+
+  - source_id: SRC-MARKUSEN-GUNBELT-1991
+    type: HISTORICAL_POLITICAL_ECONOMY
+    author: Ann Markusen, Peter Hall, Scott Campbell, and Sabina Deitrick
+    title: "The Rise of the Gunbelt: The Military Remapping of Industrial America"
+    publisher: Oxford University Press
+    year: 1991
+    url: https://academic.oup.com/book/53500
+    supports:
+      - geographic distribution of defense production
+      - regional dependence and congressional constituencies
+
+  - source_id: SRC-THORPE-WARFARE-STATE-2014
+    type: HISTORICAL_POLITICAL_ECONOMY
+    author: Rebecca U. Thorpe
+    title: "The American Warfare State: The Domestic Politics of Military Spending"
+    publisher: University of Chicago Press
+    year: 2014
+    url: https://press.uchicago.edu/ucp/books/book/chicago/A/bo17607479
+    supports:
+      - congressional incentives created by district-level defense dependence
+      - military spending and executive war-making
+
+  - source_id: SRC-KOISTINEN-STATE-OF-WAR-2012
+    type: HISTORICAL_POLITICAL_ECONOMY
+    author: Paul A. C. Koistinen
+    title: "State of War: The Political Economy of American Warfare, 1945-2011"
+    publisher: University Press of Kansas
+    year: 2012
+    url: https://kansaspress.ku.edu/9780700618743/
+    supports:
+      - permanent postwar military structures
+      - participation of industry, science, universities, and think tanks
+      - political economy of continuing military expenditure
+
+  - source_id: SRC-LEDBETTER-UNWARRANTED-INFLUENCE-2011
+    type: HISTORICAL_SYNTHESIS
+    author: James Ledbetter
+    title: "Unwarranted Influence: Dwight D. Eisenhower and the Military-Industrial Complex"
+    publisher: Yale University Press
+    year: 2011
+    url: https://yalebooks.yale.edu/book/9780300177626/unwarranted-influence/
+    supports:
+      - origins and development of the military-industrial-complex concept
+      - continuing dependence among government, contractors, and the economy
+
+  - source_id: SRC-CLEAN-BREAK-1996
+    type: PRIMARY_POLICY_DOCUMENT
+    author: "Richard Perle study group"
+    title: "A Clean Break: A New Strategy for Securing the Realm"
+    publisher: Institute for Advanced Strategic and Political Studies
+    year: 1996
+    url: https://www.dougfeith.com/docs/Clean_Break.pdf
+    supports:
+      - removal of Saddam Hussein as an Israeli strategic objective
+      - pressure against Syria and transformation of Israel's regional environment
+      - participation of Perle, Feith, and the Wurmsers
+
+  - source_id: SRC-HORTON-ENOUGH-ALREADY-2021
+    type: HISTORICAL_SYNTHESIS
+    author: Scott Horton
+    title: "Enough Already: Time to End the War on Terrorism"
+    publisher: The Libertarian Institute
+    year: 2021
+    url: https://libertarianinstitute.org/books/enough-already-time-to-end-the-war-on-terrorism/
+    supports:
+      - American Middle East interventions
+      - neoconservatism and Israel-centered regional strategy
+      - Iraq and the wider war on terrorism
+
+  - source_id: SRC-STATE-US-ISRAEL-MOU-2016
+    type: PRIMARY_DIPLOMATIC_RECORD
+    title: Memorandum of Understanding Between the United States and Israel on Security Assistance
+    publisher: U.S. Department of State
+    year: 2016
+    url: https://2009-2017.state.gov/p/nea/rls/rm/261928.htm
+    supports:
+      - ten-year commitment of $38 billion in military assistance
+      - Foreign Military Financing and missile-defense funding
+
+  - source_id: SRC-CRS-US-ISRAEL-SECURITY
+    type: OFFICIAL_CONGRESSIONAL_ANALYSIS
+    title: "Israel and U.S. Foreign Assistance"
+    publisher: Congressional Research Service
+    url: https://www.congress.gov/crs_external_products/R/HTML/R47754.html
+    supports:
+      - military assistance to Israel
+      - preservation of Israel's qualitative military edge
+      - joint missile-defense and war-reserve arrangements
+
+  - source_id: SRC-CRS-US-IRAN-STRIKES-2025
+    type: OFFICIAL_CONGRESSIONAL_ANALYSIS
+    title: U.S. Strikes on Nuclear Sites in Iran
+    publisher: Congressional Research Service
+    year: 2025
+    url: https://www.congress.gov/crs_external_products/IN/HTML/IN12571.html
+    supports:
+      - Israel's June 2025 attack on Iran
+      - Operation Midnight Hammer
+      - weapons, aircraft, and targets
+      - congressional war-powers controversy
+
+  - source_id: SRC-STATE-EPIC-FURY-LEGAL-2026
+    type: PRIMARY_EXECUTIVE_RECORD
+    title: Operation Epic Fury and International Law
+    publisher: U.S. Department of State, Office of the Legal Adviser
+    year: 2026
+    url: https://www.state.gov/releases/office-of-the-legal-adviser/2026/04/operation-epic-fury-and-international-law/
+    supports:
+      - Operation Epic Fury objectives
+      - American participation at Israel's request
+      - administration claim of collective and individual self-defense
+
+  - source_id: SRC-WHITE-HOUSE-EPIC-FURY-2026
+    type: PRIMARY_EXECUTIVE_RECORD
+    title: "Operation Epic Fury: Decisive American Power to Crush Iran's Terror Regime"
+    publisher: The White House
+    year: 2026
+    url: https://www.whitehouse.gov/releases/2026/03/operation-epic-fury-decisive-american-power-to-crush-irans-terror-regime/
+    supports:
+      - stated military objectives of Operation Epic Fury
+      - destruction of missiles, naval forces, security infrastructure, and proxy capacity
+
+  - source_id: SRC-WHITE-HOUSE-IRAN-SUPPLEMENTAL-2026
+    type: PRIMARY_BUDGET_RECORD
+    title: "Fiscal Year 2026 Supplemental Funding Request"
+    publisher: The White House, Office of Management and Budget
+    year: 2026
+    url: https://www.whitehouse.gov/wp-content/uploads/2026/06/2026.06.24-Letter-to-the-Honorable-Mike-Johnson.pdf
+    supports:
+      - $87.6 billion supplemental request
+      - military operational and stockpile-rebuilding costs
+      - $21 billion for munitions and industrial capacity
+
+  - source_id: SRC-SENATE-IRAN-WAR-COST-2026
+    type: OFFICIAL_CONGRESSIONAL_RECORD
+    title: "Reed Questions Hegseth on DOD Iran War"
+    publisher: United States Senate
+    year: 2026
+    url: https://www.reed.senate.gov/news/releases/reed-questions-hegseth-on-dod-iran-war-and-notes-that-dod-has-plenty-of-money-but-lacks-right-priorities-strategy_civilian-leadership
+    supports:
+      - July 2026 official cost estimate
+      - supplemental military funding request
+      - munitions replenishment
+
+  - source_id: SRC-HORTON-IRAN-WAR-2026
+    type: INTERVIEW_AND_HISTORICAL_INTERPRETATION
+    author: Scott Horton
+    title: "Scott Horton: How Israel Pushed the US Into the Iran War"
+    year: 2026
+    url: https://www.wallyrashid.com/p/scott-horton-interview-iran-war-israel-trump
+    supports:
+      - Israel-centered interpretation of American entry into the Iran war
+      - continuity with earlier neoconservative Middle East policy
+
+completeness: COMPLETE
