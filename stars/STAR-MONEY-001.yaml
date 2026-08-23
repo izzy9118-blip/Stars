@@ -1,0 +1,476 @@
+star_id: STAR-MONEY-001
+name: Money and the formation of classical political economy
+status: DRAFT
+
+fact: >-
+  Modern political economy arose through a transformation in the place assigned
+  to property, labor, exchange, money, and production within the human whole. In
+  classical political philosophy, acquisition and exchange supplied necessary
+  goods but remained subordinate to household government, the polis, political
+  judgment, and the good life. Locke reconstructed property from the rights of
+  naturally separate individuals, made labor the original title to appropriation,
+  and made consensual money the institution that permitted durable accumulation
+  beyond immediate use. Hume relocated property, transfer, promise, credit, and
+  government within conventions made necessary by scarcity, limited generosity,
+  and mutual dependence. Smith joined exchange, division of labor, money, stock,
+  wages, profit, rent, taxation, and public debt into a history of commercial
+  society. Ricardo converted that history into a rigorous system centered on the
+  laws governing value and the distribution of the social product among laborers,
+  capitalists, and landlords. Marx completed and overturned the classical system
+  by reconstructing money as the necessary form of commodity value, capital as
+  self-expanding value and a social relation, profit as a transformed appearance
+  of surplus value, accumulation as the reproduction of a class order, and
+  political economy as the historical anatomy of a society whose human products
+  confront their producers as independent powers. Marx therefore closes the
+  classical period mapped here: the science that began by separating economic
+  relations from political rule culminated in a critique showing that those
+  apparently autonomous relations constituted a historically specific form of
+  social power.
+
+scope:
+  subject: >-
+    The intellectual formation of the modern money economy from the classical
+    subordination of acquisition to the polis through Locke, Hume, Smith,
+    Ricardo, and Marx.
+  geography:
+    - ancient Greek political philosophy as the comparative baseline
+    - seventeenth-century England
+    - eighteenth-century Scotland and Great Britain
+    - nineteenth-century Britain and continental Europe
+  period: Classical political philosophy through Marx's critique of political economy
+  narrative_companion: narratives/STAR-MONEY-001.md
+  periodization: >-
+    Locke and Hume form the pre-classical foundations of the sequence; Smith and
+    Ricardo establish classical political economy; Marx is treated as its
+    culmination and internal critique. This organizing periodization does not
+    require every history of economics to use identical boundaries.
+  exclusions:
+    - A universal history of money in every civilization
+    - A complete history of banking, corporations, securities, central banking, or public finance
+    - The institutional development of modern corporate finance after Marx
+    - A claim that intellectual teachings alone caused later economic institutions
+
+shape:
+  model: INTELLECTUAL_GENEALOGY_OF_ECONOMIC_ORDER
+  rules:
+    - Money is mapped through property, obligation, exchange, production, distribution, credit, law, and political authority; it is not treated as an isolated object.
+    - The sequence records transformations in questions and concepts, not an inevitable causal chain.
+    - A teaching is attributed to its thinker and is not converted into an unqualified empirical law.
+    - The existence of economic regularities does not by itself settle questions of justice, rightful distribution, or the common good.
+    - Locke's natural right, Hume's convention, Smith's commercial society, Ricardo's distribution system, and Marx's critique remain distinct positions.
+    - The technical economic reconstruction supplied by Joseph Cropsey remains distinguishable from Leo Strauss's philosophical interpretation of Marx.
+    - Marx's account of capitalist economic laws as historically specific is distinguishable from a claim that every society is governed by the same categories.
+    - Later institutional histories of banking, corporate finance, financial markets, and monetary government require their own evidence and subsequent layers.
+
+claim_policy:
+  documented_textual_fact: >-
+    A text, distinction, sequence, or teaching directly present in the listed
+    primary work or seminar transcript.
+  attributed_teaching: >-
+    A proposition assigned to Locke, Hume, Smith, Ricardo, Marx, Aristotle,
+    Strauss, or Cropsey only as presented in a named source.
+  analytical_synthesis: >-
+    A bounded relation drawn across teachings to clarify a transformation in the
+    place of money and economics within political and social life.
+
+historical_spectrum:
+  classical_subordination_of_economics:
+    period: Ancient Greek political philosophy
+    claim_class: ATTRIBUTED_CLASSICAL_BASELINE
+    facts:
+      - Aristotle treats the household as prior to the polis in generation but the polis as the completed association within which human capacities for speech, justice, and the good life can be fulfilled.
+      - Household acquisition supplies the necessities of life and therefore serves household and political purposes rather than supplying the highest end of human action.
+      - Exchange arises from differentiated needs, and money supplies a practically sufficient measure through which unlike goods can be exchanged.
+      - Money facilitates association but does not determine justice, the best regime, or the hierarchy of human ends.
+      - The pursuit of acquisition without limit differs from acquisition ordered toward the sufficient provision of a household and city.
+      - Production remains subordinate to something not produced by human beings: nature, need, the human good, and political judgment.
+    decisive_relation: >-
+      Necessity and exchange belong inside the political whole; they do not rule
+      the whole as autonomous laws.
+    evidence:
+      - SRC-STRAUSS-ARISTOTLE-POLITICS-1967
+      - SRC-STRAUSS-ARISTOTLE-ETHICS-1968
+      - SRC-STRAUSS-CROPSEY-MARX-1960
+
+  locke_property_money_and_economic_law:
+    period: Seventeenth-century natural right and the English monetary debates
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Locke begins from individuals possessing rights prior to the particular political society under which they live.
+      - Each person possesses a property in his own person, and labor supplies the original title by which things held in common may be appropriated.
+      - Appropriation is initially limited by use, spoilage, and leaving enough and as good for others.
+      - Durable money is accepted by consent and permits perishable surpluses to be exchanged for a lasting store, making enlarged and unequal accumulation possible without immediate spoilage.
+      - Political society is formed to preserve property in the broad sense of lives, liberties, and estates through known law and impartial judgment.
+      - Locke's monetary writings distinguish the silver content of money from its legal denomination and deny that changing a coin's name can create the real value that its metallic content lacks.
+      - Debasement alters contracts and redistributes claims between debtors and creditors rather than creating national wealth.
+      - The market rate of interest follows the relation between available money, commerce, borrowing demand, and expected gain more powerfully than a statutory ceiling can command it.
+    decisive_relation: >-
+      Natural right establishes the separate proprietor; consensual money removes
+      the immediate natural limit on accumulation; economic regularities begin
+      to confront legislation as limits that political will cannot simply repeal.
+    evidence:
+      - SRC-LOCKE-TWO-TREATISES
+      - SRC-LOCKE-CONSIDERATIONS-INTEREST-MONEY
+      - SRC-LOCKE-SHORT-OBSERVATIONS-SILVER-MONEY
+      - SRC-STRAUSS-CROPSEY-MARX-1960
+
+  hume_convention_credit_and_commerce:
+    period: Mid-eighteenth-century moral philosophy and political economy
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Hume does not ground property in a natural title that exists in complete form before society.
+      - Scarcity, limited generosity, and human dependence make stable possession advantageous, while repeated recognition of that advantage produces conventions of property and justice.
+      - Transfer by consent and the obligation of promises extend cooperation beyond immediate possession and make continuing exchange and credit possible.
+      - Government stabilizes conventions when scale, distance, partiality, and conflicting interest weaken spontaneous compliance.
+      - Money facilitates exchange but is not identical with national wealth, which depends upon people, industry, skill, commodities, and commerce.
+      - Changes in the quantity of money affect prices and may temporarily stimulate activity while the new money passes unevenly through the economy.
+      - International movements of specie tend to correct persistent trade imbalances by altering domestic prices.
+      - Low interest is connected to the development of commerce, accumulated stock, numerous lenders, and opportunities for profitable employment rather than to the mere abundance of coin.
+      - Public credit can mobilize present resources through claims on future revenue while creating durable taxes, creditors, and political dependence.
+    decisive_relation: >-
+      Property, contract, credit, and government become mutually supporting
+      conventions: durable economic order arises from coordinated expectations
+      rather than from either natural title alone or a single sovereign command.
+    evidence:
+      - SRC-HUME-TREATISE-HUMAN-NATURE
+      - SRC-HUME-POLITICAL-DISCOURSES
+
+  smith_commercial_society:
+    period: Late eighteenth-century classical political economy
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Smith makes the division of labor the principal source of increasing productive power and connects its extent to the size of the market.
+      - The propensity to exchange allows specialized producers to rely upon the labor of strangers rather than household self-sufficiency.
+      - Money arises from the inconveniences of barter as producers converge upon commodities that others will readily accept.
+      - Money serves exchange and calculation but consumes social resources when metallic circulation absorbs capital that could otherwise be productively employed.
+      - Accumulated stock supports labor before the product is sold and divides into portions serving consumption, fixed capital, and circulating capital.
+      - The price of commodities is distributed among wages, profit, and rent, joining market exchange to the social positions of laborers, owners of stock, and landlords.
+      - Accumulation can enlarge the demand for labor and productive capacity, while the division of labor can also narrow the worker's faculties unless education and public institutions counteract its effects.
+      - Commercial society depends upon justice, defense, public works, education, taxation, and public administration rather than operating outside political institutions.
+      - Public debt permits extraordinary expenditure without immediate taxation while creating long-term claims upon public revenue.
+    decisive_relation: >-
+      Exchange, specialization, money, and accumulated stock become an
+      interdependent social system capable of coordinating vast numbers of
+      persons who neither know nor share a single intention.
+    evidence:
+      - SRC-SMITH-WEALTH-NATIONS
+
+  ricardo_value_distribution_and_accumulation:
+    period: Early nineteenth-century classical political economy
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Ricardo identifies the laws governing distribution among landlords, capitalists, and laborers as the principal problem of political economy.
+      - Utility is necessary for exchangeability but does not measure exchange value; the relative labor required for production supplies the principal regulator, modified by the composition, durability, and turnover of capital.
+      - Wealth is the abundance of useful goods, while value reflects the difficulty of production; machinery may therefore increase wealth while reducing the value embodied in each unit of output.
+      - Differential fertility and location produce rent as cultivation extends toward less advantageous land, so rent is an effect rather than the original cause of high agricultural prices.
+      - The natural price of labor includes the food, necessities, and customary conveniences required to sustain and reproduce laborers, while the market wage moves with supply and demand.
+      - Profits move inversely to wages where commodity prices remain otherwise unchanged, joining the shares of labor and capital in a single distributional structure.
+      - Accumulation and population increase pressure upon the production of food; dearer necessities raise money wages, falling profits weaken further accumulation, and rent rises, producing a tendency toward a stationary state.
+      - Agricultural improvement and imported food can postpone declining profits, while comparative advantage shows how international specialization can increase available commodities even when one country is more productive in every line.
+      - Metallic money remains a produced commodity, paper currency economizes the capital otherwise absorbed by coin, excessive issue depreciates the currency, and convertibility supplies a check upon the issuing power.
+      - The benefit created by replacing costly metallic circulation with paper accrues to the issuer, making the institutional location of monetary issue a distributive and political question.
+      - Interest is ultimately governed by the return on capital rather than by the quantity of currency alone or a legislated rate.
+      - Machinery can increase net revenue and national wealth while reducing the gross fund that employs labor, making technological improvement compatible with displacement and deterioration in the condition of workers.
+    decisive_relation: >-
+      Smith's commercial history becomes a deductive system of value and class
+      distribution whose internal relations provide Marx with the completed
+      architecture of classical political economy.
+    evidence:
+      - SRC-RICARDO-WORKS-1888
+      - SRC-STRAUSS-CROPSEY-MARX-1960
+
+  marx_commodity_money_and_capital:
+    period: Mid- to late nineteenth-century culmination and critique
+    claim_class: ATTRIBUTED_TEACHING_AND_TEXTUAL_RECORD
+    facts:
+      - Marx begins from the commodity as a unity of use-value and value within a society where products are made for exchange.
+      - Concrete labors produce different useful things, while their reduction to abstract socially necessary labor makes unlike commodities commensurable as values.
+      - Money develops from commodity exchange as the universal equivalent in which commodity values receive a common social expression.
+      - In the circuit C-M-C, money mediates the exchange of one use-value for another; in M-C-M-prime, money is advanced for the purpose of returning as a greater quantity of money.
+      - Money becomes capital through a social process of valorization rather than through its physical properties as coin or paper.
+      - The formally equal wage contract joins owners of money and means of production to workers who are legally free but separated from independent access to the means of production.
+      - Labor-power is purchased at a value connected to its reproduction, while its use in production can create value beyond that amount; the difference supplies surplus value without requiring unequal exchange at the moment of purchase.
+      - Profit, interest, and rent are distributed forms in which surplus value appears to the participants in capitalist society.
+      - Capital is not merely a stock of machines, materials, or money but self-expanding value embodied in a social relation and moving through money-capital, productive capital, and commodity-capital.
+      - Turnover, fixed and circulating capital, and the reproduction of total social capital connect individual enterprises to a system whose continuity depends upon the circulation and replacement of the conditions of production.
+      - Accumulation reproduces not only goods and productive capacity but the separation between owners of the means of production and workers dependent upon the sale of labor-power.
+      - Competition compels individual capitals to accumulate, reorganize production, introduce machinery, and reduce costs even when no participant controls the aggregate result.
+      - Commodity fetishism and alienation describe a reversal in which relations produced by human beings appear as relations among things and confront their producers as objective, independent powers.
+      - Political economy's categories are historically specific forms of capitalist society rather than eternal descriptions of every possible economy.
+    decisive_relation: >-
+      Money ceases to be merely the instrument of an exchange system and appears
+      as the initiating and concluding form of a social process organized around
+      the expansion of value and the reproduction of a class relation.
+    evidence:
+      - SRC-MARX-CAPITAL-BOOK-II
+      - SRC-STRAUSS-CROPSEY-MARX-1960
+
+  straussian_location_of_economics_within_the_whole:
+    period: Strauss and Cropsey's 1960 interpretation
+    claim_class: ATTRIBUTED_INTERPRETATION
+    facts:
+      - Cropsey distinguishes viewing economics from within its technical categories from viewing it philosophically as a part of a wider account of human life.
+      - The classical comparison places need, acquisition, and production under political judgment, whereas the modern movement increasingly treats economic laws as independent limits upon political rule.
+      - Marx's supremacy of production makes economics more than a specialized science: relations of production become the key to society, history, consciousness, and the relation between humanity and nature.
+      - Strauss describes this enlargement as economics becoming metaphysics, the purported science of the whole.
+      - Capitalist society becomes a social physics because the laws produced by human activity operate without the producers' knowledge and against their intentions as apparently natural necessities.
+      - Strauss treats Marx's diagnosis of modern alienation as the strongest part of the teaching rather than treating the critique of capitalism as simply mistaken.
+      - Strauss questions whether Marx can deny permanent human standards while treating proletarian emancipation as universal human emancipation.
+      - The promised abolition of fixed division of labor, class rule, and the state presupposes a moral regeneration and wise use of freedom that technological abundance and collective ownership do not by themselves guarantee.
+      - The attempt to conquer natural necessity also transforms human nature, leaving unresolved which human end directs the conquest and what remains capable of judging it.
+      - Post-Marxian economics can narrow itself to technically refined relations among supply, demand, prices, and preferences, but that narrower science cannot determine justice, rightful distribution, or the human purposes economic activity should serve.
+    decisive_relation: >-
+      Marx demonstrates why economics cannot be treated as a neutral collection
+      of exchanges, while Strauss demonstrates why economics cannot supply its
+      own ultimate standard or replace political philosophy as knowledge of the
+      human whole.
+    evidence:
+      - SRC-STRAUSS-CROPSEY-MARX-1960
+
+  closure_of_the_classical_period:
+    period: Conceptual boundary reached with Marx
+    claim_class: ANALYTICAL_SYNTHESIS
+    facts:
+      - Locke makes the rights-bearing proprietor and consensual money central to enlarged accumulation.
+      - Hume reconstructs possession, transfer, promise, credit, and government through convention.
+      - Smith makes exchange, division of labor, money, and stock the operating system of commercial society.
+      - Ricardo makes value and class distribution the unified scientific problem of political economy.
+      - Marx makes the classical system the object of an immanent historical critique and reveals capital as a form of social power.
+      - By the end of the sequence, money has appeared as metallic substance, legal denomination, convention, medium of exchange, measure of value, circulating social capital, credit instrument, universal equivalent, and money-capital.
+      - The next historical period requires the institutional development of corporations, banking systems, securities markets, central banks, managerial organization, and modern corporate finance rather than further extension of classical theory alone.
+
+conceptual_chain:
+  classical_baseline:
+    sequence:
+      - natural need
+      - household provision
+      - exchange
+      - money
+      - polis
+      - political judgment
+      - good life
+    governing_principle: Economic provision serves a political and natural order it does not create.
+
+  locke:
+    sequence:
+      - self-ownership
+      - labor
+      - appropriation
+      - property
+      - exchange
+      - money by consent
+      - accumulation
+      - unequal possession
+      - government for preservation
+    governing_principle: Money removes the immediate spoilage limit from labor-based appropriation.
+
+  hume:
+    sequence:
+      - scarcity and limited generosity
+      - convention
+      - stable possession
+      - transfer by consent
+      - promise
+      - credit
+      - commerce
+      - government
+      - public credit
+    governing_principle: Coordinated expectations make property and credit durable.
+
+  smith:
+    sequence:
+      - exchange
+      - division of labor
+      - expansion of the market
+      - money
+      - accumulation of stock
+      - wages profit and rent
+      - commercial society
+      - taxation and public debt
+    governing_principle: Decentralized exchange coordinates specialized dependence through prices and accumulated stock.
+
+  ricardo:
+    sequence:
+      - labor-regulated value
+      - rent wages and profit
+      - class distribution
+      - accumulation
+      - pressure on subsistence
+      - falling profit and rising rent
+      - stationary tendency
+      - trade and technology as counterforces
+    governing_principle: The shares of the three classes form one internally connected distributional system.
+
+  marx:
+    sequence:
+      - commodity
+      - abstract social labor
+      - money as universal equivalent
+      - money-capital
+      - purchase of labor-power
+      - surplus value
+      - circulation and turnover
+      - accumulation
+      - reproduction of the class relation
+      - fetishism and alienation
+    governing_principle: Self-expanding value organizes production and reproduces the social conditions of its own continuation.
+
+comparative_matrix:
+  Locke:
+    property: A natural right originating in self-ownership and labor.
+    money: A durable store and medium accepted by consent that permits enlarged accumulation.
+    value: Distinguished from legal denomination in the monetary writings; silver content cannot be created by naming.
+    politics: Government preserves pre-political rights and settled property.
+    unresolved_problem: Purchased labor complicates the relation between personal labor and ownership of the product.
+
+  Hume:
+    property: A convention stabilized by common interest and repeated recognition.
+    money: A circulating instrument whose quantity is not identical with national wealth.
+    value: Emerges within exchange, scarcity, industry, and convention rather than from a natural title.
+    politics: Government supports justice, promise, commerce, taxation, and public credit at scale.
+    unresolved_problem: Public credit enlarges present capacity while binding future revenue and political judgment.
+
+  Smith:
+    property: An institution of commercial society protected by justice and government.
+    money: The common instrument of exchange and a costly part of circulating social stock.
+    value: Labor, wages, profit, rent, natural price, and market price remain connected but not reduced to one perfectly unified formula.
+    politics: Commercial order requires defense, justice, public works, education, taxation, and debt administration.
+    unresolved_problem: Specialization increases wealth while narrowing the faculties of the specialized worker.
+
+  Ricardo:
+    property: The established distributional structure of landlords, capitalists, and laborers.
+    money: A produced monetary commodity or disciplined paper representative that measures and circulates real relations.
+    value: Principally regulated by relative labor requirements, with modifications arising from capital and time.
+    politics: Policy affects class shares through taxation, trade, agriculture, currency, banking, and debt.
+    unresolved_problem: Increasing aggregate wealth can coexist with falling profit, displacement, and worsening labor conditions.
+
+  Marx:
+    property: A historically produced class relation separating workers from the means of production.
+    money: The universal equivalent and the initial and final form of the circuit of capital.
+    value: The social form of abstract labor expressed through commodities and money.
+    politics: Law and the state secure and reproduce a social order whose economic categories appear autonomous.
+    unresolved_problem: The diagnosis of alienation does not by itself prove that collective ownership and productive abundance will abolish necessity, hierarchy, or the need for moral and political judgment.
+
+boundaries:
+  - The intellectual genealogy does not establish that modern monetary institutions were caused by texts alone.
+  - The existence of money before Locke does not make Locke's account its historical origin; Locke marks a transformation in its relation to natural right and accumulation.
+  - Hume's account of convention does not reduce property or promise to arbitrary agreement.
+  - Smith's commercial society is not a doctrine that government has no economic or moral functions.
+  - Ricardo's labor theory of relative value includes acknowledged modifications and is not identical to Marx's theory of value.
+  - Marx's critique of capitalism is not treated as a neutral empirical description, and Strauss's criticism is not treated as a refutation of every Marxian economic claim.
+  - Marx closes the classical period within this map but does not end the history of money, economic thought, capitalism, or financial institutions.
+  - The institutional history of corporate finance belongs to the next layer and remains outside the present evidentiary boundary.
+
+navigational_questions:
+  - When does money merely facilitate exchange, and when does it organize production and political dependence?
+  - Which economic relations are conventional, which are legally constituted, and which operate as unintended regularities?
+  - How does a theory of value connect to a theory of distribution among classes?
+  - When does an economic law describe recurring conduct, and when is it treated as a limit upon political judgment?
+  - Who receives the benefit created by monetary issue, credit creation, and the replacement of costly currency with cheaper instruments?
+  - How can increasing wealth coexist with displacement, dependency, or declining command over the conditions of life?
+  - Which parts of capitalist reproduction require markets, which require law and government, and which require historically produced class relations?
+  - What standards can judge an economic order if preference, production, or historical success cannot supply the human good by themselves?
+
+sources:
+  - source_id: SRC-STRAUSS-ARISTOTLE-POLITICS-1967
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Aristotle seminar, the Politics
+    year: 1967
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - classical_subordination_of_economics
+
+  - source_id: SRC-STRAUSS-ARISTOTLE-ETHICS-1968
+    type: SEMINAR_TRANSCRIPT
+    author: Leo Strauss
+    title: Aristotle seminar, Nicomachean Ethics
+    year: 1968
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - classical_subordination_of_economics
+
+  - source_id: SRC-LOCKE-TWO-TREATISES
+    type: PRIMARY_TEXT
+    author: John Locke
+    title: Two Treatises of Government
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - locke_property_money_and_economic_law
+
+  - source_id: SRC-LOCKE-CONSIDERATIONS-INTEREST-MONEY
+    type: PRIMARY_TEXT
+    author: John Locke
+    title: Some Considerations of the Consequences of the Lowering of Interest and Raising the Value of Money
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - locke_property_money_and_economic_law
+
+  - source_id: SRC-LOCKE-SHORT-OBSERVATIONS-SILVER-MONEY
+    type: PRIMARY_TEXT_EXCERPT
+    author: John Locke
+    title: Short Observations on a Printed Paper Entitled For Encouraging the Coining Silver Money in England and After for Keeping It Here
+    witness_status: OWNER_SUPPLIED_TEXT_EXCERPT
+    supports:
+      - locke_property_money_and_economic_law
+
+  - source_id: SRC-HUME-TREATISE-HUMAN-NATURE
+    type: PRIMARY_TEXT
+    author: David Hume
+    title: A Treatise of Human Nature
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - hume_convention_credit_and_commerce
+
+  - source_id: SRC-HUME-POLITICAL-DISCOURSES
+    type: PRIMARY_TEXT
+    author: David Hume
+    title: Political Discourses
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - hume_convention_credit_and_commerce
+
+  - source_id: SRC-SMITH-WEALTH-NATIONS
+    type: PRIMARY_TEXT
+    author: Adam Smith
+    title: An Inquiry into the Nature and Causes of the Wealth of Nations
+    year: 1776
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - smith_commercial_society
+
+  - source_id: SRC-RICARDO-WORKS-1888
+    type: COLLECTED_PRIMARY_TEXTS
+    author: David Ricardo
+    title: The Works of David Ricardo
+    edition: Fourth edition with a notice of the life and writings by J. R. McCulloch
+    year: 1888
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - ricardo_value_distribution_and_accumulation
+
+  - source_id: SRC-MARX-CAPITAL-BOOK-II
+    type: PRIMARY_TEXT
+    author: Karl Marx
+    editor: Friedrich Engels
+    title: "Capital, Book II: The Process of Circulation of Capital"
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - marx_commodity_money_and_capital
+
+  - source_id: SRC-STRAUSS-CROPSEY-MARX-1960
+    type: SEMINAR_TRANSCRIPT
+    teachers:
+      - Leo Strauss
+      - Joseph Cropsey
+    title: The Political Philosophy of Karl Marx
+    year: 1960
+    witness_status: OWNER_SUPPLIED_LOCAL_COPY
+    supports:
+      - classical_subordination_of_economics
+      - locke_property_money_and_economic_law
+      - ricardo_value_distribution_and_accumulation
+      - marx_commodity_money_and_capital
+      - straussian_location_of_economics_within_the_whole
+
+completeness: COMPLETE_THROUGH_MARX_PENDING_CERTIFICATION
