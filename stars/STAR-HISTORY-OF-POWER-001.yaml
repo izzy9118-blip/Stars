@@ -176,31 +176,97 @@ fact: >-
   through names, crowns, images, rites, numbers, measures, monuments, customs,
   teachings, offices, and the dead.
 
+  In Persia power assumes a second civilizational form: empire as the expansion
+  of the Great King's house. Cyrus frees the Persians from Median slavery and
+  makes those former slaves the rulers of others. Persian nomos forms that rule
+  through sacrifice for king and people, martial education, truthfulness,
+  household discipline, rank, deliberation, reciprocity, and a willingness to
+  adopt foreign practices. Conquest nevertheless converts independent peoples
+  into subjects. Lydian resistance is answered by disarmament and a directed
+  transformation of the Lydian way of life; Ionians submit, flee their cities,
+  or carry their freedom elsewhere; and Cyrus's attempt to extend dominion
+  beyond the Araxes ends in his death at the hands of the Massagetae.
+
+  Cambyses inherits peoples as slaves and exposes the possibility that royal
+  will can turn Persian law against its own purpose. After his death the
+  recognized royal name and the palace channels of command allow a Magus to
+  rule an empire while impersonating Cyrus's dead son. The seven conspirators
+  who destroy that rule preserve three opposed judgments of political order.
+  Otanes proposes equality before the law and accountable popular government;
+  Megabyzus rejects both monarchy and the violence of an untaught multitude in
+  favor of rule by the best; Darius defends the best one-man rule as the form
+  that gave Persia freedom, preserves secrecy, avoids faction, and maintains
+  ancestral custom. Monarchy prevails, while Otanes and his descendants retain
+  the exceptional freedom of neither ruling nor being ruled beyond their law
+  and consent.
+
+  Darius turns conquest into calculable administration. Satrapies, governors,
+  measured tribute, treasuries, guarded roads, staging posts, couriers,
+  garrisons, dependent kings, rewards, and punishments connect distant peoples
+  to the center. Cyrus is remembered as father, Cambyses as master, and Darius
+  as retailer. The structure coordinates difference but also multiplies
+  dependence. Scythian mobility defeats an army organized to seize cities,
+  farmland, roads, and fixed populations. Ionian tyrants preserve Darius's
+  bridge because their own positions depend upon Persian power; when the Ionian
+  revolt begins, equality before the law is introduced to obtain voluntary
+  action. Athens likewise fights more effectively after tyranny because free
+  citizens work for themselves rather than for a master.
+
+  Xerxes inherits expansion as ancestral necessity. Persian territory is to end
+  only at the sky and all lands are to become one. Artabanus warns that opposing
+  counsel is necessary, that the god cuts down excess, and that Darius's empire
+  had once depended upon the decision of a single man, but ancestry, honor,
+  vengeance, court pressure, omen, and dream restore the invasion even after the
+  king abandons it. Canal, bridge, supply depot, catalogue, fleet, army, and
+  tribute coordinate the specialized powers of many peoples under Persian
+  commanders. The same order calls those peoples slaves, punishes the
+  Hellespont for resisting its master, and cuts Pythius's son in half when a
+  subject asks to withhold one body from the king's purpose.
+
+  Demaratus identifies the political limit concealed by imperial magnitude. The
+  Spartans are free but ruled by law, which they fear more than Persian soldiers
+  fear Xerxes. At Salamis royal centralization also becomes an epistemic limit:
+  hierarchy encourages flattering counsel, fear makes courage seek the king's
+  visible recognition, and reports shaped by reward and survival make Xerxes
+  mistake the sinking of an allied ship for an achievement. Persian defeat does
+  not abolish Persian courage, skill, organization, or greatness. It reveals the
+  limit of making every people, person, custom, territory, and natural boundary
+  an extension of one will. Cyrus's final lesson joins the contradiction: the
+  Persians choose harsh land and rule over fertile land and slavery, while the
+  imperial wealth thereby gained threatens the human qualities that founded
+  their freedom.
+
 scope:
   subject: >-
-    Egyptian power as sacred science from inherited civilizational knowledge,
-    creation and divine succession through myth, natural symbol, number, temple,
+    Egyptian power as sacred science and Persian power as imperial expansion:
+    creation, divine succession, myth, natural symbol, number, temple,
     Anthropocosmos, the royal principle, ma'at, nomos, priestly memory,
-    historical inquiry, office, land, coercion, death, judgment, and renewal.
+    historical inquiry, office, land, coercion, death, and judgment, followed by
+    Persian liberation, monarchy, conquest, slavery, satrapy, tribute, road,
+    dependent rule, information, law, freedom, expansion, and natural limit.
   geography: >-
     The Two Lands and the Egyptian cosmic field of sky, earth, Nile Valley,
-    Delta, desert, neighboring lands, and Duat as the sources themselves order
-    them.
+    Delta, desert, neighboring lands, and Duat; Media, Persia, Lydia, Ionia,
+    Babylon, Egypt, Scythia, the Massagetan lands, the Royal Road, the Persian
+    provinces, the Hellespont, and Greece as Herodotus orders their relations.
   period: >-
     The beginning is not assigned a modern date. Egypt's stated succession runs
-    from divine rulers through spirits to human kings. Modern dates are retained
-    only as metadata for surviving witnesses and their conventional placement.
+    from divine rulers through spirits to human kings. Persia is followed through
+    the Median succession and the reigns of Cyrus, Cambyses, Darius, and Xerxes
+    without making a modern chronology the source of its self-understanding.
+    Modern dates remain metadata for witnesses and conventional placement.
   purpose: >-
-    To establish the first historical form of the older forces of power that
+    To establish successive historical forms of the older forces of power that
     will later meet the hopes, desires, dreams, and uncertainties of the
     individual.
 
 shape:
-  model: SACRED_SCIENCE_AS_CIVILIZATIONAL_POWER
+  model: CIVILIZATIONAL_FORMS_OF_POWER
   governing_question: >-
-    What is power when creation, knowledge, symbol, number, temple, kingship,
-    political order, material administration, consciousness, judgment, and life
-    after death are dimensions of one sacred science?
+    How does power change when Egyptian sacred science, which coordinates the
+    maintenance of one created order, is followed by Persian empire, which
+    coordinates different peoples by extending the Great King's house without
+    limit?
   operative_rules:
     - Ancient self-descriptions are stated in their own categories before later interpretations are introduced.
     - The true age of the civilization is treated as unknown.
@@ -214,6 +280,11 @@ shape:
     - Atlantis designates the prior high civilization from which the Egyptian legacy may descend; its location and transmission remain open.
     - Herodotus is an authority on Egyptian priestly memory, custom, institutions, kingship, foreign incorporation, and the encounter between Egypt and Greek inquiry.
     - Herodotus's stated distinctions among sight, inference, Egyptian report, and other report are preserved without subordinating his witness to later commentary.
+    - Persian gods, customs, institutions, speeches, rulers, and subject peoples are stated in the distinctions preserved by Herodotus rather than reduced to a single type of despotism.
+    - The disagreement among Otanes, Megabyzus, and Darius remains a real dispute over democracy, oligarchy, and monarchy.
+    - Cyrus's liberation of Persia and enslavement of other peoples remain joined as the founding contradiction of Persian empire.
+    - Persian courage, truthfulness, counsel, reciprocity, administration, and adaptability are retained together with conquest, slavery, tribute, fear, and arbitrary command.
+    - Natural limits, nomadic mobility, law-governed freedom, and distorted information are treated as distinct limits of imperial command.
 
 claim_policy:
   self_witness: >-
@@ -237,8 +308,11 @@ claim_policy:
     Herodotus's account governs the historical encounter between Egypt and Greece,
     including priestly chronology, autopsy, comparative inquiry, inherited custom,
     kingship, foreign settlement, conquest, and the remembered sacrilege of
-    Cambyses. His deliberate silence concerning divine secrets marks the boundary
-    of his inquiry; it does not make the sacred science itself absent.
+    Cambyses; it also governs the Persian sequence from Median rule and Cyrus's
+    revolt through imperial administration, the invasions of Scythia and Greece,
+    and the defeat of Xerxes. His deliberate silence concerning Egyptian divine
+    secrets marks the boundary of his inquiry; it does not make the sacred science
+    itself absent.
   synthesis: >-
     General claims about Egyptian power must be supported by more than one class
     of witness or clearly marked as a tension internal to the sources.
@@ -247,7 +321,10 @@ claim_policy:
     interchangeable. Royal ideals, royal failures, priestly delegation,
     individual judgment, changes in mortuary access, symbolic and historical
     readings, ornament with different densities of meaning, Herodotean report,
-    and Egyptian monumental record remain distinguishable.
+    and Egyptian monumental record remain distinguishable. Cyrus, Cambyses,
+    Darius, and Xerxes are not made interchangeable; the constitutional speeches,
+    Persian counsel, subject peoples, and Greek accounts of law and freedom remain
+    in disagreement where the history preserves their disagreement.
 
 historical_spectrum:
   inherited_sacred_science:
@@ -328,6 +405,38 @@ historical_spectrum:
     - Cambyses between pharaonic incorporation and remembered sacrilege
     - royal appetite becoming law and dissolving the purpose of law
     - the unresolved relation between plural custom and ma'at
+  persian_liberation_and_empire:
+    - Deioces moving from trusted judgment to inaccessible monarchy
+    - Astyages turning fear and cruelty into the conditions of revolt
+    - Cyrus joining liberation from Median slavery to Persian mastery of others
+    - Persian sacrifice, martial education, truthfulness, rank, deliberation, and adaptability
+    - conquest transforming Lydian life and forcing Ionian choices among submission, revolt, and migration
+    - the Araxes and the Massagetae as the fatal limit of Cyrus's expansion
+  persian_monarchy_and_administration:
+    - Cambyses treating the empire as inherited household property and its peoples as slaves
+    - royal name, palace access, household stewardship, and couriers constituting rule at a distance
+    - Otanes for equality before law, Megabyzus for the best few, and Darius for the best one
+    - Darius's accession through elite compact, groom's device, horse, and divine sign
+    - satrapy, governor, measured tribute, treasury, road, staging post, garrison, reward, and punishment
+    - Cyrus as father, Cambyses as master, and Darius as retailer
+  persian_dependencies_and_limits:
+    - Scythian mobility refusing the fixed objects of territorial conquest
+    - Darius misreading defiance as submission
+    - Ionian tyrants preserving Persian rule in order to preserve their own
+    - equality before the law obtaining voluntary participation in revolt
+    - Athenian freedom converting individual effort into public strength
+    - royal vengeance converting one conflict into an inherited imperial project
+  xerxean_expansion:
+    - ancestral war and the requirement to equal or surpass preceding kings
+    - Persian borders extending to the sky and all lands becoming one
+    - Artabanus preserving opposing counsel and warning against excess
+    - ancestry, honor, court pressure, omen, and dream compelling the king
+    - canal, bridge, supply depot, army, fleet, catalogue, and imperial coordination
+    - the Hellespont punished as a slave and the body of Pythius's son claimed by command
+    - free obedience to law contrasted with obedience to one human master
+    - throne, royal eye, scribal record, fear, flattery, and distorted information at Salamis
+    - Persian magnificence and Spartan austerity
+    - harsh land, hard men, fertile land, softness, rule, and slavery in Cyrus's final warning
 
 conceptual_chain:
   egyptian_power:
@@ -358,6 +467,36 @@ conceptual_chain:
       transmit those forms; nomos shapes inherited ways of life; rightful power
       makes ma'at effective; and judgment, Osirian renewal, and Horian liberation
       place every mortal bearer within an order no bearer created.
+  persian_power:
+    sequence:
+      - lawlessness and trusted judgment
+      - chosen monarchy and royal distance
+      - cruelty, conspiracy, and reversal of masters and slaves
+      - Cyrus's liberation of Persia
+      - conquest of other peoples
+      - Persian nomos, truth, discipline, rank, gift, and deliberation
+      - transformation of conquered ways of life
+      - royal household enlarged into inherited empire
+      - monarchy disputed by equality before law and rule by the best few
+      - satrapy, tribute, road, governor, garrison, courier, and treasury
+      - dependent tyrants preserving imperial rule
+      - territorial command defeated by nomadic mobility
+      - political freedom producing voluntary public action
+      - ancestral expansion compelling Xerxes beyond private judgment
+      - coordination of peoples, technologies, supplies, and armies
+      - natural boundaries treated as disobedient subjects
+      - law as master confronting the Great King as master
+      - fear, flattery, reward, and distance corrupting imperial information
+      - imperial defeat and Cyrus's warning about land, character, rule, and slavery
+    governing_principle: >-
+      Persian power begins by freeing Persians from slavery and enlarges the
+      king's household until different peoples, rulers, lands, goods, bodies, and
+      forms of knowledge become ordered services of one center. Its strength is
+      coordination across difference; its contradiction is that the freedom which
+      founds it is preserved for rulers by converting others into subjects; its
+      limit appears wherever law, custom, truthful counsel, political freedom,
+      mobile life, reliable information, geography, or nature cannot be made the
+      property of one will.
 
 internal_tensions:
   - tension: Visible beginning and inherited completion
@@ -441,6 +580,62 @@ internal_tensions:
       - Egyptian monumental evidence places Cambyses within pharaonic forms and the provision of an Apis burial.
       - Herodotus records his humiliation of Egyptian kingship, violation of tombs and sanctuaries, and wounding of Apis.
     preservation_rule: Neither witness erases the other; foreign rule can assume Egyptian form while remaining remembered through acts of sacrilege.
+  - tension: Persian freedom and imperial slavery
+    sides:
+      - Cyrus frees the Persians from Median rule and Persian memory grounds monarchy in that liberation.
+      - The liberated Persians become masters of Medes, Lydians, Ionians, Babylonians, Egyptians, and other subject peoples.
+    preservation_rule: Persian freedom is neither denied nor extended silently to the peoples whose slavery sustains it.
+  - tension: Cyrus as father and conqueror
+    sides:
+      - Cyrus benefits Persians and subjects, hears counsel, spares defeated rulers, and is remembered as father.
+      - Cyrus alters conquered ways of life, enslaves resistant peoples, and dies pursuing dominion beyond the Araxes.
+    preservation_rule: Beneficent foundation and limitless conquest remain powers of the same ruler without making either unreal.
+  - tension: Persian custom and royal licence
+    sides:
+      - Persian nomos honors truth, disciplined education, deliberation, reciprocity, measured punishment, and service to king and people.
+      - Cambyses and Xerxes treat royal desire as capable of overriding custom, body, boundary, and inherited obligation.
+    preservation_rule: Arbitrary monarchy is treated as a corruption made intelligible by Persian standards as well as a possibility within imperial kingship.
+  - tension: Democracy, oligarchy, and monarchy
+    sides:
+      - Otanes defends equality before law, accountability, lot, and decision by the people.
+      - Megabyzus rejects both despotic licence and rule by an untaught multitude in favor of the best few.
+      - Darius defends the best one as the source of Persian freedom, secrecy, unity, and preservation of ancestral custom.
+    preservation_rule: Monarchy's victory in Persia does not retroactively dissolve the alternatives articulated within the Persian council.
+  - tension: Best monarchy and actual accession
+    sides:
+      - Darius defends the rule of the single best human being.
+      - Darius becomes king through an elite compact, a groom's manipulation of a horse, and a sign interpreted as divine ratification.
+    preservation_rule: The argument for the best regime and the event that selects its actual ruler remain distinct.
+  - tension: Imperial plurality and central command
+    sides:
+      - Satrapies, roads, tribute, native officers, specialized contingents, gifts, and rewards coordinate different peoples without making them identical.
+      - Final authority rests with Persian commanders and a king who describes the participating peoples as slaves.
+    preservation_rule: Administrative incorporation is neither reduced to uniformity nor mistaken for equality.
+  - tension: Territorial administration and mobile freedom
+    sides:
+      - Persian armies, roads, tribute assessments, forts, and governors organize fixed lands, cities, fields, and routes.
+      - The Scythians possess no cities or cultivated fields for Darius to seize and use movement itself as defense.
+    preservation_rule: Scythian resistance marks a structural limit of territorial empire rather than a mere missing battle.
+  - tension: Great King and dependent tyrants
+    sides:
+      - Persian government rules distant communities through local rulers whose position the king sustains.
+      - Those rulers preserve the empire because their peoples would choose another regime if Persian protection disappeared.
+    preservation_rule: Local tyranny and imperial monarchy are recorded as a relation of mutual preservation, not isolated governments.
+  - tension: Obedience by fear and obedience to law
+    sides:
+      - Persian magnitude is coordinated through one ruler, reward, punishment, hierarchy, and fear.
+      - Spartan freedom is disciplined by a law held to command more powerfully than a human master.
+    preservation_rule: Freedom is not equated with absence of rule, and order is not equated with personal command.
+  - tension: Imperial information and royal ignorance
+    sides:
+      - Roads, messengers, councils, catalogues, reviews, scribes, and reports bring distant action before the king.
+      - Fear, flattery, rivalry, rank, and the desire for reward reshape what can be said and what the king sees.
+    preservation_rule: The reach of an information system and the truthfulness of the knowledge it produces remain separate questions.
+  - tension: Wealth, character, and dominion
+    sides:
+      - Tribute, luxury, fertile lands, and imperial abundance display and sustain Persian power.
+      - Cyrus warns that soft lands breed soft men and the Persians choose harsh land and rule over rich land and slavery.
+    preservation_rule: Wealth is recorded as both an imperial resource and a danger to the character on which empire claims to depend.
 
 comparative_matrix:
   Sacred_Science:
@@ -471,6 +666,26 @@ comparative_matrix:
     form_of_power: Imperial conquest severed from sacred restraint and converted into humiliation, sacrilege, arbitrary law, and the ruler's private appetite.
     political_implication: Nomos forms ruler and ruled before individual choice; a king who treats inherited limits as objects of ridicule dissolves his own capacity to distinguish law from will.
     unresolved_question: Herodotus's violated Apis and the Egyptian record of Cambyses providing an Apis burial remain distinct witnesses to conquest and pharaonic incorporation.
+  Herodotus_on_Persia:
+    form_of_power: The Great King's household extended through conquest, slavery, satrapy, tribute, road, governor, dependent ruler, army, gift, punishment, counsel, and information.
+    political_implication: Imperial strength lies in coordinating different peoples and capacities through one center, while imperial fragility lies in making law, truth, freedom, geography, and nature answerable to one will.
+    unresolved_question: How can a monarchy founded in liberation preserve Persian freedom without making the freedom of its rulers depend upon the slavery of other peoples?
+  Persian_constitutional_debate:
+    form_of_power: Equality before law, rule by the best few, and rule by the best one stated as rival possibilities after the fall of the Magi.
+    political_implication: Persian monarchy contains an articulated knowledge of its alternatives and of the dangers of unaccountable rule.
+    unresolved_question: The best regime in speech does not by itself identify the best actual ruler or secure truthful counsel around him.
+  Darius_and_imperial_administration:
+    form_of_power: Provinces, assessed tribute, standardized measure, governors, treasuries, Royal Road, staging posts, couriers, garrisons, and protected local rulers.
+    political_implication: Administration makes conquered plurality governable at a distance but creates dependencies that mobile peoples, rebellious subjects, and local regime change can expose.
+    unresolved_question: Calculability and communication expand the reach of command without guaranteeing knowledge of what distant peoples intend or what the land permits.
+  Xerxes_and_imperial_expansion:
+    form_of_power: Ancestral war, limitless territorial ambition, total mobilization, monumental engineering, royal spectacle, personal command, and the attempted subjection of natural boundaries.
+    political_implication: The king commands an immense empire while ancestry, honor, vengeance, counsel, omen, and dream command the king to extend it.
+    unresolved_question: When expansion becomes the proof of kingship, restraint appears as failure even when restraint would preserve the empire.
+  Demaratus_and_law:
+    form_of_power: Free human beings organized by obedience to a shared law rather than by fear of one human master.
+    political_implication: Political freedom can intensify discipline and common action instead of dissolving authority.
+    unresolved_question: Law can master free citizens, but its justice and the regime that gives it force still require judgment.
   Shabaka_Stone:
     form_of_power: Creation through heart, tongue, command, name, and hieroglyphic form.
     political_implication: Effective speech and intelligent design precede and ground ordered action.
@@ -524,7 +739,14 @@ boundaries:
   - Herodotus's reluctance to speak about divine secrets is not treated as evidence that Egyptian religion lacked the initiatory and symbolic dimensions preserved by the Egyptian authorities.
   - Nomos is not simply equated with ma'at; ancestral custom and right order remain a permanent question.
   - The conflicting records of Cambyses and Apis are preserved without forcing either into silence.
-  - The transition to Mesopotamia, Israel, Greece, Rome, Christianity, Islam, or modern sovereignty remains outside the Egyptian opening.
+  - Persia is not reduced to an undifferentiated eastern despotism or treated as Egyptian sacred kingship under another name.
+  - Cyrus's beneficence does not erase conquest, and his conquests do not erase his liberation of Persia.
+  - Persian political thought is not reduced to Darius's victorious defense of monarchy; the arguments of Otanes and Megabyzus remain active alternatives.
+  - Persian subjects, allies, local rulers, and military contingents are not made equal merely because imperial administration coordinates them.
+  - The Persian king's claim to command is not treated as demonstrated mastery of custom, geography, nature, or truthful information.
+  - Greek freedom is not made morally complete by victory over Persia; Greek brutality, rivalry, slavery, and the later possibility of Greek empire remain visible.
+  - Herodotus's account is not subordinated to the later editorial notes accompanying the translation in the Persian layer.
+  - The transition to Mesopotamia beyond its place in Persian conquest, Israel, the Greek polis as a complete form, Rome, Christianity, Islam, or modern sovereignty remains outside the present Egyptian and Persian layers.
 
 navigational_questions:
   - What older civilizational source accounts for the completeness visible at the beginning of the surviving record?
@@ -545,7 +767,18 @@ navigational_questions:
   - What does Cambyses reveal about the difference between conquering Egypt and becoming an Egyptian king?
   - How does nomos preserve a people, and by what standard can an inherited custom be judged?
   - How do judgment and afterlife prevent power from ending with physical death?
-  - Which Egyptian forms persist, change, or collide with the civilizations added later?
+  - How does Persian liberation become Persian mastery of other peoples?
+  - Which Persian customs discipline the king, and when does imperial kingship turn them into instruments of appetite?
+  - What do Otanes, Megabyzus, and Darius each understand about the dangers of the other regimes?
+  - How do satrapy, tribute, road, courier, governor, and dependent ruler enlarge the king's reach?
+  - Why does a mobile people without cities or fields escape the normal objects of Persian conquest?
+  - Why do local tyrants preserve the empire, and why does equality before the law make revolt possible?
+  - What changes when citizens work for themselves rather than fight for a master?
+  - When inherited expansion commands the king, who rules the empire?
+  - How do fear, flattery, hierarchy, and reward corrupt information reaching the center?
+  - What is the difference between obedience to law and obedience to one human ruler?
+  - What does Cyrus's warning about soft lands reveal about wealth, character, rule, and slavery?
+  - Which Egyptian and Persian forms persist, change, or collide with the civilizations added later?
 
 sources:
   authoritative_syntheses:
@@ -579,7 +812,7 @@ sources:
       author: Herodotus
       translator: Robin Waterfield
       editor: Carolyn Dewald
-      role: Book Two on Egyptian priestly memory, historical inquiry, custom, the Nile, ritual, institutions, kingship, monuments, foreign settlement, and transmission to Greece; Book Three on Cambyses, conquest, sacrilege, nomos, and arbitrary royal will.
+      role: Book Two on Egyptian priestly memory, historical inquiry, custom, the Nile, ritual, institutions, kingship, monuments, foreign settlement, and transmission to Greece; Books One and Three through Nine on Median monarchy, Cyrus's Persian liberation and conquests, Persian custom, Cambyses, the constitutional debate, Darius's satrapies and tribute, the Royal Road, the Scythian expedition, dependent tyrants, the Ionian revolt, Athenian freedom, Xerxes's invasion, Demaratus on law, Salamis, Plataea, imperial defeat, and Cyrus's final warning about land, character, rule, and slavery.
   primary_and_direct_witnesses:
     - title: The Ancient Egyptian Pyramid Texts
       author: James P. Allen
@@ -643,4 +876,4 @@ sources:
       role: Modern limits and disputes in reconstructing absolute chronology from regnal and material evidence.
       url: https://www.ucl.ac.uk/museums-static/digitalegypt/archaeology/dating.html
 
-completeness: COMPLETE_THROUGH_EGYPTIAN_OPENING_LAYER_PENDING_CERTIFICATION
+completeness: COMPLETE_THROUGH_EGYPT_AND_PERSIA_PENDING_CERTIFICATION
