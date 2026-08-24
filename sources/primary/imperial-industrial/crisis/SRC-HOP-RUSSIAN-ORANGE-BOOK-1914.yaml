@@ -1,0 +1,28 @@
+source_id: SRC-HOP-RUSSIAN-ORANGE-BOOK-1914
+status: OFFICIAL_WARTIME_DOCUMENTARY_CORPUS_LOCKED_WITH_CAUTION
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Russian Ministry of Foreign Affairs
+  title: Russian Orange Book
+  year: 1914
+  role: russian_diplomatic_position_military_preparations_alliance_and_conciliation
+governing_witness:
+  witness_type: OFFICIAL_WARTIME_DIPLOMATIC_DOCUMENT_COLLECTION_TRANSCRIPTION
+  locator: https://www.gwpda.org/papers/orange.html
+  corroborating_transcription: https://rastko.rs/istorija/delo/11062
+key_documents:
+  - number: 58
+    date: "1914-07-29 (16 July Old Style)"
+    author: Russian Minister for Foreign Affairs
+    recipient: Russian Ambassador at Paris
+    proposition: >-
+      Sazonov states that Russian military preparations followed Austrian mobilization and Austria's refusal of peaceful settlement,
+      rejects Germany's demand that preparations cease, and tells Paris that Russia must accelerate preparations and regard war as probably inevitable.
+  - number: 40
+    proposition: Tsar proposes Hague adjudication as a possible route before irreversible events.
+witness_policy:
+  rule: >-
+    The Orange Book is an official wartime publication and is not neutral by status. Individual telegrams are evidence
+    of communications the Russian government chose to publish; disputed dates and omissions must be checked against archival editions before blame claims.
+qualification: >-
+  This record adds an independent Russian governmental voice to the crisis map but does not substitute for an original general-mobilization order.
