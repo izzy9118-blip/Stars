@@ -1,0 +1,70 @@
+source_id: SRC-HOP-EGYPT-NAURI-DECREE
+status: GOVERNING_ROCK_INSCRIPTION_REGISTERED_EPIGRAPHIC_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Seti I and the royal scribal authority represented by the decree
+work_or_document_title: Nauri Decree of Seti I
+original_language: Egyptian monumental inscription
+date_or_period: Year 4 of Seti I, Nineteenth Dynasty
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+participant_or_observer_position: Royal protective decree concerning the estate, personnel, goods, and privileges of the temple of Osiris at Abydos
+temporal_distance_if_retrospective: Contemporary royal inscription relative to the protection it proclaims; descriptions of anticipated abuse are normative and preventive
+
+governing_witness_and_exact_edition_or_archive:
+  original_monument:
+    site: Nauri, in Nubia
+    object_type: Rock-cut monumental decree
+    status: GOVERNING_MONUMENT_IDENTIFIED_EXACT_REGISTER_LINE_AND_CURRENT_CONDITION_PENDING
+  epigraphic_edition_target:
+    author: Francis Llewellyn Griffith
+    title: The Abydos Decree of Seti I at Nauri
+    publication_context: Archaeological Survey of Egypt / Egypt Exploration Fund tradition; exact volume data to verify
+    evidence_class: LATER_EPIGRAPHIC_CONTROL_NOT_PRIMARY
+  early_translation_control:
+    author_editor: James Henry Breasted
+    title: Ancient Records of Egypt, Volume III
+    url: https://archive.org/details/ancientrecordsof03brea
+    evidence_class: LATER_CRITICAL_TRANSLATION_NOT_PRIMARY
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Royal law protects sacred estates and their personnel against seizure, requisition, displacement, or abuse by officials and military agents.
+  - Protection operates as institution-specific privilege and jurisdiction rather than a general doctrine of equal rights.
+intended_claim_class:
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - The personnel, property, goods, activities, offenses, and penalties named in the decree.
+  - A royal claim to shield one temple estate and its dependents from other agents of the state.
+  - The fragmentation and overlap of authority within an ostensibly centralized kingship.
+what_the_source_cannot_establish:
+  - General immunity for all temples, workers, or inhabitants.
+  - Actual enforcement in every case.
+  - The frequency of every prohibited abuse.
+  - A modern separation between church property and state power.
+
+rival_or_counter_witnesses_where_known:
+  - SRC-HOP-EGYPT-HOREMHEB-EDICT
+  - SRC-HOP-EGYPT-GREAT-HARRIS-PAPYRUS
+  - temple administrative papyri
+  - evidence for royal requisition, taxation, and military supply
+
+boundary_effect: >-
+  The decree adds direct evidence for corporate privilege, protected personnel,
+  and conflict among royal agents while remaining bounded to a named estate.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: King, temple estate, sacred corporate privilege, officials, military agents, and penal decree
+  human_position: Temple worker, priest, cultivator, or dependent protected because of institutional attachment
+  demanded_conduct: Service to the estate; officials must respect the bounded protected jurisdiction
+  formative_technique: Monumental decree, enumeration of offenses, corporate status, penalty, oath, and royal promulgation
+  crossing_relation: COEXIST_WITH
+  non_teleology_rule: >-
+    Protection of persons through corporate sacred status is not individual right
+    prior to membership; it illustrates an older form later legal individualism may displace or appropriate.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
