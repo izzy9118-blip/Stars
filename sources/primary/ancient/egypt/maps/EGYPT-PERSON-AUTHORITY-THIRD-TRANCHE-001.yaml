@@ -1,0 +1,111 @@
+map_id: EGYPT-PERSON-AUTHORITY-THIRD-TRANCHE-001
+status: SOURCE_RELATIONS_MAPPED_PASSAGES_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+parent_maps:
+  - EGYPT-PERSON-AUTHORITY-001
+  - EGYPT-PERSON-AUTHORITY-SECOND-TRANCHE-001
+
+relations:
+  - relation_id: EGYPT-PA-015
+    proposition: >-
+      Mortuary temple power operates through recurring rosters, schedules,
+      inventories, deliveries, seals, and personnel assignments, making sacred
+      maintenance inseparable from ordinary administration.
+    source_ids:
+      - SRC-HOP-EGYPT-ABUSIR-PAPYRI
+    intended_claim_class:
+      - DOCUMENTED_OR_TEXTUAL_FACT
+      - ANALYTICAL_SYNTHESIS
+    passage_state: ARCHIVE_FRAGMENT_AND_DOCUMENT_TARGETS_PENDING
+    age_of_individual_crossing:
+      relation: PRESERVE
+      clarification: Persons become visible through cultic office and scheduled service.
+
+  - relation_id: EGYPT-PA-016
+    proposition: >-
+      Royal protection may attach to a sacred corporation and its personnel,
+      restraining other state agents through privilege and penalty rather than
+      through universal individual right.
+    source_ids:
+      - SRC-HOP-EGYPT-NAURI-DECREE
+    intended_claim_class:
+      - DOCUMENTED_OR_TEXTUAL_FACT
+      - ATTRIBUTED_TEACHING_OR_JUDGMENT
+    passage_state: MONUMENT_LINES_PENDING
+    age_of_individual_crossing:
+      relation: COEXIST_WITH
+      clarification: Protection derives from institutional membership and royal grant.
+
+  - relation_id: EGYPT-PA-017
+    proposition: >-
+      A woman may act as a named property holder and evaluator of reciprocal family
+      conduct within local legal procedure, complicating any reduction of Egyptian
+      household authority to one undifferentiated paternal form.
+    source_ids:
+      - SRC-HOP-EGYPT-NAUNAKHTE-WILL
+    intended_claim_class:
+      - SELF_WITNESS
+      - DOCUMENTED_OR_TEXTUAL_FACT
+    passage_state: OBJECT_CLAUSE_AND_EDITION_CONTROL_PENDING
+    age_of_individual_crossing:
+      relation: COEXIST_WITH
+      clarification: Bounded legal agency exists inside kinship, property, witnesses, and custom.
+
+  - relation_id: EGYPT-PA-018
+    proposition: >-
+      Mortuary order requires inspection, testimony, policing, and jurisdictional
+      conflict because the name, body, tomb, and goods of the dead remain materially vulnerable.
+    source_ids:
+      - SRC-HOP-EGYPT-ABBOTT-PAPYRUS
+    intended_claim_class:
+      - DOCUMENTED_OR_TEXTUAL_FACT
+      - ANALYTICAL_SYNTHESIS
+    passage_state: PAPYRUS_COLUMNS_AND_COMPANION_RECORDS_PENDING
+    age_of_individual_crossing:
+      relation: PRESERVE
+      clarification: The dead person persists institutionally through tomb, property, name, and archive.
+
+  - relation_id: EGYPT-PA-019
+    proposition: >-
+      Subordinates can accuse powerful local officeholders through written complaint,
+      but allegation, proof, office jurisdiction, and eventual judgment remain distinct.
+    source_ids:
+      - SRC-HOP-EGYPT-PAPYRUS-SALT-124
+    intended_claim_class:
+      - SELF_WITNESS
+      - ATTRIBUTED_TEACHING_OR_JUDGMENT
+    passage_state: OBJECT_AND_ALLEGATION_CROSSWALK_PENDING
+    age_of_individual_crossing:
+      relation: COEXIST_WITH
+      clarification: Personal accusation is exercised through corporate and royal hierarchy.
+
+  - relation_id: EGYPT-PA-020
+    proposition: >-
+      A petitioner can construct a legal and political self through genealogy,
+      inherited office, property, documentary memory, grievance, and appeal across
+      generations and imperial regimes.
+    source_ids:
+      - SRC-HOP-EGYPT-PETIESE-PETITION
+    intended_claim_class:
+      - SELF_WITNESS
+      - ATTRIBUTED_TEACHING_OR_JUDGMENT
+      - INTERPRETIVE_BRIDGE
+    passage_state: RYLANDS_COLUMNS_AND_RETROSPECTIVE_EPISODES_PENDING
+    age_of_individual_crossing:
+      relation: COEXIST_WITH
+      clarification: Documentary selfhood remains constituted by family, temple office, property, and empire.
+
+cross_source_questions:
+  - How do corporate privilege and personal protection differ in the Nauri decree?
+  - What does Naunakhte's agency reveal that normative household teachings do not?
+  - How does the protected dead person differ from the living petitioner, worker, accused person, or property holder?
+  - When complaint becomes a document, which institution preserves the person's voice and which institution judges it?
+  - Does multigenerational documentary memory enlarge personal agency, or deepen dependence upon office, lineage, and archives?
+
+acquisition_boundary: >-
+  The person-authority field is now sufficiently broad for passage extraction.
+  No fourth broad tranche should be opened unless exact textual work identifies a
+  claim that cannot be tested from the present 26 ancient records and 5 critical controls.
+
+narrative_gate: CLOSED
+next_action: PASSAGE_EXTRACTION_AND_OBJECT_EDITION_VERIFICATION
