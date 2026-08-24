@@ -1,0 +1,164 @@
+map_id: DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001
+status: PASSAGE_EXTRACTION_IN_PROGRESS
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+
+method:
+  - No claim below is admitted to the History of Power narrative merely by appearing here.
+  - VERIFIED_PRIMARY means wording and location were checked in the locked original-language witness or its diplomatic representation.
+  - LOCATOR_ONLY means the relevant primary witness and location are identified but the exact passage still requires witness-level checking.
+  - Original wording is kept short here; extended transcription is unnecessary for claim control.
+  - Working English abstractions remain subordinate to original-language passages.
+
+claims:
+  - claim_id: DUTCH-PWR-001
+    proposition: >-
+      The Union joins the provinces for common action without dissolving their
+      particular privileges, freedoms, rights, statutes, customs, and jurisdictions.
+    source_id: SRC-HOP-UNION-UTRECHT-1579
+    passage_status: VERIFIED_PRIMARY
+    location: Article I
+    original_language: Dutch
+    anchor: "ten ewygen daeghen by den anderen te blijven ... als off siluyden maer een provincie waeren"
+    qualification: >-
+      The same article immediately preserves the particular privileges and rights
+      of each province, city, member, and inhabitant; unity must not be rewritten
+      as creation of a unitary sovereign state.
+
+  - claim_id: DUTCH-PWR-002
+    proposition: >-
+      The Union creates common powers of defense and common decision while
+      requiring especially strong inter-provincial consent for peace, war, and
+      general contributions.
+    source_id: SRC-HOP-UNION-UTRECHT-1579
+    passage_status: VERIFIED_PRIMARY
+    location: Articles II-IX
+    original_language: Dutch
+    anchor: "geen accoordt van bestant oft peys maecken, noch oorloge aenveerden ... dan met gemeen advys ende consent"
+    qualification: >-
+      Other confederal matters could proceed by provincial majority under Article IX;
+      the rule is therefore differentiated rather than a general unanimity principle.
+
+  - claim_id: DUTCH-PWR-003
+    proposition: >-
+      The Act of Abjuration presents princely authority as existing for protection
+      of subjects rather than subjects existing for the prince, and treats sustained
+      oppression of inherited liberties as a ground for ceasing to recognize the ruler.
+    source_id: SRC-HOP-ACT-ABJURATION-1581
+    passage_status: VERIFIED_PRIMARY
+    location: 1581 Charles Silvius print, opening declaration, page 2 of digitized facsimile
+    original_language: Dutch
+    anchor: "d'ondersaten niet en sijn van Godt geschapen tot behoef van den Prince ... maer den Prince om d'ondersaten wille"
+    qualification: >-
+      The document grounds the action in the deliberation of the States, inherited
+      privileges, contracts, oaths, and natural law; it should not be redescribed
+      simply as a modern doctrine of individual popular sovereignty.
+
+  - claim_id: DUTCH-PWR-004
+    proposition: >-
+      The VOC charter converts a commercial union into an instrument exercising
+      delegated monopoly, diplomatic, military, judicial, and fortification powers
+      within a geographically defined overseas field.
+    source_id: SRC-HOP-VOC-CHARTER-1602
+    passage_status: LOCATOR_ONLY
+    location: Original Dutch charter, Nationaal Archief 1.04.02 inventory 1
+    extraction_targets:
+      - twenty-one-year exclusive navigation/trade zone east of the Cape of Good Hope or through the Strait of Magellan
+      - authority to negotiate with Asian rulers and political powers
+      - authority concerning fortifications, military personnel, war, and government
+    qualification: >-
+      Do not call the VOC simply a sovereign state. The analytical question is how
+      public powers were delegated to a chartered company while ultimate chartering
+      authority remained with the States General.
+
+  - claim_id: DUTCH-PWR-005
+    proposition: >-
+      Grotius states Dutch access to Asian navigation and commerce as a rule of the
+      law of nations rather than merely a privilege conceded by Portugal or Spain.
+    source_id: SRC-HOP-GROTIUS-MARE-LIBERUM-1609
+    passage_status: VERIFIED_PRIMARY
+    location: Chapter I, page 1
+    original_language: Latin
+    anchor: "licere cuivis genti quamvis alteram adire, cumque ea negotiari"
+    qualification: >-
+      The universal form of the claim must remain connected to the concrete Dutch
+      contest over Asian commerce; legal universalization and national-commercial
+      interest are both part of the historical problem.
+
+  - claim_id: DUTCH-PWR-006
+    proposition: >-
+      De Iure Praedae places the legal theory of prize, property, contract, war,
+      and commerce inside the immediate controversy produced by VOC seizure and
+      overseas force.
+    source_id: SRC-HOP-GROTIUS-DE-JURE-PRAEDAE
+    passage_status: LOCATOR_ONLY
+    location: Leiden University Libraries autograph manuscript BPL 917
+    extraction_targets:
+      - opening legal architecture of right and obligation
+      - treatment of just war and prize
+      - passages connected to the Santa Catarina seizure
+      - manuscript material corresponding to the argument later published as Mare Liberum
+    qualification: >-
+      BPL 917 was revised over time. Chapter numbering and textual state must be
+      cross-walked before a quotation is admitted.
+
+  - claim_id: DUTCH-PWR-007
+    proposition: >-
+      The Deductie explicitly makes the separate rights of the respective provincial
+      States and the limited matters transferred to the Generality a constitutional
+      question in its defense of the 1654 Act of Seclusion.
+    source_id: SRC-HOP-DEWITT-DEDUCTIE-1654
+    passage_status: VERIFIED_PRIMARY_FRONT_MATTER
+    location: 1654 Dutch title page / full title
+    original_language: Dutch
+    anchor: "recht competerende de respective Staten vande gheunieerde Provincien yder apart"
+    next_passage_target:
+      location: Part II, chapter I; page/folio crosswalk to be verified against Utrecht 1654 witness
+      issue: hereditary concentration of high civil and military offices and danger to republican liberty
+    hard_rule: >-
+      The Utrecht 1654 Dutch edition governs. No later English rendering may be used
+      as the basis of quotation or abstraction without a matching Dutch passage.
+
+  - claim_id: DUTCH-PWR-008
+    proposition: >-
+      De la Court begins from Holland's internal plurality rather than treating it
+      as a simple unitary polity, and then connects fisheries, commerce,
+      manufactures, liberty, and common material interest.
+    source_id: SRC-HOP-DELACOURT-INTEREST-1662
+    passage_status: VERIFIED_PRIMARY
+    locations:
+      - Chapter I, page 1
+      - Chapters VI-VIII, pages 11-15
+    original_language: Dutch
+    anchors:
+      - "Holland is geen een Land, en heeft niet allesins een interest"
+      - "Dat alle Ingezetenen van Holland, in vryheid zijnde, door een gemeen welen qualik-varen wonderlik aan een zijn geschakeld"
+    qualification: >-
+      Commercial interest does not erase constitutional plurality. The map must test
+      how De la Court joins freedom, livelihood, commerce, taxation, defense, and
+      institutional form rather than extracting a generic free-trade doctrine.
+
+cross_source_questions:
+  - >-
+    How can the provinces act 'as if one province' for union purposes while retaining
+    rights that De Witt later insists belong to the respective provincial States separately?
+  - >-
+    How does the repudiation of tyrannical princely rule in 1581 relate to the later
+    republican fear that hereditary control of stadholder and captain-general offices
+    could recreate monarchical dependence?
+  - >-
+    How does the States General's delegation of coercive and diplomatic powers to the
+    VOC coexist with a constitutional order suspicious of concentrated domestic office?
+  - >-
+    How do Grotius's universal claims of navigational and commercial right relate to
+    De la Court's explicitly particular account of Holland's interest?
+  - >-
+    Which parts of Dutch power arise from central coordination, and which arise precisely
+    from the inability of any single domestic center to absorb provincial, municipal,
+    merchant, corporate, naval, and financial capacities?
+
+remaining_extraction_before_narrative:
+  - Verify De Witt Part II passage directly against the Utrecht 1654 scan and record exact folio/page.
+  - Extract the exact original VOC charter clauses for delegated diplomatic and military powers.
+  - Extract selected BPL 917 passages from the autograph/critical Latin text with manuscript foliation.
+  - Add Amsterdam financial institutions only after their own primary witnesses are acquired; they are not inferred from the present seven-source corpus.
