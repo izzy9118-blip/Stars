@@ -1,0 +1,32 @@
+verification_id: EGYPT-ONLINE-WITNESS-VERIFICATION-003
+verification_date: 2026-08-24
+status: SECOND_TRANCHE_LOCATORS_HTTP_RETRIEVED
+
+verified_locators:
+  - source_id: SRC-HOP-EGYPT-HEQANAKHT-PAPYRI
+    url: https://www.metmuseum.org/art/metpublications/The_Heqanakht_Papyri
+    role: Metropolitan Museum of Art critical edition and publication record
+    witness_layer: MODERN_CRITICAL_EDITION_OF_MET_PRIMARY_DOCUMENTS
+  - source_id: SRC-HOP-EGYPT-GREAT-HARRIS-PAPYRUS
+    url: https://www.britishmuseum.org/collection/object/Y_EA9999
+    role: British Museum object record for Papyrus Harris I / EA 9999
+    witness_layer: PRIMARY_OBJECT_CATALOGUE_RECORD
+  - source_id: SRC-HOP-EGYPT-TURIN-JUDICIAL-PAPYRUS
+    url: https://collezioni.museoegizio.it/en-GB/material/Cat_1875
+    role: Museo Egizio collection record for Cat. 1875
+    witness_layer: PRIMARY_OBJECT_CATALOGUE_RECORD
+  - source_id: SRC-HOP-EGYPT-WILBOUR-PAPYRUS
+    url: https://www.brooklynmuseum.org/opencollection/search?keyword=Wilbour%20Papyrus
+    role: Brooklyn Museum open-collection search locator; exact object URL remains to be fixed
+    witness_layer: MUSEUM_DISCOVERY_LOCATOR
+
+verification_limit: >-
+  Reachability does not complete accession, column, fragment, or edition control.
+  Search pages are discovery locators only; exact object records govern when fixed.
+
+next_verification:
+  - exact Brooklyn Museum object page for accession 34.5596
+  - individual Met accession numbers for each Heqanakht letter and account
+  - exact Turin document-title and companion-papyrus concordance
+  - British Museum image and column sequence for EA 9999
+  - official Hatshepsut monument and epigraphic publication locators
