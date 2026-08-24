@@ -1,0 +1,125 @@
+map_id: NATIONAL-UNIFICATION-1850-1871-001
+status: PASSAGE_EXTRACTION_IN_PROGRESS
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+
+method:
+  - National unification is not presumed to require one institutional form.
+  - Constitutional continuity, military conflict, parliamentary authorization, federal law, dynastic title, and administrative integration remain distinct relations.
+  - Bismarck's 1862 speech is preserved as an intervention in a budget and army conflict, not reduced to the phrase 'blood and iron.'
+  - Italian and German unification are compared without treating one as the normal model for the other.
+
+claims:
+  - claim_id: UNI-001
+    proposition: >-
+      Prussia entered the unification era as a constitutional monarchy in which Crown,
+      chambers, budget authorization, military power, ministers, and public law were
+      institutionally joined but capable of entering direct constitutional conflict.
+    source_id: SRC-HOP-PRUSSIA-CONSTITUTION-1850
+    passage_status: CONTEMPORARY_CONSTITUTION_TARGETED_ARTICLES_IDENTIFIED
+    extraction_targets:
+      - legislative concurrence
+      - royal executive and command powers
+      - annual budget / Article 99
+      - ministerial responsibility
+
+  - claim_id: UNI-002
+    proposition: >-
+      Bismarck's September 1862 intervention treats the army budget dispute as a
+      constitutional conflict over interpretation and power while linking Prussia's
+      military capacity to the unresolved German national question.
+    source_id: SRC-HOP-BISMARCK-BUDGET-SPEECH-1862
+    passage_status: HISTORICALLY_TRANSMITTED_SPEECH_TEXT_WITH_EDITORIAL_PROVENANCE
+    anchors:
+      - Article 99 dispute
+      - army enlargement and service
+      - "Nicht durch Reden und Majoritätsbeschlüsse ... sondern durch Eisen und Blut"
+    qualification: >-
+      The speech is not treated as a stenographic autograph. The national-power line
+      remains inside the immediate parliamentary budget conflict.
+
+  - claim_id: UNI-003
+    proposition: >-
+      The North German Confederation creates a federal political layer whose laws
+      supersede member-state laws in assigned fields and whose jurisdiction connects
+      common citizenship, customs, money, banking, railways, post and telegraph,
+      commerce, law, and military organization.
+    source_id: SRC-HOP-NORTH-GERMAN-CONSTITUTION-1867
+    passage_status: VERIFIED_OFFICIAL_LAW_GAZETTE_TEXT
+    original_language: German
+    locations: [Article 2, Article 3, Article 4, Article 5, Article 8, Article 57, Article 59, Article 60]
+    qualification: >-
+      Member states and the Bundesrat remain constitutive; federal supremacy in assigned
+      fields is not identical to abolition of state governments.
+
+  - claim_id: UNI-004
+    proposition: >-
+      The German Empire of 1871 largely converts the North German constitutional and
+      legal machinery into Reich institutions, adding southern states without rebuilding
+      the federal system from zero.
+    source_id: SRC-HOP-GERMAN-EMPIRE-CONSTITUTION-1871
+    passage_status: VERIFIED_REICHSGESETZBLATT_TEXT
+    original_language: German
+    extraction_targets:
+      - transition law sections 1-3
+      - Reich-law supremacy
+      - federal territory and organs
+      - common transport, post/telegraph, military, customs and commercial fields
+    qualification: >-
+      The Empire is federal and monarchic, with Prussian predominance; neither adjective
+      alone exhausts the constitutional structure.
+
+  - claim_id: UNI-005
+    proposition: >-
+      Italian unification carries the representative-monarchical constitution first granted
+      by the King of Sardinia in 1848 into the political movement that produces the Kingdom
+      of Italy, making constitutional continuity part of national consolidation.
+    source_id: SRC-HOP-STATUTO-ALBERTINO-1848
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    qualification: >-
+      The 1848 text itself is Sardinian. Its later operation as the Italian constitution
+      must remain a continuity relation established by subsequent state practice.
+
+  - claim_id: UNI-006
+    proposition: >-
+      The legal proclamation of 17 March 1861 creates the royal title 'King of Italy'
+      through the existing Senate, Chamber, Crown, and ministers, while Vittorio Emanuele
+      retains the dynastic ordinal II.
+    source_id: SRC-HOP-ITALY-PROCLAMATION-1861
+    passage_status: VERIFIED_ARCHIVAL_LEGAL_WITNESS
+    original_language: Italian
+    anchor: "Il Re Vittorio Emanuele II assume per sè e pei suoi successori il titolo di Re d'Italia."
+    qualification: >-
+      The law proclaims political unity but does not establish that the peninsula was
+      already administratively, fiscally, or socially homogeneous.
+
+cross_source_questions:
+  - >-
+    Does national power arise by centralizing an existing state outward, by federating
+    several states under common jurisdictions, or by combining both movements?
+  - >-
+    How do army reform and budget conflict expose the dependence of national strategy on
+    constitutional and fiscal institutions?
+  - >-
+    Why do the North German and Imperial constitutions place railways and telegraphs beside
+    customs, money, law and military affairs within the federal jurisdiction of unification?
+  - >-
+    How much administrative diversity survives beneath a single national crown in Italy
+    and beneath a single Reich in Germany?
+  - >-
+    When does nationalism become a governing institution rather than only a claim of identity?
+
+narrative_gate:
+  state: OPEN
+  satisfied:
+    - Prussian Constitution 1850 locked
+    - Bismarck 1862 budget speech text registered with editorial caution
+    - North German Constitution 1867 locked
+    - German Empire Constitution 1871 locked
+    - Statuto Albertino 1848 locked
+    - Kingdom of Italy proclamation 1861 locked
+  remaining:
+    - extract exact Prussian budget and military constitutional articles
+    - acquire primary administrative-integration witnesses for Italy after 1861
+    - acquire Prussian/German military, tax, railway or telegraph implementation records where synthesis requires practice beyond constitutional jurisdiction
+    - test whether universal Reichstag suffrage and federal executive-military power produce a distinctive combination rather than a simple liberal/authoritarian binary
