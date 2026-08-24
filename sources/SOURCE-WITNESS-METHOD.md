@@ -10,7 +10,7 @@ A source is not disqualified because its reflection is retrospective. Temporal d
 
 ### 1. Operational / institutional witnesses
 
-Examples: statutes, constitutions, executive orders, treaties, administrative circulars, correspondence, budgets, ledgers, military plans, company agreements, statistics, court records, and archival files.
+Examples: statutes, constitutions, executive orders, treaties, administrative circulars, correspondence, budgets, ledgers, military plans, company agreements, statistics, court records, inscriptions, administrative papyri, decrees, and archival files.
 
 Use: establish jurisdiction, mechanism, sequence, capacity, institutional practice, and contemporaneous command.
 
@@ -18,23 +18,42 @@ Limit: these witnesses often show action without supplying a reflective account 
 
 ### 2. Contemporary reflective witnesses
 
-Books, essays, lectures, memoir-like analyses, strategic works, political economy, sociology, philosophy, journalism, and participant diagnoses written during the period being reconstructed.
+Books, essays, lectures, wisdom texts, political or religious compositions, memoir-like analyses, strategic works, political economy, sociology, philosophy, journalism, and participant diagnoses written during the period being reconstructed.
 
 Use: recover how first-rate observers or participants conceptualized transformations while they were occurring.
 
-Examples for the late nineteenth and First World War layers include Hobson, Hilferding, Mahan, Weber, Rathenau, Naumann, Luxemburg, and Lenin.
+Examples for ancient layers include royal instructions, wisdom literature, political laments, historical inquiry, and reflective inscriptions. Examples for the late nineteenth and First World War layers include Hobson, Hilferding, Mahan, Weber, Rathenau, Naumann, Luxemburg, and Lenin.
 
 Limit: a contemporary interpretation is not automatically true because it is contemporary. It must remain attributed and tested against operational evidence and rival interpretations.
 
 ### 3. Post-festum / dusk witnesses
 
-First-class reflective works written after the event by participants, statesmen, soldiers, administrators, economists, philosophers, or near-contemporaries who could see relations that were not fully visible during the event itself.
+First-class reflective works written after the event by participants, statesmen, soldiers, administrators, priests, historians, economists, philosophers, or near-contemporaries who could see relations that were not fully visible during the event itself.
 
 Use: reconstruct the whole after consequences, institutional interactions, failures, and unintended effects had become visible.
 
-Examples include Keynes on the peace settlement, Weber's postwar political lectures, Schumpeter on imperialism, Ludendorff's war memoir, Jünger's early postwar reconstruction of front experience, and Churchill's World Crisis.
+For ancient layers, this may include later native historical syntheses and serious external observers whose temporal distance and transmission chain can be controlled. For modern layers, examples include Keynes on the peace settlement, Weber's postwar political lectures, Schumpeter on imperialism, Ludendorff's war memoir, Jünger's early postwar reconstruction of front experience, and Churchill's World Crisis.
 
-Limit: hindsight, self-justification, later political commitments, memory distortion, access to records, and publication context must be recorded. Post-festum authority never erases contemporaneous evidence.
+Limit: hindsight, self-justification, later political commitments, memory distortion, cultural distance, access to records, textual transmission, and publication context must be recorded. Post-festum authority never erases contemporaneous evidence.
+
+## Fourth class: later critical reconstruction — not primary evidence
+
+First-class modern scholarship may be indispensable where the surviving record is fragmentary, technically difficult, dispersed among artifacts, or separated from us by millennia. Such works are not primary witnesses and are not coequal with the three classes above.
+
+Examples include critical editions, philological reconstructions, archaeological syntheses, histories of institutions, and major interpretive works by specialists.
+
+Use:
+- reconstruct damaged or dispersed witnesses;
+- control translation, dating, textual history, archaeology, and institutional context;
+- test large syntheses against the accumulated evidence;
+- expose assumptions or categories that earlier scholarship imposed on the sources.
+
+Rules:
+- Later scholarship must never be put into an ancient or contemporary actor's mouth.
+- A modern reconstruction may organize inquiry but cannot convert a disputed interpretation into an ancient self-description.
+- Labels such as `authoritative_synthesis` are prohibited when they blur the distinction between primary witness and modern interpretation.
+- Contested or non-mainstream modern interpretations must be identified as such and independently tested before entering a FACT-level synthesis.
+- Where a modern work supplies a translation or reconstruction of a primary text, the underlying witness and the modern editorial layer must be separately identified.
 
 ## Required metadata for reflective witnesses
 
@@ -43,22 +62,25 @@ Every reflective source record should state:
 - date of the events discussed;
 - date written and date published;
 - temporal distance from the events;
-- whether the author was participant, observer, analyst, opponent, beneficiary, victim, or later interpreter;
-- access to official/private records where known;
+- whether the author was participant, observer, analyst, opponent, beneficiary, victim, priestly transmitter, external historian, or later interpreter;
+- access to official/private/temple records where known;
 - first edition / governing-language witness;
+- textual transmission where the original work is fragmentary or lost;
 - later revisions that materially alter the text;
 - self-justificatory or polemical context where relevant;
 - claims supported and claims the source cannot by itself establish.
 
 ## Non-absorption rule
 
-Operational evidence, contemporary reflection, and post-festum reflection must not be silently collapsed into a single narrative voice. A law may establish a power; a participant may explain its intended purpose; a later thinker may reconstruct its historical significance. These are distinct evidentiary relations.
+Operational evidence, contemporary reflection, post-festum reflection, and later critical reconstruction must not be silently collapsed into a single narrative voice. A law or inscription may establish a power; a participant may explain its intended purpose; a later ancient historian may reconstruct its remembered significance; a modern scholar may reconstruct the damaged evidence. These are distinct evidentiary relations.
 
 ## Narrative gate
 
 No major chronological layer is ready for History of Power integration merely because its institutional map is complete. Before crossing the narrative gate, the layer must also ask:
 1. Which first-class contemporaries understood the transformation while it was occurring?
 2. Which first-class post-festum witnesses understood it more fully after the event?
-3. Where do those reflections agree, conflict, or expose dimensions absent from the operational archive?
+3. Which later critical reconstructions are necessary to control the evidence, and where do they disagree?
+4. Where do those reflections agree, conflict, or expose dimensions absent from the operational archive?
+5. Which current narrative claims depend principally on a modern interpretation rather than on ancient or contemporary evidence?
 
 This method applies retroactively to all History of Power layers.
