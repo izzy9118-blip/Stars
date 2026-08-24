@@ -1,0 +1,38 @@
+source_id: SRC-HOP-MANIFEST-KOMMUNISTISCHEN-PARTEI-1848
+status: FIRST_EDITION_FACSIMILE_WITNESS_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  authors: [Karl Marx, Friedrich Engels]
+  title: Manifest der Kommunistischen Partei
+  publication_year: 1848
+  original_language: German
+  role: class_conflict_bourgeois_state_proletarian_political_power_and_association
+
+governing_witness:
+  witness_type: FACSIMILE_REPRINT_OF_1848_FIRST_EDITION
+  repository: Deutsches Historisches Museum via Deutsche Digitale Bibliothek
+  object_title: Faksimiledruck der Erstausgabe des Manifests der Kommunistischen Partei aus dem Jahre 1848
+  inventory_number: R 65/1408
+  url: https://www.deutsche-digitale-bibliothek.de/item/34F74CVIFXSYGHJANECXCFTSEP5WEHK6
+  facsimile_publication_year: 1965
+
+passages:
+  - issue: history of existing society interpreted through class conflict
+    anchor: "Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen."
+  - issue: modern public power interpreted as serving common bourgeois class interests
+    anchor: "Die moderne Staatsgewalt ist nur ein Ausschuß, der die gemeinschaftlichen Geschäfte der ganzen Bourgeoisklasse verwaltet."
+  - issue: proletarian acquisition of political power and transformation of capital relations
+    anchor: "Das Proletariat wird seine politische Herrschaft dazu benutzen"
+  - issue: association in which individual development and common development cease to oppose one another
+    anchor: "die freie Entwicklung eines Jeden die Bedingung für die freie Entwicklung Aller"
+
+witness_policy:
+  rule: >-
+    The Manifest is evidence for the political teaching of Marx and Engels in 1848,
+    not documentary proof that every state act is reducible to one class interest.
+    Its class analysis remains distinct from the constitutional programs and actual
+    institutions produced during the revolutions of 1848.
+
+quotation_state: FIRST_EDITION_WORDING_AVAILABLE_THROUGH_FACSIMILE
+analysis_state: READY_FOR_ATTRIBUTED_SYNTHESIS

@@ -1,0 +1,85 @@
+map_id: IMPERIAL-DOCTRINE-RACE-COUNTERJUDGMENT-1883-1914-001
+status: NARRATIVE_GATE_SATISFIED_WITH_DISAGREEMENT_PRESERVED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+method:
+  - Metropolitan doctrine, inter-imperial law, colonial administration, extraction, military coercion and colonized judgment remain distinct evidence classes.
+  - Racial and civilizing claims are recorded as claims made by historical actors, not adopted as analytical truths.
+  - Imperial doctrine is presented through contemporary disagreement rather than retrospectively manufactured consensus.
+  - No direct causal chain from human classification to a particular colonial order or war is admitted without institutional evidence.
+claims:
+  - claim_id: IDR-001
+    proposition: >-
+      Galton proposed that inherited human differences could be measured, compared and deliberately selected, helping construct a modern language in which populations themselves became objects of technical intervention.
+    source_id: SRC-HOP-GALTON-HUMAN-FACULTY-1883
+    passage_status: FIRST_EDITION_LOCKED
+    qualification: The proposal is not accepted as valid science and is not treated as the origin of every racial hierarchy or imperial policy.
+
+  - claim_id: IDR-002
+    proposition: >-
+      Ferry defended colonial expansion by joining industrial outlets, naval stations, national rank and a racialized civilizing right and duty within one parliamentary argument.
+    source_id: SRC-HOP-FERRY-COLONIAL-POLICY-1885
+    passage_status: OFFICIAL_PARLIAMENTARY_TRANSCRIPT_LOCKED
+    qualification: Ferry's defense is attributable and contested, not a neutral description of empire.
+
+  - claim_id: IDR-003
+    proposition: >-
+      Clemenceau rejected the division of humanity into superior and inferior races and argued that a civilizing claim could convert military power into an asserted right.
+    source_id: SRC-HOP-CLEMENCEAU-COLONIAL-REPLY-1885
+    passage_status: OFFICIAL_PARLIAMENTARY_TRANSCRIPT_LOCKED
+    qualification: Metropolitan opposition does not substitute for colonized voices.
+
+  - claim_id: IDR-004
+    proposition: >-
+      The Berlin Conference powers constructed rules among themselves for trade, navigation and claims of effective occupation in Africa without making African consent the source of those rules.
+    source_id: SRC-HOP-BERLIN-CONFERENCE-1885
+    passage_status: GOVERNING_TREATY_LOCKED
+
+  - claim_id: IDR-005
+    proposition: >-
+      Naoroji judged British government in India through Indian poverty, revenue, expenditure, remittances and administrative exclusion, turning the economic relations of empire into an argument against its professed legitimacy.
+    source_id: SRC-HOP-NAOROJI-POVERTY-INDIA-1901
+    passage_status: FIRST_EDITION_LOCKED
+    qualification: Numerical estimates remain attributable to Naoroji until individually controlled.
+
+  - claim_id: IDR-006
+    proposition: >-
+      German colonial power acquired metropolitan jurisdiction, mining regulations and separately accounted budgets while field command in Southwest Africa could issue expulsion and lethal-force orders against a colonized population.
+    source_ids:
+      - SRC-HOP-GERMAN-COLONIAL-LAW-1886
+      - SRC-HOP-COLONIAL-MINING-1906
+      - SRC-HOP-COLONIAL-BUDGET-1907
+      - SRC-HOP-TROTHA-HERERO-ORDER-1904
+    passage_status: LEGAL_FISCAL_AND_ARCHIVAL_RELATIONS_LOCKED
+    qualification: Jurisdiction, extraction, finance and battlefield coercion are connected but not interchangeable.
+
+  - claim_id: IDR-007
+    proposition: >-
+      Imperial power was therefore never only a doctrine or only a material apparatus: it joined classificatory claims, strategic and commercial arguments, treaties, laws, budgets, concessions and violence while generating opposition inside metropolitan politics and among the governed.
+    source_ids:
+      - SRC-HOP-GALTON-HUMAN-FACULTY-1883
+      - SRC-HOP-FERRY-COLONIAL-POLICY-1885
+      - SRC-HOP-CLEMENCEAU-COLONIAL-REPLY-1885
+      - SRC-HOP-BERLIN-CONFERENCE-1885
+      - SRC-HOP-NAOROJI-POVERTY-INDIA-1901
+      - SRC-HOP-TROTHA-HERERO-ORDER-1904
+    passage_status: CROSS_SOURCE_RELATION_LOCKED
+
+cross_source_questions:
+  - How did measurements and classifications acquire political force when joined to law, administration and coercion?
+  - How did economic, strategic and racial arguments reinforce one another without becoming the same argument?
+  - What changes when the history of empire admits anti-imperial contemporaries as authorities rather than treating them as later moral commentary?
+  - Where do metropolitan legal claims end and colonized consent, resistance and experience begin?
+
+narrative_gate:
+  state: SATISFIED_WITH_DISAGREEMENT_PRESERVED
+  satisfied:
+    - racial measurement program represented with scientific-validity boundary
+    - affirmative and opposing metropolitan parliamentary arguments paired
+    - inter-imperial law distinguished from colonized consent
+    - Indian anti-imperial economic judgment represented as an authority
+    - colonial jurisdiction, budgets, extraction and military violence related but not collapsed
+  boundaries:
+    - no racial doctrine adopted as analytical truth
+    - no imperial consensus presumed
+    - no causal chain from Galton to Ferry to colonial genocide asserted

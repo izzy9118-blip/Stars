@@ -10,6 +10,18 @@ method:
   - Italian and German unification are compared without treating one as the normal model for the other.
 
 claims:
+  - claim_id: UNI-000
+    proposition: >-
+      Before Prussian-led unification, the Frankfurt National Assembly attempted to
+      constitute German unity through representative national authority, fundamental
+      rights, a federal structure and a hereditary imperial head; its failure preserved
+      the question of whether the nation could authorize a state against its existing rulers.
+    source_id: SRC-HOP-PAULSKIRCHE-CONSTITUTION-1849
+    passage_status: ORIGINAL_DOCUMENT_AND_OFFICIAL_PRINT_CONTEXT_LOCKED
+    qualification: >-
+      The Paulskirche Constitution is a failed constitutional project, not an earlier
+      version of the political machinery ultimately enacted in 1867 and 1871.
+
   - claim_id: UNI-001
     proposition: >-
       Prussia entered the unification era as a constitutional monarchy in which Crown,
@@ -95,6 +107,9 @@ claims:
 
 cross_source_questions:
   - >-
+    What changed when the parliamentary-national route attempted at Frankfurt was
+    replaced by a Prussian-led federal settlement backed by existing military power?
+  - >-
     Does national power arise by centralizing an existing state outward, by federating
     several states under common jurisdictions, or by combining both movements?
   - >-
@@ -112,6 +127,7 @@ cross_source_questions:
 narrative_gate:
   state: OPEN
   satisfied:
+    - Paulskirche Constitution 1849 original-document context locked as failed rival route
     - Prussian Constitution 1850 locked
     - Bismarck 1862 budget speech text registered with editorial caution
     - North German Constitution 1867 locked

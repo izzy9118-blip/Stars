@@ -1,0 +1,19 @@
+source_id: SRC-HOP-GALTON-HUMAN-FACULTY-1883
+status: FIRST_EDITION_PRIMARY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  author: Francis Galton
+  title: Inquiries into Human Faculty and Its Development
+  date: 1883
+  original_language: English
+  role: measurement_heredity_population_classification_and_eugenic_selection
+governing_witness:
+  witness_type: FIRST_EDITION_SCAN
+  publisher: Macmillan, London
+  repository: Royal College of Physicians of Edinburgh via Wellcome Collection
+  locator: https://wellcomecollection.org/works/w3pafe4h
+qualification: >-
+  Galton is evidence for a program that made inherited human difference an object of measurement,
+  comparison and selective reproduction. His text must not be treated as the source of every racial
+  hierarchy, as a scientific validation of its own claims, or as proof that every imperial government
+  adopted one coherent eugenic policy.

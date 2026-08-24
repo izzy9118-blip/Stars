@@ -1,0 +1,40 @@
+source_id: SRC-HOP-PAULSKIRCHE-CONSTITUTION-1849
+status: GOVERNING_OFFICIAL_DOCUMENT_WITNESS_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: German National Assembly at Frankfurt
+  title: Verfassung des Deutschen Reiches
+  conventional_title: Paulskirchenverfassung
+  date: 1849-03-28
+  original_language: German
+  role: revolutionary_constitutional_national_unification_basic_rights_and_failed_authorization
+
+governing_witness:
+  witness_type: ORIGINAL_CONSTITUTIONAL_DOCUMENT
+  repository: Bundesarchiv
+  archival_reference: BArch DB 52/26
+  url: https://www.bundesarchiv.de/themen-entdecken/online-entdecken/storys/schlaglichter-einer-revolution/maerz-1849/
+
+official_print_context:
+  title: Reichs-Gesetz-Blatt
+  date: 1849-04-28
+  corroborating_repository: Deutsches Historisches Museum
+  url: https://www.dhm.de/archiv/ausstellungen/verfassung/1849.html
+
+key_relations:
+  - a German federal state constituted through a national assembly
+  - fundamental civil and political rights placed inside the constitutional order
+  - a bicameral legislature joined to a hereditary imperial head
+  - representative national authorization combined with surviving member states
+  - rejection by decisive governments prevented the constitution from becoming the governing settlement
+
+witness_policy:
+  rule: >-
+    The constitution governs its proposed legal order. Its rejection and failure require
+    corroborating institutional evidence and must not be inferred from the text alone.
+    The failed parliamentary route to national unity remains distinct from the later
+    Prussian-federal route embodied in the constitutions of 1867 and 1871.
+
+quotation_state: DOCUMENT_IMAGES_AND_OFFICIAL_PRINT_CONTEXT_LOCKED
+analysis_state: READY_FOR_BOUNDED_SYNTHESIS

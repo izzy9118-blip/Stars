@@ -4,12 +4,14 @@ parent_star: STAR-HISTORY-OF-POWER-001
 narrative_candidate: sources/primary/early-modern/integration/EARLY-MODERN-NARRATIVE-INSERT-001.md
 
 fact_extension_summary: >-
-  Early-modern power is reconstructed through Machiavellian founding and reform;
-  Reformation jurisdiction and confessional settlement; Bodinian sovereignty;
-  Dutch confederal, corporate, maritime, municipal, securities, and public-credit
-  institutions; English civil-war claims, Hobbesian authorization, post-1688
-  constitutional limits, and funded public credit; and Montesquieu's moderation
-  together with Rousseau's distinction between popular sovereignty and government.
+  Early-modern power begins in a deliberate revolt against the classical and biblical
+  standards governing the ends of politics and knowledge, becomes systematic through
+  Hobbesian fear, natural right, authorization, and sovereignty, and is embodied through
+  Reformation jurisdiction and confessional settlement; Bodinian sovereignty; Dutch
+  confederal, corporate, maritime, municipal, securities, and public-credit institutions;
+  English civil-war claims, post-1688 constitutional limits, and funded public credit;
+  and Montesquieu's moderation together with Rousseau's distinction between popular
+  sovereignty and government.
 
 insertions:
   - key: renaissance_statecraft_and_machiavelli

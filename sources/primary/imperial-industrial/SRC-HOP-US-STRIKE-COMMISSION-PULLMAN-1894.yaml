@@ -1,0 +1,18 @@
+source_id: SRC-HOP-US-STRIKE-COMMISSION-PULLMAN-1894
+status: OFFICIAL_INVESTIGATION_PRIMARY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: United States Strike Commission
+  title: Report on the Chicago Strike of June-July, 1894
+  date: 1894-11-14
+  original_language: English
+  role: corporate_town_railway_union_boycott_injunction_federal_force_and_industrial_conflict
+governing_witness:
+  witness_type: UNITED_STATES_GOVERNMENT_REPORT
+  publisher: Government Printing Office, Washington
+  locator: https://www.loc.gov/item/07032229/
+qualification: >-
+  The report documents relations among the Pullman Company, its workers and company town, the
+  American Railway Union, railway associations, federal courts, federal troops and interstate mail
+  and transport. It is an official commission's investigation and judgment, not a neutral transcript
+  of every participant's experience or a universal model of industrial conflict.

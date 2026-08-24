@@ -1,0 +1,17 @@
+source_id: SRC-HOP-FERRY-COLONIAL-POLICY-1885
+status: OFFICIAL_PARLIAMENTARY_SPEECH_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  speaker: Jules Ferry
+  title: Discours sur la politique coloniale
+  date: 1885-07-28
+  original_language: French
+  role: economic_strategic_prestige_and_civilizing_justifications_of_colonial_expansion
+governing_witness:
+  witness_type: OFFICIAL_CHAMBER_OF_DEPUTIES_TRANSCRIPT
+  repository: Assemblée nationale
+  locator: https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/grands-discours-parlementaires/jules-ferry-28-juillet-1885
+qualification: >-
+  Ferry's speech explicitly joins outlets for industry, naval and strategic stations, national
+  rank, and a racialized claim of civilizing right and duty. It records an influential parliamentary
+  defense of empire, not an uncontested French consensus or an adequate description of colonized peoples.
