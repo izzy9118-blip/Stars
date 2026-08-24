@@ -1,0 +1,43 @@
+source_id: SRC-HOP-VINDICIAE-1579
+name: Vindiciae contra tyrannos
+status: GOVERNING_WITNESS_LOCKED
+
+work:
+  title: Vindiciae, contra tyrannos
+  subtitle: "sive, de Principis in Populum, Populique in Principem, legitima potestate"
+  author_on_title_page: Stephanus Junius Brutus Celta
+  authorship_status: DISPUTED_PSEUDONYMOUS_ATTRIBUTION
+  catalog_attribution: Philippe de Mornay
+  year: 1579
+  original_language: Latin
+  role: confessional_resistance_covenant_magistrates_people_and_tyranny
+
+governing_witness:
+  witness_type: ORIGINAL_1579_LATIN_PRINT_DIGITIZATION
+  imprint_as_printed: Edimburgi
+  actual_place: Basel
+  printer: Thomas Guarin
+  year: 1579
+  repository: Universitätsbibliothek Basel / e-rara
+  shelfmark: UBH DB VII 17:2
+  vd16: M 6380
+  doi: https://doi.org/10.3931/e-rara-17
+  pdf: https://www.e-rara.ch/download/pdf/742036.pdf
+  rights: Public Domain Mark
+
+passage_anchors:
+  - section: Prima quaestio
+    text: "an subditi teneantur, aut debeant principibus obedire, si quid contra legem Dei imperent?"
+    use: obedience_to_princes_limited_by_divine_law
+  - section: Secunda quaestio
+    use: lawful_resistance_when_prince_violates_divine_law_or_ruins_church
+  - section: Tertia quaestio
+    use: lawful_resistance_to_prince_oppressing_or_ruining_commonwealth
+  - section: Quarta quaestio
+    use: aid_by_neighboring_princes_to_subjects_oppressed_for_religion_or_by_manifest_tyranny
+
+claim_boundary: >-
+  The work is printed under a pseudonym and its authorship remains disputed. The
+  repository therefore preserves the title-page author and the catalog attribution
+  separately. Its resistance doctrine is covenantal and institutional; it must not be
+  silently rewritten as an unrestricted individual right of revolution.
