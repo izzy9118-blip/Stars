@@ -1,14 +1,15 @@
 map_id: DUTCH-FINANCIAL-POWER-001
-status: PASSAGE_EXTRACTION_IN_PROGRESS
+status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
 parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
 intended_parent_star: STAR-HISTORY-OF-POWER-001
 
 method:
   - Financial power is not inferred from later economic theory when a contemporary institutional witness exists.
-  - Founding law, operational archive, participant observation, market description, and mathematical public-finance text are distinct witness classes.
+  - Founding law, operational archive, participant observation, market description, mathematical public-finance text, and treasury accounting are distinct witness classes.
   - No single institution is treated as the whole Dutch financial system.
   - VERIFIED_PRIMARY means the relevant wording is checked in a locked primary witness or a diplomatic representation tied directly to it.
   - HISTORICAL_REPRODUCTION means the legal text is preserved in a later documentary compilation and must be cited as such.
+  - ARCHIVAL_STRUCTURE means the public archival finding aid establishes the existence, dates, and accounting fields of the records but not the values of unseen individual entries.
   - Later labels such as central bank, stock market, derivative, or fiscal-military state are analytical conveniences only and may not replace the vocabulary or institutional form of the primary sources.
 
 claims:
@@ -138,19 +139,41 @@ claims:
     anchor: "tot betalinge van s'lants renten"
     qualification: >-
       Bontemantel's municipal notes disclose the operating linkage but are not a full
-      provincial balance sheet. Exact tax and debt totals require treasury accounts.
+      provincial balance sheet.
 
   - claim_id: DUTCH-FIN-009
     proposition: >-
+      Holland maintained a durable provincial accounting apparatus for redeemable
+      annuities that recorded principal, creditor identity, due dates, and annual
+      interest rather than treating public borrowing as an unregistered personal debt
+      of a ruler.
+    source_id: SRC-HOP-FINANCIE-HOLLAND-30129
+    passage_status: ARCHIVAL_STRUCTURE
+    location: Nationaal Archief 3.01.29, public-debt series
+    original_language: Dutch
+    archival_anchors:
+      - "Blafferd ... van alle lopende gemenelands losrenten sedert 1515 aangegaan"
+      - "Staat van de losrenten ... genegotieerd van 1515-1661"
+      - >-
+        ledger recording value, holder names, due dates, and amount of annual
+        interest for redeemable annuities charged to receiver offices
+    qualification: >-
+      The online archival description establishes the system and fields but not the
+      values of unseen individual entries. Quantitative claims require direct ledger
+      consultation.
+
+  - claim_id: DUTCH-FIN-010
+    proposition: >-
       Dutch financial power was institutionally distributed: municipal government
       supported the payment bank, a chartered company issued transferable shares and
-      received credit, provincial government issued annuity obligations, and private
-      traders developed markets around those claims.
+      received credit, provincial government issued and registered annuity obligations,
+      and private traders developed markets around those claims.
     source_ids:
       - SRC-HOP-WISSELBANK-ORDINANCE-1609
       - SRC-HOP-WISSELBANK-ARCHIVE-5077
       - SRC-HOP-BONTEMANTEL-AMSTERDAM-GOVERNMENT-1653-1672
       - SRC-HOP-DEWITT-LYFRENTEN-1671
+      - SRC-HOP-FINANCIE-HOLLAND-30129
       - SRC-HOP-DE-LA-VEGA-CONFUSION-1688
       - SRC-HOP-VOC-CHARTER-1602
     passage_status: ANALYTICAL_SYNTHESIS_FROM_VERIFIED_PRIMARY_RELATIONS
@@ -173,8 +196,8 @@ institutional_relations:
     bearer: merchants, shareholders, brokers, speculators
     mechanism: cash sale, deferred bargain, pledge, bank settlement, information and expectation
   provincial_public_credit:
-    bearer: States of Holland
-    mechanism: life annuities, redeemable annuities, taxation and administrative records
+    bearer: States of Holland and receiver offices
+    mechanism: life annuities, redeemable annuities, debt registers, taxation and administrative records
 
 cross_source_questions:
   - >-
@@ -192,7 +215,14 @@ cross_source_questions:
     How did secondary markets in corporate and public claims convert information about
     distant commerce, war, and political stability into present prices and liquidity?
 
-remaining_extraction_before_narrative:
-  - Cross-check the 1662 VOC advance against Wisselbank or Amsterdam council account records if a scanned entry is readily available.
-  - Acquire one direct provincial treasury or States of Holland debt register witness if accessible, to complement De Witt's mathematical treatment and Bontemantel's observations.
-  - Do not claim a modern central-bank function, efficient-market mechanism, or national debt system unless the historical sources support the narrower relation being described.
+narrative_gate:
+  satisfied:
+    - municipal legal foundation of Wisselbank identified
+    - operational Wisselbank archive registered
+    - contemporary VOC credit example identified
+    - contemporary securities-market witness locked
+    - De Witt 1671 annuity valuation witness locked
+    - direct Holland provincial-debt archive registered
+  remaining:
+    - Cross-check the 1662 VOC advance against Wisselbank or Amsterdam council accounts before making a recurrent quantitative borrowing claim.
+    - Do not claim a modern central-bank function, efficient-market mechanism, or national debt system unless the historical sources support the narrower relation being described.
