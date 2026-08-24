@@ -1,0 +1,45 @@
+status_id: EGYPT-ACQUISITION-STATUS-001
+corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+state: FIRST_TRANCHE_SOURCE_RECORDS_COMPLETE
+records_created: 13
+
+records:
+  - SRC-HOP-EGYPT-NEFERTI
+  - SRC-HOP-EGYPT-ELOQUENT-PEASANT
+  - SRC-HOP-EGYPT-SINUHE
+  - SRC-HOP-EGYPT-LOYALIST-TEACHING
+  - SRC-HOP-EGYPT-IPUWER
+  - SRC-HOP-EGYPT-HOREMHEB-EDICT
+  - SRC-HOP-EGYPT-REKHMIRE-VIZIER
+  - SRC-HOP-EGYPT-WENI-AUTOBIOGRAPHY
+  - SRC-HOP-EGYPT-DEIR-EL-MEDINA-STRIKE
+  - SRC-HOP-EGYPT-MANETHO-FRAGMENTS
+  - SRC-HOP-EGYPT-DIODORUS-I
+  - SRC-HOP-EGYPT-STRABO-XVII
+  - SRC-HOP-EGYPT-PLUTARCH-ISIS-OSIRIS
+
+witness_classes:
+  indigenous_reflective: 5
+  direct_institutional_and_self_witness: 4
+  ancient_post_festum: 4
+
+conformity_state:
+  history_of_power_targets_present: true
+  age_of_individual_crossings_present: true
+  can_cannot_boundaries_present: true
+  rival_or_counter_witness_fields_present: true
+  structured_star_revision_authorized: false
+
+open_controls:
+  - Verify every candidate UCL and museum digital locator before quotation.
+  - Lock exact manuscript columns, monument lines, plates, or fragment numbers.
+  - Select modern critical editions separately from underlying ancient witnesses.
+  - Add modern critical controls for Egyptian religion, administration, literature, and archaeology.
+  - Build passage-to-claim map and test it against the current Egypt Star node.
+  - Prepare reclassification of modern symbolist sources now placed too close to FACT-level voice.
+
+next_files:
+  - sources/primary/ancient/egypt/maps/EGYPT-PERSON-AUTHORITY-001.yaml
+  - sources/audits/ancient/EGYPT-SOURCE-RECLASSIFICATION-PROPOSAL-001.yaml
+
+narrative_gate: CLOSED
