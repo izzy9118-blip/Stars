@@ -1,0 +1,37 @@
+source_id: SRC-HOP-CHARTER-1814
+status: GOVERNING_OFFICIAL_TEXT_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: Louis XVIII / French monarchy
+  title: Charte constitutionnelle du 4 juin 1814
+  date: 1814-06-04
+  original_language: French
+  role: restoration_monarchy_constitutional_continuity_civil_rights_and_executive_power
+
+governing_witness:
+  witness_type: OFFICIAL_CONSTITUTIONAL_TEXT
+  repository: Élysée
+  url: https://www.elysee.fr/la-presidence/la-charte-constitutionnelle-du-4-juin-1814
+  language: French
+
+primary_questions:
+  - How does restored monarchy describe the source of constitutional authority after Revolution and Empire?
+  - Which revolutionary/imperial legal and administrative settlements survive despite dynastic restoration?
+  - How are royal executive powers related to chambers, law, taxation, and civil equality?
+
+key_passage_targets:
+  - preamble on whole authority residing in the king while its exercise may be modified according to times
+  - equality before law and taxation
+  - preservation of civil rights and property
+  - royal appointment and executive powers
+  - legislative relation between Crown and chambers
+
+witness_policy:
+  rule: >-
+    Use the Charter as the restored monarchy's constitutional self-understanding.
+    Administrative continuity must be demonstrated separately through institutions and practice;
+    the Charter alone does not prove which Napoleonic offices survived unchanged.
+
+quotation_state: TARGETED_PASSAGES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED
