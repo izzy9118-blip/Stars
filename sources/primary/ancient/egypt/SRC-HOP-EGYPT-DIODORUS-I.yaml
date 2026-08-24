@@ -1,0 +1,65 @@
+source_id: SRC-HOP-EGYPT-DIODORUS-I
+status: WORK_AND_TEXTUAL_TRADITION_REGISTERED_PASSAGE_EXTRACTION_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Diodorus Siculus
+work_or_document_title: Bibliotheca historica, Book I
+original_language: Greek
+date_or_period: First century BCE
+
+evidence_class: POST_FESTUM_DUSK_WITNESS_EXTERNAL_OBSERVER_AND_COMPILER
+participant_or_observer_position: Greek historian who presents Egypt through travel, inquiry, earlier authorities, and comparative universal history
+temporal_distance_if_retrospective: Hellenistic-era witness reflecting on pharaonic institutions and traditions extending far earlier
+
+governing_witness_and_exact_edition_or_archive:
+  ancient_textual_state: Survives through medieval Greek manuscript transmission, not an autograph
+  Greek_critical_text_target:
+    editor_tradition: Immanuel Bekker / Ludwig Dindorf / Friedrich Vogel critical-text tradition
+    repository: Perseus Digital Library or equivalent page-image critical edition
+    status: EXACT_EDITION_URN_AND_BOOK_SECTION_CROSSWALK_PENDING
+  supporting_translation:
+    status: PUBLIC_DOMAIN_OR_LICENSED_TRANSLATION_TO_BE_SELECTED; no translation governs over the Greek text
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - A later ancient historian reconstructs Egyptian kingship, priesthood, law, land, education, labor, mortuary judgment, and historical memory as an interconnected civilizational order.
+  - His account must be received as Hellenistic comparative reflection rather than direct pharaonic self-description.
+intended_claim_class:
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - WITNESS_METADATA
+  - INTERPRETIVE_BRIDGE
+
+what_the_source_can_establish:
+  - What a major first-century-BCE Greek historian understood or reported about Egyptian institutions, customs, and historical reputation.
+  - A post-festum attempt to see Egyptian power as a whole after long historical consequences and cultural transmission.
+  - Points of agreement or conflict with Herodotus, Egyptian texts, and Ptolemaic-era institutions.
+what_the_source_cannot_establish:
+  - Direct evidence for Old, Middle, or New Kingdom practice without corroboration.
+  - That all information came from personal observation or Egyptian temple archives.
+  - That Greek categories such as lawgiver, caste, or philosophical wisdom reproduce Egyptian categories without transformation.
+
+rival_or_counter_witnesses_where_known:
+  - Herodotus, Histories Book II
+  - SRC-HOP-EGYPT-MANETHO-FRAGMENTS
+  - SRC-HOP-EGYPT-STRABO-XVII
+  - contemporary Egyptian inscriptions, papyri, and archaeology
+
+boundary_effect: >-
+  Diodorus is admitted as a first-class dusk witness whose comprehensive vision
+  can expose relations invisible in isolated decrees, but every historical claim
+  about earlier Egypt remains attributable and independently testable.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: Kings, priests, law, custom, land order, and mortuary judgment as reconstructed by a later historian
+  human_position: Member of an ordered people classified by institutions and customs in a comparative historical account
+  demanded_conduct: Source-specific passages may attribute law, discipline, occupation, or piety; no single conduct claim is inferred from the book as a whole
+  formative_technique: Philosophical history, comparison, travel report, priestly information, exemplum, and civilizational classification
+  crossing_relation: COEXIST_WITH
+  non_teleology_rule: >-
+    Greek comparative history changes how Egypt is seen; it does not prove that
+    Egyptian authority was becoming individualist or that Diodorus's categories
+    were native to all periods he describes.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
