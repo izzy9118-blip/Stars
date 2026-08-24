@@ -1,0 +1,306 @@
+proposal_id: PERSIA-STRUCTURED-STAR-CORRECTION-PROPOSAL-001
+status: PREPARATORY_NOT_ADMITTED_NOT_APPLIED
+parent_star: STAR-HISTORY-OF-POWER-001
+star_path: stars/STAR-HISTORY-OF-POWER-001.yaml
+narrative_path: narratives/STAR-HISTORY-OF-POWER-001.md
+branch: history-of-power-retroactive-source-audit-001
+limited_exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+
+method_and_contracts:
+  - sources/SOURCE-WITNESS-METHOD.md
+  - sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+  - sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+  - sources/audits/ancient/PERSIA-RETROACTIVE-SOURCE-AUDIT-001.yaml
+
+supporting_scaffold:
+  corpus: sources/primary/ancient/persia/manifest.yaml
+  person_authority_map: sources/primary/ancient/persia/maps/PERSIA-PERSON-AUTHORITY-001.yaml
+  herodotus_control: sources/primary/ancient/persia/HERODOTUS-REATTRIBUTION-AND-CONTROL-001.yaml
+  passage_targets:
+    - sources/primary/ancient/persia/passages/PERSIA-ROYAL-BABYLONIAN-TARGETS-001.yaml
+    - sources/primary/ancient/persia/passages/PERSIA-ADMINISTRATIVE-PROVINCIAL-TARGETS-001.yaml
+    - sources/primary/ancient/persia/passages/PERSIA-REFLECTIVE-TARGETS-001.yaml
+
+proposal_purpose: >-
+  Rebuild the Persian layer around multiple controlled voices rather than allowing
+  Herodotus alone to speak as Persia. Preserve Herodotus's connected political history,
+  add Persian royal self-witness, Babylonian chronicle, administrative archives,
+  provincial persons and ancient reflective rivals, and align the layer with the Age
+  of the Individual without projecting modern autonomy backward.
+
+non_negotiable_invariants:
+  - The structured Star remains the sole semantic authority.
+  - This proposal is non-operative under the preparatory exception.
+  - Herodotus remains first-class and is reattributed rather than erased.
+  - Royal inscriptions remain self-witness and self-justification, not neutral fact.
+  - Administrative records remain document-specific and do not reveal subjective experience automatically.
+  - Provincial agency is visible without being converted into equal natural rights.
+  - Greek tragedy, participant history and philosophical history remain distinct genres.
+  - Narrative revision follows only after structured-Star admission through a later owner-approved workflow.
+
+summary_decision:
+  current_persian_layer: CONCEPTUALLY_POWERFUL_BUT_OVERWHELMINGLY_HERODOTEAN
+  correction_type: PRESERVE_HERODOTEAN_PROBLEMS_REBUILD_EVIDENTIARY_VOICE_AND_PERSON_RELATIONS
+  principal_retain:
+    - Cyrus liberation/mastery reversal as Herodotean founding problem
+    - regime debate as Herodotean political reflection set in Persia
+    - imperial coordination of peoples, technologies, routes and armies
+    - dependent local rulers and the problem of truthful counsel
+    - Scythian mobility as a bounded limit on territorial command
+    - Demaratus's law/master contrast as Herodotean analysis
+    - Salamis information failure as a bounded analytical reading
+    - soft-lands warning as Herodotus's culminating judgment
+  principal_add:
+    - Cyrus's Babylonian legitimation and cult/community restoration claim
+    - Nabonidus Chronicle as Babylonian post-festum counter-sequence
+    - Behistun royal truth, named rebellion, multilingual publication and punishment
+    - DNa/DNb imperial plurality and royal self-command
+    - Persepolis routine movement, ration, authorization and administrative legibility
+    - Elephantine household, property, status, worship and petition
+    - Arsames documentary command across absence and estate/office overlap
+    - Udjahorresnet as Egyptian elite mediation under Persian rule
+    - Aeschylus, Anabasis and Cyropaedia as distinct reflective transformations
+  principal_reattribute:
+    - one coherent Persian nomos
+    - subjects as inherited slaves as a general Persian category
+    - constitutional debate as a documented Persian council transcript
+    - father_master_retailer triad as factual summary
+    - Xerxes's assigned speeches, dream and private motives
+    - equality-before-law military causation as a general law
+    - Cyrus's final lesson as verified historical last words
+
+field_corrections:
+  fact:
+    current_state: REQUIRES_PERSIA_ONLY_REWRITE_AFTER_PASSAGE_CONTROL
+    retain_with_explicit_voice:
+      - section: Cyrus_liberation_and_conquest
+        decision: RETAIN_AS_HERODOTEAN_FOUNDING_NARRATIVE
+        edit: >-
+          Begin with 'Herodotus presents Cyrus as freeing Persians from Median mastery
+          and converting the freed into rulers of others.' Then place beside it Cyrus's
+          Babylonian self-presentation through Marduk, cult restoration, tribute and
+          local royal form. Do not force the two into one reconciled motive.
+      - section: regime_debate
+        decision: RETAIN_AS_HERODOTEAN_POLITICAL_REFLECTION
+        edit: >-
+          Preserve Otanes, Megabyzus and Darius as one of the ancient world's great
+          regime debates while stating that Behistun supplies Darius's own radically
+          different accession and legitimacy account.
+      - section: Scythian_mobility_and_dependent_rulers
+        decision: RETAIN_AND_BOUND
+        edit: >-
+          Preserve the bridge episode and mobility limit as Herodotean relations;
+          prohibit their conversion into universal laws of empire.
+      - section: Xerxes_and_Demaratus
+        decision: RETAIN_REATTRIBUTED
+        edit: >-
+          Preserve speeches, dream, law/master contrast and material scale as Herodotus's
+          construction, then add Aeschylus as near-contemporary tragic counter-reflection
+          and royal inscriptions where relevant.
+      - section: Salamis_information_and_soft_lands
+        decision: RETAIN_AS_ANALYTICAL_AND_HERODOTEAN_CULMINATION
+        edit: >-
+          State explicitly that the information problem is the project's analysis of
+          Herodotus and that the soft-lands warning is Herodotus's final Cyrus teaching.
+    replace_or_expand:
+      - section: Persian_nomos
+        decision: DECOMPOSE
+        replacement_principle: >-
+          Attribute Herodotus's customs individually and test them by period and source.
+          Add royal truth/self-command, Babylonian cultic legitimation, administrative
+          routines, provincial household law and local mediation without pretending
+          they form one timeless Persian code.
+      - section: Cambyses_inherited_slaves_and_madness
+        decision: REBUILD_AS_CONFLICTING_WITNESSES
+        replacement_principle: >-
+          Preserve Herodotus's tyranny and sacrilege narrative beside Udjahorresnet,
+          Apis burial evidence and Egyptian royal forms. Conquest, accommodation,
+          sacrilege claims and elite self-interest remain separate.
+      - section: Darius_calculable_administration
+        decision: REBUILD_FROM_MULTIARCHIVAL_EVIDENCE
+        replacement_principle: >-
+          Combine Herodotean satrapy, tribute and road with Behistun, DNa, Persepolis,
+          Arsames, Elephantine and Babylonian archives. Describe mechanisms only where
+          the relevant source and region support them.
+      - section: Persian_subjecthood
+        decision: REWRITE
+        replacement_principle: >-
+          Replace the singular figure of the inherited slave with differentiated
+          subject positions: named people, loyal commander, royal rebel, rationed worker,
+          spouse, property holder, dependent, soldier, petitioner, steward, priestly
+          mediator and local ruler. Preserve hierarchy and coercion without erasing agency.
+
+  scope:
+    subject:
+      decision: EXPAND_EVIDENTIARY_AND_PERSON_RELATIONS
+      retain:
+        - liberation, conquest, monarchy, satrapy, tribute, road, army and natural limit
+      add:
+        - Babylonian royal theology and chronicle memory
+        - multilingual royal truth and dynastic self-presentation
+        - seal, ration, travel, labor and administrative record
+        - household, marriage, property, slavery/manumission, cult and petition
+        - satrapal estate and documentary command
+        - provincial elite mediation and regime survival
+        - tragedy, participant history and philosophical reconstruction
+      remove_as_unqualified:
+        - one Persian nomos
+        - passive subject mass defined only as slaves
+    geography:
+      decision: MAKE_REGIONAL_VOICES_EXPLICIT
+      add:
+        - Babylon and Sippar
+        - Persepolis and Fars
+        - Bisotun and Naqsh-i Rustam
+        - Elephantine and Sais
+        - satrapal estates and Aramaic documentary networks
+      boundary: >-
+        Evidence from one center or province does not establish uniform imperial practice.
+    period:
+      decision: DISTINGUISH_EVENT_WITNESS_AND_LATER_REFLECTION
+      edit: >-
+        Separate sixth/fifth-century royal and administrative evidence from Aeschylus,
+        Herodotus, Xenophon, later chronicle copies and modern critical reconstruction.
+
+  shape:
+    model:
+      decision: RETAIN
+      value: CIVILIZATIONAL_FORMS_OF_POWER
+    governing_question:
+      decision: REVISE_PERSIA_CLAUSE
+      proposed: >-
+        Persian imperial power coordinates differentiated peoples, cults, households,
+        offices, routes, resources and armies beneath the Great King through conquest,
+        local legitimation, royal truth, delegated administration and documentary
+        classification, while persons retain unequal forms of agency inside relations
+        they do not authorize as naturally separate individuals.
+    operative_rules:
+      add:
+        - No Greek historian, Persian king, Babylonian scribe or provincial archive speaks for the entire empire.
+        - Royal truth and rebel identity remain royal claims until independently controlled.
+        - Multilingual publication coordinates difference without proving equality or reception.
+        - Named documentary personhood does not equal modern individuality.
+        - Herodotean speeches and causal judgments remain attributed even when philosophically indispensable.
+        - Achaemenid administrative mechanisms are admitted document by document and region by region.
+
+  claim_policy:
+    add_or_strengthen:
+      royal_imperial_self_witness:
+        definition: >-
+          A monumental or foundation account issued in royal authority, admitted as
+          evidence of claimed legitimacy, order and memory rather than neutral event fact.
+      routine_administrative_witness:
+        definition: >-
+          A tablet, papyrus, letter, seal or account establishing a bounded transaction,
+          category or chain of command in its identified archive.
+      provincial_person_and_community_witness:
+        definition: >-
+          A document generated by or concerning persons, households, temples, soldiers
+          or communities inside imperial jurisdiction, with status and legal limits explicit.
+      ancient_reflective_witness:
+        definition: >-
+          A tragic, historical or philosophical work attributed to author, genre, date
+          and political position, not substituted for Persian self-witness.
+      later_critical_control:
+        definition: >-
+          Modern philology, archaeology and synthesis used to control evidence but never
+          admitted as ancient voice.
+
+  historical_spectrum:
+    current_persian_power_node:
+      decision: DECOMPOSE_WITHOUT_CREATING_PARALLEL_STAR
+    proposed_bounded_subrelations:
+      - name: Herodotean_liberation_conquest_and_mastery
+        relations:
+          - Persians freed from Median mastery in Herodotus
+          - liberated rulers convert other peoples into subjects
+          - customs, regime debate and political freedom/slavery remain attributed
+      - name: Babylonian_conquest_and_local_legitimation
+        relations:
+          - Marduk and Babylonian royal form
+          - entry, cult restoration, returned images and communities as royal claims
+          - Nabonidus Chronicle as distinct later Babylonian sequence
+      - name: Darius_royal_truth_multilingual_empire_and_punishment
+        relations:
+          - genealogy, Ahuramazda and restoration
+          - named rebels, commanders, lands and punishments
+          - truth/Lie and preservation of royal account
+          - subject-people catalogue and royal self-control
+      - name: administrative_coordination_and_recorded_persons
+        relations:
+          - ration, movement, work, seal and authorization
+          - satrapal letters, estates and agents
+          - distributed information and command across absence
+      - name: provincial_household_cult_petition_and_mediation
+        relations:
+          - marriage, property, dependence and archive at Elephantine
+          - temple grievance and petition through imperial officials
+          - Udjahorresnet's Egyptian elite mediation
+      - name: ancient_reflection_on_empire_and_command
+        relations:
+          - Aeschylean grief and dynastic limit
+          - Herodotean political history
+          - Anabasis participant command and imperial space
+          - Cyropaedia education, motive and founder dependence
+
+  conceptual_chain:
+    persian_power:
+      decision: REWRITE_AFTER_VERIFICATION
+      proposed_sequence:
+        - Herodotean liberation from Median mastery
+        - conquest and differentiation of subject peoples
+        - Babylonian legitimation through local divine and cultic order
+        - royal truth, dynasty and classification of rebellion
+        - multilingual representation of imperial peoples
+        - satrap, commander, agent, scribe, seal and archive
+        - road, travel, ration, labor, estate and resource
+        - household, property, military community, temple and petition
+        - local elite mediation of foreign kingship
+        - Greek tragic, historical and philosophical reflection
+        - law/master contrast, information failure and geographic limit
+      proposed_governing_principle: >-
+        Persian power enlarges royal command across differentiated peoples and regions
+        by combining conquest, local legitimation, dynastic truth, delegated office and
+        documentary coordination. Its strength lies in organizing plurality without
+        requiring sameness; its contradiction lies in preserving local identities and
+        personal agency while classifying peoples and persons beneath a kingship they do
+        not equally authorize; its limits appear in rebellion, unreliable counsel,
+        mobile or difficult geography, provincial conflict, succession and dependence
+        upon exceptional rulers and mediators.
+
+  age_of_individual_crossing:
+    decision: ADD_EXPLICIT_BOUNDARY
+    proposed: >-
+      Persian evidence reveals differentiated persons with names, property, speech,
+      office, grief, self-command and documentary claims. It does not reveal a modern
+      political order founded upon equal naturally separate individuals. The relevant
+      long relation is the gradual diffusion and transformation of royal self-command,
+      documentary personhood and administrative legibility—not a direct causal line.
+
+  evidence:
+    decision: REBUILD_SOURCE_REGISTRY_BY_CLASS
+    classes:
+      - Persian_and_Babylonian_royal_self_witness
+      - Babylonian_post_festum_chronicle
+      - core_administrative_archive
+      - provincial_household_and_community_documents
+      - satrapal_correspondence
+      - provincial_elite_autobiography
+      - Greek_contemporary_and_post_festum_reflection
+      - later_critical_control
+
+held_from_application:
+  - all direct quotations pending governing-language extraction
+  - document-level factual claims pending identified tablets, papyri and letters
+  - event claims relying on royal self-presentation alone
+  - any narrative revision or Star status change
+
+release_conditions:
+  - Egypt repair certified/applied or further explicit owner exception granted
+  - passage and document controls completed
+  - proposal reviewed against native structured-Star schema and current identifiers
+  - owner or governing workflow separately authorizes Persian admission
+
+chronology_hold:
+  next_layer: GREECE
+  state: DO_NOT_PROCEED_UNDER_CURRENT_EXCEPTION
