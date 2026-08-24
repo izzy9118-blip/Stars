@@ -1,5 +1,5 @@
 source_id: SRC-HOP-LUTHER-TEMPORAL-AUTHORITY-1523
-status: GOVERNING_WITNESS_LOCKED
+status: GOVERNING_WITNESS_LOCKED_PASSAGES_EXTRACTED
 parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
 
 work:
@@ -23,17 +23,37 @@ governing_witness:
   extent: 26 leaves
   vd16: L 7317
 
-supporting_translation:
-  repository: ETH Zurich / ISN Primary Resources in International Affairs
-  url: https://www.files.ethz.ch/isn/125470/606.pdf
-  language: English
-  status: READING_AID_TRANSLATION_METADATA_REQUIRES_CHECK_BEFORE_QUOTATION
+supporting_transcriptions:
+  - repository: Luther2017
+    url: https://www.luther2017.de/de/martin-luther/texte-quellen/lutherschrift-von-weltlicher-obrigkeit-wie-weit-man-ihr-gehorsam-schuldig-sei/
+    language: normalized modern German
+    status: READING_AND_LOCATOR_AID_NOT_GOVERNING
+  - repository: ETH Zurich / ISN Primary Resources in International Affairs
+    url: https://www.files.ethz.ch/isn/125470/606.pdf
+    language: English
+    status: READING_AID_NOT_GOVERNING
+
+passage_anchors:
+  - issue: jurisdiction_over_faith_and_conscience
+    text_normalized: "Der Seele soll und kann niemand gebieten ... Das kann aber kein Mensch tun, sondern Gott allein."
+    use: temporal_authority_cannot_command_inward_faith
+  - issue: external_temporal_jurisdiction
+    text_normalized: "weltlicher Gehorsam und Gewalt erstrecken sich nur über äußerliche Steuer, Zoll, Ehre, Furcht"
+    use: civil_power_directed_to_outward_order
+  - issue: coercion_of_heresy
+    text_normalized: "Gottes Wort soll hier streiten"
+    continuation: "Ketzerei ist ein geistlich Ding"
+    use: force_cannot_produce_or_destroy_faith
+  - issue: kingdom_distinction
+    text_normalized: "Gebet dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist"
+    use: distinction_between_temporal_and_divine_jurisdiction
 
 witness_policy:
   governing_language: German
   rule: >-
-    The 1523 German print governs. English translations may aid interpretation but
-    may not silently determine Luther's distinctions or terminology.
+    The 1523 German print governs. The normalized Luther2017 text is used to find and
+    read passages but any direct quotation admitted to History of Power must be checked
+    against the 1523 spelling and folio image.
 
-quotation_state: NOT_YET_EXTRACTED
-analysis_state: NOT_YET_INTEGRATED
+quotation_state: EXTRACTED_REQUIRES_IMAGE_LEVEL_ORIGINAL_SPELLING_CHECK_FOR_DIRECT_QUOTE
+analysis_state: MAPPED_NOT_YET_INTEGRATED
