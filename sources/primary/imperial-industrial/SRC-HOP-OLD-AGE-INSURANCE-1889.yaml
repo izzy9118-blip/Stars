@@ -1,0 +1,21 @@
+source_id: SRC-HOP-OLD-AGE-INSURANCE-1889
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Empire
+  title: Gesetz betreffend die Invaliditäts- und Altersversicherung
+  date: 1889-06-22
+  original_language: German
+  role: compulsory_invalidity_old_age_insurance_labor_records_and_administered_entitlement
+governing_witness:
+  witness_type: REICHSGESETZBLATT_SCAN_TRANSCRIPTION
+  citation: "RGBl. 1889, Nr. 13, S. 97-144"
+  locator: https://de.wikisource.org/wiki/Gesetz,_betreffend_die_Invalidit%C3%A4ts-_und_Altersversicherung
+key_passages:
+  - section: 1
+    proposition: Compulsory insurance covers broad categories of wage and salary earners from age sixteen.
+  - section: 161
+    proposition: Eligibility and employment histories are evidenced through local administrative certification or employer certificates authenticated by public authority.
+qualification: >-
+  The law makes age, employment, contributions, administrative certification and claims
+  part of a durable state-supervised record system; coverage and benefits remain historically bounded.
