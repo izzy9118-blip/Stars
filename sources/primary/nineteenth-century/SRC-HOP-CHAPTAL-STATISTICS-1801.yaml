@@ -1,0 +1,41 @@
+source_id: SRC-HOP-CHAPTAL-STATISTICS-1801
+status: ARCHIVAL_TARGET_LOCATED_EXACT_WITNESS_PENDING
+parent_unit: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  author: Jean-Antoine Chaptal, Minister of the Interior
+  title_normalized: Circular to the prefects concerning the statistics of the Republic
+  date: 1801-04-09
+  revolutionary_date: 19 germinal an IX
+  original_language: French
+  role: state_information_departmental_reporting_population_agriculture_industry_commerce_and_resources
+
+archival_target:
+  repository: Archives nationales (France)
+  reported_reference: F/20/136
+  reference_state: EXACT_CATALOG_SYNTAX_TO_VERIFY
+  documentary_note: >-
+    Historical studies identify the 19 germinal an IX circular in this statistical
+    administrative series. The original archival document or contemporary printed
+    circular must be inspected before any direct quotation enters History of Power.
+
+corroborating_evidence:
+  - institution: Bibliothèque de l'INSEE
+    source: historical study of French official statistics
+    locator: https://www.bnsp.insee.fr/ark:/12148/bc6p070rsrq.pdf
+    reported_anchor: >-
+      Chaptal states the aim of forming a complete body of collected information and
+      giving the nation exact knowledge of its wealth and resources.
+  - source: scholarly history of Chaptal and French statistics
+    locator: https://comptes-rendus.academie-sciences.fr/chimie/articles/10.5802/crchim.263/
+    note: identifies the circular of 19 germinal an IX and quarterly inquiries through prefects
+
+extraction_targets:
+  - required categories of departmental information
+  - reporting cadence and forms
+  - relation between prefectural administration and central statistical office
+  - population, agriculture, manufacture, commerce, and public resources
+  - intended use of information by the central government
+
+quotation_state: NO_DIRECT_PRIMARY_QUOTATION_YET
+analysis_state: NOT_YET_INTEGRATED
