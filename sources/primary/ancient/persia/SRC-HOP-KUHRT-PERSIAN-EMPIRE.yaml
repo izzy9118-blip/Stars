@@ -1,0 +1,58 @@
+source_id: SRC-HOP-KUHRT-PERSIAN-EMPIRE
+status: FIRST_EDITION_METADATA_LOCKED_SOURCE_CROSSWALK_CONTROL
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Amélie Kuhrt
+work_or_document_title: The Persian Empire: A Corpus of Sources from the Achaemenid Period
+publication:
+  publisher: Routledge
+  year: 2007
+  format: two-volume source corpus
+  isbn: 9780415436281
+  catalogue_record: https://openlibrary.org/books/OL10206516M/The_Persian_Empire
+original_language: English commentary and translations from multiple ancient languages
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+witness_subclass: MODERN_MULTILINGUAL_SOURCE_CORPUS_AND_CONTEXTUAL_COMMENTARY
+participant_or_observer_position: modern ancient historian selecting, translating and contextualizing dispersed Achaemenid-period evidence
+temporal_distance_if_retrospective: more than two millennia after the sources
+
+star_claim_target:
+  - multilingual_primary_source_discovery_and_crosswalk
+  - comparison_of_royal_Babylonian_Elamite_Aramaic_Egyptian_Greek_and_biblical_witnesses
+  - control_of_translation_context_and_source_position
+intended_claim_class: WITNESS_METADATA
+
+what_the_source_can_establish:
+  - A documented modern route to a wide range of primary witnesses in different languages and regions.
+  - Translation, dating, provenance and contextual problems that must be checked before use.
+  - The existence of rival and complementary evidence outside Greek narrative.
+  - Source relationships suitable for further verification in governing editions and artifacts.
+
+what_the_source_cannot_establish:
+  - That Kuhrt's translations replace the ancient-language governing witnesses.
+  - That editorial selection creates a complete imperial archive.
+  - An ancient Persian voice independent of the sources translated.
+  - A Star FACT merely through citation to the modern corpus rather than the underlying text.
+
+rival_or_counter_witnesses_where_known:
+  - language-specific critical editions
+  - Pierre Briant, Histoire de l'Empire perse
+  - regional specialist corpora and archaeological publications
+  - alternate translations and textual restorations
+
+boundary_effect: >-
+  Kuhrt enables the project to escape monolingual and Greek-only history while requiring
+  every admitted claim to return to the original artifact, language and source position.
+
+age_of_individual_crossing:
+  relevance: >-
+    The corpus helps identify differentiated persons—king, official, worker, spouse,
+    temple community, soldier and subject—but those positions must be reconstructed
+    from the ancient witnesses rather than from modern editorial categories alone.
+  prohibition: Do not make a modern corpus the speaker of an ancient person or empire.
+
+quotation_state: MODERN_TRANSLATION_USED_FOR_NAVIGATION_PENDING_ORIGINAL_LANGUAGE_CONTROL
+star_integration_state: CRITICAL_CONTROL_NOT_PRIMARY_EVIDENCE
