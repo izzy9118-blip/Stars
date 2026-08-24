@@ -17,19 +17,27 @@ sequence:
     next_action: ACQUIRE_AND_RECLASSIFY
   - order: 2
     layer: PERSIA
-    status: NEXT_TO_AUDIT
+    audit: sources/audits/ancient/PERSIA-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_REBALANCING_REQUIRED
+    next_action: ACQUIRE_OWN_ARCHIVE_AND_REATTRIBUTION
   - order: 3
     layer: GREECE
-    status: PENDING
+    audit: sources/audits/ancient/GREECE-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_REFLECTIVE_AND_EPIGRAPHIC_EXPANSION_REQUIRED
+    next_action: ACQUIRE_AND_LINK
   - order: 4
     layer: ROME
-    status: PENDING
+    audit: sources/audits/ancient/ROME-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_ANNALISTIC_AND_PRINCIPATE_CONTROLS_REQUIRED
+    next_action: ACQUIRE_AND_RECLASSIFY
   - order: 5
     layer: POST_IMPERIAL_AND_MEDIEVAL
-    status: PENDING
+    audit: sources/audits/medieval/POST-IMPERIAL-MEDIEVAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_INSTITUTIONAL_AND_REFLECTIVE_EXPANSION_REQUIRED
+    next_action: ACQUIRE_LAW_CHARTERS_AND_MAJOR_BOOKS
   - order: 6
     layer: RENAISSANCE_EARLY_MODERN_AND_ENLIGHTENMENT
-    status: PENDING_RETROACTIVE_CHECK_AFTER_PRIMARY_REPAIR
+    status: NEXT_TO_AUDIT
   - order: 7
     layer: REVOLUTIONARY_AND_CONSTITUTIONAL
     status: PENDING
@@ -49,4 +57,4 @@ completion_rule: >-
   sources, claims whose provenance is too weak for their current status, first-class
   additions, and a concrete narrative-gate decision.
 
-current_position: EGYPT_COMPLETE_PERSIA_NEXT
+current_position: POST_IMPERIAL_MEDIEVAL_COMPLETE_EARLY_MODERN_NEXT
