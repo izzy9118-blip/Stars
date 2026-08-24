@@ -1,0 +1,198 @@
+map_id: DUTCH-FINANCIAL-POWER-001
+status: PASSAGE_EXTRACTION_IN_PROGRESS
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+
+method:
+  - Financial power is not inferred from later economic theory when a contemporary institutional witness exists.
+  - Founding law, operational archive, participant observation, market description, and mathematical public-finance text are distinct witness classes.
+  - No single institution is treated as the whole Dutch financial system.
+  - VERIFIED_PRIMARY means the relevant wording is checked in a locked primary witness or a diplomatic representation tied directly to it.
+  - HISTORICAL_REPRODUCTION means the legal text is preserved in a later documentary compilation and must be cited as such.
+  - Later labels such as central bank, stock market, derivative, or fiscal-military state are analytical conveniences only and may not replace the vocabulary or institutional form of the primary sources.
+
+claims:
+  - claim_id: DUTCH-FIN-001
+    proposition: >-
+      Amsterdam created the Wisselbank as a municipal response to monetary disorder
+      and the difficulties that unstable coin created for exchange and bills.
+    source_id: SRC-HOP-WISSELBANK-ORDINANCE-1609
+    passage_status: HISTORICAL_REPRODUCTION
+    location: Noordkerk, Handvesten der stad Amstelredam (1748), pp. 673-674, reproducing ordinance of 31 January 1609
+    original_language: Dutch
+    anchor: "om alle steygheringe ende confusie in 't stuc van de Munte te weeren ... door het oprechten van een Banck van Wissel"
+    qualification: >-
+      The 1748 Handvesten reproduces the 1609 ordinance but is not the autograph
+      municipal minute. The claim concerns the stated legal purpose, not a modern
+      theory of central banking.
+
+  - claim_id: DUTCH-FIN-002
+    proposition: >-
+      The founding settlement placed the city's authority behind money entrusted to
+      the bank, making municipal responsibility itself part of the payment mechanism.
+    source_id: SRC-HOP-WISSELBANK-ORDINANCE-1609
+    passage_status: HISTORICAL_REPRODUCTION
+    location: Noordkerk, Handvesten, pp. 673-674
+    original_language: Dutch
+    anchor: "vaststaen ende responderen"
+    qualification: >-
+      This establishes public responsibility for the institution; it does not by
+      itself establish every later rule concerning reserves, credit, or convertibility.
+
+  - claim_id: DUTCH-FIN-003
+    proposition: >-
+      By the 1660s the Wisselbank could also become a source of short-term credit to
+      the VOC, joining municipal monetary infrastructure to chartered overseas power.
+    source_id: SRC-HOP-BONTEMANTEL-AMSTERDAM-GOVERNMENT-1653-1672
+    passage_status: VERIFIED_PRIMARY_TRANSCRIPTION
+    location: section 5, Wisselbank, entry dated 27 February 1662
+    original_language: Dutch
+    anchor: >-
+      "Op 't versouck der Oost-Indische Compaignie is geconsenteert uyt de
+      wisselbanck te mogen gebruycken, voor een corten tijt, viermael
+      hondert-duysent guldens, mits betaelende intrest."
+    qualification: >-
+      Bontemantel is a contemporary governmental observer, not the bank ledger.
+      The transaction should be cross-checked against municipal or bank accounting
+      records before being used to quantify recurrent VOC borrowing.
+
+  - claim_id: DUTCH-FIN-004
+    proposition: >-
+      The Amsterdam share market converted claims on the VOC into transferable
+      objects of secondary trade rather than leaving participation confined to the
+      original subscription to the company.
+    source_id: SRC-HOP-DE-LA-VEGA-CONFUSION-1688
+    passage_status: VERIFIED_PRIMARY
+    location: first dialogue, pp. 3-5 of the 1688 Spanish edition / corresponding DBNL diplomatic text
+    original_language: Spanish
+    anchors:
+      - "Formaron unos mercaderes holandeses una Compañia el año de 1602"
+      - "cada porcion ... llamaron accion"
+    qualification: >-
+      De la Vega dramatizes the market through dialogue. His text is direct evidence
+      for sophisticated share trading and its contemporary interpretation, not a
+      statistical census of all transactions.
+
+  - claim_id: DUTCH-FIN-005
+    proposition: >-
+      Amsterdam traders separated present ownership from future settlement and could
+      finance or pledge share positions, making time, credit, and expectation part of
+      the market in corporate claims.
+    source_id: SRC-HOP-DE-LA-VEGA-CONFUSION-1688
+    passage_status: VERIFIED_PRIMARY
+    location: first dialogue, pp. 4-5
+    original_language: Spanish
+    anchors:
+      - "á tiempo largo"
+      - "empeñarlas por quatro quintas partes de su valor"
+      - "pagándolas en banco"
+    qualification: >-
+      Modern terms such as futures, derivatives, leverage, or margin may be used only
+      as explanatory analogies. The primary claim is the documented practice of
+      deferred bargains, pledging, and bank settlement.
+
+  - claim_id: DUTCH-FIN-006
+    proposition: >-
+      De Witt treated public annuity obligations as comparable financial claims whose
+      relative value could be calculated rather than fixed only by inherited custom
+      or immediate political bargaining.
+    source_id: SRC-HOP-DEWITT-LYFRENTEN-1671
+    passage_status: VERIFIED_PRIMARY
+    location: opening and Eerste Propositie, 1671 Dutch edition
+    original_language: Dutch
+    anchor: "OM te determineren de proportie van een Lijf rente tegens een Los-rente"
+    qualification: >-
+      The text concerns valuation of life annuities against redeemable annuities. It
+      does not by itself measure the entire debt structure of Holland.
+
+  - claim_id: DUTCH-FIN-007
+    proposition: >-
+      De Witt tested annuity valuation against administrative records containing
+      thousands of actual lives, joining mathematical reasoning to data held by the
+      States.
+    source_id: SRC-HOP-DEWITT-LYFRENTEN-1671
+    passage_status: VERIFIED_PRIMARY
+    location: Byvoeghsel, 1671 Dutch edition
+    original_language: Dutch
+    anchor: "uyt de Blaffaerden van Uw Edele Groot Mog. ... ettelijcke duysenden van Lijven"
+    qualification: >-
+      This establishes use of governmental records in the valuation exercise. It
+      should not be inflated into a claim that all Dutch fiscal decisions were made
+      through actuarial calculation.
+
+  - claim_id: DUTCH-FIN-008
+    proposition: >-
+      Amsterdam and Holland joined taxes, capital loans, and annuity obligations in
+      a fiscal field in which present revenue serviced claims created by earlier
+      borrowing.
+    source_id: SRC-HOP-BONTEMANTEL-AMSTERDAM-GOVERNMENT-1653-1672
+    passage_status: VERIFIED_PRIMARY_TRANSCRIPTION
+    location: section 3, Tresoriers Extre-ordenares
+    original_language: Dutch
+    extraction_scope:
+      - property and extraordinary taxes
+      - turf and coal imposts
+      - the two-hundredth penny
+      - capital loans and rents
+      - application of receipts to payment of public rents
+    anchor: "tot betalinge van s'lants renten"
+    qualification: >-
+      Bontemantel's municipal notes disclose the operating linkage but are not a full
+      provincial balance sheet. Exact tax and debt totals require treasury accounts.
+
+  - claim_id: DUTCH-FIN-009
+    proposition: >-
+      Dutch financial power was institutionally distributed: municipal government
+      supported the payment bank, a chartered company issued transferable shares and
+      received credit, provincial government issued annuity obligations, and private
+      traders developed markets around those claims.
+    source_ids:
+      - SRC-HOP-WISSELBANK-ORDINANCE-1609
+      - SRC-HOP-WISSELBANK-ARCHIVE-5077
+      - SRC-HOP-BONTEMANTEL-AMSTERDAM-GOVERNMENT-1653-1672
+      - SRC-HOP-DEWITT-LYFRENTEN-1671
+      - SRC-HOP-DE-LA-VEGA-CONFUSION-1688
+      - SRC-HOP-VOC-CHARTER-1602
+    passage_status: ANALYTICAL_SYNTHESIS_FROM_VERIFIED_PRIMARY_RELATIONS
+    qualification: >-
+      This is a cross-source synthesis, not a proposition stated by one witness.
+      It must remain distinguishable from each institution's own legal jurisdiction
+      and from later theories of a unified national financial system.
+
+institutional_relations:
+  municipal_payment_power:
+    bearer: City of Amsterdam
+    mechanism: Wisselbank ordinance, public responsibility, account settlement
+  operational_credit:
+    bearer: Wisselbank / Amsterdam authorities
+    mechanism: documented short-term interest-bearing advance to VOC in 1662
+  corporate_capital:
+    bearer: VOC and shareholders
+    mechanism: chartered capital represented by transferable shares
+  securities_market:
+    bearer: merchants, shareholders, brokers, speculators
+    mechanism: cash sale, deferred bargain, pledge, bank settlement, information and expectation
+  provincial_public_credit:
+    bearer: States of Holland
+    mechanism: life annuities, redeemable annuities, taxation and administrative records
+
+cross_source_questions:
+  - >-
+    How far did municipal reliability in settlement lower the political and commercial
+    cost of dealing among merchants who did not share one private network of trust?
+  - >-
+    What constitutional consequences follow when the same republic that resists
+    hereditary concentration of office can concentrate immense overseas coercive power
+    in a corporation and large financial claims in municipal and provincial institutions?
+  - >-
+    Did public credit enlarge state capacity because creditors trusted a ruler, or
+    because repayment was tied to institutions, taxes, records, and offices that could
+    outlive individual rulers?
+  - >-
+    How did secondary markets in corporate and public claims convert information about
+    distant commerce, war, and political stability into present prices and liquidity?
+
+remaining_extraction_before_narrative:
+  - Cross-check the 1662 VOC advance against Wisselbank or Amsterdam council account records if a scanned entry is readily available.
+  - Acquire one direct provincial treasury or States of Holland debt register witness if accessible, to complement De Witt's mathematical treatment and Bontemantel's observations.
+  - Do not claim a modern central-bank function, efficient-market mechanism, or national debt system unless the historical sources support the narrower relation being described.
