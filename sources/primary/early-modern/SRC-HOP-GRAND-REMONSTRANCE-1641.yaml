@@ -1,0 +1,31 @@
+source_id: SRC-HOP-GRAND-REMONSTRANCE-1641
+name: Grand Remonstrance
+status: GOVERNING_WITNESS_LOCKED
+
+work:
+  corporate_author: House of Commons of England
+  title: A Remonstrance of the State of the Kingdom
+  parliamentary_date: 1641-11-22
+  print_order_date: 1641-12-15
+  original_language: English
+  role: parliamentary_claim_to_diagnose_and_reform_crown_counsel_religion_and_government
+
+witness:
+  type: CONTEMPORARY_1641_PRINT_DIGITAL_SCAN
+  printer: Joseph Hunscott
+  place: London
+  repository: Internet Archive copy exposed through Wikimedia Commons
+  url: https://commons.wikimedia.org/wiki/File:A_remonstrance_of_the_state_of_the_kingdom._Die_Mercurii_15._Decemb._1641._It_is_this_day_resolv%27d_upon_the_question,_by_the_House_of_Commons_(IA_remonstranceofst00engl).pdf
+  extent: 68 scanned pages
+
+passage_anchors:
+  - location: opening petition/declaration
+    text: "how your royal authority and trust have been abused"
+    use: parliament_distinguishes_crown_from_corrupt_use_of_crown_power
+  - location: reform program near conclusion
+    use: parliamentary_claims_concerning_counsellors_religion_militia_and_public_security
+
+claim_boundary: >-
+  The Remonstrance is the Commons' partisan constitutional indictment, not a neutral
+  account of Charles I's government. Its value lies precisely in showing what the
+  Commons claimed had to be brought under parliamentary scrutiny before open civil war.

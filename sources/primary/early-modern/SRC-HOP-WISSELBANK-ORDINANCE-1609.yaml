@@ -1,0 +1,42 @@
+source_id: SRC-HOP-WISSELBANK-ORDINANCE-1609
+name: Amsterdam Wisselbank founding ordinance
+status: DOCUMENTARY_WITNESS_LOCKED
+
+work:
+  corporate_author: City government of Amsterdam
+  title: Willekeure / ordonnantie establishing the Wisselbank
+  date: 1609-01-31
+  original_language: Dutch
+  role: municipal_monetary_order_public_deposit_and_giro_power
+
+witness:
+  type: HISTORICAL_LEGAL_REPRODUCTION
+  representation: >-
+    Hermanus Noordkerk, Handvesten ofte privilegien ende octroyen; mitsgaders
+    willekeuren, costuimen, ordonnantien en handelingen der stad Amstelredam,
+    Amsterdam 1748, pp. 673-674, reproducing the 31 January 1609 ordinance.
+  online_locator: https://books.google.com/books?id=-Br7lfpx_v4C
+  corroborating_record:
+    author: Hans Bontemantel
+    work: De regeeringe van Amsterdam, soo in 't civiel als crimineel en militaire (1653-1672)
+    locator: https://www.dbnl.org/tekst/bont014rege01_01/bont014rege01_01_0012.php
+    note: Refers explicitly to the willekeure dated 31 January 1609 in the Handvesten.
+
+passage_anchors:
+  - location: opening of founding ordinance, Noordkerk p. 673
+    text: "Alsoo om alle steygheringe ende confusie in 't stuc van de Munte te weeren ... door het oprechten van een Banck van Wissel"
+    use: founding_purpose_coin_confusion_and_bills_of_exchange
+  - location: ordinance provisions, Noordkerk pp. 673-674
+    text: "vaststaen ende responderen"
+    use: city_liability_for_money_entrusted_to_bank
+
+claim_boundary: >-
+  This record locks the legal text as transmitted in the eighteenth-century
+  Handvesten. It does not pretend that the 1748 printing is the autograph or
+  municipal minute of 1609. Claims requiring paleographic proof from the original
+  city record remain separately cross-checkable.
+
+admission_rule: >-
+  Quotations in History of Power must identify the 1748 documentary reproduction
+  unless and until the underlying 1609 municipal witness is individually digitized
+  and cross-checked.

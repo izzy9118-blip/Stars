@@ -1,0 +1,37 @@
+source_id: SRC-HOP-WISSELBANK-ARCHIVE-5077
+name: Archief van de Wisselbank
+status: ARCHIVAL_SERIES_LOCKED
+
+archive:
+  institution: Stadsarchief Amsterdam
+  reference_number: '5077'
+  title: Archief van de Wisselbank
+  dates: 1609-1822
+  language: Dutch
+  creator:
+    - Amsterdamsche Wisselbank
+    - Commissie van Liquidatie van de Wisselbank
+  role: operational_records_accounts_ledgers_and_internal_governance
+  public_finding_aid: https://archief.amsterdam/inventarissen/details/5077/keywords/Wisselbank/withscans/0/start/0/limit/10/flimit/5
+
+series_of_interest:
+  - name: Grootboeken
+    inventory_range: 50-1273
+    function: >-
+      Ledgers recording amounts entered and debited, with indexes linking merchants
+      to their current-account folios.
+  - name: general_and_foundational_records
+    function: >-
+      Minutes, ordinances, disclosures, foundation material, internal organisation,
+      officials, and accounts as described in the archival finding aid.
+
+claim_boundary: >-
+  The archive is a governing operational witness for what the bank actually recorded.
+  The existence of a ledger entry does not by itself establish the economic meaning
+  of that entry; transaction-level claims require a cited inventory number and folio.
+
+relationship_to_ordinance:
+  source_id: SRC-HOP-WISSELBANK-ORDINANCE-1609
+  distinction: >-
+    The founding ordinance defines the legal institution; archive 5077 records its
+    subsequent operation. They must not be treated as interchangeable evidence.

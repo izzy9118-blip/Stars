@@ -1,0 +1,37 @@
+source_id: SRC-HOP-DEWITT-LYFRENTEN-1671
+name: Johan de Witt on life annuities and redeemable annuities
+status: GOVERNING_WITNESS_LOCKED
+
+work:
+  author: Johan de Witt
+  title: Waerdye van lyf-rente naer proportie van los-renten
+  year: 1671
+  original_language: Dutch
+  role: public_debt_annuity_pricing_probability_and_state_finance
+
+witness:
+  type: ORIGINAL_1671_DUTCH_PRINT_DIGITAL_SCAN
+  publisher: Jacobus Scheltus
+  place: "'s-Gravenhage"
+  google_books_id: 4o1nAAAAcAAJ
+  google_books_url: https://books.google.com/books?id=4o1nAAAAcAAJ
+  corroborating_scan: https://commons.wikimedia.org/wiki/File:Waerdye_van_lyf-rente_naer_proportie_van_los-renten_(IA_ned-kbn-all-00004218-001).pdf
+  diplomatic_reading_aid:
+    repository: DBNL
+    url: https://www.dbnl.org/tekst/witt001waer01_01/
+    note: 1879 facsimile transcription of the 1671 text; subordinate to the 1671 scan.
+
+passage_anchors:
+  - section: opening problem
+    text: "OM te determineren de proportie van een Lijf rente tegens een Los-rente"
+    use: explicit_comparison_of_life_and_redeemable_state_annuities
+  - section: Eerste Propositie
+    use: mathematical_valuation_of_equal_expectations
+  - section: Byvoeghsel
+    text: "uyt de Blaffaerden van Uw Edele Groot Mog. ... ettelijcke duysenden van Lijven"
+    use: use_of_states_records_to_test_annuity_valuation_empirically
+
+claim_boundary: >-
+  The text demonstrates sophisticated state use of annuity instruments and
+  mathematical valuation. It does not by itself quantify the entire debt stock of
+  Holland or prove that all public borrowing followed De Witt's calculation.

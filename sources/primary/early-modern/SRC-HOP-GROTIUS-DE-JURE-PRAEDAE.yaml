@@ -1,0 +1,42 @@
+source_id: SRC-HOP-GROTIUS-DE-JURE-PRAEDAE
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  author: Hugo de Groot / Hugo Grotius
+  conventional_title: De Iure Praedae Commentarius / Commentary on the Law of Prize and Booty
+  composition_period: 1604-1608
+  original_language: Latin
+  role: voc_prize_war_property_contract_and_commercial_force
+
+governing_witness:
+  witness_type: AUTOGRAPH_MANUSCRIPT
+  repository: Leiden University Libraries
+  shelfmark: BPL 917
+  description: >-
+    Single extant autograph manuscript. Leiden's Grotius presentation records
+    that the work remained unpublished in Grotius's lifetime except for the
+    chapter later issued as Mare Liberum, and preserves the manuscript's material
+    structure and revision history.
+  online_context: https://webpresentations.universiteitleiden.nl/s/grotius/item/1186
+
+supporting_critical_text:
+  repository: Brill / Leiden digital critical edition
+  url: https://www.arkyves.org/view/DeIurePraedae
+  description: Full critical edition based on Leiden UL BPL 917
+
+supporting_translation:
+  repository: Online Library of Liberty / Liberty Fund
+  url: https://oll.libertyfund.org/titles/ittersum-commentary-on-the-law-of-prize-and-booty
+  language: English
+  status: READING_AID_NOT_GOVERNING
+
+witness_policy:
+  governing_language: Latin
+  rule: >-
+    Because BPL 917 contains revisions made across several years, claims about
+    Grotius's argument or its relation to VOC controversies must preserve the
+    manuscript's revision history rather than assume one undifferentiated date.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED

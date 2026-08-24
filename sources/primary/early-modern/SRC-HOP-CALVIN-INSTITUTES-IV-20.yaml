@@ -1,0 +1,64 @@
+source_id: SRC-HOP-CALVIN-INSTITUTES-IV-20
+status: GOVERNING_WITNESS_LOCKED_PASSAGES_EXTRACTED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  author: Jean Calvin / Johannes Calvinus
+  title: Institutio christianae religionis
+  target_section: Book IV, Chapter 20, De politica administratione
+  year: 1559
+  original_language: Latin
+  role: civil_government_magistracy_law_obedience_and_constitutional_resistance
+
+governing_witness:
+  witness_type: DIGITIZED_1559_LATIN_DEFINITIVE_EDITION
+  repository: Bibliothèque de Genève via e-rara
+  persistent_identifier: https://doi.org/10.3931/e-rara-2664
+  url: https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-2664
+  imprint: "Genevae: Oliva Roberti Stephani, 1559"
+  holding: "Bibliothèque de Genève, BGE Cxa 1917 / BGE Bc 64*"
+  rights: Public Domain Mark
+
+supporting_parallel_text:
+  repository: Center for Dutch Reformation Studies
+  url: https://calvin.reformation.nl/872-Institutes%2Bof%2Bthe%2BChristian%2BReligion.%2BInstitutio%2Bchristianae%2Breligionis.%2BInstitution%2Bde%2Bla%2Breligion%2Bchrestienne/4/20
+  basis: Barth-Niesel critical representation of the definitive 1559 Latin text
+  status: LOCATOR_AND_TEXTUAL_AID_TIED_TO_GOVERNING_EDITION
+
+passage_anchors:
+  - section: IV.20.1
+    text: >-
+      "Porro, quum duplex in homine regimen superius statuerimus ... de altero etiam,
+      quod ad instituendam civilem duntaxat externamque morum iustitiam pertinet"
+    use: distinction_between_spiritual_and_civil_government
+  - section: IV.20.3
+    text: >-
+      "Sunt autem tres: Magistratus, qui praeses est legum ac custos: Leges,
+      secundum quas ipse imperat: Populus, qui legibus regitur et magistratui paret"
+    use: magistrate_law_people_as_parts_of_civil_order
+  - section: IV.20.31
+    text: >-
+      "Nam siqui nunc sint populares magistratus ad moderandam Regum libidinem constituti"
+    continuation: >-
+      "populi libertatem, cuius se Dei ordinatione tutores positos norunt,
+      fraudulenter produnt"
+    use: constitutionally_appointed_popular_magistrates_may_check_royal_license
+  - section: IV.20.32
+    text: "Obediendum Deo potius quam hominibus"
+    use: obedience_to_magistrates_ends_where_commands_conflict_with_God
+
+claim_boundary: >-
+  Calvin does not grant private individuals an unrestricted right to revolt. Section
+  31 distinguishes private persons from magistrates or estates constitutionally appointed
+  to restrain rulers; section 32 subordinates human command to God. This institutional
+  limitation must remain visible.
+
+witness_policy:
+  governing_language: Latin
+  rule: >-
+    Direct quotations must be checked against the 1559 Latin witness. The online
+    Barth-Niesel parallel text may establish wording and section locators but does not
+    replace the digitized 1559 edition as governing witness.
+
+quotation_state: EXTRACTED
+analysis_state: MAPPED_NOT_YET_INTEGRATED

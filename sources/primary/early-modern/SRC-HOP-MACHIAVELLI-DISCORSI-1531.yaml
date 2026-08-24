@@ -1,0 +1,71 @@
+source_id: SRC-HOP-MACHIAVELLI-DISCORSI-1531
+name: Niccolò Machiavelli Discorsi sopra la prima deca di Tito Livio
+status: GOVERNING_WITNESSES_LOCKED
+
+work:
+  author: Niccolò Machiavelli
+  title: Discorsi sopra la prima deca di Tito Livio
+  first_print_year: 1531
+  original_language: Italian
+  role: republican_orders_conflict_liberty_foundation_corruption_reform_and_arms
+
+princeps_witness:
+  witness_type: ROMAN_FIRST_EDITION_BIBLIOGRAPHIC_WITNESS
+  place: Rome
+  printer: Antonio Blado d'Asola
+  date: 1531-10-18
+  repository: Folger Shakespeare Library
+  catalogue_record: https://catalog.folger.edu/record/75485
+  call_number: PQ4627.M2 H5 1532 Cage
+  extent: "[6], 146 [i.e. 147] leaves"
+  digital_status: CATALOGUE_LOCKED
+
+working_digital_witness:
+  witness_type: FIRST_YEAR_FLORENTINE_EDITION_DIGITAL_IMAGES
+  place: Florence
+  printer: Bernardo di Giunta
+  date: 1531-11-10
+  repository: Folger Shakespeare Library
+  catalogue_record: https://catalog.folger.edu/record/75491
+  call_number: 166-897q
+  digital_status: AVAILABLE_ONLINE_DIGITAL_IMAGES
+  corroborating_full_view:
+    repository: Google Books / Austrian National Library
+    url: https://books.google.com/books?id=yDlXAAAAcAAJ
+
+passage_targets:
+  - location: Book I, Proemio
+    anchors:
+      - "trovare modi ed ordini nuovi"
+      - "ho deliberato entrare per una via, la quale non essendo suta ancora da alcuno trita"
+    use: deliberate_inquiry_into_new_modes_and_orders
+  - location: Book I, chapter IV
+    heading: "Che la disunione della Plebe e del Senato romano fece libera e potente quella republica"
+    anchors:
+      - "coloro che dannono i tumulti intra i Nobili e la Plebe"
+      - "tutte le leggi che si fanno in favore della libertà, nascano dalla disunione loro"
+      - "leggi e ordini in beneficio della publica libertà"
+    use: political_conflict_as_source_of_liberty_and_power
+  - location: Book I, chapter IX
+    heading: "Come egli è necessario essere solo a volere ordinare una repubblica di nuovo"
+    use: founding_and_constitutional_authority
+  - location: Book I, chapter XVIII
+    use: corruption_and_difficulty_of_preserving_or_found_free_government
+  - location: Book I, chapter XXV
+    anchor: "ritenere l'ombra almanco de' modi antichi"
+    use: reform_through_continuity_of_appearances_and_names
+
+witness_policy: >-
+  The Roman Blado edition is the princeps bibliographic witness. Because a directly
+  accessible full digital image set is locked for the Florentine Giunta edition of the
+  same first publication year, passage verification may use that edition while explicitly
+  recording its status. No claim may describe Giunta as the Roman princeps.
+
+reuse_relation:
+  repository_source: STAR-AGE-OF-INDIVIDUAL-001
+  interpretive_evidence:
+    - SRC-STRAUSS-THOUGHTS-MACHIAVELLI-1958
+    - SRC-STRAUSS-NATURAL-RIGHT-1962
+    - SRC-STRAUSS-BASIC-PRINCIPLES-1961
+    - SRC-STRAUSS-INTRO-POLITICAL-PHILOSOPHY-1965
+  rule: PRIMARY_MACHIAVELLI_AND_STRAUSS_INTERPRETATION_MUST_REMAIN_DISTINCT

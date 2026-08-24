@@ -1,0 +1,39 @@
+source_id: SRC-HOP-BILL-RIGHTS-1689
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  corporate_author: Parliament of England
+  title: An Act declaring the Rights and Liberties of the Subject, and settling the Succession of the Crown
+  conventional_title: Bill of Rights 1689
+  date: 1689-12
+  citation: "1 William & Mary Session 2, c. 2"
+  original_language: English
+  role: crown_parliament_taxation_army_elections_petition_privilege_and_succession
+
+governing_witness:
+  witness_type: ORIGINAL_PUBLIC_ACT_MANUSCRIPT
+  repository: Parliamentary Archives
+  catalogue_number: HL/PO/PU/1/1688/1W&Ms2n2
+  date: December 1689
+  medium: iron gall ink manuscript on parchment
+  custody: Parliament since creation
+  public_record: https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/collections1/collections-glorious-revolution/billofrights/
+
+supporting_texts:
+  - repository: British History Online / Statutes of the Realm
+    url: https://www.british-history.ac.uk/statutes-realm/vol6/pp142-145
+    status: HISTORICAL_STATUTORY_TRANSCRIPTION
+  - repository: legislation.gov.uk
+    url: https://www.legislation.gov.uk/aep/WillandMarSess2/1/2/contents
+    status: OFFICIAL_REVISED_LEGISLATION_RECORD
+
+witness_policy:
+  rule: >-
+    The Parliamentary Archives public Act is the governing documentary witness.
+    Later statutory transcriptions aid quotation and navigation but claims must
+    preserve the historical distinction between the February Declaration of Rights
+    and the December 1689 enacted Bill of Rights.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED

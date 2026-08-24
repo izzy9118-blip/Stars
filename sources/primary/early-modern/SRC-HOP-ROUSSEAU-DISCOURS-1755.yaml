@@ -1,0 +1,30 @@
+source_id: SRC-HOP-ROUSSEAU-DISCOURS-1755
+status: GOVERNING_WITNESS_LOCKED
+work:
+  author: Jean-Jacques Rousseau
+  title: Discours sur l'origine et les fondemens de l'inégalité parmi les hommes
+  year: 1755
+  original_language: French
+  role: property_dependence_social_comparison_and_civil_society
+governing_witness:
+  type: DIGITIZED_1755_FIRST_EDITION
+  place: Amsterdam
+  publisher: Marc Michel Rey
+  repository: Bibliothèque de Genève / e-rara
+  shelfmark: gevbaa BAA A II 5596
+  doi: https://doi.org/10.3931/e-rara-7960
+  rights: Public Domain Mark
+passage_targets:
+  - location: Second part
+    anchor: "Le premier qui ayant enclos un terrain, s'avisa de dire, Ceci est à moi"
+  - location: Second part
+    anchor: "Chacun commença à regarder les autres et à vouloir être regardé soi-même"
+  - location: Second part
+    anchor: "Telle fut ou dut être l'origine de la société et des lois"
+claim_boundary: >-
+  This work presents a conjectural philosophical genealogy. It is evidence for
+  Rousseau's argument about property, dependence and civil society, not a literal
+  documentary chronology of a single historical founding.
+reuse_relation:
+  repository_source: STAR-AGE-OF-INDIVIDUAL-001
+  interpretive_evidence: [SRC-STRAUSS-ROUSSEAU-1962]

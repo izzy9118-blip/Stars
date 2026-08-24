@@ -1,0 +1,35 @@
+source_id: SRC-HOP-ANSWER-NINETEEN-PROPOSITIONS-1642
+name: Charles I Answer to the Nineteen Propositions
+status: CONTEMPORARY_TEXTUAL_WITNESS_LOCKED
+
+work:
+  author: Charles I of England
+  title: His Majesties Answer to the Nineteen Propositions of Both Houses of Parliament
+  year: 1642
+  original_language: English
+  role: royal_defense_of_mixed_constitution_crown_prerogative_and_militia
+
+witness:
+  type: TRANSCRIPTION_FROM_1642_ROYAL_ORDER_PRINT
+  repository: Constitution Society
+  url: https://constitution.org/1-History/eng/nineteen_propositions_1642.html
+  provenance_note: >-
+    The transcription identifies its base as the 1642 York publication by royal
+    order containing both Parliament's propositions and the King's Answer. Multiple
+    1642 editions circulated. Any verbatim quotation intended for the final narrative
+    should be compared against a scanned 1642 impression if available.
+
+passage_anchors:
+  - location: constitutional defense
+    text: "ancient, equal, happy, well-poised ... Constitution of the Government of this Kingdom"
+    use: mixed_constitution_claim
+  - location: same discussion
+    text: "a mixture of these"
+    use: monarchy_aristocracy_democracy_joined_in_king_lords_commons
+  - location: militia and law objection
+    use: royal_rejection_of_parliamentary_unilateral_control
+
+claim_boundary: >-
+  The Answer is a royal constitutional argument produced at the edge of civil war.
+  It should not be treated as an objective description of a settled ancient English
+  constitution; Parliament's contrary claims remain independently represented.

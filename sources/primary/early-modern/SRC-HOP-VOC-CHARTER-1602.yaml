@@ -1,0 +1,43 @@
+source_id: SRC-HOP-VOC-CHARTER-1602
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  corporate_author: Staten-Generaal der Vereenigde Nederlanden
+  title: Octrooi voor de Verenigde Oost-Indische Compagnie
+  date: 1602-03-20
+  language: Dutch
+  role: chartered_corporate_monopoly_military_diplomatic_and_commercial_power
+
+governing_witness:
+  witness_type: ORIGINAL_1602_DUTCH_CHARTER_ARCHIVAL_WITNESS
+  repository: Nationaal Archief
+  archive: "Inventaris van het archief van de Verenigde Oost-Indische Compagnie (VOC), 1602-1795 (1811)"
+  archive_number: 1.04.02
+  inventory_number: 1
+  source_page: https://www.nationaalarchief.nl/beleven/onderwijs/bronnenbox/octrooi-voor-de-voc-1602
+  archive_context: https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/beschrijving/context
+  rights: Archival scans available for high-resolution download; Nationaal Archief image record identifies CC0 reuse for the documented scan.
+
+supporting_witnesses:
+  - type: DUTCH_TRANSCRIPTION_FROM_1724_PRINTING
+    source: VOCsite.nl
+    url: https://www.vocsite.nl/geschiedenis/octrooi1602/
+    note: >-
+      François Valentijn's 1724 rendering modernizes the 1602 Dutch and adds article
+      numbering. It is useful for navigation but is not the governing witness.
+  - type: ENGLISH_ARCHIVAL_TRANSLATION
+    repository: British Library India Office Private Papers
+    shelfmark: Mss Eur C940
+    description: Typescript translation of Charter of Dutch East India Company, dated 20 Mar 1602
+    extent: 5 folios
+
+witness_policy:
+  governing_language: Dutch
+  rule: >-
+    Institutional claims about monopoly, capital structure, directors, treaty-making,
+    fortification, military action, or other delegated powers must be checked against
+    the original 1602 Dutch charter before use.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED
