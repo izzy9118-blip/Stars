@@ -1,0 +1,257 @@
+audit_id: EGYPT-RETROACTIVE-SOURCE-AUDIT-001
+status: EGYPT_LAYER_REQUIRES_SOURCE_REBALANCING
+parent_star: STAR-HISTORY-OF-POWER-001
+method: sources/SOURCE-WITNESS-METHOD.md
+layer: egyptian_power
+
+purpose: >-
+  Re-audit the first History of Power layer under the expanded witness method:
+  operational/direct Egyptian evidence, contemporary Egyptian reflection,
+  ancient post-festum reflection, and later critical reconstruction must remain
+  separate. The audit begins from the current Star rather than rebuilding Egypt
+  from zero.
+
+current_strengths:
+  direct_and_contemporary_witnesses_already_present:
+    - Ancient Egyptian Pyramid Texts, through James P. Allen translation
+    - Shabaka Stone transcript and object record
+    - Turin Royal Canon / King List, through modern reconstruction
+    - Teaching of Ptahhotep
+    - Teaching for King Merikare
+    - Teaching of Amenemhat I
+    - Boundary Stelae of Akhenaten
+    - Book of the Dead chapter 30A
+    - UCL Egyptian kingship / royal-duty / creation / ritual contextual materials
+  ancient_external_reflection_already_present:
+    - Herodotus, Histories Book II and related Persian books
+  note: >-
+    These already give the layer unusually strong access to Egyptian categories of
+    kingship, ma'at, succession, office, creation, mortuary judgment, royal failure,
+    and Greek historical inquiry.
+
+major_defect_1_reflective_gap:
+  finding: >-
+    Herodotus currently bears too much of the burden of later reflection. The Star
+    lacks several first-class ancient post-festum witnesses that could test what later
+    Egyptian and Mediterranean observers thought Egypt had been.
+  high_priority_additions:
+    - source_id: SRC-HOP-MANETHO-AEGYPTIACA
+      author: Manetho
+      period: early Ptolemaic, third century BCE
+      witness_class: POST_FESTUM_NATIVE_HISTORICAL_SYNTHESIS
+      importance: >-
+        Egyptian priest writing Egyptian history in Greek and reportedly drawing on
+        sacred/temple records; indispensable for testing dynastic memory and native
+        historical reconstruction after pharaonic independence.
+      transmission_caution: >-
+        Original work is lost and survives in fragments/quotations. Josephus Contra
+        Apionem is a principal early witness; later chronographic transmission through
+        Africanus/Eusebius/Syncellus must be separately controlled.
+      online_anchor: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0215%3Abook%3D1%3Asection%3D73
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-DIODORUS-EGYPT-BOOK-I
+      author: Diodorus Siculus
+      period: first century BCE
+      witness_class: POST_FESTUM_CLASSICAL_HISTORICAL_SYNTHESIS
+      work: Bibliotheca Historica Book I
+      importance: >-
+        Systematic later reconstruction of Egyptian cosmogony, kings, temples, laws,
+        courts, priests, mortuary custom, social order, and remembered antiquity.
+      governing_text_target: Greek text, Book I
+      online_anchor: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0540%3Abook%3D1
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-STRABO-EGYPT-BOOK-XVII
+      author: Strabo
+      period: Augustan / early Roman imperial transition
+      witness_class: POST_FESTUM_EYEWITNESS_GEOGRAPHIC_ADMINISTRATIVE_REFLECTION
+      work: Geography Book XVII
+      importance: >-
+        Later description of Egypt's territory, Nile, Alexandria, Ptolemaic legacy,
+        Roman succession, cities, administration, geography, commerce and social order.
+      online_anchor: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D17
+      priority: HIGH
+
+    - source_id: SRC-HOP-PLUTARCH-ISIS-OSIRIS
+      author: Plutarch
+      period: late first / early second century CE
+      witness_class: POST_FESTUM_PHILOSOPHICAL_RELIGIOUS_RECONSTRUCTION
+      work: De Iside et Osiride
+      importance: >-
+        Major later philosophical attempt to interpret Egyptian divine symbolism,
+        Osiris, Isis, Typhon/Seth, ritual and cosmology.
+      governing_text_target: Greek text
+      online_anchor: https://catalog.perseus.org/catalog/urn%3Acts%3AgreekLit%3Atlg0007.tlg089.perseus-grc1
+      caution: >-
+        Very late and philosophically mediated. It is evidence for ancient reception
+        and interpretation, not transparent access to Old or Middle Kingdom theology.
+      priority: HIGH
+
+major_defect_2_missing_indigenous_reflection:
+  finding: >-
+    The existing wisdom texts are strong but omit several compositions that speak
+    directly to political legitimacy, justice, loyalty, office and restoration.
+  high_priority_additions:
+    - source_id: SRC-HOP-NEFERTI
+      work: Prophecy of Neferti
+      witness_class: CONTEMPORARY_OR_TRADITIONAL_EGYPTIAN_POLITICAL_REFLECTION
+      importance: chaos_restoration_kingship_legitimation_and_ma_at
+      primary_witnesses:
+        - Papyrus Hermitage 1116B
+        - New Kingdom ostraca including Museo Egizio Suppl. 9596
+      online_anchor: https://collezioni.museoegizio.it/en-GB/material/S_9596
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-ELOQUENT-PEASANT
+      work: Tale of Khuninpu / Eloquent Peasant
+      witness_class: CONTEMPORARY_EGYPTIAN_LITERARY_POLITICAL_REFLECTION
+      importance: >-
+        Justice, petition, official misconduct, eloquence, royal curiosity, adjudication,
+        and explicit formulations of ma'at from below the ruling office.
+      witness_note: >-
+        Complete composition reconstructed from four Middle Kingdom papyri including
+        Berlin 3023/3025/10499 and British Museum ESA 10274.
+      online_anchor: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/midegsummaries.html
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-LOYALIST-TEACHING
+      work: Loyalist Teaching
+      witness_class: CONTEMPORARY_EGYPTIAN_POLITICAL_REFLECTION
+      importance: loyalty_kingship_awe_provision_order_and_social_dependence
+      online_text: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/loyalist/text.html
+      source_control: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/loyalist/sources.html
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-AMENEMOPE
+      work: Instruction of Amenemope
+      witness_class: CONTEMPORARY_EGYPTIAN_WISDOM_REFLECTION
+      importance: office_speech_wealth_restraint_justice_and_moral_order
+      priority: HIGH
+
+    - source_id: SRC-HOP-HOREMHEB-EDICT
+      work: Great Edict / Decree of Horemheb
+      witness_class: OPERATIONAL_AND_REFLECTIVE_HYBRID
+      importance: administrative_abuse_corruption_punishment_official_reform_and_royal_restoration
+      governing_witness_target: Karnak inscription with controlled hieroglyphic edition
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-REKHMIRE-VIZIER
+      work: Installation and Duties of the Vizier Rekhmire
+      witness_class: OPERATIONAL_AND_REFLECTIVE_HYBRID
+      importance: >-
+        Office of vizier, judicial procedure, treasury, agriculture, military and
+        general civil administration; royal speech defining standards of office.
+      governing_witness_target: TT100 inscription with Sethe/Faulkner text control
+      priority: ESSENTIAL
+
+major_defect_3_modern_interpretation_overweight:
+  current_label_problem: >-
+    The current structured Star labels a group `authoritative_syntheses`. That category
+    includes modern interpretive writers and therefore violates the revised witness method.
+  current_works_requiring_reclassification:
+    - title: Sacred Science - The King of Pharaonic Theocracy
+      author: R. A. Schwaller de Lubicz
+      new_class: LATER_MODERN_INTERPRETIVE_RECONSTRUCTION
+      disposition: RETAIN_AS_ATTRIBUTED_INTERPRETATION_ONLY
+    - title: The Egyptian Miracle - An Introduction to the Wisdom of the Temple
+      author: R. A. Schwaller de Lubicz
+      new_class: LATER_MODERN_INTERPRETIVE_RECONSTRUCTION
+      disposition: RETAIN_AS_ATTRIBUTED_INTERPRETATION_ONLY
+    - title: Serpent in the Sky - The High Wisdom of Ancient Egypt
+      author: John Anthony West
+      new_class: LATER_DERIVATIVE_CONTROVERSIAL_INTERPRETATION
+      disposition: QUARANTINE_FROM_FACT_LEVEL_SYNTHESIS
+      specific_problem: >-
+        Current role includes inherited sacred science, Luxor as Temple of Man,
+        Sphinx weathering, an older civilization, and Atlantis. These cannot function
+        as authoritative historical premises without independent evidence.
+    - title: The Religion of Ancient Egypt
+      author: W. M. Flinders Petrie
+      new_class: EARLY_MODERN_EGYPTOLOGICAL_RECONSTRUCTION
+      disposition: RETAIN_WITH_HISTORIOGRAPHIC_CAUTION
+
+claims_requiring_immediate_provenance_review:
+  - sacred_science_as_Egyptian_self_description
+  - Luxor_as_Anthropocosmos_or_Temple_of_Man
+  - initiation_as_a_formal_hierarchy_governing_multiple_levels_of_meaning
+  - intelligence_of_the_heart_as_a_systematic_Egyptian_epistemology
+  - distinct_Osirian_and_Horian_paths_as_described_in_current_narrative
+  - Egyptian_civilization_as_a_legacy_from_an_older_unknown_civilization
+  - Sphinx_weathering_or_Atlantis_as_evidence_for_the_true_age_of_Egypt
+
+claim_control_rule: >-
+  These propositions may remain as attributed modern interpretations or open research
+  questions only where their primary evidentiary basis is not independently established.
+  They may not be stated in the same narrative voice as Pyramid Texts, Egyptian royal
+  inscriptions or wisdom literature.
+
+later_critical_reconstruction_required:
+  status: MISSING_FROM_CURRENT_BALANCE
+  essential_or_high_priority:
+    - author: Henri Frankfort
+      work: Kingship and the Gods
+      year: 1948
+      role: comparative_reconstruction_of_Egyptian_kingship_society_and_nature
+      priority: ESSENTIAL
+    - author: Erik Hornung
+      work: Der Eine und die Vielen / Conceptions of God in Ancient Egypt
+      original_year: 1971
+      english_year: 1982
+      role: critical_reconstruction_of_Egyptian_divine_plurality_and_theology
+      priority: ESSENTIAL
+    - author: Miriam Lichtheim
+      work: Ancient Egyptian Literature, 3 volumes
+      years: 1973-1980
+      role: critical_translation_and_literary_context_for_primary_Egyptian_reflective_texts
+      priority: ESSENTIAL
+    - author: Barry J. Kemp
+      work: Ancient Egypt: Anatomy of a Civilization
+      year: 1989
+      role: archaeology_bureaucracy_state_economy_material_and_institutional_structure
+      priority: ESSENTIAL
+    - author: Jan Assmann
+      work: "Ma'at: Gerechtigkeit und Unsterblichkeit im Alten Ägypten"
+      year: 1990
+      role: ma_at_justice_social_order_memory_and_immortality
+      priority: ESSENTIAL
+    - author: Miriam Lichtheim
+      work: Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom
+      year: 1988
+      role: official_self_presentation_office_service_and_moral_order
+      priority: HIGH
+    - author: Miriam Lichtheim
+      work: Ma'at in Egyptian Autobiographies and Related Studies
+      year: 1992
+      role: targeted_control_of_ma_at_claims
+      priority: HIGH
+    - author: Jan Assmann
+      work: Ägypten: Eine Sinngeschichte / The Mind of Egypt
+      original_year: 1996
+      role: long_form_reconstruction_of_Egyptian_cultural_and_political_meaning
+      priority: HIGH
+
+historical_reflective_sequence_after_audit:
+  - indigenous_cosmogonic_royal_mortuary_and_wisdom_texts
+  - Neferti_and_Eloquent_Peasant_as_internal_reflection_on_disorder_and_justice
+  - Loyalist_Teaching_and_Rekhmire_on_kingship_and_office
+  - Horemheb_on_reform_after_abuse
+  - Herodotus_as_classical_inquirer_at_the_Egypt_Persia_Greece_boundary
+  - Manetho_as_native_post_festum_historical_synthesis
+  - Diodorus_as_late_Hellenistic_systematic_reconstruction
+  - Strabo_as_Roman_transition_geographic_administrative_observer
+  - Plutarch_as_late_philosophical_reception_of_Egyptian_religion
+  - modern_critical_Egyptology_as_explicitly_secondary_reconstruction
+
+narrative_gate:
+  state: NOT_SATISFIED_UNDER_REVISED_METHOD
+  requirements:
+    - acquire/control Manetho transmission
+    - acquire Diodorus Book I, Strabo XVII and Plutarch De Iside in governing Greek texts
+    - add Neferti, Eloquent Peasant, Loyalist Teaching, Horemheb and Rekhmire records
+    - reclassify Schwaller, West and Petrie away from `authoritative_syntheses`
+    - test Anthropocosmos/Horian/Osirian/initiation claims against primary evidence and first-class Egyptology
+    - add Frankfort, Hornung, Kemp, Assmann and Lichtheim as later critical reconstructions
+    - only then recertify the Egyptian narrative
+
+next_layer_after_completion: PERSIA
