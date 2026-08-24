@@ -1,0 +1,108 @@
+passage_set_id: EGY-AMENEMOPE-PASSAGE-TARGETS-001
+status: TARGETED_CHAPTERS_IDENTIFIED_EXACT_ORIGINAL_LANGUAGE_EXTRACTION_PENDING
+source_id: SRC-HOP-AMENEMOPE
+star_layer_target: egyptian_power
+
+governing_text_control:
+  artifact: British Museum Papyrus EA 10474, frames 1-7
+  critical_edition: Vincent Pierre-Michel Laisney, L'Enseignement d'Amenemope, 2007
+  principal_translation_control: Miriam Lichtheim, Ancient Egyptian Literature II, 1976, pages 146-163
+  rule: >-
+    No final quotation or transliteration is admitted until checked against the
+    principal papyrus and Laisney. Public-domain and online translations may aid
+    navigation but do not govern wording.
+
+passage_targets:
+  - target_id: EGY-AMENEMOPE-001
+    location: opening and chapter 1
+    issue: inward reception of instruction and restraint of speech
+    project_paraphrase: >-
+      The learner is directed to hear, interpret and place instruction within the
+      heart or interior so that it governs the tongue when words become dangerous.
+    supports:
+      - inward_formation_without_autonomous_self_legislation
+      - speech_as_a_site_of_moral_and_social_power
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    age_of_individual_boundary: >-
+      Interiorization is real, but the content and authority of the teaching are
+      inherited rather than created by the learner's private will.
+
+  - target_id: EGY-AMENEMOPE-002
+    location: chapters concerning the heated and silent human types
+    issue: passion, quarrel, self-command and durable conduct
+    project_paraphrase: >-
+      The composition opposes heated, impulsive and quarrelsome conduct to disciplined,
+      patient and restrained conduct whose stability rests on more than immediate advantage.
+    supports:
+      - moral_typology_and_self_command
+      - formation_of_conduct_without_direct_state_coercion
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: >-
+      The moral types belong to this wisdom composition and may not be projected as
+      an exhaustive Egyptian psychology or a modern theory of personality.
+
+  - target_id: EGY-AMENEMOPE-003
+    location: chapters concerning poor persons, strangers and violent or fraudulent gain
+    issue: vulnerability and restraint within unequal social relations
+    project_paraphrase: >-
+      The instructed person is warned against exploiting vulnerable persons and
+      against treating force, office or superior position as a license for gain.
+    supports:
+      - moral_limit_on_social_and_economic_power
+      - agency_and_obligation_inside_hierarchy
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: >-
+      Counsel to restrain exploitation is not evidence of equal legal status or
+      universal enforcement by the state.
+
+  - target_id: EGY-AMENEMOPE-004
+    location: chapters concerning field boundaries, survey markers and measures
+    issue: property, record, measurement and trustworthy office
+    project_paraphrase: >-
+      Boundaries and measures are treated as relations that must not be manipulated
+      for private advantage, joining moral character to land, record and exchange.
+    supports:
+      - property_and_measure_inside_maatic_order
+      - office_and_technical_practice_as_moral_relations
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: >-
+      The instruction states a norm; operative surveying, adjudication and sanction
+      require administrative or legal witnesses.
+
+  - target_id: EGY-AMENEMOPE-005
+    location: chapters concerning wealth, fate and divine disposition
+    issue: limit of calculation and private acquisition
+    project_paraphrase: >-
+      The learner is warned that wealth gained through grasping is unstable and that
+      human calculation does not control the whole disposition of fortune.
+    supports:
+      - limit_on_private_will_and_accumulation
+      - divine_or_cosmic_order_beyond_instrumental_reason
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    age_of_individual_boundary: >-
+      The instructed person acts and judges, but does not become sovereign author of
+      value, fortune or moral order.
+
+cross_passage_synthesis:
+  proposition: >-
+    Amenemope makes the heart, tongue, temper, measure, boundary and treatment of
+    vulnerable persons objects of disciplined formation. This is a genuine ancient
+    interiority, but it remains embedded in inherited wisdom, divine order, office,
+    household and ma'at rather than becoming the self-authorizing individual of the
+    modern genealogy.
+  claim_class: ANALYTICAL_SYNTHESIS
+  state: CANDIDATE_NOT_YET_ADMITTED_TO_STAR
+
+rival_and_comparative_controls:
+  - Loyalist Teaching on inward royal loyalty and labor
+  - Eloquent Peasant on petition against delegated abuse
+  - Ptahhotep on hearing, office and measured speech
+  - Horemheb on operative royal sanction
+  - later biblical reception only in a separate transmission inquiry
+
+remaining_controls:
+  - Establish exact chapter and line numbering in Laisney.
+  - Extract Egyptian transliteration from the governing critical edition.
+  - Compare Lichtheim, Griffith, Grumach and Laisney where wording materially affects the claim.
+  - Keep composition date, authorial persona and principal manuscript date separate.
+  - Do not admit a Proverbs-dependence claim inside the Egyptian power layer without its own evidence map.
