@@ -1,0 +1,127 @@
+source_id: SRC-HOP-AMENEMOPE
+status: GOVERNING_MANUSCRIPT_AND_CRITICAL_EDITION_LOCKED_PASSAGE_EXTRACTION_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: egyptian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+work:
+  authorial_voice: Amenemope son of Kanakht
+  copyist_named_in_principal_witness: Senu son of Pemu
+  conventional_title: Instruction of Amenemope
+  alternate_titles:
+    - Teaching of Amenemope
+    - Teaching of Amenophis son of Kanakht
+  composition_period: probably late New Kingdom or Ramesside; exact date disputed
+  principal_surviving_copy_period: Third Intermediate Period, as catalogued with uncertainty by the British Museum
+  original_language: Egyptian written in hieratic; linguistic classification must follow the critical edition
+
+evidence_class: CONTEMPORARY_REFLECTIVE_WITNESS_WITH_LATER_MANUSCRIPT_TRANSMISSION
+participant_or_observer_position: >-
+  Wisdom instruction presented as an experienced scribe and office-holder addressing
+  a son. The authorial figure, copyist and surviving manuscript date remain distinct.
+temporal_distance_if_retrospective: >-
+  The principal papyrus is later than the probable composition. The work is normative
+  instruction, not a direct report of one office, household or historical event.
+
+governing_witness_and_exact_edition_or_archive:
+  principal_witness:
+    repository: British Museum
+    museum_number: Papyrus BM EA 10474, frames 1-7
+    material_and_script: papyrus in hieratic
+    findspot_or_acquisition_context: acquired from Thebes; purchased in 1888
+    catalogue_series:
+      - https://www.britishmuseum.org/collection/object/Y_EA10474-1
+      - https://www.britishmuseum.org/collection/object/Y_EA10474-2
+      - https://www.britishmuseum.org/collection/object/Y_EA10474-4
+      - https://www.britishmuseum.org/collection/object/Y_EA10474-5
+      - https://www.britishmuseum.org/collection/object/Y_EA10474-6
+      - https://www.britishmuseum.org/collection/object/Y_EA10474-7
+  governing_critical_edition:
+    author: Vincent Pierre-Michel Laisney
+    title: L'Enseignement d'Amenemope
+    series: Studia Pohl, Series Maior 19
+    publisher: Pontificio Istituto Biblico
+    place: Rome
+    year: 2007
+  earlier_textual_controls:
+    - F. Ll. Griffith, The Teaching of Amenophis the Son of Kanakht, JEA 12 (1926), 191-231
+    - I. Grumach, Untersuchungen zur Lebenslehre des Amenope, 1972
+  translation_control:
+    - Miriam Lichtheim, Ancient Egyptian Literature, volume II, 1976, pages 146-163
+  witness_limitation: >-
+    The British Museum notes that no single fully integrated publication combines
+    photographs, dependable hieroglyphic transcription, transliteration and translation.
+    The papyrus images, Laisney's critical study and translation witnesses therefore
+    remain separate layers.
+
+star_fit:
+  star_claim_target:
+    - heart_and_inward_formation_without_modern_autonomy
+    - controlled_speech_and_self_command
+    - property_boundaries_measure_and_honest_office
+    - restraint_toward_poor_stranger_and_vulnerable_person
+    - human_fortune_under_divine_and_maatic_order
+  intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - An Egyptian wisdom composition directs a learner to receive teaching inwardly and govern speech and passion.
+  - Moral formation is joined to concrete relations of boundary, measure, property, office, wealth, poverty and treatment of others.
+  - The composition distinguishes disciplined or silent conduct from heated, grasping and quarrelsome conduct.
+  - Inward self-command is represented within a divine and inherited moral order rather than as self-legislation by an autonomous individual.
+
+what_the_source_cannot_establish:
+  - That every Egyptian accepted or practiced its moral teaching.
+  - That the authorial biography is independently verified in every detail.
+  - That literary counsel directly describes administrative enforcement.
+  - That inwardness, conscience or self-command are identical to modern individual autonomy.
+  - The direction of any literary relation with biblical Proverbs without a separate transmission inquiry.
+
+rival_or_counter_witnesses_where_known:
+  - Teaching of Ptahhotep
+  - Loyalist Teaching
+  - Tale of the Eloquent Peasant
+  - Great Edict of Horemheb
+  - administrative and legal records concerning property, labor and office
+
+boundary_effect: >-
+  Amenemope corrects any implication that older sacred or royal order extinguished
+  interior moral agency. It also prevents the opposite error: the instructed heart
+  remains formed by inherited teaching, deity, ma'at, office and social obligation;
+  it is not the prior source of the order's authority.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - divine and maatic order
+    - inherited wisdom teaching
+    - senior instructional and scribal authority
+  human_position: learner, son, scribe, office-holder and moral agent within household and public relations
+  claimed_end: stable, truthful, restrained and just conduct under an order exceeding private appetite
+  claimed_obligations:
+    - receive instruction inwardly
+    - govern speech and anger
+    - respect boundaries and measures
+    - reject fraudulent or violent gain
+    - restrain conduct toward poor and vulnerable persons
+  formation_mechanisms:
+    - father-to-son instruction
+    - memorization and internalization
+    - contrast between disciplined and heated human types
+    - divine consequence and social reputation
+  coercive_mechanisms: primarily moral and divine sanction in this text; operative state coercion requires other witnesses
+  material_relations:
+    - land boundaries
+    - grain and measures
+    - wealth and poverty
+    - office and record
+    - household provision
+  knowledge_relations: the instructed person is taught to interpret circumstance, master speech and recognize limits to calculation
+  freedom_relation: self-command inside inherited order; no natural right prior to political or sacred membership
+  crossing_relation: PRESERVES_AND_IS_LATER_TRANSFORMED
+  age_of_individual_relevance: >-
+    The source establishes ancient inwardness and disciplined agency while preserving
+    the decisive contrast with a later individual who claims authority from private
+    reason, choice, desire or self-expression.
+
+quotation_state: NOT_YET_ADMITTED_PENDING_LAISNEY_MANUSCRIPT_CROSSWALK
+star_integration_state: ADDENDUM_REQUIRED_BEFORE_EGYPT_CORRECTION_APPLICATION
