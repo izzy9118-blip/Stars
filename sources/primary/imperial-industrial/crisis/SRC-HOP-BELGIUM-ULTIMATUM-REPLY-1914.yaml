@@ -1,0 +1,20 @@
+source_id: SRC-HOP-BELGIUM-ULTIMATUM-REPLY-1914
+status: DIPLOMATIC_NOTE_SEQUENCE_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  documents:
+    - German note to Belgium, 1914-08-02
+    - Belgian reply, 1914-08-03
+  original_languages: [German, French]
+  role: strategic_transit_neutrality_treaty_obligation_railways_and_sovereign_refusal
+governing_witness:
+  witness_type: BELGIAN_GREY_BOOK_DOCUMENTARY_PUBLICATION
+  publication: Belgian Grey Book, 1914
+  transcription: https://www.gwpda.org/papers/belgrey.html
+key_relations:
+  - Germany asks for free passage and links refusal to military consequences.
+  - The German note explicitly names fortresses, railways, roads and tunnels as obstacles to advance.
+  - Belgium rejects the demand as contrary to international obligations and national honor.
+qualification: >-
+  The sequence directly tests how strategic planning encountered the sovereignty of a neutral state.
+  Later wartime propaganda from either side must not replace the original notes.
