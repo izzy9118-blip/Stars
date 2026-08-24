@@ -3,9 +3,10 @@ status: PASSAGE_EXTRACTION_IN_PROGRESS
 parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
 intended_parent_star: STAR-HISTORY-OF-POWER-001
 method:
-  - Industrial, financial, social, colonial, naval, communications and alliance powers remain distinct until cross-source synthesis.
+  - Industrial, financial, social, colonial, naval, communications, educational and alliance powers remain distinct until cross-source synthesis.
   - Similar scale does not imply common ownership: state agencies, corporations, banks, associations and international unions may coordinate without becoming one institution.
   - Official statistics measure categorized capacity and may not be used as evidence of political intention by themselves.
+  - Germany is a major case, not the universal model; British, American, colonial Indian and Japanese paths are kept independently visible.
   - 1914 is not treated as an inevitable consequence of every development below.
 claims:
   - claim_id: IIP-001
@@ -65,27 +66,26 @@ claims:
 
   - claim_id: IIP-007
     proposition: >-
-      German naval power became a statutory long-term construction program in which fleet size,
-      replacement cycles, personnel and recurring budgets were legislated in advance.
-    source_ids: [SRC-HOP-GERMAN-FLEET-LAW-1898, SRC-HOP-GERMAN-FLEET-LAW-1900]
-    passage_status: VERIFIED_PRIMARY
-    qualification: Strategic purpose and Anglo-German rivalry require policy and diplomatic evidence beyond the statutes.
+      Naval power in both Britain and Germany became a multi-year statutory procurement problem joining
+      ship numbers, machinery, guns, replacement cycles, personnel, budgets and parliamentary or Reich authorization.
+    source_ids: [SRC-HOP-BRITISH-NAVAL-DEFENCE-1889, SRC-HOP-GERMAN-FLEET-LAW-1898, SRC-HOP-GERMAN-FLEET-LAW-1900]
+    passage_status: VERIFIED_PRIMARY_RELATIONS
+    qualification: British and German strategic doctrines differ and may not be inferred solely from construction statutes.
 
   - claim_id: IIP-008
     proposition: >-
-      Long-distance communications increasingly depended on international technical regimes:
-      telegraphy entered a common tariff/accounting framework before 1871, while wireless by 1906
-      required international intercommunication and safety rules across national systems.
-    source_ids: [SRC-HOP-INTL-TELEGRAPH-1865, SRC-HOP-RADIOTELEGRAPH-1906]
-    passage_status: CONVENTION_WITNESSES_LOCKED
-    qualification: 1865 is an inherited antecedent, not a development originating inside the 1871-1914 layer.
+      Long-distance communications increasingly depended on international technical regimes while imperial governments
+      retained or asserted national and colonial powers of monopoly, licensing, line placement and interception.
+    source_ids: [SRC-HOP-INTL-TELEGRAPH-1865, SRC-HOP-INDIAN-TELEGRAPH-ACT-1885, SRC-HOP-RADIOTELEGRAPH-1906]
+    passage_status: VERIFIED_LEGAL_AND_CONVENTION_RELATIONS
+    qualification: 1865 is an inherited antecedent; the Indian statute is a colonial governmental jurisdiction, not a model of every telegraph system.
 
   - claim_id: IIP-009
     proposition: >-
       Great-power security became increasingly organized through treaty networks containing different
       degrees of obligation: conditional mutual aid, benevolent neutrality, consultation, mobilization
-      triggers, colonial accommodation and diplomatic support.
-    source_ids: [SRC-HOP-DUAL-ALLIANCE-1879, SRC-HOP-TRIPLE-ALLIANCE-1882, SRC-HOP-FRANCO-RUSSIAN-CONVENTION-1892, SRC-HOP-ENTENTE-CORDIALE-1904]
+      triggers, colonial accommodation, regional special interests and diplomatic support.
+    source_ids: [SRC-HOP-DUAL-ALLIANCE-1879, SRC-HOP-TRIPLE-ALLIANCE-1882, SRC-HOP-FRANCO-RUSSIAN-CONVENTION-1892, SRC-HOP-ANGLO-JAPANESE-ALLIANCE-1902, SRC-HOP-ENTENTE-CORDIALE-1904]
     passage_status: DIPLOMATIC_TEXTS_LOCKED
     qualification: These agreements are not interchangeable and do not by themselves prove automatic bloc war in 1914.
 
@@ -121,6 +121,46 @@ claims:
     passage_status: OFFICIAL_STATISTICAL_WITNESS_LOCKED_EXTRACTION_PENDING
     qualification: Exact coal, iron, steel, railway, shipping and corporate series require unit- and boundary-controlled extraction before numerical claims are admitted.
 
+  - claim_id: IIP-014
+    proposition: >-
+      The German naval program was supported by an internal policy rationale that explicitly treated Britain as the relevant maritime opponent
+      and sought a fleet whose destruction would impose unacceptable danger on British sea power.
+    source_id: SRC-HOP-TIRPITZ-RISK-FLEET-1900
+    passage_status: PRIMARY_POLICY_MEMORANDUM_LOCKED
+    qualification: A Reichsmarineamt draft is strong evidence for risk-fleet reasoning but not the sole motive of every naval appropriation.
+
+  - claim_id: IIP-015
+    proposition: >-
+      Colonial administration became an economic and fiscal field as well as a jurisdictional one: metropolitan regulations organized mining rights,
+      fees and extraction charges while Reich budgets separately accounted for civil administration, military forces, railways, ports, local revenue and metropolitan subsidy.
+    source_ids: [SRC-HOP-COLONIAL-MINING-1906, SRC-HOP-COLONIAL-BUDGET-1907]
+    passage_status: VERIFIED_PRIMARY_RELATIONS
+    qualification: Legal and budgetary structure does not by itself establish actual profitability, labor conditions or the distribution of extracted wealth.
+
+  - claim_id: IIP-016
+    proposition: >-
+      Japan's 1889 constitution joined inherited imperial sovereignty to a constitutional machinery of ministers, Diet, courts,
+      taxation and military command rather than reproducing either a European parliamentary monarchy or the earlier Tokugawa order without transformation.
+    source_id: SRC-HOP-MEIJI-CONSTITUTION-1889
+    passage_status: GOVERNING_JAPANESE_WITNESS_LOCKED
+    qualification: Formal constitutional authority must remain distinct from genrō, cabinet, party and military practice.
+
+  - claim_id: IIP-017
+    proposition: >-
+      The Meiji state connected education and public morality to loyalty, constitutional obedience, law and emergency service to the state,
+      making subject formation part of the institutional architecture of national power.
+    source_id: SRC-HOP-JAPAN-EDUCATION-RESCRIPT-1890
+    passage_status: DOCUMENTARY_TEXT_LOCKED
+    qualification: Actual school practices and reception require education-administration evidence beyond the rescript itself.
+
+  - claim_id: IIP-018
+    proposition: >-
+      Japan moved from constitutional consolidation into regional imperial power through war settlements, alliance diplomacy and eventual colonial annexation,
+      but these steps were legally and politically distinct rather than one automatic consequence of modernization.
+    source_ids: [SRC-HOP-SHIMONOSEKI-1895, SRC-HOP-ANGLO-JAPANESE-ALLIANCE-1902, SRC-HOP-JAPAN-KOREA-ANNEXATION-1910]
+    passage_status: DIPLOMATIC_TEXTS_LOCKED
+    qualification: Annexation documents record imperial legal claims and must not be treated as evidence of free Korean consent or adequate accounts of colonial rule.
+
 cross_source_questions:
   - >-
     Does the industrial state become stronger by directly owning productive institutions, by regulating
@@ -129,19 +169,22 @@ cross_source_questions:
     How does social insurance alter the state's relation to citizens when employment history, contributions,
     accident, illness, age and entitlement become administrative records?
   - >-
-    How can the same period internationalize telegraph and wireless standards while dividing strategic security into secret and conditional alliances?
+    How can the same period internationalize telegraph and wireless standards while states preserve monopoly,
+    interception and strategic control over communications infrastructure?
   - >-
     When canal, bank, fleet, corporation, electric franchise, statistical office and colonial jurisdiction are all governed by long-horizon organizations,
     does power shift from episodic command toward permanent organizational capacity?
   - >-
     How do railway timetables and mobilization plans convert industrial transport infrastructure into military strategy without making civilian railways merely military institutions?
   - >-
-    What is the relationship between metropolitan legal ordering of empire and coercive colonial practice on the ground?
+    What is the relationship between metropolitan legal ordering of empire, colonial budgets and extraction, and coercive colonial practice on the ground?
+  - >-
+    Does Japan demonstrate that the institutional bundle of constitutional law, industrial-military mobilization and imperial diplomacy could be reconstructed outside Europe rather than simply imported as a finished Western model?
 remaining_targets:
   - extract controlled coal, iron, steel, railway, shipping and corporate series from the 1913 official yearbook
   - acquire firm- or procurement-level steel and armaments witnesses where they add something not visible in national statistics and fleet law
-  - extract first-edition Mahan passages and policy-level naval memoranda
+  - extract first-edition Mahan passages
   - acquire operational cable/wireless network evidence beyond treaty rules
-  - deepen colony-specific administration, labor and economic extraction beyond the 1904 military order
-  - acquire general-staff railway mobilization regulations beyond Schlieffen if necessary
-  - alliance-system documents closer to 1914 and July-crisis decisions only when chronology reaches them
+  - deepen colony-specific administration, labor and economic extraction beyond German legal/budget/military witnesses
+  - acquire Japanese military and industrial-administration witnesses if needed to test constitutional text against capacity
+  - alliance-system and July-crisis documents only as chronology reaches 1914
