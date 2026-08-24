@@ -1,0 +1,249 @@
+audit_id: IMPERIAL-INDUSTRIAL-RETROACTIVE-SOURCE-AUDIT-001
+status: PREWAR_OPERATIONAL_CORPUS_BROAD_REFLECTIVE_CANON_REQUIRES_EXPANSION
+parent_star: STAR-HISTORY-OF-POWER-001
+method: sources/SOURCE-WITNESS-METHOD.md
+layer: imperial_industrial_world_power_1871_1914
+
+current_strengths:
+  operational_and_crisis_corpus:
+    witness_count: 47
+    strengths:
+      - Reichsbank and monetary coordination
+      - German corporation law and Standard Oil trust agreement
+      - Sherman Act regulation
+      - German social insurance statutes
+      - Berlin Conference and German colonial law/budgets/mining rules
+      - Kiel Canal, British and German naval legislation
+      - Tirpitz risk-fleet policy memorandum
+      - telegraph and radiotelegraph conventions
+      - Indian telegraph monopoly/interception law
+      - Schlieffen memorandum
+      - German statistical yearbook 1913
+      - Meiji Constitution, education rescript, Shimonoseki, Anglo-Japanese alliance, Korea annexation
+      - independent July Crisis documentary voices through 4 August 1914
+  reflective_targets_already_registered:
+    - Mahan, The Influence of Sea Power upon History, 1890 - locked
+    - Hobson, Imperialism: A Study, 1902
+    - Hilferding, Das Finanzkapital, 1910
+    - Luxemburg, Die Akkumulation des Kapitals, 1913
+    - Lenin, Imperialism, written 1916/published 1917
+    - Schumpeter, Zur Soziologie der Imperialismen, 1919
+  assessment: >-
+    The institutional map is broad and comparative. The reflective correction begun
+    earlier is valid but still too narrowly centered on finance-capital theories of
+    imperialism. The layer also needs contemporaries who interpreted corporation,
+    geography, empire, race, national economic policy, Japan's constitutional order,
+    investigative exposure of corporate/colonial power, and the possibility that
+    economic interdependence could restrain war.
+
+contemporary_industrial_and_corporate_reflection_to_add:
+  - source_id: SRC-HOP-VEBLEN-BUSINESS-ENTERPRISE-1904
+    author: Thorstein Veblen
+    work: The Theory of Business Enterprise
+    year: 1904
+    class: CONTEMPORARY_INDUSTRIAL_CORPORATE_REFLECTION
+    importance: machine_process_business_finance_corporate_control_and_sabotage_of_industry
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-TARBELL-STANDARD-OIL-1904
+    author: Ida M. Tarbell
+    work: The History of the Standard Oil Company
+    year: 1904
+    class: CONTEMPORARY_INVESTIGATIVE_POST_FESTUM_CORPORATE_HISTORY
+    importance: trust_consolidation_transport_rebates_competition_personal_networks_and_market_power
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-BRANDEIS-OTHER-PEOPLES-MONEY-1914
+    author: Louis D. Brandeis
+    work: Other People's Money and How the Bankers Use It
+    year: 1914
+    class: CONTEMPORARY_FINANCIAL_CONCENTRATION_CRITIQUE
+    importance: investment_banks_interlocking_directorates_control_and_financial_power
+    priority: HIGH
+
+imperial_and_geopolitical_reflection_to_add:
+  - source_id: SRC-HOP-SEELEY-EXPANSION-ENGLAND-1883
+    author: J. R. Seeley
+    work: The Expansion of England
+    year: 1883
+    class: CONTEMPORARY_IMPERIAL_HISTORICAL_REFLECTION
+    importance: British_empire_settlement_India_state_and_imperial_identity
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-MACKINDER-GEOGRAPHICAL-PIVOT-1904
+    author: Halford J. Mackinder
+    work: The Geographical Pivot of History
+    year: 1904
+    class: CONTEMPORARY_GEOPOLITICAL_REFLECTION
+    importance: railways_land_power_geography_world_system_and_strategy
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-WEBER-NATION-STATE-1895
+    author: Max Weber
+    work: Der Nationalstaat und die Volkswirtschaftspolitik
+    year: 1895
+    class: CONTEMPORARY_NATIONAL_ECONOMIC_POLITICAL_REFLECTION
+    importance: national_state_economy_power_class_and_German_policy
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-TREITSCHKE-POLITIK
+    author: Heinrich von Treitschke
+    work: Politik, lectures later published
+    class: CONTEMPORARY_NATIONAL_STATE_REFLECTION_WITH_POSTHUMOUS_TEXTUAL_CONTROL
+    importance: state_power_war_nation_and_German_political_thought
+    caution: lecture_text_publication_and_editorial_history_must_be_controlled
+    priority: HIGH
+  - source_id: SRC-HOP-ANGELL-GREAT-ILLUSION
+    author: Norman Angell
+    work: The Great Illusion
+    first_major_edition: 1910
+    class: CONTEMPORARY_INTERDEPENDENCE_AND_WAR_REFLECTION
+    importance: finance_trade_conquest_interdependence_and_argument_against_economic_gain_from_war
+    priority: ESSENTIAL
+  reason: >-
+    Angell is crucial precisely because he prevents retrospective determinism: a major
+    prewar thinker argued that advanced financial-commercial interdependence made conquest
+    economically self-defeating even while war remained politically possible.
+
+colonial_racial_and_subject_side_reflection_to_add:
+  - source_id: SRC-HOP-CASEMENT-CONGO-REPORT-1904
+    author: Roger Casement
+    work: Congo Report
+    year: 1904
+    class: OFFICIAL_INVESTIGATIVE_COLONIAL_WITNESS
+    importance: concessionary_rule_forced_labor_violence_and_colonial_administration
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-MOREL-RED-RUBBER-1906
+    author: E. D. Morel
+    work: Red Rubber
+    year: 1906
+    class: CONTEMPORARY_ANTI_COLONIAL_INVESTIGATIVE_REFLECTION
+    importance: forced_labor_trade_company_state_and_Congo_exploitation
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-DU-BOIS-SOULS-1903
+    author: W. E. B. Du Bois
+    work: The Souls of Black Folk
+    year: 1903
+    class: CONTEMPORARY_RACE_CITIZENSHIP_AND_MODERN_POWER_REFLECTION
+    importance: color_line_emancipation_citizenship_education_and_racial_order
+    priority: HIGH
+  - source_id: SRC-HOP-NAOROJI-POVERTY-INDIA
+    author: Dadabhai Naoroji
+    work: Poverty and Un-British Rule in India
+    year: 1901
+    class: COLONIAL_SUBJECT_POLITICAL_ECONOMIC_REFLECTION
+    importance: drain_of_wealth_taxation_empire_trade_and_colonial_poverty
+    priority: ESSENTIAL
+
+Japanese_self_understanding_to_add:
+  - source_id: SRC-HOP-FUKUZAWA-OUTLINE-CIVILIZATION
+    author: Fukuzawa Yukichi
+    work: Bunmeiron no Gairyaku / An Outline of a Theory of Civilization
+    year: 1875
+    class: CONTEMPORARY_MEIJI_CIVILIZATIONAL_POLITICAL_REFLECTION
+    importance: civilization_independence_knowledge_state_and_Western_power
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-ITO-CONSTITUTION-COMMENTARIES
+    author: Itō Hirobumi
+    work: Commentaries on the Constitution of the Empire of Japan
+    year: 1889
+    class: PARTICIPANT_CONSTITUTION_MAKER_REFLECTION
+    importance: emperor_ministers_Diet_rights_army_and_constitutional_design
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-TOKUTOMI-SOHO
+    author: Tokutomi Sohō
+    works: selected writings on nation, empire and modernization
+    class: CONTEMPORARY_JAPANESE_PUBLIC_REFLECTION
+    priority: HIGH
+
+social_order_and_capitalism_to_add:
+  - source_id: SRC-HOP-WEBER-PROTESTANT-ETHIC-1904
+    author: Max Weber
+    work: Die protestantische Ethik und der Geist des Kapitalismus
+    publication: 1904-1905
+    class: CONTEMPORARY_HISTORICAL_SOCIOLOGICAL_REFLECTION
+    importance: discipline_vocation_rationalization_and_capitalist_ethos
+    priority: HIGH
+  - source_id: SRC-HOP-SOMBART-MODERN-CAPITALISM-1902
+    author: Werner Sombart
+    work: Der moderne Kapitalismus
+    year: 1902
+    class: CONTEMPORARY_SYSTEMATIC_CAPITALISM_HISTORY
+    importance: enterprise_capital_accounting_markets_and_modern_economic_order
+    priority: HIGH
+
+post_festum_dusk_after_1914:
+  - source_id: SRC-HOP-SCHUMPETER-IMPERIALISM-1919
+    status: ALREADY_REGISTERED_TARGET
+    role: postwar_rival_to_economic_determinist_imperialism
+  - source_id: SRC-HOP-KEYNES-ECONOMIC-CONSEQUENCES-1919
+    author: John Maynard Keynes
+    work: The Economic Consequences of the Peace
+    year: 1919
+    class: PARTICIPANT_POST_FESTUM_EUROPEAN_ECONOMIC_RECONSTRUCTION
+    importance: prewar_interdependence_war_finance_reparations_and_European_economic_system
+    relation: belongs_to_war_and_peace_boundary_but_illuminates_prewar_system
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-POLANYI-GREAT-TRANSFORMATION-1944
+    author: Karl Polanyi
+    work: The Great Transformation
+    year: 1944
+    class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+    importance: nineteenth_century_market_society_gold_standard_state_and_interwar_collapse
+    priority: ESSENTIAL_AS_LATER_RECONSTRUCTION
+
+current_claims_requiring_control:
+  - finance_capital_theories_are_rival_interpretations_not_the_periods_single_self_understanding
+  - German_path_must_not_become_model_for_Britain_US_Japan_or_colonial_subjects
+  - imperialism_requires_subject_side_and_anti_colonial_reflection_beside_metropolitan_treaties
+  - sea_power_requires_Mahan_but_land_geopolitics_requires_Mackinder
+  - prewar_system_requires_Angell_to_preserve_contemporary_argument_that_interdependence_opposed_material_logic_of_conquest
+  - Japanese_power_requires_Fukuzawa_and_Ito_beside_constitution_and_treaties
+  - corporate_power_requires_Tarbell/Veblen/Brandeis_beside_trust_agreement_and_antitrust_statute
+
+later_critical_reconstruction_required:
+  - author: Eric Hobsbawm
+    work: The Age of Empire 1875-1914
+    year: 1987
+    priority: HIGH
+  - author: Arno Mayer
+    work: The Persistence of the Old Regime
+    year: 1981
+    priority: HIGH
+  - author: Daniel Headrick
+    work: The Tools of Empire
+    year: 1981
+    role: technology_communications_and_imperial_power
+    priority: ESSENTIAL
+  - author: D. C. M. Platt
+    work: Finance, Trade, and Politics in British Foreign Policy 1815-1914
+    role: finance_trade_state_and_empire
+    priority: HIGH
+  - author: P. J. Cain_and_A.G.Hopkins
+    work: British Imperialism
+    role: gentlemanly_capitalism_and_empire
+    priority: HIGH
+  - author: Paul Kennedy
+    work: The Rise of the Anglo-German Antagonism 1860-1914
+    year: 1980
+    priority: ESSENTIAL
+  - author: Christopher Clark
+    work: The Sleepwalkers
+    year: 2012
+    role: July_Crisis_multi_actor_reconstruction
+    priority: HIGH
+  - author: David Stevenson
+    work: Armaments and the Coming of War
+    year: 1996
+    priority: ESSENTIAL
+
+narrative_gate:
+  state: NOT_SATISFIED_UNDER_REVISED_METHOD
+  reason: >-
+    The operational corpus and July Crisis map are strong, but the age must be allowed
+    to argue with itself through rival contemporary books on empire, finance, corporation,
+    geography, race, Japan and interdependence.
+  requirements:
+    - acquire Hobson/Hilferding/Luxemburg/Lenin and Schumpeter as rival imperialism theories
+    - add Veblen/Tarbell for corporate power
+    - add Seeley/Mackinder/Angell for imperial-geopolitical disagreement
+    - add Casement/Morel/Naoroji for colonial subject and investigative perspectives
+    - add Fukuzawa/Ito for Japanese self-understanding
+    - use later critical reconstructions without collapsing them into contemporary witness class
+
+next_layer_after_completion: TOTAL_WAR_AND_MASS_STATE_1914_1918
