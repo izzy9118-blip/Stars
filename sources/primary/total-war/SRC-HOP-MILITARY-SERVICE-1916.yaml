@@ -1,0 +1,19 @@
+source_id: SRC-HOP-MILITARY-SERVICE-1916
+status: GOVERNING_STATUTORY_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: Parliament of the United Kingdom
+  title: Military Service Act 1916
+  date: 1916-01-27
+  citation: "5 & 6 Geo. 5 c. 104"
+  original_language: English
+  role: compulsory_military_service_registration_exemptions_and_mass_manpower
+governing_witness:
+  witness_type: OFFICIAL_UK_STATUTE_PDF
+  url: https://www.legislation.gov.uk/ukpga/Geo5/5-6/104/pdfs/ukpga_19160104_en.pdf
+key_passage:
+  section: 1
+  proposition: Defined categories of adult male British subjects resident in Great Britain are deemed enlisted for wartime service unless exempt.
+qualification: >-
+  The January Act initially covered specified unmarried men and excluded Ireland; later legislation broadened service.
+  It is evidence of wartime expansion of manpower jurisdiction, not universal conscription throughout the empire.
