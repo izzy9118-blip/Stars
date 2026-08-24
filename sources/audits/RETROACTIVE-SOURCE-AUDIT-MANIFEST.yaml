@@ -1,5 +1,5 @@
 audit_program: HISTORY-OF-POWER-RETROACTIVE-SOURCE-AUDIT
-status: FIRST_FULL_PASS_COMPLETE_DUAL_CONFORMITY_BOUND
+status: FIRST_FULL_PASS_COMPLETE_DUAL_CONFORMITY_BOUND_EGYPT_ACQUISITION_ACTIVE
 branch: history-of-power-retroactive-source-audit-001
 method: sources/SOURCE-WITNESS-METHOD.md
 history_of_power_conformity_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
@@ -21,21 +21,19 @@ scaffold_status:
   rule: >-
     Every corpus, map, audit, manifest, production state, witness count, or
     narrative-gate label under sources/ is procedural research scaffolding only.
-    None is a second Star, none independently certifies a History of Power layer,
-    and none supersedes STAR-HISTORY-OF-POWER-001.
+    None is a second Star and none supersedes STAR-HISTORY-OF-POWER-001.
   star_native_return: >-
-    Findings become admissible only when mapped back into the individual Star's
-    fact, scope, shape, claim_policy, historical_spectrum, boundaries, evidence,
-    conceptual_chain, or navigational questions as appropriate.
+    Findings become admissible only when mapped back into the Star's fact, scope,
+    shape, claim_policy, historical_spectrum, boundaries, evidence, conceptual_chain,
+    or navigational questions.
 
 companion_star_alignment:
   principle: >-
     History of Power is the counter-genealogy of the older forces that the Age of
-    the Individual later encounters. It must not become a universal history of
-    powerful states, empires, technologies or wars.
+    the Individual later encounters. It is not a universal history of powerful states.
   required_second_stage: >-
-    After own-source reconstruction, every layer must identify the historically
-    specific human position, form of authority, person-power relation, and bounded
+    After own-source reconstruction, every layer identifies its historically
+    specific human position, form of authority, person-power relation and bounded
     crossing relation to the Age thesis.
   permitted_crossings:
     - PRESERVES
@@ -45,16 +43,18 @@ companion_star_alignment:
     - TRANSFORMS
     - NO_DIRECT_CROSSING_YET
   anti_teleology: >-
-    The Age of the Individual is not the hidden end of ancient, medieval, or early
-    modern history. The crossing analysis comes only after the older form has been
-    reconstructed in its own categories.
+    The Age of the Individual is not the hidden end of earlier history. Crossing
+    analysis follows reconstruction of the older form in its own categories.
 
 sequence:
   - order: 1
     layer: EGYPT
     audit: sources/audits/ancient/EGYPT-RETROACTIVE-SOURCE-AUDIT-001.yaml
-    status: AUDIT_COMPLETE_REBALANCING_REQUIRED
-    next_action: ACQUIRE_AND_RECLASSIFY_UNDER_DUAL_CONFORMITY_GATE
+    acquisition_corpus: sources/primary/ancient/egypt/manifest.yaml
+    person_authority_map: sources/primary/ancient/egypt/maps/EGYPT-PERSON-AUTHORITY-001.yaml
+    modern_reclassification: sources/primary/ancient/egypt/RECLASSIFICATION-MODERN-EGYPT-INTERPRETATIONS-001.yaml
+    status: FIRST_BATCH_LOCKED_PASSAGE_CONTROL_AND_RECLASSIFICATION_IN_PROGRESS
+    next_action: COMPLETE_PASSAGE_CONTROL_AND_PREPARE_STAR_NATIVE_PROPOSAL
   - order: 2
     layer: PERSIA
     audit: sources/audits/ancient/PERSIA-RETROACTIVE-SOURCE-AUDIT-001.yaml
@@ -102,45 +102,35 @@ sequence:
     next_action: ACQUIRE_WAR_ECONOMY_REVOLUTION_FRONT_PROPAGANDA_AND_COLONIAL_WITNESSES_UNDER_DUAL_CONFORMITY_GATE
 
 completion_rule: >-
-  A layer is not ready merely because sources are named or a working map is complete.
-  The audit must identify current evidentiary strengths, missing witness classes,
-  misclassified sources, claims whose provenance is too weak for their current
-  status, first-class additions, and a concrete Star-native integration proposal.
-  It must then complete the Age-of-the-Individual person-power crosswalk without
-  projecting later individualism backward. Only STAR-HISTORY-OF-POWER-001 can finally
-  carry the admitted claim structure.
+  A layer is not ready because sources are named or a map is complete. It requires
+  provenance correction, first-class rival witnesses, boundaries, an Age-of-the-
+  Individual person-power crosswalk and a structured-Star integration proposal.
 
 acquisition_admission_rule: >-
-  Every newly acquired source must identify its History of Power layer target,
-  History of Power claim or boundary target, intended native claim class, what it can
-  establish, what it cannot establish, its boundary effect, and rival/counter-witnesses.
-  It must also identify the historically specific human position, authority form,
-  person-power relation, Age crossing relation, and why the source is material to the
-  bounded older-forces thesis. Prestige, geopolitical importance or canonical status
-  alone are not grounds for acquisition.
+  Every new source identifies its History of Power layer and claim targets, native
+  claim class, supported and unsupported propositions, boundary effect and rival
+  witnesses, together with the historically specific person-power relation and
+  Age crossing. Prestige alone is never grounds for acquisition.
 
 program_findings:
   - No existing layer passes the revised narrative gate unchanged.
-  - The native History of Power architecture and Age of the Individual thesis are structurally aligned.
-  - The principal new risk is universal-history and state-capacity drift rather than a contradiction between the Stars.
-  - Ancient layers require the sharpest separation between primary witness, ancient post-festum reflection and modern critical reconstruction.
-  - Egypt contains modern interpretive claims currently too close to FACT-level voice and requires immediate reclassification.
-  - Persia is structurally overdependent on Herodotus and requires a Persian/Babylonian/Aramaic/provincial archive.
-  - Greece needs epigraphic institutions plus Plato/Aristotle and other regime reflection beside narrative history.
-  - Rome needs direct principate constitutional texts and explicit annalistic-distance controls.
-  - Medieval history needs law, charters, canon law and major political books beside chronicles.
-  - Early-modern operational repair is strong but major contemporary and post-festum books remain absent.
-  - Revolutionary history needs constituent texts, dissenting American voices, French revolutionary self-understanding and participant dusk histories.
-  - Nineteenth-century administration needs industrial, class, liberal and nationalist reflective books and explicit person-power crosswalks.
-  - Imperial-industrial history needs rival theories of empire, corporate criticism, subject-side colonial reflection, Japanese self-understanding, and selection control against mere great-power chronology.
-  - Total-war history needs organizer, revolutionary, soldier, propaganda, colonial and post-festum voices beside emergency statutes, with persons tracked as soldiers, workers, taxpayers, borrowers, rationed civilians and publics.
+  - History of Power and the Age of the Individual are structurally aligned; the main risk is universal-history and state-capacity drift.
+  - Ancient layers require strict separation among ancient self-witness, ancient dusk reflection and modern reconstruction.
+  - Egypt's first rebalancing batch shows loyal subjecthood, productive labor, petition, delegated office and later reception without back-projecting modern individuality.
+  - Neferti presents the heart turned only toward itself as disorder rather than liberation.
+  - Schwaller de Lubicz and John Anthony West can no longer govern unqualified FACT prose without independent primary support.
+  - Persia remains overdependent on Herodotus and requires its own imperial and provincial archive.
+  - Greece needs epigraphic institutions and philosophical regime reflection; Rome needs direct principate texts and annalistic controls.
+  - Medieval history needs laws, charters, canon law and major political books beside chronicles.
+  - Early-modern, revolutionary, nineteenth-century, imperial-industrial and total-war layers each require the reflective and rival witness additions listed in their audits.
 
-acquisition_hold:
-  state: RELEASED_ONLY_UNDER_DUAL_CONFORMITY_GATE
-  next_layer: EGYPT
+acquisition_state:
+  state: ACTIVE_ONLY_UNDER_DUAL_CONFORMITY_GATE
+  current_layer: EGYPT
+  egypt_first_batch_records: 14
+  egypt_narrative_gate: OPEN_NOT_SATISFIED
   rule: >-
-    Egypt acquisition may restart only using source records that satisfy both the
-    History of Power Star-native target fields and the Age-of-the-Individual
-    person-power alignment fields.
+    Persia may not begin until Egypt has completed passage control, modern-source
+    reclassification, boundary testing and a bounded structured-Star proposal.
 
-current_position: DUAL_CONFORMITY_BOUND_ACQUISITION_MAY_RESTART_AT_EGYPT
+current_position: EGYPT_FIRST_BATCH_LOCKED_PASSAGE_CONTROL_IN_PROGRESS
