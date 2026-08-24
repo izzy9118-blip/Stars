@@ -1,0 +1,52 @@
+corpus_id: HOP-ADMINISTRATIVE-STATE-001
+name: Administrative and National Power Primary Source Corpus
+status: INITIAL_NAPOLEONIC_WITNESSES_GATHERED
+parent_star: STAR-HISTORY-OF-POWER-001
+base_branch: history-of-power-primary-sources-001
+working_branch: history-of-power-administrative-state-001
+
+period_focus: "1798-1815 initial unit; nineteenth-century continuation to follow"
+
+purpose: >-
+  Reconstruct how revolutionary sovereignty and mobilization were converted into
+  durable executive, territorial, military, legal, educational, police, and
+  informational capacities under the Consulate and Empire before extending the
+  chronology through Restoration, Tocqueville, Hegel, Clausewitz, 1848, national
+  unification, and industrial administration.
+
+acquisition_rules:
+  - Primary legal and administrative texts govern over later descriptions.
+  - Original French official texts and archival witnesses govern where available.
+  - Revolutionary institutions inherited by Napoleon are not relabeled as Napoleonic inventions.
+  - Constitution, administration, police, military recruitment, law, education, statistics, and personal executive correspondence remain distinct evidence classes.
+  - A later critical correspondence edition may govern document identification only when each quoted letter retains its individual primary-document metadata.
+  - No narrative integration occurs until the first unit has a passage-to-claim map.
+  - Claims of centralization, bureaucracy, nationalism, or modernization must be demonstrated through institutions and documents rather than assumed from period labels.
+
+sources:
+  - {source_id: SRC-HOP-CONSCRIPTION-1798, state: GOVERNING_DOCUMENTARY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-CONSTITUTION-AN-VIII-1799, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-PREFECTS-28-PLUVIOSE-AN-VIII, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-PREFECTURE-POLICE-1800, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-PORTALIS-DISCOURS-1801, state: DOCUMENTARY_TEXT_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-CHAPTAL-STATISTICS-1801, state: ARCHIVAL_TARGET_LOCATED_EXACT_WITNESS_PENDING}
+  - {source_id: SRC-HOP-INSTRUCTION-11-FLOREAL-X, state: GOVERNING_DOCUMENTARY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-CODE-CIVIL-1804, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-SENATUS-CONSULTE-AN-XII-1804, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-NAPOLEON-CORRESPONDENCE, state: PRIMARY_CORRESPONDENCE_CORPUS_LOCKED}
+
+witness_count: 10
+locked_or_registered_count: 10
+
+first_map:
+  map_id: NAPOLEONIC-ADMINISTRATIVE-STATE-001
+  path: sources/primary/nineteenth-century/maps/NAPOLEONIC-ADMINISTRATIVE-STATE-001.yaml
+  state: IN_CONSTRUCTION
+
+next_acquisition_targets:
+  - Verify the original archival or contemporary printed witness of Chaptal's 19 germinal an IX statistical circular.
+  - Extract individual Napoleon correspondence documents concerning prefects, police, conscription, public works, finance, and reporting.
+  - Acquire the arrêté or instructions governing prefect reports and administrative correspondence where useful.
+  - Acquire primary public-works and road/bridge administration witnesses.
+  - Acquire fiscal/treasury witnesses showing how taxation and administration financed the enlarged state.
+  - After the Napoleonic gate, move chronologically to Restoration/1815, Tocqueville, Hegel, Clausewitz, 1830/1848, and national unification.
