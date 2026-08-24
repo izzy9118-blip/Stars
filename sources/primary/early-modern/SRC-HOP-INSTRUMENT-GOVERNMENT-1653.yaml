@@ -1,0 +1,40 @@
+source_id: SRC-HOP-INSTRUMENT-GOVERNMENT-1653
+name: Instrument of Government
+status: GOVERNING_TEXT_LOCKED
+
+work:
+  corporate_author: Council of Officers / Commonwealth settlement
+  title: The Instrument of Government
+  date: 1653-12-16
+  original_language: English
+  role: protectorate_written_constitution_legislature_executive_militia_taxation
+
+witness:
+  type: EDITED_CONSTITUTIONAL_TRANSCRIPTION
+  base_edition: Samuel Rawson Gardiner, The Constitutional Documents of the Puritan Revolution, 1625-1660
+  pages: 405-417 in later Gardiner editions
+  public_transcriptions:
+    - https://sourcebooks.web.fordham.edu/mod/1653intrumentgovt.asp
+    - https://www.jura.uni-wuerzburg.de/lehrstuehle/muenkler/verfassungsdokumente-von-der-magna-carta-bis-ins-20-jahrhundert/instrument-of-government-1653/
+  original_language: English
+
+passage_anchors:
+  - article: I
+    text: "the supreme legislative authority ... shall be and reside in one person, and the people assembled in Parliament"
+    use: divided_form_of_supreme_legislative_authority
+  - article: II
+    text: "the exercise of the chief magistracy ... shall be in the Lord Protector, assisted with a council"
+    use: executive_structure
+  - article: IV
+    use: militia_divided_between_protector_council_and_parliament
+  - article: V
+    use: foreign_relations_war_and_peace
+  - article: VI
+    text: "nor any tax, charge, or imposition laid upon the people, but by common consent in Parliament"
+    use: parliamentary_taxation_rule
+
+claim_boundary: >-
+  The Instrument is a constitutional settlement produced after regicide, civil war,
+  and the dissolution of earlier parliamentary arrangements. Its allocation of power
+  records an attempted solution; it does not prove that actual Protectorate practice
+  always conformed to the text.
