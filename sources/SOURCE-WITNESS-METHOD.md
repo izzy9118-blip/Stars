@@ -74,6 +74,29 @@ Every reflective source record should state:
 
 Operational evidence, contemporary reflection, post-festum reflection, and later critical reconstruction must not be silently collapsed into a single narrative voice. A law or inscription may establish a power; a participant may explain its intended purpose; a later ancient historian may reconstruct its remembered significance; a modern scholar may reconstruct the damaged evidence. These are distinct evidentiary relations.
 
+## Individual-Star conformity
+
+This method is subordinate to the individual Star `STAR-HISTORY-OF-POWER-001`.
+
+The structured Star at `stars/STAR-HISTORY-OF-POWER-001.yaml` is the sole semantic authority for History of Power. Its narrative companion is downstream prose. Files under `sources/`, including corpora, maps, audits, manifests, witness counts, production states, and narrative-gate labels, are research scaffolding only.
+
+The evidence classes in this method do not replace the Star's native claim classes. Evidence class answers **what kind of witness is this?** Claim class answers **what kind of proposition may the Star make from it?** A source may therefore be a post-festum primary witness while the proposition it supports remains an attributed judgment rather than a fact.
+
+Before acquisition, every proposed source must identify:
+- the exact History of Power `historical_spectrum` node it supports, challenges, qualifies, or requires;
+- the existing or proposed Star claim it bears upon;
+- the intended native claim class;
+- what the source can establish;
+- what it cannot establish;
+- its boundary effect;
+- rival or counter-witnesses where known.
+
+A canonical or first-class source is not acquired merely because it is canonical. If it cannot be connected to the governing question and bounded claim structure of the individual Star, it remains outside the acquisition corpus.
+
+Working maps may decompose a layer for research, but they do not become a second chronology, ontology, or Star. Every admitted relation must return to the native Star structure: `fact`, `scope`, `shape`, `claim_policy`, `historical_spectrum`, boundaries, evidence, conceptual chain, or navigational questions.
+
+The top-level `fact` is a compressed synthesis of admitted relations. Source discovery does not alter it directly. Structured-Star integration precedes narrative revision.
+
 ## Narrative gate
 
 No major chronological layer is ready for History of Power integration merely because its institutional map is complete. Before crossing the narrative gate, the layer must also ask:
@@ -82,5 +105,6 @@ No major chronological layer is ready for History of Power integration merely be
 3. Which later critical reconstructions are necessary to control the evidence, and where do they disagree?
 4. Where do those reflections agree, conflict, or expose dimensions absent from the operational archive?
 5. Which current narrative claims depend principally on a modern interpretation rather than on ancient or contemporary evidence?
+6. Can every proposed addition be expressed inside the native individual-Star architecture without creating a parallel research system?
 
 This method applies retroactively to all History of Power layers.
