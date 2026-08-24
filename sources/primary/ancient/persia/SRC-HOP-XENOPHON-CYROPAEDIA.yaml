@@ -1,0 +1,112 @@
+source_id: SRC-HOP-XENOPHON-CYROPAEDIA
+status: GOVERNING_GREEK_TEXT_LOCKED_TARGETED_PASSAGE_EXTRACTION_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Xenophon
+work_or_document_title: Cyropaedia / Education of Cyrus
+historical_subject: Cyrus II and the founding/government of empire
+composition_period: fourth century BCE
+original_language: Ancient Greek
+evidence_class: POST_FESTUM_DUSK_WITNESS
+witness_subclass: PHILOSOPHICAL_HISTORICAL_RECONSTRUCTION_OF_EDUCATION_LEADERSHIP_AND_EMPIRE
+
+participant_or_observer_position: >-
+  Greek author with military and political experience writing long after Cyrus.
+  The work combines Persian and Median settings with Socratic, Spartan, Greek and
+  authorial reflection. It is neither straightforward biography nor Persian self-witness.
+temporal_distance_if_retrospective: roughly one and a half centuries after Cyrus; exact composition chronology uncertain
+
+governing_witness_and_exact_edition_or_archive:
+  ancient_textual_state: medieval manuscript transmission; no authorial copy survives
+  governing_greek_edition:
+    editor: E. C. Marchant
+    title: Xenophontis Opera Omnia, volume IV, Institutio Cyri
+    publisher: Clarendon Press
+    place: Oxford
+    year: 1910
+    cts_urn: urn:cts:greekLit:tlg0032.tlg007.perseus-grc1
+    catalogue: https://catalog.perseus.tufts.edu/catalog/urn:cts:greekLit:tlg0032.tlg007
+  translation_control:
+    translator: Walter Miller
+    title: Xenophon in Seven Volumes, volumes V-VI
+    publisher: W. Heinemann
+    year: 1914
+    cts_urn: urn:cts:greekLit:tlg0032.tlg007.perseus-eng1
+  rule: >-
+    The Greek critical text governs wording. Historical, Socratic, pedagogical and
+    constitutional elements remain open questions rather than being collapsed into biography.
+
+star_claim_target:
+  - later_reflection_on_Cyrus_education_and_leadership
+  - obedience_affection_reward_and_imperial_household
+  - founding_and_governing_different_peoples
+  - political_education_of_ruler_and_ruled
+intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - Xenophon constructed a major philosophical-historical account of how Cyrus learns to command, persuade, reward, organize and preserve obedience.
+  - The work makes education, character, friendship, fear, honor, household, military organization and institutional arrangement parts of imperial power.
+  - It reflects critically on the relation between one superior ruler and the willing or interested cooperation of diverse followers.
+  - Its ending raises the problem of whether an empire ordered by an exceptional founder can survive his death.
+
+what_the_source_cannot_establish:
+  - The actual childhood, education or precise institutions of Cyrus II.
+  - That Xenophon's ideal or ironic Cyrus represents Persian political self-understanding.
+  - That every apparently laudatory passage is simple endorsement.
+  - A direct causal account of Achaemenid decline.
+  - That affection for a ruler equals free consent among political equals.
+
+rival_or_counter_witnesses_where_known:
+  - Cyrus Cylinder
+  - Herodotus, Histories book I
+  - Achaemenid royal and administrative archives
+  - Ctesias fragments
+  - Xenophon, Anabasis
+  - Plato and Isocrates on education and rule as separate Greek reflections
+
+boundary_effect: >-
+  Cyropaedia permits the project to study empire as a problem of education and
+  cultivated obedience without presenting Xenophon's Cyrus as the historical Cyrus.
+  It also prevents institutional survival from being inferred solely from founder virtue.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - exceptionally educated founder-ruler
+    - household and military hierarchy
+    - laws, customs, rewards and personal relationships
+  human_position:
+    - pupil and ruler-in-formation
+    - companion and subordinate
+    - subject people
+    - friend, beneficiary and rival
+  claimed_end: durable empire through superior character, order, cooperation and care of followers
+  claimed_obligations:
+    - obedience and service
+    - self-discipline
+    - loyalty and reciprocal recognition
+  formation_mechanisms:
+    - education and habituation
+    - emulation of ruler
+    - honor, gift and reward
+    - friendship and personal attachment
+  coercive_mechanisms:
+    - army and punishment
+    - court hierarchy and dependence
+  material_relations:
+    - distribution of offices and gifts
+    - household and camp
+    - tribute, wealth and conquered resources
+  knowledge_relations: the ruler studies characters, desires and incentives in order to organize willing obedience
+  freedom_relation: followers may cooperate willingly, but the work does not found authority upon equal antecedent individual rights
+  crossing_relation: RULE_THROUGH_CHARACTER_AND_DESIRE_LATER_APPROPRIATED_BY_MODERN_GOVERNANCE
+  age_of_individual_relevance: >-
+    Xenophon makes the knowledge and formation of human motives central to rule while
+    preserving hierarchy. This is a distant older relation—not yet modern psychological
+    administration, but important for understanding that power has long worked through
+    desire, honor and character as well as force.
+
+quotation_state: TARGETED_BOOKS_AND_PASSAGES_IDENTIFIED_EXACT_GREEK_EXTRACTION_PENDING
+star_integration_state: NOT_YET_PROPOSED
