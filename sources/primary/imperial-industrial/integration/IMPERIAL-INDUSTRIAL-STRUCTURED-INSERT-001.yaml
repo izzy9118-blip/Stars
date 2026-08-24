@@ -1,0 +1,164 @@
+integration_id: IMPERIAL-INDUSTRIAL-STRUCTURED-INSERT-001
+status: INTEGRATION_CANDIDATE_NOT_YET_APPLIED
+parent_star: STAR-HISTORY-OF-POWER-001
+narrative_candidate: sources/primary/imperial-industrial/integration/IMPERIAL-INDUSTRIAL-NARRATIVE-INSERT-001.md
+
+fact_extension_summary: >-
+  Imperial-industrial power emerges when administrative national states acquire permanent
+  financial, corporate, labor, welfare, scientific, infrastructural, colonial, naval,
+  alliance and mobilization systems at the moment Nietzsche discloses a crisis in the ends
+  by which modern power can be judged. Workers organize counter-power; imperial doctrines
+  are contested by metropolitan and colonized critics; Japan follows a distinct path into
+  constitutional and imperial power; and the July Crisis shows actors converting inherited
+  organizational capacities into war through sequential political decisions.
+
+insertions:
+  - key: crisis_of_ends
+    period: late nineteenth century
+    maps: [CRISIS-OF-ENDS-NIETZSCHE-1871-1914-001]
+    primary_sources:
+      - SRC-HOP-NIETZSCHE-BEYOND-GOOD-EVIL-1886
+    interpretive_sources:
+      - SRC-STRAUSS-NIETZSCHE-BGE-1971
+      - SRC-STRAUSS-NIETZSCHE-ZARATHUSTRA
+      - SRC-STRAUSS-HISTORICISM-RELATIVISM-1956
+      - SRC-STRAUSS-RELATIVISM
+      - SRC-STRAUSS-PHILOSOPHY-RIGOROUS-SCIENCE
+      - SRC-STRAUSS-EXISTENTIALISM
+      - SRC-STRAUSS-GERMAN-NIHILISM
+    boundary: >-
+      Nietzsche identifies a crisis in authoritative ends and is not made the efficient cause
+      of industrial organization, imperialism, nationalism, racial doctrine or war.
+
+  - key: industrial_financial_and_social_organization
+    period: 1871-1914
+    maps: [IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001]
+    primary_sources:
+      - SRC-HOP-REICHSBANK-1875
+      - SRC-HOP-GERMAN-CORPORATION-LAW-1884
+      - SRC-HOP-STANDARD-OIL-TRUST-1882
+      - SRC-HOP-SHERMAN-ACT-1890
+      - SRC-HOP-BISMARCK-SOCIAL-MESSAGE-1881
+      - SRC-HOP-HEALTH-INSURANCE-1883
+      - SRC-HOP-ACCIDENT-INSURANCE-1884
+      - SRC-HOP-OLD-AGE-INSURANCE-1889
+      - SRC-HOP-ELECTRIC-LIGHTING-ACT-1882
+      - SRC-HOP-GERMAN-STATISTICAL-YEARBOOK-1913
+    boundary: >-
+      State supervision, private capital, corporate concentration, antitrust regulation,
+      welfare protection and administrative legibility are connected without becoming one
+      institution or one theory of state ownership.
+
+  - key: labor_and_socialist_counterpower
+    period: 1871-1914
+    maps: [LABOR-SOCIALISM-COUNTERPOWER-1871-1914-001]
+    primary_sources:
+      - SRC-HOP-BRITISH-TRADE-UNION-LAW-1871
+      - SRC-HOP-GERMAN-ANTI-SOCIALIST-LAW-1878
+      - SRC-HOP-SPD-ERFURT-PROGRAM-1891
+      - SRC-HOP-US-STRIKE-COMMISSION-PULLMAN-1894
+      - SRC-HOP-SECOND-INTERNATIONAL-STUTTGART-1907
+    boundary: >-
+      Workers are political actors rather than administrative objects. Trade unionism,
+      social democracy, revolutionary socialism, reform, repression, welfare incorporation,
+      strikes and international organization remain distinct.
+
+  - key: communications_and_strategic_infrastructure
+    period: 1865-1914
+    maps: [IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001]
+    primary_sources:
+      - SRC-HOP-INTL-TELEGRAPH-1865
+      - SRC-HOP-INDIAN-TELEGRAPH-ACT-1885
+      - SRC-HOP-RADIOTELEGRAPH-1906
+      - SRC-HOP-KIEL-CANAL-1886
+      - SRC-HOP-ELECTRIC-LIGHTING-ACT-1882
+    boundary: >-
+      International technical standardization, public authorization, private operation,
+      colonial monopoly, interception and military use are related but not identical.
+
+  - key: imperial_doctrine_law_extraction_and_counterjudgment
+    period: 1883-1914
+    maps:
+      - IMPERIAL-DOCTRINE-RACE-COUNTERJUDGMENT-1883-1914-001
+      - IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001
+    primary_sources:
+      - SRC-HOP-GALTON-HUMAN-FACULTY-1883
+      - SRC-HOP-FERRY-COLONIAL-POLICY-1885
+      - SRC-HOP-CLEMENCEAU-COLONIAL-REPLY-1885
+      - SRC-HOP-BERLIN-CONFERENCE-1885
+      - SRC-HOP-GERMAN-COLONIAL-LAW-1886
+      - SRC-HOP-NAOROJI-POVERTY-INDIA-1901
+      - SRC-HOP-TROTHA-HERERO-ORDER-1904
+      - SRC-HOP-COLONIAL-MINING-1906
+      - SRC-HOP-COLONIAL-BUDGET-1907
+    boundary: >-
+      Racial doctrine is attributed rather than accepted. Metropolitan defense and opposition,
+      colonized critique, inter-imperial law, colonial jurisdiction, extraction, budgets and
+      violence remain visible as distinct relations.
+
+  - key: japanese_constitutional_industrial_and_imperial_path
+    period: 1889-1910
+    maps: [IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001]
+    primary_sources:
+      - SRC-HOP-MEIJI-CONSTITUTION-1889
+      - SRC-HOP-JAPAN-EDUCATION-RESCRIPT-1890
+      - SRC-HOP-SHIMONOSEKI-1895
+      - SRC-HOP-ANGLO-JAPANESE-ALLIANCE-1902
+      - SRC-HOP-JAPAN-KOREA-ANNEXATION-1910
+    boundary: >-
+      Japan is a distinct historical path, not a passive reproduction of Europe. Formal
+      annexation texts do not establish Korean consent or exhaust colonial practice.
+
+  - key: navies_alliances_and_general_staff_planning
+    period: 1879-1914
+    maps: [IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001]
+    primary_sources:
+      - SRC-HOP-MAHAN-SEA-POWER-1890
+      - SRC-HOP-BRITISH-NAVAL-DEFENCE-1889
+      - SRC-HOP-GERMAN-FLEET-LAW-1898
+      - SRC-HOP-GERMAN-FLEET-LAW-1900
+      - SRC-HOP-TIRPITZ-RISK-FLEET-1900
+      - SRC-HOP-DUAL-ALLIANCE-1879
+      - SRC-HOP-TRIPLE-ALLIANCE-1882
+      - SRC-HOP-FRANCO-RUSSIAN-CONVENTION-1892
+      - SRC-HOP-ENTENTE-CORDIALE-1904
+      - SRC-HOP-SCHLIEFFEN-MEMORANDUM-1905
+    boundary: >-
+      Strategic argument, procurement statute, alliance obligation, mobilization plan and
+      operational decision remain separate evidence classes; none makes war automatic.
+
+  - key: july_crisis_decisions
+    period: 1914-07-05/1914-08-04
+    maps: [JULY-CRISIS-1914-001]
+    primary_sources:
+      - SRC-HOP-BLANK-CHECK-1914-07-05
+      - SRC-HOP-AH-ULTIMATUM-SERBIA-1914-07-23
+      - SRC-HOP-SERBIAN-REPLY-1914-07-25
+      - SRC-HOP-AH-DECLARATION-WAR-SERBIA-1914-07-28
+      - SRC-HOP-RUSSIAN-ORANGE-BOOK-1914
+      - SRC-HOP-WILLY-NICKY-1914
+      - SRC-HOP-MOLTKE-JULY29-1914
+      - SRC-HOP-FRENCH-YELLOW-BOOK-1914
+      - SRC-HOP-GERMAN-ULTIMATUM-RUSSIA-1914
+      - SRC-HOP-GERMAN-MOBILIZATION-1914-08-01
+      - SRC-HOP-FRENCH-MOBILIZATION-1914-08-01
+      - SRC-HOP-BELGIUM-ULTIMATUM-REPLY-1914
+      - SRC-HOP-BRITISH-ULTIMATUM-1914-08-04
+    boundary: >-
+      Long-built systems create capacities, pressures and options, but identifiable actors
+      make the assurances, demands, refusals, mobilization orders and war decisions.
+
+application_order:
+  - Apply the completed administrative-national layer first.
+  - Insert this layer after administrative_and_national_power.
+  - Designate its conclusion the eleventh older force.
+  - Preserve all existing Star material; integration is additive.
+  - Do not apply until user certification.
+
+validation:
+  - Nietzschean crisis of ends and institutional means remain related but causally distinct.
+  - Workers retain independent organization and agency.
+  - Imperial doctrine retains contemporary disagreement and colonized counter-judgment.
+  - Japan remains a distinct path.
+  - Naval, alliance, mobilization and political-decision evidence classes remain distinct.
+  - July 1914 remains sequential and contingent rather than mechanically inevitable.

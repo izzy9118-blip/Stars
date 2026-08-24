@@ -1,0 +1,68 @@
+map_id: CRISIS-OF-ENDS-NIETZSCHE-1871-1914-001
+status: INTERPRETIVE_RELATION_LOCKED_WITH_CAUSAL_BOUNDARY
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+method:
+  - Nietzsche's texts govern claims about Nietzsche; Strauss's seminar and essay corpus governs the Star's interpretation of his place in modern thought.
+  - An intellectual crisis of ends is related to expanding administrative and technological means without being made their efficient cause.
+  - Nietzsche's criticisms of nationalism, mass politics, modern morality and historical complacency prevent his work from being used as a simple imperial ideology.
+  - No proposition below converts a history of thought into an automatic explanation of institutional conduct.
+claims:
+  - claim_id: CEND-001
+    proposition: >-
+      Nietzsche treated the authoritative morality of modern Europe as historically formed and philosophically questionable rather than as a self-evident or rationally completed order.
+    source_id: SRC-HOP-NIETZSCHE-BEYOND-GOOD-EVIL-1886
+    passage_status: FIRST_EDITION_AND_CRITICAL_TEXT_LOCKED
+    qualification: This claim concerns Nietzsche's interrogation of modern standards, not a consensus among late-nineteenth-century Europeans.
+
+  - claim_id: CEND-002
+    proposition: >-
+      Historical criticism and modern science could weaken inherited foundations without answering the distinct question of which ends ought to govern human life.
+    source_id: SRC-HOP-NIETZSCHE-BEYOND-GOOD-EVIL-1886
+    interpretive_source_ids:
+      - SRC-STRAUSS-NIETZSCHE-BGE-1971
+      - SRC-STRAUSS-HISTORICISM-RELATIVISM-1956
+      - SRC-STRAUSS-PHILOSOPHY-RIGOROUS-SCIENCE
+    passage_status: PRIMARY_TEXT_WITH_STRAUSSIAN_INTERPRETIVE_CONTROL
+    qualification: Scientific incapacity to legislate ultimate ends is not a denial of scientific knowledge within its proper domain.
+
+  - claim_id: CEND-003
+    proposition: >-
+      The resulting problem was nihilism: modernity could continue enlarging its powers of explanation, administration and transformation after confidence in a rationally guaranteed human end had begun to dissolve.
+    source_id: SRC-HOP-NIETZSCHE-BEYOND-GOOD-EVIL-1886
+    interpretive_source_ids:
+      - SRC-STRAUSS-NIETZSCHE-ZARATHUSTRA
+      - SRC-STRAUSS-RELATIVISM
+      - SRC-STRAUSS-EXISTENTIALISM
+      - SRC-STRAUSS-GERMAN-NIHILISM
+    passage_status: STAR_LEVEL_INTERPRETIVE_RELATION_LOCKED
+    qualification: The juxtaposition of contested ends and expanding means is the Star's controlled synthesis, not a claim that Nietzsche described every institution mapped in this corpus.
+
+  - claim_id: CEND-004
+    proposition: >-
+      Nietzsche's response sought a revaluation or legislation of values by exceptional human beings rather than confidence that historical development itself would reconcile freedom, reason and social conflict.
+    source_id: SRC-HOP-NIETZSCHE-BEYOND-GOOD-EVIL-1886
+    interpretive_source_ids:
+      - SRC-STRAUSS-NIETZSCHE-BGE-1971
+      - SRC-STRAUSS-NIETZSCHE-ZARATHUSTRA
+    passage_status: PRIMARY_TEXT_WITH_STRAUSSIAN_INTERPRETIVE_CONTROL
+    qualification: This is neither an institutional program for the imperial state nor an endorsement supplied by the Star.
+
+  - claim_id: CEND-005
+    proposition: >-
+      Nietzsche cannot be made the intellectual cause of imperial rivalry, racial administration or the decisions of 1914; his place in this layer is to mark the crisis in the ends by which modern power could be judged.
+    source_id: SRC-HOP-NIETZSCHE-BEYOND-GOOD-EVIL-1886
+    passage_status: CAUSAL_BOUNDARY_LOCKED
+
+cross_source_questions:
+  - What happens when the institutional capacity to act grows faster than agreement about what action is for?
+  - Can historical explanation establish an objective hierarchy of ends, or does it merely explain how a hierarchy arose?
+  - How does Nietzsche's critique of modern nationalism prevent his crisis of values from becoming a retrospective justification of imperial policy?
+
+narrative_gate:
+  state: SATISFIED_FOR_BOUNDED_SYNTHESIS
+  satisfied:
+    - primary Nietzsche witness locked
+    - Strauss interpretive provenance explicitly named
+    - institutional and intellectual causation kept distinct
+    - nationalism, empire, racial doctrine and war-causation boundaries stated

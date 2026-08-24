@@ -1,0 +1,19 @@
+source_id: SRC-HOP-GERMAN-ANTI-SOCIALIST-LAW-1878
+status: GOVERNING_REICH_STATUTE_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Reich
+  title: Gesetz gegen die gemeingefährlichen Bestrebungen der Sozialdemokratie
+  date: 1878-10-21
+  original_language: German
+  role: suppression_of_socialist_associations_meetings_publications_and_organization
+governing_witness:
+  witness_type: REICHSGESETZBLATT_SCAN_AND_TRANSCRIPTION
+  citation: "RGBl. 1878, Nr. 34, S. 351-358"
+  locator: https://de.wikisource.org/wiki/Gesetz_gegen_die_gemeingef%C3%A4hrlichen_Bestrebungen_der_Sozialdemokratie_(Sozialistengesetz)
+  documentary_edition: https://germanhistorydocs.org/de/reichsgruendung-bismarcks-deutschland-1866-1890/das-sozialistengesetz-21-oktober-1878
+qualification: >-
+  The statute is evidence of Reich repression of socialist organization and publicity. It does
+  not establish the disappearance of socialist electoral or associational life, nor may it be
+  collapsed into the later social-insurance statutes; repression and incorporation were distinct
+  policies directed at the same industrial-social conflict.

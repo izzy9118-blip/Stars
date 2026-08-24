@@ -1,5 +1,5 @@
 map_id: IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001
-status: PASSAGE_EXTRACTION_IN_PROGRESS
+status: SYNTHESIS_READY_WITH_QUANTITATIVE_CONTROL_OPEN
 parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
 intended_parent_star: STAR-HISTORY-OF-POWER-001
 method:
@@ -7,6 +7,9 @@ method:
   - Similar scale does not imply common ownership: state agencies, corporations, banks, associations and international unions may coordinate without becoming one institution.
   - Official statistics measure categorized capacity and may not be used as evidence of political intention by themselves.
   - Germany is a major case, not the universal model; British, American, colonial Indian and Japanese paths are kept independently visible.
+  - Workers are organized political actors whose unions, parties and strikes confront corporations and states; they are not reduced to insurance records or administered labor.
+  - Racial and civilizing doctrines are attributed to their authors and paired with contemporary opposition and colonized judgment.
+  - Nietzsche's crisis of ends is an interpretive relation, not an efficient cause of empire, industrial organization or war.
   - 1914 is not treated as an inevitable consequence of every development below.
 claims:
   - claim_id: IIP-001
@@ -61,7 +64,7 @@ claims:
       Mahan conceptualized maritime power as a relation among commerce, geography, naval force,
       bases and political purpose, providing a strategic language contemporaries could adopt or contest.
     source_id: SRC-HOP-MAHAN-SEA-POWER-1890
-    passage_status: FIRST_EDITION_TARGETED_EXTRACTION_PENDING
+    passage_status: FIRST_EDITION_PASSAGES_EXTRACTED
     qualification: Policy influence must be demonstrated independently for each state.
 
   - claim_id: IIP-007
@@ -161,10 +164,47 @@ claims:
     passage_status: DIPLOMATIC_TEXTS_LOCKED
     qualification: Annexation documents record imperial legal claims and must not be treated as evidence of free Korean consent or adequate accounts of colonial rule.
 
+  - claim_id: IIP-019
+    proposition: >-
+      Industrial society generated organized counter-power as unions, socialist parties, strikes and international congresses contested who could represent workers, define social risk and command production and transport.
+    source_ids:
+      - SRC-HOP-BRITISH-TRADE-UNION-LAW-1871
+      - SRC-HOP-GERMAN-ANTI-SOCIALIST-LAW-1878
+      - SRC-HOP-SPD-ERFURT-PROGRAM-1891
+      - SRC-HOP-US-STRIKE-COMMISSION-PULLMAN-1894
+      - SRC-HOP-SECOND-INTERNATIONAL-STUTTGART-1907
+    supporting_map: LABOR-SOCIALISM-COUNTERPOWER-1871-1914-001
+    passage_status: COMPARATIVE_PRIMARY_RELATION_LOCKED
+    qualification: Trade unionism, social democracy, revolutionary socialism and immediate reform do not form one undifferentiated movement.
+
+  - claim_id: IIP-020
+    proposition: >-
+      Imperial expansion joined economic, strategic, racial and civilizing arguments to treaties, colonial law, budgets, extraction and military force, while those doctrines were contested both within metropolitan politics and by critics among the governed.
+    source_ids:
+      - SRC-HOP-GALTON-HUMAN-FACULTY-1883
+      - SRC-HOP-FERRY-COLONIAL-POLICY-1885
+      - SRC-HOP-CLEMENCEAU-COLONIAL-REPLY-1885
+      - SRC-HOP-BERLIN-CONFERENCE-1885
+      - SRC-HOP-NAOROJI-POVERTY-INDIA-1901
+      - SRC-HOP-TROTHA-HERERO-ORDER-1904
+    supporting_map: IMPERIAL-DOCTRINE-RACE-COUNTERJUDGMENT-1883-1914-001
+    passage_status: DISAGREEMENT_AND_INSTITUTIONAL_RELATIONS_LOCKED
+    qualification: No racial doctrine is accepted as analytical truth and no unified imperial consensus is presumed.
+
+  - claim_id: IIP-021
+    proposition: >-
+      The late-modern crisis identified through Nietzsche lay in the widening separation between modernity's expanding means of explanation, administration and transformation and its declining confidence in an objectively guaranteed human end.
+    source_id: SRC-HOP-NIETZSCHE-BEYOND-GOOD-EVIL-1886
+    supporting_map: CRISIS-OF-ENDS-NIETZSCHE-1871-1914-001
+    passage_status: PRIMARY_TEXT_WITH_STRAUSSIAN_INTERPRETIVE_CONTROL
+    qualification: Nietzsche is not made the cause of imperial rivalry, racial administration or the political decisions of 1914.
+
 cross_source_questions:
   - >-
     Does the industrial state become stronger by directly owning productive institutions, by regulating
     private concentrations of capital, or by constructing legal and financial infrastructures within which private power operates?
+  - >-
+    How do unions, socialist parties, strikes and international congresses alter the field of industrial power when workers organize themselves rather than appearing only as employees, insured persons or governed populations?
   - >-
     How does social insurance alter the state's relation to citizens when employment history, contributions,
     accident, illness, age and entitlement become administrative records?
@@ -179,11 +219,14 @@ cross_source_questions:
   - >-
     What is the relationship between metropolitan legal ordering of empire, colonial budgets and extraction, and coercive colonial practice on the ground?
   - >-
+    How do racial and civilizing justifications acquire force through institutions, and what is disclosed when contemporary opponents and colonized critics are admitted as authorities in the same history?
+  - >-
     Does Japan demonstrate that the institutional bundle of constitutional law, industrial-military mobilization and imperial diplomacy could be reconstructed outside Europe rather than simply imported as a finished Western model?
+  - >-
+    What happens when modern organizational capacity continues to grow while the ends by which it should be directed become radically disputed?
 remaining_targets:
   - extract controlled coal, iron, steel, railway, shipping and corporate series from the 1913 official yearbook
   - acquire firm- or procurement-level steel and armaments witnesses where they add something not visible in national statistics and fleet law
-  - extract first-edition Mahan passages
   - acquire operational cable/wireless network evidence beyond treaty rules
   - deepen colony-specific administration, labor and economic extraction beyond German legal/budget/military witnesses
   - acquire Japanese military and industrial-administration witnesses if needed to test constitutional text against capacity
