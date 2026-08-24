@@ -1,0 +1,39 @@
+source_id: SRC-HOP-LUTHER-TEMPORAL-AUTHORITY-1523
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  author: Martin Luther
+  title_normalized: Von weltlicher Obrigkeit, wie weit man ihr Gehorsam schuldig sei
+  witness_title: Uon welltlicher vberkeytt wie weytt man yhr gehorsam schuldig sey
+  year: 1523
+  original_language: German
+  role: reformation_temporal_authority_two_governments_obedience_and_limits
+
+governing_witness:
+  witness_type: 1523_GERMAN_PRINT_DIGITIZATION
+  repository: Bayerische Staatsbibliothek
+  shelfmark: 4 Th.u. 222 f
+  urn: urn:nbn:de:bvb:12-bsb10169053-8
+  discovery_record: https://www.deutsche-digitale-bibliothek.de/item/BH667WRGZB37W6Y7QZVE3N2SK7UWROC3
+  imprint:
+    place: Wittemberg
+    printer: Schyrlentz
+    year: 1523
+  extent: 26 leaves
+  vd16: L 7317
+
+supporting_translation:
+  repository: ETH Zurich / ISN Primary Resources in International Affairs
+  url: https://www.files.ethz.ch/isn/125470/606.pdf
+  language: English
+  status: READING_AID_TRANSLATION_METADATA_REQUIRES_CHECK_BEFORE_QUOTATION
+
+witness_policy:
+  governing_language: German
+  rule: >-
+    The 1523 German print governs. English translations may aid interpretation but
+    may not silently determine Luther's distinctions or terminology.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED
