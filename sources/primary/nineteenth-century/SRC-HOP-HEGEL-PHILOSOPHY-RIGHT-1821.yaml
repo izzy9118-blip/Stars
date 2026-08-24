@@ -1,0 +1,36 @@
+source_id: SRC-HOP-HEGEL-PHILOSOPHY-RIGHT-1821
+status: GOVERNING_FIRST_EDITION_WITNESS_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  author: Georg Wilhelm Friedrich Hegel
+  title: Grundlinien der Philosophie des Rechts
+  subtitle: Naturrecht und Staatswissenschaft im Grundrisse
+  publication_year: 1821
+  original_language: German
+  role: family_civil_society_corporation_bureaucracy_state_sovereignty_and_freedom
+
+governing_witness:
+  witness_type: DIGITIZED_1821_FIRST_EDITION
+  publisher: Nicolaische Buchhandlung
+  place: Berlin
+  repository: Bayerische Staatsbibliothek via Deutsche Digitale Bibliothek
+  urn: urn:nbn:de:bvb:12-bsb11706824-0
+  url: https://www.deutsche-digitale-bibliothek.de/item/MF74DVVPUCVZYAN32X6WFSOEUREFPCHN
+  extent: XXVI, 355 pages
+
+primary_passage_targets:
+  - civil society as a distinct sphere of needs, work, administration of justice and police
+  - corporations and estates
+  - the universal class / civil servants
+  - constitutional monarchy and sovereignty
+  - relation of particular interests to the universal state
+
+witness_policy:
+  rule: >-
+    The 1821 German first edition governs wording and terminology. Hegel is an
+    attributed philosophical interpretation of modern ethical and political institutions;
+    he is not a documentary description of every contemporary German state.
+
+quotation_state: TARGETED_SECTIONS_PENDING_EXTRACTION
+analysis_state: NOT_YET_INTEGRATED
