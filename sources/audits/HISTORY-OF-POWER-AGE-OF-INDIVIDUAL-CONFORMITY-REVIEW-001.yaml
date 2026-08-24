@@ -1,0 +1,195 @@
+review_id: HOP-AOI-CONFORMITY-REVIEW-001
+status: ALIGNMENT_CONFIRMED_WITH_CORRECTIONS_REQUIRED
+history_of_power_star: STAR-HISTORY-OF-POWER-001
+age_of_individual_star: STAR-AGE-OF-INDIVIDUAL-001
+alignment_contract: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+
+thesis_test:
+  age_of_individual_core: >-
+    The Age of the Individual is a bounded genealogy of the historical formation
+    of the self-governing and psychologically legible individual and of the changing
+    relation between that individual and older religious, political, economic,
+    scientific and administrative forms of authority.
+  history_of_power_required_role: >-
+    History of Power is the counter-genealogy of those older forces: it reconstructs
+    their independent historical forms so the later collision, persistence,
+    appropriation, displacement and transformation of those powers can be understood.
+
+verdict:
+  structural_alignment: STRONG
+  source_method_alignment: STRONG_AFTER_RETROACTIVE_AUDIT
+  selection_alignment: REQUIRES_NEW_GATE
+  narrative_alignment: STRONG_IN_FOUNDING_PURPOSE_BUT_AT_RISK_OF_UNIVERSAL_HISTORY_DRIFT
+
+why_alignment_is_real:
+  - The Age narrative explicitly begins from the encounter between individual hopes, dreams and uncertainties and much older forces of power.
+  - The Age structured Star explicitly says older forms of authority persisted, collided and changed institutional form rather than simply disappearing.
+  - The Age rules already require power to be mapped through identifiable authorities, regimes, laws, institutions, property relations, practices and techniques.
+  - The History of Power Star reconstructs precisely such older civilizational and institutional forms.
+  - Both Stars reject chronology as automatic causation and preserve distinctions among teaching, practice, reception and later interpretation.
+
+principal_drift_risks:
+  universal_history_drift:
+    problem: >-
+      History of Power can expand indefinitely into a history of every major empire,
+      war, ruler, technology or institution merely because it was historically powerful.
+    correction: >-
+      Inclusion requires a material relation to the older-forces problem and a
+      person-power crosswalk after own-source reconstruction.
+
+  state_centrism:
+    problem: >-
+      Recent nineteenth- and twentieth-century acquisition can overprivilege state
+      capacity, bureaucracy, war and administration while underrecording what position
+      the human being occupies inside those systems.
+    correction: >-
+      Every layer must identify the historically specific human position and the
+      authority's claims upon, formation of, knowledge of and relation to that person.
+
+  teleology:
+    problem: >-
+      Older forms can be misread as incomplete steps toward modern individuality.
+    correction: >-
+      Reconstruct every form first in its own terms. The Age relation is a second-order
+      crossing analysis, never the hidden meaning of the ancient or medieval form.
+
+  causation_inflation:
+    problem: >-
+      The presence of an older power before a later individualizing transformation can
+      tempt the narrative to treat succession as causal descent.
+    correction: >-
+      Use only the crossing relations PRESERVES, DISPLACES, APPROPRIATES,
+      COEXISTS_WITH, TRANSFORMS or NO_DIRECT_CROSSING_YET until independent causal
+      evidence exists.
+
+  category_projection:
+    problem: >-
+      Terms such as individual, citizen, subject, worker, consumer, identity,
+      psychology, bureaucracy and self-expression may be projected backward.
+    correction: >-
+      Record the historically specific human category first and translate into the
+      Age-of-the-Individual comparison only at the crossing stage.
+
+layer_by_layer_alignment:
+  egypt:
+    alignment: HIGH_AFTER_REBALANCING
+    reason: >-
+      Sacred order, kingship, ritual, ma'at, household and afterlife provide a form in
+      which authority and meaning precede private individual will. This is directly
+      relevant to the Age thesis if Egyptian self-description is kept distinct from
+      modern esoteric reconstruction.
+    acquisition_focus: sacred_order_person_office_ritual_judgment_not_dynastic_exhaustiveness
+
+  persia:
+    alignment: HIGH_IF_REFRAMED_AROUND_SUBJECTHOOD
+    reason: >-
+      Empire, provincial rule, royal household, tribute, law and plural peoples matter
+      through the relation between one center and differentiated subjects. Campaign
+      detail is secondary unless it reveals that relation.
+
+  greece:
+    alignment: VERY_HIGH
+    reason: >-
+      The polis forms the citizen before the modern separate individual, and philosophy's
+      nature/convention distinction opens the possibility of judging ancestral authority.
+
+  rome:
+    alignment: VERY_HIGH
+    reason: >-
+      Citizenship, law, incorporation, imperium and principate show how legal-personal
+      membership and public command become portable beyond the city and later concentrate
+      under personal rule.
+
+  post_imperial_medieval:
+    alignment: VERY_HIGH
+    reason: >-
+      Divine law and overlapping church, dynasty, estate, commune, corporation and empire
+      show persons embedded in plural authorities before modern sovereignty and rights.
+
+  renaissance_early_modern_enlightenment:
+    alignment: CRITICAL
+    reason: >-
+      Machiavelli, sovereignty, natural right, conscience, property, toleration,
+      commercial society and modern science directly transform the relation between
+      given order and the increasingly separate person.
+
+  revolutionary_constitutional:
+    alignment: CRITICAL
+    reason: >-
+      Citizen, constituent people, rights-bearer, association, public opinion and designed
+      government are central stages in the transition toward the Age's self-governing person.
+
+  administrative_national_1798_1871:
+    alignment: HIGH_WITH_PERSON_POWER_CROSSWALK_REQUIRED
+    reason: >-
+      Prefects, codes, schools, conscription, statistics, railways and taxation make the
+      person simultaneously citizen, soldier, taxpayer, student and administrated population.
+
+  imperial_industrial_1871_1914:
+    alignment: HIGH_WITH_SELECTION_CONTROL
+    reason: >-
+      Corporate concentration, social insurance, colonial rule, mass communications and
+      national mobilization create worker, insured person, shareholder, colonial subject,
+      national citizen and mass public. Industrial scale alone is not sufficient for inclusion.
+
+  total_war_1914_1918:
+    alignment: HIGH
+    reason: >-
+      Total war reorganizes persons as soldiers, workers, taxpayers, borrowers, rationed
+      civilians and propaganda publics, revealing extreme institutional penetration of
+      individual and collective life.
+
+relationship_to_later_age_nodes:
+  sacred_cosmic_order:
+    history_of_power_support: Egypt and other evidenced sacred-political orders
+  household_ancestral_order:
+    history_of_power_support: household, kinship, inheritance and cult where directly evidenced
+  polis_and_regime:
+    history_of_power_support: Greece and classical regime/citizenship institutions
+  revelation_and_divine_law:
+    history_of_power_support: post-imperial and medieval plural authority
+  sovereignty_natural_right_and_separate_individual:
+    history_of_power_support: early-modern sovereignty, Dutch-English constitutional and commercial orders
+  autonomy_history_and_revolution:
+    history_of_power_support: revolutionary, administrative, industrial and national-state transformations
+  psychoanalysis_and_mass_management:
+    history_of_power_future_requirement: >-
+      Later History of Power layers must eventually reach the institutional powers that
+      measure and administer inner life, but may not jump there without completing the
+      intervening political, economic and informational transformations.
+
+binding_acquisition_gate:
+  state: ACQUISITION_PAUSED_UNTIL_DUAL_TARGET_FIELDS_PRESENT
+  required_for_every_new_source:
+    star_native_target:
+      - history_of_power_historical_spectrum_node
+      - history_of_power_claim_or_boundary_target
+      - intended_history_of_power_claim_class
+    age_alignment_target:
+      - historically_specific_human_position
+      - authority_or_power_form
+      - person_power_relation
+      - crossing_relation_or_NO_DIRECT_CROSSING_YET
+      - why_source_is_material_to_bounded_age_thesis
+    evidence_controls:
+      - evidence_class
+      - governing_witness
+      - what_source_can_establish
+      - what_source_cannot_establish
+      - rival_or_counter_witnesses
+
+rejection_tests:
+  - Reject if inclusion is justified only by geopolitical importance.
+  - Reject if inclusion is justified only by canonical prestige.
+  - Reject if no historically specific relation between organized power and persons can be stated.
+  - Reject if the proposed source merely enlarges chronology without testing an existing or necessary bounded claim.
+  - Reject if the relation to Age of the Individual requires projecting modern psychology or individuality backward into the source.
+
+program_consequence:
+  acquisition_restart: BLOCKED_UNTIL_MASTER_AUDIT_AND_SOURCE_METHOD_REFERENCE_THIS_DUAL_GATE
+  first_restart_layer: EGYPT
+  first_restart_question: >-
+    Which Egyptian sources are necessary to reconstruct sacred, royal, institutional
+    and judgmental power in its own terms, and how does that order position the human
+    being before the historically later emergence of the separate individual?
