@@ -1,0 +1,20 @@
+source_id: SRC-HOP-BISMARCK-SOCIAL-MESSAGE-1881
+status: GOVERNING_PARLIAMENTARY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  speaker: Wilhelm I through Chancellor Otto von Bismarck
+  title: Kaiserliche Botschaft zur Sozialpolitik
+  date: 1881-11-17
+  original_language: German
+  role: social_insurance_state_society_integration_and_internal_peace
+governing_witness:
+  witness_type: REICHSTAG_STENOGRAPHIC_RECORD
+  publication: "Stenographische Berichte über die Verhandlungen des Reichstags, V. Legislaturperiode, I. Session, 1881/82"
+  locator: https://germanhistorydocs.org/de/reichsgruendung-bismarcks-deutschland-1866-1890/ghdi:document-1808
+key_passages:
+  - anchor: "Heilung der sozialen Schäden nicht ausschließlich im Wege der Repression"
+  - anchor: "positive Förderung des Wohles der Arbeiter"
+  - anchor: "dauernde Bürgschaften seines inneren Friedens"
+qualification: >-
+  The message joins social assistance to internal peace and corporate organization.
+  It should not be reduced either to pure welfare benevolence or to repression by other means.
