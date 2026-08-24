@@ -1,0 +1,577 @@
+proposal_id: EGYPT-STRUCTURED-STAR-CORRECTION-PROPOSAL-001
+status: READY_FOR_CONTROLLED_REVIEW_NOT_APPLIED
+parent_star: STAR-HISTORY-OF-POWER-001
+star_path: stars/STAR-HISTORY-OF-POWER-001.yaml
+narrative_path: narratives/STAR-HISTORY-OF-POWER-001.md
+branch: history-of-power-retroactive-source-audit-001
+
+method_and_contracts:
+  - sources/SOURCE-WITNESS-METHOD.md
+  - sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+  - sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+  - sources/audits/ancient/EGYPT-RETROACTIVE-SOURCE-AUDIT-001.yaml
+
+supporting_scaffold:
+  corpus: sources/primary/ancient/egypt/manifest.yaml
+  person_authority_map: sources/primary/ancient/egypt/maps/EGYPT-PERSON-AUTHORITY-001.yaml
+  modern_reclassification: sources/primary/ancient/egypt/RECLASSIFICATION-MODERN-EGYPT-INTERPRETATIONS-001.yaml
+  manetho_transmission: sources/primary/ancient/egypt/transmission/MANETHO-TRANSMISSION-001.yaml
+  passages:
+    - sources/primary/ancient/egypt/passages/EGY-NEFERTI-PASSAGES-001.yaml
+    - sources/primary/ancient/egypt/passages/EGY-LOYALIST-PASSAGES-001.yaml
+    - sources/primary/ancient/egypt/passages/EGY-ELOQUENT-PEASANT-PASSAGES-001.yaml
+    - sources/primary/ancient/egypt/passages/EGY-ANCIENT-DUSK-PASSAGES-001.yaml
+
+proposal_purpose: >-
+  Repair the Egyptian layer at the level of the structured Star before narrative
+  revision. Preserve the strong Egyptian primary architecture, add indigenous
+  person-authority relations and ancient dusk witnesses, and remove or reclassify
+  modern interpretive claims that currently occupy unqualified FACT, scope,
+  operative-rule, historical-spectrum, conceptual-chain, tension, comparative-
+  matrix, and source-authority positions.
+
+non_negotiable_invariants:
+  - The structured Star remains the sole semantic authority.
+  - Source acquisition alone never changes the Star.
+  - Egyptian self-witness, ancient post-festum interpretation and modern reconstruction remain distinct.
+  - The Age of the Individual is not projected backward as Egypt's hidden end.
+  - Ancient agency, inwardness, speech and criticism are not denied merely because modern individuality is absent.
+  - No unsupported lost-civilization claim remains in FACT voice or operative rules.
+  - Narrative revision follows only after structured-Star correction.
+
+summary_decision:
+  current_egypt_layer: SUBSTANTIALLY_STRONG_BUT_STRUCTURALLY_MISCLASSIFIED
+  correction_type: PRESERVE_CORE_REBUILD_INTERPRETIVE_FRAME
+  principal_retain:
+    - Egyptian creation accounts in their difference
+    - Royal Canon succession of gods, spirits and human kings as the witness states it
+    - Shabaka heart-and-tongue relation
+    - royal titulary, Horus/Osiris succession and mortal office-bearing
+    - ma'at, royal duty, coercion and judgment
+    - Merikare, Amenemhat and Akhenaten as internal reflections on rule
+    - foreign incorporation and unequal status
+    - mortuary judgment and the heart as witness
+  principal_add:
+    - Neferti on disorder and restoration
+    - Loyalist Teaching on body, heart, provision, labor and hierarchical restraint
+    - Eloquent Peasant on petition, ma'at and abusive delegated power
+    - Horemheb and Rekhmire once original-language passage control is complete
+    - Manetho, Diodorus, Strabo and Plutarch as distinct ancient dusk transformations
+    - explicit person-authority and Age-of-the-Individual boundaries
+  principal_reclassify_or_remove:
+    - civilization as established legacy from an older source
+    - Atlantis as named prior high civilization
+    - sacred science as Egyptian self-description or autonomous claim class
+    - Luxor as established Anthropocosmos / Temple of Man
+    - formal initiatory hierarchy governing fixed levels of meaning
+    - intelligence of the heart as one systematic Egyptian epistemology
+    - comprehensive Osirian and Horian paths
+    - Schwaller de Lubicz and John Anthony West as authoritative syntheses
+
+field_corrections:
+  fact:
+    current_state: REQUIRES_TARGETED_REWRITE_OF_EGYPT_ONLY
+    retain_with_minor_boundary_edits:
+      - section: opening_creation_and_Royal_Canon
+        decision: RETAIN
+        edit: >-
+          Preserve the self-witness rule and incompatible creation accounts. Change
+          the sentence that they "agree" political order cannot be detached from
+          cosmos into an explicit analytical synthesis supported by the listed texts.
+      - section: kingship_and_divine_succession
+        decision: RETAIN_AND_QUALIFY
+        edit: >-
+          Preserve royal office, titulary, Horus, Osiris, Hatshepsut and Pyramid
+          Text relations. Add that the office's precedence over private personality
+          does not erase personal agency, vulnerability or moral responsibility.
+      - section: maat_and_isfet
+        decision: RETAIN_AND_EXPAND
+        edit: >-
+          Preserve ma'at as a source-specific range of right, truth, measure and
+          ordered relation. Add Eloquent Peasant, Loyalist Teaching and—after exact
+          passage control—Horemheb/Rekhmire to show that officials and rulers are
+          judged from within the order they claim to maintain.
+      - section: failed_rule_memory_and_incorporation
+        decision: RETAIN_AND_REBALANCE
+        edit: >-
+          Preserve Merikare, Amenemhat, Akhenaten, foreign incorporation, Cambyses
+          and contradictory witnesses. Add Neferti's literary disorder/restoration
+          and distinguish Herodotus as an external post-festum witness rather than
+          an unqualified governing authority.
+      - section: mortuary_judgment
+        decision: RETAIN_AND_NARROW
+        edit: >-
+          Preserve the heart as witness, postmortem judgment, memory and wider access
+          only where source and period are specified. Remove the unsupported two-path
+          Horian/Osirian system.
+    replace:
+      - section: earliest_completeness_legacy_and_sacred_science
+        decision: REPLACE
+        current_problem: >-
+          Mature features at the earliest surviving horizon are converted into a
+          factual civilizational legacy and then into one total sacred-science system.
+        replacement_principle: >-
+          State only that the earliest surviving evidence already displays mature
+          writing, measure, craft, monumental form, cult and kingship. The absence
+          of a presently visible developmental sequence does not date the origin of
+          those forms and does not prove transmission from a named lost civilization.
+          "Sacred science" may remain only as project analytical shorthand for
+          specifically evidenced relations among creation, kingship, ritual, measure,
+          craft, office and judgment.
+      - section: temple_anthropocosmos_initiation
+        decision: REPLACE
+        current_problem: >-
+          Luxor, Anthropocosmos, harmonic measure, fixed initiatory hierarchy and
+          transformation of consciousness are stated as facts chiefly through modern
+          symbolic interpretation.
+        replacement_principle: >-
+          Describe temple rites, images, inscriptions, land, storehouses, workshops,
+          priestly service, offerings, access restrictions and royal representation
+          only where primary or controlled institutional evidence supports them.
+          Preserve temple anthropology, encoded proportion and initiation as bounded
+          research questions or attributed modern interpretations until independently established.
+      - section: two_paths_and_true_king
+        decision: REMOVE_AND_REPLACE
+        replacement_principle: >-
+          Replace the comprehensive Osirian/Horian scheme with source-bounded relations
+          of royal succession, mortuary judgment, justified life, renewal, memory and
+          conflict/reconciliation in identified texts. No social division between the
+          people and initiates is admitted from current evidence.
+      - section: final_egyptian_synthesis
+        decision: REWRITE
+        replacement_principle: >-
+          Define Egyptian power through evidenced relations among creation, divine
+          succession, kingship, ma'at, ritual, office, land, labor, petition, memory,
+          incorporation and mortuary judgment. State that persons appear as loyal
+          subjects, productive laborers, petitioners, office-bearers, foreigners and
+          judged dead inside an order no private will created. Preserve agency and
+          criticism without converting them into modern rights or autonomy. Add a
+          distinct paragraph on later ancient historical, geographic and philosophical reception.
+
+  scope:
+    subject:
+      decision: REVISE_EGYPTIAN_TERMS
+      remove_or_reclassify:
+        - Anthropocosmos as an admitted Egyptian relation
+        - initiation as a completed institutional hierarchy
+        - Horian liberation as a native comprehensive path
+        - inherited legacy from a prior named civilization
+      retain:
+        - creation
+        - divine succession
+        - kingship
+        - ma'at and isfet
+        - temple and ritual
+        - office, land, labor and administration
+        - coercion, protection and judgment
+        - death, memory and mortuary order
+        - nomos and foreign incorporation
+      add:
+        - loyal subjecthood and inward royal formation
+        - productive labor within hierarchy
+        - petition and critique of delegated office
+        - royal reform and vizierial office
+        - ancient historical, geographic and philosophical reception
+        - explicit distinction among self-witness, dusk witness and modern reconstruction
+    period:
+      decision: RETAIN_WITH_RECEPTION_EXTENSION
+      edit: >-
+        Continue to refuse a modern date for the origin claimed by Egyptian self-witness,
+        but distinguish pharaonic evidence from Ptolemaic Manetho, late Hellenistic
+        Diodorus, Augustan Strabo and Roman-imperial Plutarch.
+    purpose:
+      decision: RETAIN
+      reason: >-
+        The purpose already conforms closely to the Age of the Individual thesis:
+        it establishes older forces that later meet the hopes, desires and uncertainties
+        of the individual.
+
+  shape:
+    model:
+      decision: RETAIN
+      value: CIVILIZATIONAL_FORMS_OF_POWER
+    governing_question:
+      decision: REVISE_FIRST_CLAUSE_ONLY
+      replace_current: "Egyptian sacred science, which coordinates the maintenance of one created order"
+      proposed: >-
+        Egyptian sacred, royal, institutional and mortuary order, in which creation,
+        kingship, ma'at, ritual, office, labor and judgment are joined without making
+        the private individual the prior source of authority
+    operative_rules:
+      remove:
+        - "Atlantis designates the prior high civilization from which the Egyptian legacy may descend"
+        - any rule making sacred science the automatic unity governing every Egyptian artifact
+      replace_with:
+        - >-
+          The earliest surviving maturity of Egyptian forms leaves prior development
+          open; it does not prove a named lost civilization, route of transmission or chronology.
+        - >-
+          Relations among myth, number, measure, architecture, ritual, kingship,
+          craft and office are synthesized only where source, genre, period and
+          material evidence support the connection.
+        - >-
+          Restricted access, priestly education and specialized knowledge remain
+          distinct from a comprehensive initiatory hierarchy unless direct evidence establishes it.
+        - >-
+          Herodotus, Manetho, Diodorus, Strabo and Plutarch are source-positioned
+          post-festum witnesses and may not replace Egyptian-language evidence.
+        - >-
+          Persons may possess hearts, names, speech, property, agency, inwardness and
+          moral judgment without being naturally separate individuals whose rights or
+          desires precede the order.
+
+  claim_policy:
+    decision: REPLACE_EGYPT_SPECIFIC_MISCLASSIFICATIONS
+    remove_as_native_claim_class:
+      sacred_science: >-
+        The current policy makes a modern synthetic concept govern all interpretation
+        before source-specific claims are established.
+      material_confirmation: >-
+        The current policy lets archaeology confirm a prior sacred-science whole rather
+        than independently test particular institutional and material relations.
+    proposed_additions:
+      egyptian_self_witness:
+        definition: >-
+          A source-specific account stated by an Egyptian text, monument, title,
+          image, ritual or administrative record in its own categories.
+      indigenous_reflective_witness:
+        definition: >-
+          Egyptian wisdom, literary, autobiographical or royal reflection attributed
+          to its composition and genre, not treated automatically as event chronicle.
+      ancient_dusk_witness:
+        definition: >-
+          A later ancient historical, geographic, religious or philosophical reconstruction
+          attributed to its author, date, transmission and political/intellectual position.
+      later_critical_control:
+        definition: >-
+          Modern philology, archaeology and interpretation used to control damaged evidence,
+          translation, chronology and synthesis; never primary evidence or ancient voice.
+      relational_synthesis:
+        definition: >-
+          A project-level analytical relation among creation, kingship, ma'at, ritual,
+          office, land, labor, memory and judgment that names each underlying source and
+          does not claim one native Egyptian term for the whole.
+      person_authority_crossing:
+        definition: >-
+          A bounded account of how the source positions a subject, worker, petitioner,
+          office-bearer, foreigner, ruler or judged person, followed by a non-teleological
+          relation to the Age of the Individual thesis.
+    revise:
+      herodotean_witness: >-
+        Change "governs" to "supplies a principal external post-festum account of" and
+        require Egyptian counter-witnesses for material claims.
+      witness_metadata: >-
+        Preserve current rule, adding that philological reconstruction may identify
+        a text without making its reconstructed wording identical to an extant artifact.
+
+  historical_spectrum:
+    replace_nodes:
+      inherited_sacred_science:
+        new_node: earliest_surviving_horizon_and_open_chronology
+        proposed_relations:
+          - mature writing, measure, craft, monumental and royal forms in the earliest surviving evidence used
+          - witness date distinguished from claimed antiquity and historical origin
+          - prior development, loss and transmission remain open questions
+          - no named prior civilization admitted without independent evidence
+      myth_number_and_natural_symbol:
+        new_node: creation_symbol_measure_and_material_form
+        proposed_relations:
+          - distinct cosmogonic and royal compositions remain separate
+          - heart, tongue, name, image, number, measure, material and gesture are linked only where an identified source joins them
+          - modern symbolic readings remain attributed and contestable
+      temple_and_anthropocosmos:
+        new_node: temple_ritual_economy_and_knowledge
+        proposed_relations:
+          - temple, image, inscription, offering and recurring ritual
+          - land, storehouse, workshop, scribe, priest, labor and provision
+          - royal representation and delegated performance
+          - access restriction, training and specialized knowledge where documented
+          - Anthropocosmos, fixed harmonic doctrine and comprehensive initiation excluded pending independent evidence
+      death_and_renewal:
+        proposed_revision:
+          - dead king as Osiris and successor as Horus where attested
+          - resurrection, celestial rule and royal memory
+          - heart as witness and divine judgment
+          - justified life, offering, memory and renewal in specified mortuary corpora
+          - widening mortuary access treated by period and material capacity
+          - remove comprehensive Horian/Osirian path structure
+    add_nodes:
+      subject_labor_petition_and_office:
+        relations:
+          - loyal authority carried in body and heart in the Loyalist Teaching
+          - king represented as provision, status, punishment and protection
+          - people and labor represented as conditions of existing goods and rule
+          - restraint of excessive labor inside hierarchy
+          - Khuninpu's petition and ma'at claim against delegated abuse
+          - distinct voice and agency without pre-political right
+          - vizierial office and royal reform after exact Horemheb/Rekhmire control
+      disorder_restoration_and_royal_reform:
+        relations:
+          - Neferti's self-directed heart, inverted rank, administrative excess and social breakdown
+          - restored crowns, gods, territory, roles, name and memory through kingship
+          - royal decree against specified administrative abuse
+          - distinction between office standard, occupant and actual enforcement
+      ancient_memory_and_reception:
+        relations:
+          - Herodotus as classical external inquiry
+          - Manetho as lost Egyptian priestly synthesis under Ptolemaic rule through later transmitters
+          - Diodorus as late Hellenistic universal-historical systematization
+          - Strabo as Augustan geographic and provincial observation
+          - Plutarch as Roman-imperial philosophical interpretation addressed to a reader
+          - later interpretation transforms Egypt into an object of history, administration and reflection
+    revise_nodes:
+      institutional_distribution:
+        additions:
+          - petitioner
+          - field-worker
+          - delegated abusive agent
+          - vizierial procedural office
+          - royal reform of administration
+      maat_and_isfet:
+        additions:
+          - ma'at invoked from below against failed hearing and greed
+          - ma'at represented through office, restraint and adjudication as well as royal smiting
+      herodotean_inquiry_and_memory:
+        boundary: >-
+          Rename or qualify as external post-festum inquiry; do not call Egypt teacher
+          and Greece learner as an uncontested total relation beyond the passages supported.
+
+  conceptual_chain:
+    egyptian_power:
+      decision: REWRITE_SEQUENCE_AND_GOVERNING_PRINCIPLE
+      remove_sequence_items:
+        - temple and Anthropocosmos
+        - initiation and intelligence of the heart
+        - Osirian renewal and Horian liberation
+      add_or_replace_sequence_items:
+        - earliest surviving mature forms and open prior development
+        - distinct creation accounts, heart, tongue, name and effective speech
+        - divine reigns, royal succession, titulary and mortal office-bearing
+        - ma'at, isfet, offering, coercion and judgment
+        - temple, priestly service, image, land, workshop, labor and provision
+        - loyal subjecthood, inward royal formation and productive dependence
+        - petition, hearing and moral criticism of delegated power
+        - vizierial office, administrative procedure and royal reform
+        - Nile, survey, field, dues, city and territorial order where documented
+        - foreign incorporation and unequal status
+        - mortuary judgment, memory, succession and renewal in specified texts
+        - priestly and monumental memory
+        - Greek, Ptolemaic and Roman transformations of Egypt into an object of history and interpretation
+      proposed_governing_principle: >-
+        Egyptian power joins creation, divine succession, kingship, ma'at, ritual,
+        office, land, labor, memory and mortuary judgment in an order represented as
+        preceding any private will. It forms persons as loyal subjects, productive
+        laborers, petitioners, office-bearers, foreigners, rulers and judged dead.
+        Their agency, inwardness and criticism are real but become politically
+        intelligible through the order they inhabit rather than through rights or
+        desires prior to it. The mortal occupant remains answerable to an office and
+        standard he does not create, while delegated institutions can protect, exploit
+        and be judged. Later ancient historians and philosophers preserve and transform
+        this order by making it an object of chronology, comparative history, provincial
+        administration and reflective interpretation.
+
+  internal_tensions:
+    replace:
+      visible_beginning_and_inherited_completion:
+        new_tension: earliest_surviving_maturity_and_unknown_development
+        sides:
+          - earliest evidence used displays mature institutions and arts
+          - prior development, losses, chronology and transmission remain incompletely known
+        preservation_rule: >-
+          Unknown development is neither filled by a linear infancy narrative nor by
+          a named lost civilization without independent evidence.
+      functional_unity_and_local_articulation:
+        new_tension: analytical_relation_and_source_specificity
+        sides:
+          - multiple sources join divine, royal, ritual, material and social relations
+          - genres, periods, cult centers and institutions remain historically distinct
+        preservation_rule: >-
+          Project synthesis never becomes one hidden ancient doctrine that erases locality and change.
+      initiatory_knowledge_and_public_order:
+        new_tension: restricted_knowledge_and_public_ritual
+        sides:
+          - priesthood, literacy, training, restricted spaces and specialized texts create differentiated access
+          - current evidence does not establish one comprehensive hierarchy of consciousness for the whole society
+        preservation_rule: >-
+          Documented access boundaries are retained; a total initiatory system remains an attributed hypothesis.
+      Osirian_and_Horian_paths:
+        decision: REMOVE
+        replacement: mortuary_judgment_and_multiple_forms_of_renewal
+        preservation_rule: >-
+          Royal succession, Osirian identification, heart judgment, justified life and
+          renewal remain source-specific; no comprehensive two-path social doctrine is admitted.
+    add:
+      inward_loyalty_and_petitionary_critique:
+        sides:
+          - Loyalist Teaching commands royal authority to be borne in body and heart
+          - Eloquent Peasant lets a marginal speaker judge delegated power through ma'at
+        preservation_rule: >-
+          Internalization does not erase criticism; criticism does not convert the speaker into a modern autonomous sovereign.
+      royal_protection_and_delegated_abuse:
+        sides:
+          - king and office claim protection, provision, hearing and right order
+          - agents can steal, overwork, extort or fail to hear, while the king can also exploit the petitioner's speech
+        preservation_rule: >-
+          Protection and coercion are retained as simultaneous relations within royal hierarchy.
+      office_ideal_and_practice:
+        sides:
+          - Rekhmire and royal decrees state disciplined standards and jurisdictions
+          - monumental self-presentation and promulgation do not prove consistent practice
+        preservation_rule: >-
+          Office exceeds private occupant without becoming a modern impersonal bureaucracy.
+      ancient_self_witness_and_dusk_reception:
+        sides:
+          - Egyptian-language texts and monuments state the order in their own genres
+          - Herodotus, Manetho, Diodorus, Strabo and Plutarch preserve and transform it for later readers and regimes
+        preservation_rule: >-
+          Ancient reception is first-class evidence of reception, not a substitute for the order received.
+      ancient_agency_and_modern_individuality:
+        sides:
+          - subjects, workers, petitioners and officials possess names, hearts, speech, judgment and action
+          - authority is not grounded primarily in naturally separate persons whose rights or desires precede society
+        preservation_rule: >-
+          Absence of modern individuality never becomes absence of personhood or agency.
+
+  comparative_matrix:
+    decision: REPLACE_EGYPTIAN_MODERN_AUTHOR_ENTRIES
+    remove_as_forms_of_Egyptian_power:
+      - Sacred_Science
+      - Egyptian_Miracle
+      - Serpent_in_the_Sky
+    reclassify:
+      Petrie_religion_art_and_craft:
+        new_role: early_Egyptological_reconstruction
+        boundary: not primary and not current consensus by default
+    proposed_entries:
+      Egyptian_creation_and_effective_speech:
+        form_of_power: source-specific creation, naming, divine generation and effective speech
+        political_implication: political command is interpreted within a cosmos of effective naming and order
+        unresolved_question: how far distinct creation accounts can support one political synthesis
+      Royal_succession_and_maat:
+        form_of_power: divine succession, mortal royal office, offering, coercion, hearing and judgment
+        political_implication: ruler and agents claim authority by maintaining an order they do not create
+        unresolved_question: how standards of ma'at constrain practice rather than merely legitimate command
+      Loyal_subject_laborer_and_petitioner:
+        form_of_power: inward loyalty, provision, productive dependence, petition and moral criticism
+        political_implication: persons have agency inside hierarchy without becoming prior sovereign individuals
+        unresolved_question: how often literary criticism corresponded to effective redress
+      Office_and_royal_reform:
+        form_of_power: vizierial procedure, delegated agents, decree, punishment, record and administration
+        political_implication: private occupants are measured against office while the king remains the source of reform
+        unresolved_question: relation between formal standard and local practice
+      Mortuary_judgment_and_memory:
+        form_of_power: heart, divine court, justified life, name, offering, succession and renewal
+        political_implication: status and earthly power do not manufacture final judgment
+        unresolved_question: chronology and social distribution of mortuary access
+      Ancient_dusk_reception:
+        form_of_power: priestly history, universal history, imperial geography and philosophical interpretation
+        political_implication: Egypt becomes an object that later persons and empires can classify and reinterpret
+        unresolved_question: what is preserved and what is transformed by each receiver
+      Modern_critical_controls:
+        form_of_power: no ancient form; philological and archaeological control of evidence
+        political_implication: modern synthesis can clarify or distort the older order
+        unresolved_question: how to retain strong interpretation without letting it become ancient self-witness
+
+  sources:
+    decision: RECLASSIFY_AND_EXPAND_EGYPT_SOURCE_REGISTRY
+    remove_category:
+      - authoritative_syntheses
+    proposed_categories:
+      egyptian_direct_and_reflective_witnesses:
+        add:
+          - SRC-HOP-NEFERTI
+          - SRC-HOP-ELOQUENT-PEASANT
+          - SRC-HOP-LOYALIST-TEACHING
+          - SRC-HOP-HOREMHEB-EDICT
+          - SRC-HOP-REKHMIRE-VIZIER
+        retain_existing:
+          - Pyramid Texts
+          - Shabaka Stone
+          - Turin Royal Canon
+          - Ptahhotep
+          - Merikare
+          - Amenemhat
+          - Akhenaten boundary stelae
+          - Book of the Dead 30A
+      ancient_post_festum_and_reception:
+        add:
+          - SRC-HOP-MANETHO-AEGYPTIACA
+          - SRC-HOP-DIODORUS-EGYPT-I
+          - SRC-HOP-STRABO-EGYPT-XVII
+          - SRC-HOP-PLUTARCH-ISIS-OSIRIS
+        retain_with_boundary:
+          - Herodotus Book II
+      later_critical_controls_not_primary:
+        add:
+          - SRC-HOP-FRANKFORT-KINGSHIP-GODS-1948
+          - SRC-HOP-HORNUNG-ONE-MANY-1971
+          - SRC-HOP-LICHTHEIM-AEL-1973-1980
+          - SRC-HOP-KEMP-ANATOMY-EGYPT-1989
+          - SRC-HOP-ASSMANN-MAAT-1990
+        reclassify:
+          - Schwaller de Lubicz, Sacred Science
+          - Schwaller de Lubicz, Egyptian Miracle
+          - Petrie, Religion of Ancient Egypt
+      controversial_modern_interpretation_quarantined_from_fact:
+        - John Anthony West, Serpent in the Sky
+
+  navigational_questions:
+    remove_or_rewrite:
+      - current: What older civilizational source accounts for the completeness visible at the beginning of the surviving record?
+        proposed: >-
+          What can the mature forms at the earliest surviving horizon establish,
+          and what prior development, loss or transmission remains unknown?
+      - current: How does Luxor embody Anthropocosmos and make the temple an initiatory text?
+        proposed: >-
+          Which Luxor inscriptions, ritual sequences, architectural relations and
+          later interpretations support or contest anthropological readings of the temple?
+      - current: How does control of initiation organize political and spiritual access to knowledge?
+        proposed: >-
+          What evidence establishes restricted spaces, priestly training, literacy and
+          differentiated access, and what stronger initiatory claims remain modern hypotheses?
+    add:
+      - How does authority enter body and heart in the Loyalist Teaching without becoming modern consent?
+      - What can Khuninpu's petition disclose about delegated abuse that royal decree and elite autobiography cannot?
+      - How do people and labor appear as conditions of rule inside an explicitly hierarchical order?
+      - When does office discipline restrain private preference, and when does office become an instrument of extraction?
+      - Why does Neferti portray the heart turned entirely toward itself as disorder rather than freedom?
+      - How do Manetho, Diodorus, Strabo and Plutarch each transform Egypt for a later reading and governing world?
+      - Which current claims are Egyptian self-witness, which are ancient reception, and which are modern reconstruction?
+      - How can ancient agency and criticism be preserved without projecting the naturally separate modern individual backward?
+
+age_of_individual_conformity:
+  result: CONFORMS_AFTER_PROPOSED_CORRECTION
+  core_finding: >-
+    The repaired Egypt layer supplies a demonstrated older force of power: persons
+    are born, named, provisioned, organized, judged and remembered within sacred,
+    royal, institutional and mortuary relations represented as preceding private
+    will. Yet the same evidence preserves hearts, names, speech, labor, petition,
+    office, responsibility and moral criticism. The contrast with the later age of
+    the individual is therefore historical and relational, not a false opposition
+    between ancient non-persons and modern persons.
+  crossing_relations:
+    - PRESERVES: inward moral and affective formation by authority
+    - TRANSFORMS: office, administration, record and judgment in later states and religions
+    - COEXISTS_WITH: personal agency inside non-individualist order
+    - NO_DIRECT_CROSSING_YET: Manethonian chronology and some reception relations
+  anti_teleological_boundary: >-
+    Egyptian order is not evaluated as an incomplete liberalism, and later individuality
+    is not treated as its necessary culmination.
+
+application_sequence:
+  - complete Horemheb and Rekhmire original-language passage controls
+  - complete Manetho fragment inventory and Greek passage checks for dusk witnesses
+  - review proposal against existing Egypt source list and all cross-references
+  - prepare exact replacement content for structured Star fields
+  - validate YAML and internal source references
+  - update structured Star only through a corruption-safe whole-file mechanism
+  - revise narrative companion only after structured Star update
+  - do not begin Persia until Egypt correction is accepted or explicitly deferred
+
+current_gate:
+  acquisition: FIRST_BATCH_COMPLETE
+  passage_control: SUBSTANTIALLY_COMPLETE_WITH_HOREMHEB_REKHMIRE_AND_GREEK_CHECKS_OPEN
+  reclassification: COMPLETE_AS_PROPOSAL
+  structured_star_proposal: READY_FOR_REVIEW
+  canonical_structured_star_change: NOT_APPLIED
+  narrative_change: NOT_APPLIED
