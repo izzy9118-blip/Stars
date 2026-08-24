@@ -1,0 +1,80 @@
+correction_id: EGYPT-AGE-OF-INDIVIDUAL-CONFORMITY-CORRECTION-001
+status: CANDIDATE_STRUCTURED_STAR_CORRECTION_NOT_YET_APPLIED
+history_of_power_star: STAR-HISTORY-OF-POWER-001
+alignment_star: STAR-AGE-OF-INDIVIDUAL-001
+
+central_finding: >-
+  Egypt strongly fits the Age of the Individual thesis as a historically specific
+  sacred, royal, household, administrative, and mortuary order that precedes the
+  modern separate individual. It does not conform if its position as the first
+  case mapped by History of Power is stated as proof that power itself originated
+  in Egypt or that all later forms descend causally from Egypt.
+
+current_language_at_risk:
+  - phrase: Power first appears in Egypt
+    risk: UNIVERSAL_ORIGIN_CLAIM_FROM_STAR_ORDER
+  - phrase: This is the first older force in the History of Power
+    risk: AMBIGUITY_BETWEEN_FIRST_MAPPED_CASE_AND_HISTORICAL_SOURCE_OF_ALL_LATER_POWER
+  - phrase_family: Egypt enters the surviving record complete and as a legacy
+    risk: OPEN_ARCHAEOLOGICAL_QUESTION_TOO_CLOSE_TO_FACT_AND_LOST_SOURCE_SPECULATION
+
+required_distinctions:
+  - first_mapped_case_vs_first_historical_origin
+  - chronological_placement_vs_causal_descent
+  - surviving_complexity_vs_complete_timeless_system
+  - Egyptian_self_witness_vs_modern_integrative_interpretation
+  - personal_voice_inside_order_vs_modern_individual_autonomy
+
+candidate_fact_language:
+  replace_opening_with: >-
+    The first civilizational form examined in this Star is Egyptian power as it
+    appears in the surviving record: not merely a human capacity imposed upon an
+    already completed world, but an efficacy represented as bringing forth,
+    distinguishing, naming, nourishing, ruling, judging, and renewing an ordered
+    cosmos.
+  replace_closing_with: >-
+    This is the first older force mapped here: an Egyptian civilizational order
+    carried across generations through names, crowns, images, rites, numbers,
+    measures, households, monuments, offices, records, labor, and the dead.
+
+required_boundary_addition: >-
+  Egypt is the first civilizational case selected by this bounded History of Power,
+  not a demonstrated origin of every form of power or a necessary causal ancestor
+  of Persia, Greece, Rome, revelation, sovereignty, or the modern individual.
+  Similar or later relations may arise independently, through transmission, through
+  conflict, or through combinations that remain to be established source by source.
+
+age_star_conformity:
+  aligns_with:
+    - sacred order precedes individual will
+    - authority determines what is real and where human beings belong
+    - older forms persist, collide, and change rather than simply disappear
+    - chronology does not by itself establish causal descent
+    - intellectual teaching, institutional practice, reception, and later use remain distinct
+  requires_expansion:
+    - household authority must become visible through Heqanakht and related records, not only king and temple
+    - subordinate agency must remain visible through petition, labor, and minority-community witnesses
+    - every passage to later individual forms must be explicitly marked PRESERVE, DISPLACE, APPROPRIATE, COEXIST_WITH, TRANSFORM, or NO_DIRECT_CROSSING_YET
+
+claims_requiring_nonteleological_control:
+  - Sinuhe's interiority does not constitute modern selfhood.
+  - The Eloquent Peasant's petition does not constitute natural individual rights.
+  - Weni and Harkhuf's autobiographies do not constitute careers independent of office and king.
+  - Hatshepsut's royal representation does not constitute modern self-authored identity.
+  - Administrative naming in Wilbour or judicial papyri does not constitute equal legal personhood.
+  - Mortuary extension beyond kingship does not by itself constitute democratization in a modern political sense.
+
+structured_star_targets_if_adopted:
+  - fact.opening
+  - fact.egypt_closing
+  - scope.exclusions
+  - shape.operative_rules
+  - historical_spectrum.egyptian_power.boundary
+  - conceptual_chain.egyptian_power.governing_principle
+
+application_rule: >-
+  Do not edit narrative prose first. After the Egypt evidence and claim map is
+  ready, apply the bounded correction to the structured Star, validate its relation
+  to STAR-AGE-OF-INDIVIDUAL-001, and only then revise the narrative companion.
+
+structured_star_update_authorized: false
