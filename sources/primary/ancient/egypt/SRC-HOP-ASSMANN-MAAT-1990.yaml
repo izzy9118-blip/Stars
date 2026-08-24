@@ -1,0 +1,60 @@
+source_id: SRC-HOP-ASSMANN-MAAT-1990
+status: GOVERNING_GERMAN_FIRST_EDITION_METADATA_LOCKED_REVIEW_EXTRACTION_PENDING
+
+author_or_corporate_author: Jan Assmann
+work_or_document_title: Ma'at
+author_subtitle: Gerechtigkeit und Unsterblichkeit im Alten Ägypten
+date_or_period:
+  publication_year: 1990
+  ancient_periods_discussed: multiple periods and genres of ancient Egyptian culture
+original_language: German
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+
+governing_witness_and_exact_edition_or_archive:
+  edition: first edition
+  publisher: Verlag C. H. Beck
+  place: München
+  year: 1990
+  extent: 319 pages
+  isbn: 3-406-34667-7
+  national_library_record: https://www.deutsche-digitale-bibliothek.de/item/YHHPMITYZVWLI7ALEAR5UCSY7SVYN5WJ
+  note: Later Beck editions and added afterwords may aid reception history but do not replace the 1990 argument.
+
+participant_or_observer_position: twentieth-century Egyptologist and historian of religion/cultural memory
+temporal_distance_if_retrospective: millennia after the primary evidence
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - ma_at_as_truth_justice_world_order_and_social_relation
+  - judgment_memory_and_immortality
+  - relation_between_cosmic_order_social_obligation_and_personal_conduct
+intended_claim_class: WITNESS_METADATA
+secondary_integration_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - A major modern reconstruction of ma'at across linguistic, social, political, mortuary and intellectual contexts.
+  - A framework for testing how cosmic order, social justice, memory and immortality relate without assuming they are one simple doctrine.
+  - Specific primary-text pathways that must be checked before History of Power generalizes ma'at.
+what_the_source_cannot_establish:
+  - That every occurrence of ma'at has one identical meaning across genre and period.
+  - Egyptian self-description merely through the authority of modern synthesis.
+  - A direct genealogy from Egyptian order to later western individuality or emancipation.
+
+rival_or_counter_witnesses_where_known:
+  - Miriam Lichtheim's translations and ma'at studies
+  - Erik Hornung, Der Eine und die Vielen
+  - Barry Kemp, Ancient Egypt: Anatomy of a Civilization
+  - wisdom texts, autobiographies, royal decrees and mortuary sources
+boundary_effect: >-
+  Assmann may organize a controlled inquiry into ma'at, but every institutional or
+  historical proposition must return to genre-specific Egyptian evidence and rival modern readings.
+
+age_of_individual_crossing:
+  person_power_relation: person situated within cosmic, social and mortuary judgment rather than constituted first as a separate rights-bearer
+  authority_demand: truthful speech, just conduct, reciprocity, memory and judgment within an order exceeding private will
+  conduct_formation: ma'at may join public office, interpersonal conduct and postmortem accountability
+  later_relation: PRESERVE_AS_OLDER_NORMATIVE_FORM_AND_LATER_TRANSFORM
+  prohibition: Do not translate ma'at into modern autonomy, conscience or universal rights without an explicit intervening genealogy.
+
+quotation_state: CRITICAL_ARGUMENT_NOT_YET_EXTRACTED
+star_integration_state: CONTROL_SOURCE_ONLY_NOT_YET_PROPOSED
