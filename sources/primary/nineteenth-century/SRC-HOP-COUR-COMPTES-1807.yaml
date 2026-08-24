@@ -1,0 +1,38 @@
+source_id: SRC-HOP-COUR-COMPTES-1807
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: French Empire / Corps législatif
+  title: Loi du 16 septembre 1807 relative à l'organisation de la Cour des comptes
+  date: 1807-09-16
+  original_language: French
+  role: centralized_public_accounting_audit_treasury_and_departmental_finance
+
+governing_witness:
+  witness_type: OFFICIAL_LEGISLATIVE_TEXT_WITH_BULLETIN_REFERENCE
+  repository: Légifrance
+  url: https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071204/
+  bulletin_reference: Bulletin des lois, 4e série, tome 7, no 155, texte no 2792
+  bnf_original_scan: https://gallica.bnf.fr/ark:/12148/bpt6k4453596/f529.item
+
+key_provisions:
+  - article: 1
+    anchor: Les fonctions de la comptabilité nationale seront exercées par une Cour des comptes.
+  - article: 6
+    issue: members appointed for life by the Emperor; presidents changeable annually
+  - article: 11
+    issue: court judges accounts of Treasury receipts and expenditures, departmental receivers, indirect-tax administrations, army paymasters, military divisions, maritime districts, departments and communes whose budgets are fixed by the Emperor
+  - article: 12
+    issue: public accountants required to file accounts, with penalties for delay
+  - article: 13
+    issue: court determines whether accountants are discharged, in advance, or in debit and can order repayment to the Treasury
+
+witness_policy:
+  rule: >-
+    The law demonstrates centralized judicial accounting and accountability of public
+    money. It does not by itself establish that all imperial finances were transparent,
+    efficient, or independent of executive influence.
+
+quotation_state: TARGETED_PASSAGES_VERIFIED
+analysis_state: NOT_YET_INTEGRATED
