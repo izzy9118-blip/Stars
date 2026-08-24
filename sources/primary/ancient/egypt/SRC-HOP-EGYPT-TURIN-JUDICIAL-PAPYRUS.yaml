@@ -1,0 +1,73 @@
+source_id: SRC-HOP-EGYPT-TURIN-JUDICIAL-PAPYRUS
+status: GOVERNING_PAPYRUS_IDENTIFIED_COLUMN_AND_COMPANION_DOCUMENT_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Ramesside royal judicial and scribal authority
+work_or_document_title: Judicial Papyrus of Turin
+principal_identifier: Conventionally Papyrus Turin 1875
+original_language: Late Egyptian
+date_or_period: Transition from Ramesses III to Ramesses IV, Twentieth Dynasty
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+participant_or_observer_position: Official record of royal commission, accused persons, judicial proceedings, findings, penalties, and misconduct connected to the harem conspiracy
+temporal_distance_if_retrospective: Near-contemporary judicial record; relationship among the conspiracy, trial stages, and surviving papyri requires document-level chronology
+
+governing_witness_and_exact_edition_or_archive:
+  original_object:
+    repository: Museo Egizio, Turin
+    catalogue: Papyrus Turin 1875, conventional identification to be verified against current catalogue
+    status: GOVERNING_OBJECT_IDENTIFIED_EXACT_CATALOGUE_COLUMN_AND_RECTO_VERSO_CROSSWALK_PENDING
+  companion_document_rule: >-
+    Lee, Rollin, and related papyri concerning the conspiracy and proceedings must
+    be catalogued separately rather than silently merged into one document.
+  public_domain_translation_control:
+    editor_translator: James Henry Breasted
+    title: Ancient Records of Egypt, Volume IV
+    url: https://archive.org/details/ancientrecordsof04brea
+    evidence_class: LATER_CRITICAL_TRANSLATION_NOT_PRIMARY
+    status: WORKING_TRANSLATION_PENDING_MODERN_EDITION_CONTROL
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Palace dependence and conspiracy expose the mortality and vulnerability of the royal bearer while judicial commissions seek to preserve the office and succession.
+  - Persons become accused, renamed, examined, punished, or compelled through a sovereign judicial process that can itself be corrupted by officials.
+intended_claim_class:
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - The categories of accused persons, judges, charges, findings, and penalties preserved in the official record.
+  - A royal response to conspiracy through delegated judicial commission and written proceeding.
+  - That judges and officials themselves could become subjects of accusation within the process.
+what_the_source_cannot_establish:
+  - An impartial or complete account of the conspiracy.
+  - Guilt independent of the royal judicial record and companion evidence.
+  - The private motives of every accused person.
+  - One unchanging Egyptian criminal procedure across periods.
+
+rival_or_counter_witnesses_where_known:
+  - companion conspiracy papyri and ostraca
+  - Ramesses III mortuary and royal inscriptions
+  - mummy and forensic evidence where relevant
+  - modern legal-historical and philological reconstructions
+
+boundary_effect: >-
+  The papyrus can ground claims about palace vulnerability, delegated judgment,
+  naming, body, and punishment while preventing royal accusation from becoming
+  unquestioned historical verdict.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: Royal succession and judicial commission acting through judges, scribes, interrogation, and punishment
+  human_position: Court dependent, official, family member, or accused person whose name, body, and fate are subject to sovereign judgment
+  demanded_conduct: Loyalty to the royal household and compliance with judicial process as represented by the record
+  formative_technique: Commission, charge, interrogation, renaming, written verdict, bodily penalty, and archival memory
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    The appearance of individualized defendants does not imply modern legal
+    personhood or due process. Persons are differentiated within sovereign and
+    household jurisdiction.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
