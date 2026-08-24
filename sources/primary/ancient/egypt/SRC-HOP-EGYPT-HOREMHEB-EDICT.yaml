@@ -1,0 +1,69 @@
+source_id: SRC-HOP-EGYPT-HOREMHEB-EDICT
+status: GOVERNING_MONUMENT_IDENTIFIED_TEXTUAL_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: King Horemheb and the royal scribal-administrative authority represented by the decree
+work_or_document_title: The Great Edict of Horemheb
+date_or_period: Late Eighteenth Dynasty, reign of Horemheb
+original_language: Late Egyptian / monumental Middle Egyptian register as preserved in the inscription
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+participant_or_observer_position: Royal normative and self-legitimating decree directed against abuses in administration and exaction
+temporal_distance_if_retrospective: Contemporary royal inscription relative to the reforms it proclaims; prior abuses are described by the reforming authority
+
+governing_witness_and_exact_edition_or_archive:
+  original_monument:
+    object: Decree stela/inscription of Horemheb at Karnak
+    repository_or_site: Karnak temple complex, Luxor
+    status: MONUMENT_IDENTIFIED_EXACT_SCENE_LINE_AND_CURRENT_OBJECT_CUSTODY_CROSSWALK_PENDING
+  public_domain_translation_control:
+    editor_translator: James Henry Breasted
+    title: Ancient Records of Egypt, Volume III
+    year: 1906
+    url: https://archive.org/details/ancientrecordsof03brea
+    evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+    status: WORKING_TRANSLATION_ONLY_UNTIL_CHECKED_AGAINST_MODERN_EPIGRAPHIC_EDITION
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Royal office claims responsibility for restraining corrupt officials, soldiers, collectors, and judges whose exactions injure inhabitants.
+  - Ma'at is made administrative through appointment, penalty, procedure, inspection, and protection rather than remaining only a cosmic formula.
+intended_claim_class:
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - The categories of abuse that Horemheb's government chose to name and condemn.
+  - A royal claim to reform collection, transport, official conduct, and judicial administration through appointments and penalties.
+  - The self-presentation of kingship as protector against abuses committed through delegated power.
+what_the_source_cannot_establish:
+  - The frequency or geographic distribution of every abuse named.
+  - That the reforms were uniformly implemented or permanently effective.
+  - That the decree gives the victims' own unmediated account.
+
+rival_or_counter_witnesses_where_known:
+  - administrative and legal papyri from the late Eighteenth and Nineteenth Dynasties
+  - tomb and official inscriptions praising administration
+  - SRC-HOP-EGYPT-DEIR-EL-MEDINA-STRIKE
+  - SRC-HOP-EGYPT-ELOQUENT-PEASANT
+
+boundary_effect: >-
+  The decree supports a claim about royal jurisdiction and reforming self-description;
+  implementation and lived effect require independent records.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - forms_of_authority.sacred_authority
+  authority_bearer: King acting through judges, officials, collectors, soldiers, and penalties
+  human_position: Subject vulnerable to delegated exaction yet represented as entitled to royal protection within hierarchy
+  demanded_conduct: Officials must execute bounded duties; subjects remain within the fiscal and administrative order
+  formative_technique: Decree, inspection, appointment, oath, penalty, and public monumental promulgation
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    Protection against official abuse does not imply modern individual rights
+    against the state; it shows kingship claiming to discipline its own agents in
+    order to restore rightful hierarchy.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
