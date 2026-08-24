@@ -1,6 +1,6 @@
 corpus_id: HOP-EARLY-MODERN-PRIMARY-001
 name: Early-Modern Primary Source Repair Corpus
-status: DUTCH_UNIT_MAPPED_ENGLISH_UNIT_NEXT
+status: DUTCH_AND_ENGLISH_UNITS_MAPPED_REFORMATION_NEXT
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: star-history-of-power-001
 working_branch: history-of-power-primary-sources-001
@@ -28,136 +28,135 @@ sources:
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-LUTHER-TEMPORAL-AUTHORITY-1523.yaml
     witness: "1523 German Wittenberg print, Bayerische Staatsbibliothek"
-
   - source_id: SRC-HOP-CALVIN-INSTITUTES-IV-20
     role: reformation_magistracy_law_people
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-CALVIN-INSTITUTES-IV-20.yaml
     witness: "1559 definitive Latin Institutio, Bibliothèque de Genève"
-
   - source_id: SRC-HOP-BODIN-REPUBLIQUE-1576
     role: sovereignty_and_commonwealth
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-BODIN-REPUBLIQUE-1576.yaml
     witness: "1576 French first edition, Paris: Jacques du Puy"
-
   - source_id: SRC-HOP-UNION-UTRECHT-1579
     role: dutch_confederal_union_and_provincial_right
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-UNION-UTRECHT-1579.yaml
     witness: "Digitized archival Dutch treaty witness, Nationaal Archief 1.01.19 inv. 2623"
-
   - source_id: SRC-HOP-ACT-ABJURATION-1581
     role: deposition_tyranny_and_dissolution_of_allegiance
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-ACT-ABJURATION-1581.yaml
     witness: "1581 Dutch print, Leiden: Charles Silvius"
-
   - source_id: SRC-HOP-VOC-CHARTER-1602
     role: chartered_corporate_monopoly_military_diplomatic_and_commercial_power
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-VOC-CHARTER-1602.yaml
     witness: "Original Dutch charter, Nationaal Archief VOC 1.04.02 inv. 1"
-
   - source_id: SRC-HOP-GROTIUS-DE-JURE-PRAEDAE
     role: voc_prize_war_property_contract_and_commercial_force
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-GROTIUS-DE-JURE-PRAEDAE.yaml
     witness: "Grotius autograph Latin manuscript, Leiden University Libraries BPL 917"
-
   - source_id: SRC-HOP-GROTIUS-MARE-LIBERUM-1609
     role: freedom_of_seas_navigation_trade_and_dutch_commercial_right
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-GROTIUS-MARE-LIBERUM-1609.yaml
     witness: "1609 Latin first-edition diplomatic representation, DBNL"
-
   - source_id: SRC-HOP-WISSELBANK-ORDINANCE-1609
     role: amsterdam_municipal_payment_bank_coin_and_exchange_order
     state: DOCUMENTARY_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-WISSELBANK-ORDINANCE-1609.yaml
     witness: "31 January 1609 ordinance reproduced in Noordkerk, Handvesten (1748), pp. 673-674"
-
   - source_id: SRC-HOP-WISSELBANK-ARCHIVE-5077
     role: operational_accounts_ledgers_and_internal_governance
     state: ARCHIVAL_SERIES_LOCKED
     record: sources/primary/early-modern/SRC-HOP-WISSELBANK-ARCHIVE-5077.yaml
     witness: "Stadsarchief Amsterdam, Archief van de Wisselbank 5077, 1609-1822"
-
   - source_id: SRC-HOP-PETITION-RIGHT-1628
     role: taxation_imprisonment_prerogative_and_subject_right
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-PETITION-RIGHT-1628.yaml
     witness: "Enacted English Petition of Right, 3 Cha. 1 c. 1"
-
+  - source_id: SRC-HOP-GRAND-REMONSTRANCE-1641
+    role: parliamentary_claim_to_diagnose_and_reform_crown_counsel_religion_and_government
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-GRAND-REMONSTRANCE-1641.yaml
+    witness: "Contemporary 1641 Commons print, London: Joseph Hunscott"
+  - source_id: SRC-HOP-ANSWER-NINETEEN-PROPOSITIONS-1642
+    role: royal_defense_of_mixed_constitution_crown_prerogative_and_militia
+    state: CONTEMPORARY_TEXTUAL_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-ANSWER-NINETEEN-PROPOSITIONS-1642.yaml
+    witness: "Transcription identified to 1642 York royal-order print containing Propositions and Answer"
   - source_id: SRC-HOP-PUTNEY-DEBATES-1647
     role: representation_property_consent_army_and_constituent_power
     state: PRIMARY_MANUSCRIPT_TRANSCRIPTION_LOCKED
     witness: "William Clarke papers, ed. C. H. Firth, The Clarke Papers vol. 1 (1891), pp. 226-428"
     locator: https://davidmhart.com/liberty/Books/1647-PutneyDebates/Officers_PutneyDebates-T111-ebook.pdf
-
   - source_id: SRC-HOP-HOBBES-LEVIATHAN-1651
     role: artificial_person_authorization_and_undivided_sovereignty
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-HOBBES-LEVIATHAN-1651.yaml
     witness: "1651 English first edition, first issue ('Head' edition)"
-
+  - source_id: SRC-HOP-INSTRUMENT-GOVERNMENT-1653
+    role: protectorate_written_constitution_legislature_executive_militia_taxation
+    state: GOVERNING_TEXT_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-INSTRUMENT-GOVERNMENT-1653.yaml
+    witness: "Gardiner constitutional transcription of Instrument dated 16 December 1653"
   - source_id: SRC-HOP-BONTEMANTEL-AMSTERDAM-GOVERNMENT-1653-1672
     role: contemporary_municipal_governance_wisselbank_treasury_and_credit_practice
     state: PRIMARY_MEMOIR_TRANSCRIPTION_LOCKED
     record: sources/primary/early-modern/SRC-HOP-BONTEMANTEL-AMSTERDAM-GOVERNMENT-1653-1672.yaml
     witness: "Hans Bontemantel contemporary notes, ed. G.W. Kernkamp 1897, DBNL transcription"
-
   - source_id: SRC-HOP-DEWITT-DEDUCTIE-1654
     role: dutch_republican_constitution_provincial_sovereignty_and_act_of_seclusion
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-DEWITT-DEDUCTIE-1654.yaml
     witness: "1654 Dutch edition, Utrecht University Library handle 20.500.14918/22745"
     hard_rule: NO_ENGLISH_SUBSTITUTE_AS_GOVERNING_WITNESS
-
   - source_id: SRC-HOP-DELACOURT-INTEREST-1662
     role: commercial_republicanism_trade_fisheries_manufactures_liberty_and_interest
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-DELACOURT-INTEREST-1662.yaml
     witness: "1662 Dutch first edition represented diplomatically by DBNL from Leiden UB 1159 E 15"
-
   - source_id: SRC-HOP-DEWITT-LYFRENTEN-1671
     role: public_debt_annuity_pricing_probability_and_state_records
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-DEWITT-LYFRENTEN-1671.yaml
     witness: "1671 Dutch print, 's-Gravenhage: Jacobus Scheltus"
-
   - source_id: SRC-HOP-FINANCIE-HOLLAND-30129
     role: provincial_treasury_public_debt_taxation_and_annuity_accounting
     state: ARCHIVAL_SERIES_LOCKED
     record: sources/primary/early-modern/SRC-HOP-FINANCIE-HOLLAND-30129.yaml
     witness: "Nationaal Archief, Archief van de Financie van Holland 3.01.29"
-
   - source_id: SRC-HOP-DE-LA-VEGA-CONFUSION-1688
     role: amsterdam_share_trading_speculation_credit_information_and_bank_settlement
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-DE-LA-VEGA-CONFUSION-1688.yaml
     witness: "1688 Spanish first edition, Amsterdam"
-
   - source_id: SRC-HOP-BILL-RIGHTS-1689
     role: crown_parliament_taxation_army_elections_petition_privilege_and_succession
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-BILL-RIGHTS-1689.yaml
     witness: "Original Parliamentary Archives public Act, HL/PO/PU/1/1688/1W&Ms2n2"
-
+  - source_id: SRC-HOP-LOCKE-TWO-TREATISES-1690
+    role: property_consent_legislative_trust_taxation_and_right_of_resistance
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-LOCKE-TWO-TREATISES-1690.yaml
+    witness: "1690 first edition, London: Awnsham Churchill"
   - source_id: SRC-HOP-BOE-ACT-1694
     role: funded_public_credit_taxation_subscription_and_war_finance
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-BOE-ACT-1694.yaml
     witness: "Enacted English statute, 5 & 6 Will. & Mar. c. 20"
-
   - source_id: SRC-HOP-BOE-CHARTER-1694
     role: corporate_constitution_of_funded_public_credit
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-BOE-CHARTER-1694.yaml
     witness: "Official Bank of England text of Charter dated 27 July 1694"
 
-witness_count: 22
-locked_count: 22
+witness_count: 26
+locked_count: 26
 
 maps:
   - map_id: DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001
@@ -165,6 +164,9 @@ maps:
     status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
   - map_id: DUTCH-FINANCIAL-POWER-001
     path: sources/primary/early-modern/maps/DUTCH-FINANCIAL-POWER-001.yaml
+    status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
+  - map_id: ENGLISH-CIVIL-WAR-SOVEREIGNTY-1688-CREDIT-001
+    path: sources/primary/early-modern/maps/ENGLISH-CIVIL-WAR-SOVEREIGNTY-1688-CREDIT-001.yaml
     status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
 
 repair_sequence:
@@ -178,29 +180,13 @@ repair_sequence:
   - 1688_and_constitutional_monarchy
   - funded_public_credit_and_fiscal_military_power
 
-next_phase:
-  name: PASSAGE_EXTRACTION_AND_CLAIM_MAPPING
-  rules:
-    - Extract only passages necessary to support defined History of Power claims.
-    - Record original-language wording and precise witness location before abstraction.
-    - Where a translation is used for working English, retain the corresponding original passage.
-    - Keep contradictory or competing primary claims separate.
-    - Do not integrate prose into the narrative until each production unit has a passage-to-claim map.
-  dutch_unit:
-    constitutional_commercial_map: sources/primary/early-modern/maps/DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001.yaml
-    financial_map: sources/primary/early-modern/maps/DUTCH-FINANCIAL-POWER-001.yaml
-    state: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
-    remaining_controls:
-      - final image-level comparison of any De Witt 1654 wording intended for direct quotation
-      - preserve later-transcription status of VOC charter article numbering unless original diplomatic text is obtained
-      - preserve Grotius manuscript textual-state information
-      - do not make recurrent quantitative Wisselbank borrowing claims from the single 1662 Bontemantel entry
-  next_unit:
-    name: ENGLISH_CIVIL_WAR_SOVEREIGNTY_1688_AND_FUNDED_CREDIT
-    initial_sources:
-      - SRC-HOP-PETITION-RIGHT-1628
-      - SRC-HOP-PUTNEY-DEBATES-1647
-      - SRC-HOP-HOBBES-LEVIATHAN-1651
-      - SRC-HOP-BILL-RIGHTS-1689
-      - SRC-HOP-BOE-ACT-1694
-      - SRC-HOP-BOE-CHARTER-1694
+production_state:
+  dutch_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
+  english_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
+  next_unit: REFORMATION_CONFESSIONAL_JURISDICTION_AND_BODIN_SOVEREIGNTY
+
+remaining_global_controls:
+  - Do not integrate prose until each chronological bridge has its own passage-to-claim map.
+  - Preserve De Witt 1654 Dutch edition as governing witness.
+  - Preserve manuscript/transcription distinctions for VOC, Grotius, 1642 Answer, and Wisselbank evidence.
+  - Reuse existing Stars interpretations only with explicit provenance; primary texts and prior interpretations are different evidence classes.
