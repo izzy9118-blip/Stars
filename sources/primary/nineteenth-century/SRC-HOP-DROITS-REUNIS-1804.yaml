@@ -1,0 +1,45 @@
+source_id: SRC-HOP-DROITS-REUNIS-1804
+status: ARCHIVAL_INSTITUTIONAL_WITNESS_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: French government / Régie des droits réunis
+  title: Régie des droits réunis: law of 5 ventôse an XII and departmental accounting administration
+  founding_date: 1804-02-25
+  original_language: French
+  role: indirect_tax_collection_departmental_revenue_staff_and_treasury_remittance
+
+legal_origin:
+  law: 5 ventôse an XII
+  date: 1804-02-25
+  scope:
+    - beverages and distilleries
+    - public vehicles
+    - cards
+    - guarantee duties on precious metals
+    - tobacco and related indirect revenues
+    - later additions including navigation, salt, municipal octrois and tobacco monopoly
+
+archival_witness:
+  witness_type: DEPARTMENTAL_ACCOUNTING_REGISTERS
+  repository: Bibliothèque historique de la Ville de Paris / Catalogue collectif de France
+  collection: Direction des droits réunis du département de la Seine. Registres de comptabilité
+  dates: 1804-1813
+  extent: 9 volumes
+  sample_record: https://ccfr.bnf.fr/portailccfr/ark:/16871/004a79407705
+
+institutional_structure:
+  - national Régie des droits réunis
+  - departmental Direction des droits réunis in each departmental capital
+  - inspectors, controllers and collection agents
+  - directors appointed by the central executive and inspectors under the finance ministry
+  - collected sums transmitted through receivers-general into the public Treasury
+
+witness_policy:
+  rule: >-
+    Use the legal and accounting witnesses to establish a staffed territorial machinery
+    for indirect-tax collection and remittance. Do not infer taxpayer compliance,
+    collection efficiency, or popular acceptance from institutional existence alone.
+
+quotation_state: INSTITUTIONAL_RELATIONS_VERIFIED_ACCOUNTING_PASSAGES_PENDING
+analysis_state: NOT_YET_INTEGRATED
