@@ -1,0 +1,226 @@
+map_id: PERSIA-PERSON-AUTHORITY-001
+status: INITIAL_MULTIARCHIVAL_CLAIM_AND_BOUNDARY_MAP
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+method:
+  - No source below is treated as the complete voice of Persia.
+  - Royal self-witness, routine administration, provincial community documents,
+    contemporary Greek tragedy, participant hindsight, philosophical reconstruction,
+    Babylonian chronicle and modern scholarship remain separate evidence classes.
+  - Exact quotations await governing-language extraction. Bounded source relations may
+    be mapped without quotation where artifact, date, genre and claim limits are locked.
+  - Herodotus remains a first-class post-festum Greek historian but no longer supplies
+    unmarked Persian self-understanding.
+
+claims:
+  - claim_id: PERS-PWR-001
+    proposition: >-
+      Cyrus's Babylonian foundation inscription represents conquest as legitimate
+      kingship through Marduk, peaceful entry, cult restoration, return of images and
+      displaced communities, tribute and building work.
+    source_id: SRC-HOP-CYRUS-CYLINDER
+    passage_status: ARTIFACT_AND_AKKADIAN_TEXT_LOCKED_EXTRACTION_PENDING
+    intended_claim_class: SELF_WITNESS
+    qualification: >-
+      This is Cyrus's Babylonian royal presentation in a conquered political theology,
+      not an empire-wide rights charter or independent proof of peaceful conquest.
+    age_of_individual_crossing:
+      relation: LOCAL_COMMUNITY_RESTORATION_INSIDE_IMPERIAL_SUBJECTION
+      finding: >-
+        Persons recover places in cultic and civic communities rather than appearing
+        as naturally separate individuals who authorize the conqueror.
+
+  - claim_id: PERS-PWR-002
+    proposition: >-
+      Darius's Behistun monument constructs dynastic legitimacy by naming revolts,
+      commanders, punishments, provinces, Ahuramazda and the opposition between royal
+      truth and the Lie across several imperial languages.
+    source_id: SRC-HOP-BEHISTUN
+    passage_status: MONUMENT_AND_MULTILINGUAL_TEXT_LOCKED_EXTRACTION_PENDING
+    intended_claim_class: SELF_WITNESS
+    qualification: >-
+      The defeated do not become liars as an independent fact merely because Darius
+      names them so. The monument is a victorious royal account requiring counter-witnesses.
+    age_of_individual_crossing:
+      relation: PERSON_CLASSIFIED_BY_LOYALTY_TO_ROYAL_TRUTH
+      finding: >-
+        Moral and political identity are assigned through obedience or rebellion
+        within divinely granted kingship, not through private judgment prior to the empire.
+
+  - claim_id: PERS-PWR-003
+    proposition: >-
+      DNa and DNb present many peoples beneath one king while concentrating hearing,
+      self-control, military capacity, reward and punishment in the ideal royal person.
+    source_id: SRC-HOP-DARIUS-DNA-DNB
+    passage_status: MONUMENTS_LOCKED_MULTILINGUAL_CROSSWALK_PENDING
+    intended_claim_class: SELF_WITNESS
+    qualification: >-
+      Royal self-command is an attributed ideal and cannot prove justice in imperial practice.
+    age_of_individual_crossing:
+      relation: ROYAL_SELF_MASTERY_LATER_DIFFUSED_AND_TRANSFORMED
+      finding: >-
+        Personal moral discipline is visible before modern autonomy, but exemplary
+        judgment is centered in the king rather than generalized to equal individuals.
+
+  - claim_id: PERS-ADM-001
+    proposition: >-
+      The Persepolis Fortification Archive shows imperial coordination through named
+      persons, seals, rations, work, travel, authorization, storehouses and accounting.
+    source_id: SRC-HOP-PERSEPOLIS-FORTIFICATION
+    passage_status: ARCHIVAL_CORPUS_LOCKED_DOCUMENT_SAMPLE_PENDING
+    intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    qualification: >-
+      The archive is a dated core-region corpus, not a census or model of every imperial province.
+    age_of_individual_crossing:
+      relation: EARLY_ADMINISTRATIVE_LEGIBILITY
+      finding: >-
+        Persons become visible through work, movement, entitlement and institutional
+        relation, not through measured desire, lifestyle or autonomous identity.
+
+  - claim_id: PERS-PROV-001
+    proposition: >-
+      Elephantine documents show named provincial persons arranging marriage, property,
+      debt, status, worship and petition through archives inside military, household,
+      communal and imperial jurisdiction.
+    source_id: SRC-HOP-ELEPHANTINE-PAPYRI
+    passage_status: PROVINCIAL_CORPUS_LOCKED_DOCUMENT_SAMPLE_PENDING
+    intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    qualification: >-
+      Documentary agency is status-specific and unequal; it is not modern universal citizenship.
+    age_of_individual_crossing:
+      relation: DOCUMENTARY_PERSONHOOD_LATER_GENERALIZED_AND_TRANSFORMED
+      finding: >-
+        Distinct persons can hold claims without standing outside household, slavery,
+        military service, religious community and imperial office.
+
+  - claim_id: PERS-PROV-002
+    proposition: >-
+      Arsames's letters disclose satrapal authority operating across absence through
+      Aramaic writing, seals, agents, estates, travel, labor and resource accounting.
+    source_id: SRC-HOP-ARSAMES-LETTERS
+    passage_status: BODLEIAN_CORPUS_LOCKED_DOCUMENT_SAMPLE_PENDING
+    intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    qualification: >-
+      Public office and estate management overlap in this corpus but may not be declared identical everywhere.
+    age_of_individual_crossing:
+      relation: DELEGATED_DOCUMENTARY_RULE_LATER_DIFFERENTIATED
+      finding: >-
+        Agent, steward and worker possess bounded agency inside relations that do not
+        yet separate public bureaucracy, private management and employment as modern categories.
+
+  - claim_id: PERS-PROV-003
+    proposition: >-
+      Udjahorresnet presents an Egyptian elite person mediating Persian conquest through
+      priestly knowledge, titulary, temple restoration, court service and local advocacy.
+    source_id: SRC-HOP-UDJAHORRESNET
+    passage_status: STATUE_AND_HIEROGLYPHIC_TEXT_LOCKED_EXTRACTION_PENDING
+    intended_claim_class: SELF_WITNESS
+    qualification: >-
+      Elite accommodation is neither neutral testimony nor evidence of general Egyptian consent.
+    age_of_individual_crossing:
+      relation: LOCAL_EXPERT_PERSONHOOD_TRANSFORMS_IMPERIAL_FORM
+      finding: >-
+        A person acts strategically across regimes through office and knowledge while
+        remaining constituted by priesthood, city, temple and king.
+
+  - claim_id: PERS-MEM-001
+    proposition: >-
+      The Nabonidus Chronicle preserves a Babylonian regnal and cultic sequence of the
+      transition to Cyrus through a later tablet copy distinct from Cyrus's foundation text.
+    source_id: SRC-HOP-NABONIDUS-CHRONICLE
+    passage_status: TABLET_AND_CRITICAL_IDENTITY_LOCKED_EXTRACTION_PENDING
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      Later annalistic transmission is not eyewitness certainty or neutral memory.
+    age_of_individual_crossing:
+      relation: EVENT_TRANSFORMED_INTO_COLLECTIVE_CHRONOGRAPHIC_MEMORY
+      finding: >-
+        Persons remain embedded in city, cult and reign while political succession
+        becomes available to later historical judgment.
+
+  - claim_id: PERS-REF-001
+    proposition: >-
+      Aeschylus's Persians transforms Persian defeat into contemporary tragic reflection
+      through court, grief, counsel, dynastic memory and the human cost of imperial scale.
+    source_id: SRC-HOP-AESCHYLUS-PERSIANS
+    passage_status: GREEK_TEXT_LOCKED_EXTRACTION_PENDING
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      Persian dramatic voices are Athenian literary constructions, not court transcripts.
+    age_of_individual_crossing:
+      relation: POWER_BECOMES_REFLECTIVE_HUMAN_EXPERIENCE
+      finding: >-
+        Grief and counsel are individualized without making private feeling the source of authority.
+
+  - claim_id: PERS-REF-002
+    proposition: >-
+      Xenophon's Anabasis makes imperial space visible through a participant's later
+      account of princes, satraps, routes, supplies, local communities and a Greek armed
+      collective that repeatedly reorganizes command through speech and election.
+    source_id: SRC-HOP-XENOPHON-ANABASIS
+    passage_status: GREEK_TEXT_LOCKED_EXTRACTION_PENDING
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      Participant status does not remove self-presentation, reported-speech and Greek-perspective limits.
+    age_of_individual_crossing:
+      relation: INDIVIDUAL_JUDGMENT_INSIDE_COLLECTIVE_MILITARY_DEPENDENCE
+      finding: >-
+        Initiative and accountable command arise without an individual standing outside army, oath, pay and danger.
+
+  - claim_id: PERS-REF-003
+    proposition: >-
+      Xenophon's Cyropaedia reconstructs empire as a problem of education, self-command,
+      persuasion, reward, friendship, household hierarchy and the survivability of a founder's order.
+    source_id: SRC-HOP-XENOPHON-CYROPAEDIA
+    passage_status: GREEK_TEXT_LOCKED_EXTRACTION_PENDING
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      Xenophon's philosophical Cyrus is not a direct biography or Persian self-description.
+    age_of_individual_crossing:
+      relation: RULE_THROUGH_CHARACTER_AND_MOTIVE_LATER_APPROPRIATED
+      finding: >-
+        Knowledge of motives becomes a means of hierarchy before modern psychological administration.
+
+person_authority_types_now_visible:
+  - Babylonian_cultic_subject_or_restored_community_member
+  - loyal_commander_and_royally_defined_rebel
+  - named_subject_people_beneath_king_of_kings
+  - recorded_worker_traveler_official_and_ration_recipient
+  - spouse_property_holder_dependent_and_petitioner
+  - satrapal_agent_steward_and_worker
+  - provincial_elite_mediator
+  - grieving_royal_or_subject_in_tragedy
+  - mercenary_soldier_and_elected_commander
+  - philosophically_educated_ruler_and_motivated_follower
+
+age_of_individual_boundary:
+  finding: >-
+    Persian imperial evidence does not reveal one undifferentiated mass of slaves or
+    one uniform nomos. It reveals named peoples, communities, officials, workers,
+    families, commanders, petitioners and mediators with differentiated agency. Yet
+    authority is not primarily grounded in equal naturally separate individuals: it
+    proceeds through king, god, dynasty, city, cult, household, army, archive and office.
+  prohibition: >-
+    Do not infer that absence of modern sovereignty of the individual means absence
+    of personal agency, self-control, property, speech, grief, petition or judgment.
+
+cross_source_questions:
+  - How does Cyrus's Babylonian legitimation differ from Darius's Achaemenid truth claim?
+  - What do routine archives reveal that royal victory monuments suppress?
+  - How do provincial persons preserve cult, household and property while remaining imperial subjects?
+  - Does multilingual documentation coordinate difference, classify it, or do both at once?
+  - Where does personal self-command appear—in king, official, petitioner, soldier or learner—and who is entitled to judge others?
+  - How do Greek reflective works humanize and distort Persian political experience at the same time?
+
+remaining_before_star_native_integration:
+  - extract controlled Akkadian passages from Cyrus Cylinder and Nabonidus Chronicle
+  - extract Old Persian/Elamite/Babylonian passages from Behistun and DNa/DNb
+  - select tablet-level Persepolis administrative samples
+  - select document-level Elephantine and Arsames samples
+  - cross-walk Udjahorresnet against governing hieroglyphic edition
+  - extract Greek passages from Aeschylus and Xenophon
+  - build explicit Herodotus reattribution table
+  - prepare bounded structured-Star correction proposal before narrative revision
