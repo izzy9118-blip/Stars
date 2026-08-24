@@ -1,119 +1,126 @@
 corpus_id: HOP-EARLY-MODERN-PRIMARY-001
 name: Early-Modern Primary Source Repair Corpus
-status: ACQUISITION_IN_PROGRESS
+status: INITIAL_WITNESS_CORPUS_LOCKED
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: star-history-of-power-001
 working_branch: history-of-power-primary-sources-001
 
 purpose: >-
-  Acquire and lock the primary witnesses needed to repair the missing transition
-  from the post-imperial and medieval History of Power layer into early-modern
-  sovereignty, confessional government, Dutch republican-commercial power,
-  English constitutional conflict, and the fiscal-financial state before any
-  narrative integration is attempted.
+  Lock the primary witnesses needed to repair the missing transition from the
+  post-imperial and medieval History of Power layer into Reformation jurisdiction,
+  sovereignty, Dutch republican-commercial power, English constitutional conflict,
+  and funded public credit before narrative integration begins.
 
 acquisition_rules:
   - Primary texts govern over secondary summaries.
-  - Original-language witnesses govern wherever a usable original witness is available.
-  - Translations are subordinate unless explicitly adopted as governing.
-  - Digital scan, transcription, translation, and later edition are distinct witnesses.
-  - Exact edition, language, repository, stable locator, and translator where relevant are recorded before quotation use.
-  - Source-specific witness records supersede discovery-stage notes in this manifest.
-  - No quotation is admitted to the History of Power narrative until its governing witness is locked and checked.
-  - Copyrighted modern editions may be linked and cited but are not copied wholesale into the repository.
+  - Original-language contemporary witnesses govern wherever a usable witness is available.
+  - Translations are subordinate reading witnesses unless explicitly designated otherwise.
+  - Scan, manuscript, transcription, translation, and later edition are distinct witnesses.
+  - Exact edition, language, repository, locator, and translator where relevant are fixed before quotation use.
+  - Source-specific witness records govern over discovery-stage notes.
+  - No quotation enters STAR-HISTORY-OF-POWER-001 until checked against its governing witness.
+  - Modern copyrighted editions may be linked and cited but are not copied wholesale into the repository.
 
 sources:
   - source_id: SRC-HOP-LUTHER-TEMPORAL-AUTHORITY-1523
     role: reformation_temporal_and_spiritual_jurisdiction
-    state: FULL_TEXT_LOCATED_TRANSLATION_METADATA_PENDING
-    locator: https://www.files.ethz.ch/isn/125470/606.pdf
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-LUTHER-TEMPORAL-AUTHORITY-1523.yaml
+    witness: "1523 German Wittenberg print, Bayerische Staatsbibliothek"
 
   - source_id: SRC-HOP-CALVIN-INSTITUTES-IV-20
     role: reformation_magistracy_law_people
-    state: FULL_TEXT_LOCATED_TRANSLATION_WITNESS
-    locator: https://ccel.org/ccel/calvin/institutes.vi.xxi.html
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-CALVIN-INSTITUTES-IV-20.yaml
+    witness: "1559 definitive Latin Institutio, Bibliothèque de Genève"
 
-  - source_id: SRC-HOP-BODIN-SIX-BOOKES-1606
+  - source_id: SRC-HOP-BODIN-REPUBLIQUE-1576
     role: sovereignty_and_commonwealth
     state: GOVERNING_WITNESS_LOCKED
-    witness: "Richard Knolles English translation, London: G. Bishop, 1606"
-    locator: https://commons.wikimedia.org/wiki/File:The_six_bookes_of_a_commonweale_(IA_sixbookesofcommo00bodi).pdf
+    record: sources/primary/early-modern/SRC-HOP-BODIN-REPUBLIQUE-1576.yaml
+    witness: "1576 French first edition, Paris: Jacques du Puy"
 
   - source_id: SRC-HOP-UNION-UTRECHT-1579
-    role: dutch_confederal_constitution_and_provincial_right
-    state: TRANSLATION_LOCATED_ORIGINAL_LANGUAGE_WITNESS_PENDING
-    locator: https://constitution.org/1-Constitution/cons/dutch/Union_Utrecht_1579.html
+    role: dutch_confederal_union_and_provincial_right
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-UNION-UTRECHT-1579.yaml
+    witness: "Digitized archival Dutch treaty witness, Nationaal Archief 1.01.19 inv. 2623"
 
   - source_id: SRC-HOP-ACT-ABJURATION-1581
     role: deposition_tyranny_and_dissolution_of_allegiance
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-ACT-ABJURATION-1581.yaml
-    witness: "Leiden, Charles Silvius, 1581 Dutch print"
+    witness: "1581 Dutch print, Leiden: Charles Silvius"
 
   - source_id: SRC-HOP-VOC-CHARTER-1602
     role: chartered_corporate_monopoly_military_diplomatic_and_commercial_power
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-VOC-CHARTER-1602.yaml
-    witness: "Nationaal Archief, VOC archive 1.04.02, inv. no. 1"
+    witness: "Original Dutch charter, Nationaal Archief VOC 1.04.02 inv. 1"
 
   - source_id: SRC-HOP-GROTIUS-DE-JURE-PRAEDAE
-    role: dutch_commerce_prize_war_and_corporate_force
-    state: MODERN_TRANSLATION_LOCATED_ORIGINAL_LATIN_WITNESS_PENDING
-    locator: https://oll.libertyfund.org/titles/ittersum-commentary-on-the-law-of-prize-and-booty
+    role: voc_prize_war_property_contract_and_commercial_force
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-GROTIUS-DE-JURE-PRAEDAE.yaml
+    witness: "Grotius autograph Latin manuscript, Leiden University Libraries BPL 917"
 
   - source_id: SRC-HOP-GROTIUS-MARE-LIBERUM-1609
-    role: freedom_of_seas_trade_and_interstate_order
-    state: FULL_TEXT_LOCATED_EXACT_WITNESS_PENDING
-    locator: https://oll.libertyfund.org/
-
-  - source_id: SRC-HOP-DEWITT-DEDUCTIE-1654
-    role: dutch_republican_constitution_provincial_sovereignty_and_act_of_seclusion
+    role: freedom_of_seas_navigation_trade_and_dutch_commercial_right
     state: GOVERNING_WITNESS_LOCKED
-    record: sources/primary/early-modern/SRC-HOP-DEWITT-DEDUCTIE-1654.yaml
-    witness: "Utrecht University Library, 1654 Dutch edition, handle 20.500.14918/22745"
-    rule: NO_ENGLISH_SUBSTITUTE_AS_GOVERNING_WITNESS
-
-  - source_id: SRC-HOP-DELACOURT-TRUE-INTEREST-1662
-    role: commercial_republicanism_trade_toleration_and_anti_stadtholder_interest
-    state: ENGLISH_TRANSLATION_LOCATED_ORIGINAL_DUTCH_WITNESS_PENDING
-    locator: https://oll.libertyfund.org/titles/court-the-true-interest-and-political-maxims-of-the-republic-of-holland
+    record: sources/primary/early-modern/SRC-HOP-GROTIUS-MARE-LIBERUM-1609.yaml
+    witness: "1609 Latin first-edition diplomatic representation, DBNL"
 
   - source_id: SRC-HOP-PETITION-RIGHT-1628
     role: taxation_imprisonment_prerogative_and_subject_right
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-PETITION-RIGHT-1628.yaml
-    witness: "Enacted text, 3 Cha. 1 c. 1"
+    witness: "Enacted English Petition of Right, 3 Cha. 1 c. 1"
 
   - source_id: SRC-HOP-PUTNEY-DEBATES-1647
     role: representation_property_consent_army_and_constituent_power
-    state: EDITED_PRIMARY_MANUSCRIPT_TRANSCRIPTION_LOCKED
-    witness: "William Clarke papers, ed. C. H. Firth, vol. 1 (1891), pp. 226-428"
+    state: PRIMARY_MANUSCRIPT_TRANSCRIPTION_LOCKED
+    witness: "William Clarke papers, ed. C. H. Firth, The Clarke Papers vol. 1 (1891), pp. 226-428"
     locator: https://davidmhart.com/liberty/Books/1647-PutneyDebates/Officers_PutneyDebates-T111-ebook.pdf
 
   - source_id: SRC-HOP-HOBBES-LEVIATHAN-1651
     role: artificial_person_authorization_and_undivided_sovereignty
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-HOBBES-LEVIATHAN-1651.yaml
-    witness: "1651 first edition, first issue ('Head' edition)"
+    witness: "1651 English first edition, first issue ('Head' edition)"
+
+  - source_id: SRC-HOP-DEWITT-DEDUCTIE-1654
+    role: dutch_republican_constitution_provincial_sovereignty_and_act_of_seclusion
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-DEWITT-DEDUCTIE-1654.yaml
+    witness: "1654 Dutch edition, Utrecht University Library handle 20.500.14918/22745"
+    hard_rule: NO_ENGLISH_SUBSTITUTE_AS_GOVERNING_WITNESS
+
+  - source_id: SRC-HOP-DELACOURT-INTEREST-1662
+    role: commercial_republicanism_trade_fisheries_manufactures_liberty_and_interest
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-DELACOURT-INTEREST-1662.yaml
+    witness: "1662 Dutch first edition represented diplomatically by DBNL from Leiden UB 1159 E 15"
 
   - source_id: SRC-HOP-BILL-RIGHTS-1689
-    role: crown_parliament_law_taxation_army_and_election
-    state: DOCUMENTARY_TRANSCRIPTION_LOCATED
-    locator: https://avalon.law.yale.edu/17th_Century/england.asp
+    role: crown_parliament_taxation_army_elections_petition_privilege_and_succession
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-BILL-RIGHTS-1689.yaml
+    witness: "Original Parliamentary Archives public Act, HL/PO/PU/1/1688/1W&Ms2n2"
 
   - source_id: SRC-HOP-BOE-ACT-1694
     role: funded_public_credit_taxation_subscription_and_war_finance
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-BOE-ACT-1694.yaml
-    witness: "Enacted text, 5 & 6 Will. & Mar. c. 20"
+    witness: "Enacted English statute, 5 & 6 Will. & Mar. c. 20"
 
   - source_id: SRC-HOP-BOE-CHARTER-1694
-    role: corporate_constitution_of_the_bank
-    state: OFFICIAL_CHARTER_TEXT_LOCATED
-    locator: https://www.bankofengland.co.uk/-/media/boe/files/about/legislation/boe-charter.pdf
+    role: corporate_constitution_of_funded_public_credit
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-BOE-CHARTER-1694.yaml
+    witness: "Official Bank of England text of Charter dated 27 July 1694"
 
-locked_count: 7
-pending_count: 9
+witness_count: 16
+locked_count: 16
 
 repair_sequence:
   - reformation_and_confessional_jurisdiction
@@ -125,10 +132,21 @@ repair_sequence:
   - 1688_and_constitutional_monarchy
   - funded_public_credit_and_fiscal_military_power
 
-next_acquisition_targets:
-  - Lock original-language Union of Utrecht witness.
-  - Lock original Latin witnesses for De Jure Praedae and Mare Liberum.
-  - Lock original Dutch 1662 Interest van Holland witness.
-  - Verify exact translation metadata of the ETH Zurich Luther witness or replace it with a fully identified edition.
-  - Lock a stronger primary witness for Calvin if the Beveridge translation remains only a reading witness.
-  - Lock a parliamentary/official original-language witness for the Bill of Rights alongside Avalon.
+next_phase:
+  name: PASSAGE_EXTRACTION_AND_CLAIM_MAPPING
+  rules:
+    - Extract only passages necessary to support defined History of Power claims.
+    - Record original-language wording and precise witness location before abstraction.
+    - Where a translation is used for working English, retain the corresponding original passage.
+    - Keep contradictory or competing primary claims separate.
+    - Do not integrate prose into the narrative until each production unit has a passage-to-claim map.
+  first_unit:
+    name: DUTCH_CONSTITUTIONAL_AND_COMMERCIAL_POWER
+    sources:
+      - SRC-HOP-UNION-UTRECHT-1579
+      - SRC-HOP-ACT-ABJURATION-1581
+      - SRC-HOP-VOC-CHARTER-1602
+      - SRC-HOP-GROTIUS-DE-JURE-PRAEDAE
+      - SRC-HOP-GROTIUS-MARE-LIBERUM-1609
+      - SRC-HOP-DEWITT-DEDUCTIE-1654
+      - SRC-HOP-DELACOURT-INTEREST-1662
