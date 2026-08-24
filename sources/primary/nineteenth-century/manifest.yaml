@@ -1,6 +1,6 @@
 corpus_id: HOP-ADMINISTRATIVE-STATE-001
 name: Administrative and National Power Primary Source Corpus
-status: ADMINISTRATIVE_NATIONAL_POWER_GATHERED_THROUGH_1871
+status: ADMINISTRATIVE_NATIONAL_POWER_INTEGRATION_CANDIDATE_THROUGH_1871
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: history-of-power-primary-sources-001
 working_branch: history-of-power-administrative-state-001
@@ -13,6 +13,11 @@ purpose: >-
   infrastructural, fiscal, and accounting capacities; determine how those capacities
   survive constitutional regime change; and follow their fusion with democratic claims,
   industrial communications, national military organization, and national unification.
+
+integration:
+  narrative_candidate: sources/primary/nineteenth-century/integration/ADMINISTRATIVE-NATIONAL-NARRATIVE-INSERT-001.md
+  structured_candidate: sources/primary/nineteenth-century/integration/ADMINISTRATIVE-NATIONAL-STRUCTURED-INSERT-001.yaml
+  state: READY_FOR_USER_REVIEW_NOT_YET_APPLIED
 
 acquisition_rules:
   - Primary legal and administrative texts govern over later descriptions.
@@ -31,15 +36,17 @@ source_groups:
   restoration_and_1848_1814_1848: 10
   post_1848_and_tocqueville_1848_1856: 2
   national_unification_1848_1871: 6
+  revolutionary_class_and_commune_1848_1871: 4
 
-witness_count: 33
-locked_or_registered_count: 33
+witness_count: 37
+locked_or_registered_count: 37
 
 maps:
   - {map_id: NAPOLEONIC-ADMINISTRATIVE-STATE-001, path: sources/primary/nineteenth-century/maps/NAPOLEONIC-ADMINISTRATIVE-STATE-001.yaml, state: CONDITIONALLY_SATISFIED_FOR_CORE_ADMINISTRATIVE_MECHANISMS}
   - {map_id: RESTORATION-NATIONAL-STATE-1815-1848-001, path: sources/primary/nineteenth-century/maps/RESTORATION-NATIONAL-STATE-1815-1848-001.yaml, state: PASSAGE_EXTRACTION_IN_PROGRESS}
   - {map_id: ADMINISTRATIVE-CONTINUITY-1814-1848-001, path: sources/primary/nineteenth-century/maps/ADMINISTRATIVE-CONTINUITY-1814-1848-001.yaml, state: CORE_RELATION_VERIFIED}
   - {map_id: NATIONAL-UNIFICATION-1850-1871-001, path: sources/primary/nineteenth-century/maps/NATIONAL-UNIFICATION-1850-1871-001.yaml, state: PASSAGE_EXTRACTION_IN_PROGRESS}
+  - {map_id: REVOLUTION-CLASS-COMMUNE-1848-1871-001, path: sources/primary/nineteenth-century/maps/REVOLUTION-CLASS-COMMUNE-1848-1871-001.yaml, state: CORE_RELATIONS_VERIFIED}
 
 core_relations_now_documented:
   - Revolutionary mass military obligation can be inherited by later executive regimes.
@@ -49,6 +56,8 @@ core_relations_now_documented:
   - Republican rights can be implemented through inherited administrative machinery, including emancipation across colonial possessions.
   - Tocqueville retrospectively identifies important roots of administrative centralization in the Old Regime rather than treating it as an invention of 1789 or Napoleon.
   - Italian national unification carries forward an existing dynastic-constitutional state form; German unification builds superior federal law and common administrative-military jurisdictions across member states.
+  - The revolutions of 1848 open rival constitutional, national and class routes rather than one uniform revolutionary program.
+  - The Paris Commune proposes autonomous associated communes and recallable office as an alternative to inherited centralized administration; Marx's interpretation of that experiment remains distinct from the Commune's own declaration.
 
 remaining_controls:
   - First-edition image crosswalk for direct Hegel, Clausewitz, and Tocqueville 1835/1840 quotations.
