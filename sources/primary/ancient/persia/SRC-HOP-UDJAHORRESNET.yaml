@@ -1,0 +1,108 @@
+source_id: SRC-HOP-UDJAHORRESNET
+status: GOVERNING_STATUE_AND_HIEROGLYPHIC_INSCRIPTION_LOCKED_PASSAGE_EXTRACTION_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Udjahorresnet through an Egyptian autobiographical statue inscription
+work_or_document_title: Naophorous statue and autobiographical inscription of Udjahorresnet
+date_or_period:
+  events_described: reigns of Amasis, Psammetichus III, Cambyses II and Darius I
+  monument: early Achaemenid period; completed by year 3 of Darius I or shortly thereafter
+original_language: Ancient Egyptian in hieroglyphic inscription
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+witness_subclass: PROVINCIAL_ELITE_AUTOBIOGRAPHICAL_SELF_DESCRIPTION_UNDER_IMPERIAL_RULE
+
+participant_or_observer_position: >-
+  Udjahorresnet presents himself as an Egyptian naval commander, chief physician,
+  court official and priestly mediator who served successive Egyptian and Persian
+  rulers. The monument is a selective elite autobiography and self-justification,
+  not a neutral account of conquest or universal Egyptian response.
+temporal_distance_if_retrospective: contemporary or near-contemporary elite retrospective upon the transitions he survived
+
+governing_witness_and_exact_edition_or_archive:
+  artifact:
+    repository: Vatican Museums, Museo Gregoriano Egizio
+    inventory_number: MV.22690.0.0
+    material: dark green basalt
+    probable_origin: Sais
+    official_record: https://catalogo.museivaticani.va/index.php/Detail/objects/MV.22690.0.0
+  critical_text_controls:
+    - Georges Posener, La première domination perse en Égypte, 1936
+    - Miriam Lichtheim, Ancient Egyptian Literature, volume III, 1980
+    - specialist editions and studies of the Udjahorresnet inscription
+  rule: >-
+    The statue inscription and controlled hieroglyphic edition govern. Udjahorresnet's
+    claims about his service and royal conduct remain attributed to his self-presentation.
+
+star_claim_target:
+  - Cambyses_and_Darius_in_Egypt_from_an_Egyptian_elite_voice
+  - provincial_mediation_of_imperial_power
+  - Egyptian_titulary_temple_restoration_and_local_knowledge_under_Persian_rule
+  - counter_witness_to_Herodotus_Cambyses
+intended_claim_class: SELF_WITNESS
+
+what_the_source_can_establish:
+  - An Egyptian elite official represented himself as serving both Egyptian and Persian rulers across conquest and regime change.
+  - The inscription presents Udjahorresnet as teaching Cambyses Egyptian royal and cultic forms and as securing measures concerning Sais and its temple.
+  - Local priestly, scribal and administrative knowledge could mediate imperial incorporation.
+  - Persian kingship in Egypt could be expressed through Egyptian titles, temple relations and elite office rather than only through foreign military command.
+
+what_the_source_cannot_establish:
+  - That Udjahorresnet's self-account is complete or disinterested.
+  - That Cambyses behaved piously everywhere or that Herodotus's contrary traditions are wholly false.
+  - That all Egyptians accepted Persian rule or benefited from elite accommodation.
+  - That adoption of Egyptian titulary erased conquest, exaction or unequal imperial status.
+  - A universal Persian policy toward every conquered cult or provincial elite.
+
+rival_or_counter_witnesses_where_known:
+  - Herodotus, Histories book III
+  - Apis burial and other Egyptian monumental evidence from Cambyses's reign
+  - Persian royal inscriptions
+  - Egyptian temple and administrative records
+  - Babylonian and Greek accounts of Cambyses
+
+boundary_effect: >-
+  Udjahorresnet prevents the Persian conquest of Egypt from being narrated solely
+  through Greek stories of sacrilege or solely through royal claims of restoration.
+  It introduces elite mediation, accommodation and self-interest without equating
+  incorporation with equality or consent.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - Persian king occupying Egyptian royal form
+    - Egyptian temple and priestly knowledge
+    - provincial elite office
+  human_position:
+    - elite mediator
+    - priest and official
+    - subject serving successive rulers
+    - local community represented through temple and city
+  claimed_end: restoration of cultic order, proper royal conduct, protection of Sais and continuity of office
+  claimed_obligations:
+    - service to the reigning king
+    - preservation and transmission of Egyptian ritual and administrative knowledge
+    - representation of local interests through office
+  formation_mechanisms:
+    - titulary and ritual instruction
+    - autobiographical monument
+    - priestly education and court service
+  coercive_mechanisms:
+    - conquest and dynastic replacement remain the background
+    - royal appointment and command
+  material_relations:
+    - temple precinct
+    - naval and court service
+    - city and cult property
+    - statue and memorial endowment
+  knowledge_relations: imperial rule depends upon a local person who can translate inherited forms into royal practice
+  freedom_relation: substantial elite agency exists through office and knowledge, but not as political independence or a right prior to empire
+  crossing_relation: LOCAL_EXPERT_PERSONHOOD_MEDIATES_AND_TRANSFORMS_IMPERIAL_RULE
+  age_of_individual_relevance: >-
+    The inscription shows a distinct person acting strategically across regimes while
+    remaining constituted by priesthood, office, city and king. Agency is real without
+    becoming the modern self-authorizing individual.
+
+quotation_state: NOT_YET_EXTRACTED_AGAINST_HIEROGLYPHIC_CRITICAL_TEXT
+star_integration_state: NOT_YET_PROPOSED
