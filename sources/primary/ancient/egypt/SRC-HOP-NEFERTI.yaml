@@ -1,0 +1,59 @@
+source_id: SRC-HOP-NEFERTI
+status: WITNESS_CONSTELLATION_LOCKED_PASSAGE_EXTRACTION_PENDING
+
+author_or_corporate_author: unknown Egyptian author
+work_or_document_title: Prophecy of Neferti
+alternate_title: Teaching of Neferty
+date_or_period:
+  composition: probably Middle Kingdom; exact date and authorship unrecorded
+  dramatic_setting: court of King Sneferu
+original_language: Middle Egyptian
+evidence_class: CONTEMPORARY_REFLECTIVE_WITNESS
+
+governing_witness_and_exact_edition_or_archive:
+  principal_manuscript: Papyrus Hermitage 1116B
+  additional_witnesses:
+    - New Kingdom ostraca, including Petrie Ostracon 38 / UC 39637
+    - Museo Egizio Suppl. 9596
+  working_transliteration: Helck 1970 as reproduced by UCL Digital Egypt
+  online_text: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/nefertytransl.html
+  source_overview: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/neferty.html
+
+participant_or_observer_position: Egyptian literary reflection staged as court prophecy
+temporal_distance_if_retrospective: >-
+  The composition looks backward to Sneferu and forward to an Ameny; this is a
+  literary construction, not contemporaneous court reporting.
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - ma_at_against_isfet
+  - royal_office_as_restoration_of_order
+  - Egyptian_reflection_on_failed_and_restored_rule
+intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - An Egyptian literary composition opposes social and political disorder to restoration by a legitimate king.
+  - Kingship can be represented as the force that re-establishes boundaries, social roles and ordered life.
+what_the_source_cannot_establish:
+  - That the described disorders are a direct chronicle of one historical crisis.
+  - The exact date, author or political sponsor of the composition.
+  - That later modern concepts of revolution or state failure are native Egyptian categories.
+
+rival_or_counter_witnesses_where_known:
+  - Teaching for King Merikare
+  - Lament of Ipuwer
+  - Eloquent Peasant
+  - royal restoration inscriptions
+boundary_effect: >-
+  Preserve literary legitimation, textual uncertainty and the difference between
+  a represented future restoration and independently documented events.
+
+age_of_individual_crossing:
+  person_power_relation: subject whose security and social place depend upon ma_at and royal restoration
+  authority_demand: endurance within an order represented as preceding private will
+  conduct_formation: contrast between chaos and the king who restores intelligible roles and boundaries
+  later_relation: PRESERVE_AS_OLDER_FORM
+  prohibition: Do not redescribe the composition as an early doctrine of autonomous individuality.
+
+quotation_state: NOT_YET_ADMITTED
+star_integration_state: NOT_YET_PROPOSED
