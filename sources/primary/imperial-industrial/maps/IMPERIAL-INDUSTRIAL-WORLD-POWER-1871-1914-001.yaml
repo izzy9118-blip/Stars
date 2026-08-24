@@ -1,0 +1,110 @@
+map_id: IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001
+status: PASSAGE_EXTRACTION_IN_PROGRESS
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+method:
+  - Industrial, financial, social, colonial, naval, communications and alliance powers remain distinct until cross-source synthesis.
+  - Similar scale does not imply common ownership: state agencies, corporations, banks, associations and international unions may coordinate without becoming one institution.
+  - 1914 is not treated as an inevitable consequence of every development below.
+claims:
+  - claim_id: IIP-001
+    proposition: >-
+      The German Empire created a Reich-supervised bank whose statutory tasks joined national
+      money circulation, payment clearing, short-term credit and the mobilization of capital.
+    source_id: SRC-HOP-REICHSBANK-1875
+    passage_status: VERIFIED_PRIMARY
+    locations: [1, 12, 22]
+    qualification: Reichsbank remained share-capitalized; public supervision and private capital coexisted.
+
+  - claim_id: IIP-002
+    proposition: >-
+      Large-scale private economic power acquired organizational forms capable of concentrating
+      control across multiple corporations, while states simultaneously developed new corporate
+      and antitrust law to define or constrain those forms.
+    source_ids: [SRC-HOP-GERMAN-CORPORATION-LAW-1884, SRC-HOP-STANDARD-OIL-TRUST-1882, SRC-HOP-SHERMAN-ACT-1890]
+    passage_status: VERIFIED_PRIMARY_RELATIONS
+    qualification: Legal form alone does not establish market dominance; Standard Oil market power requires separate evidence.
+
+  - claim_id: IIP-003
+    proposition: >-
+      German social legislation converted industrial sickness, accident, invalidity and old age
+      into compulsory administered relations among workers, employers, insurance organizations,
+      local authorities and Reich institutions.
+    source_ids: [SRC-HOP-BISMARCK-SOCIAL-MESSAGE-1881, SRC-HOP-HEALTH-INSURANCE-1883, SRC-HOP-ACCIDENT-INSURANCE-1884, SRC-HOP-OLD-AGE-INSURANCE-1889]
+    passage_status: VERIFIED_PRIMARY_RELATIONS
+    qualification: Coverage was historically bounded and the 1881 message explicitly joins welfare policy to internal peace.
+
+  - claim_id: IIP-004
+    proposition: >-
+      European powers converted overseas claims into an inter-imperial legal field while imperial
+      states separately constructed colonial jurisdictions through metropolitan law and delegated officials.
+    source_ids: [SRC-HOP-BERLIN-CONFERENCE-1885, SRC-HOP-GERMAN-COLONIAL-LAW-1886]
+    passage_status: VERIFIED_PRIMARY_RELATIONS
+    qualification: Metropolitan agreements do not establish colonized consent or exhaust actual colonial violence and governance.
+
+  - claim_id: IIP-005
+    proposition: >-
+      The German Empire financed a canal explicitly suitable for the German war fleet through
+      imperial credit while also making it commercial infrastructure subject to tolls and administration.
+    source_id: SRC-HOP-KIEL-CANAL-1886
+    passage_status: VERIFIED_PRIMARY
+    locations: [1, 2, 3, 4]
+    anchors:
+      - "für die Benutzung durch die deutsche Kriegsflotte geeigneter Seeschiffahrtskanal"
+      - "im Wege des Kredits"
+    qualification: Actual naval and commercial traffic effects require operational data.
+
+  - claim_id: IIP-006
+    proposition: >-
+      Mahan conceptualized maritime power as a relation among commerce, geography, naval force,
+      bases and political purpose, providing a strategic language contemporaries could adopt or contest.
+    source_id: SRC-HOP-MAHAN-SEA-POWER-1890
+    passage_status: FIRST_EDITION_TARGETED_EXTRACTION_PENDING
+    qualification: Policy influence must be demonstrated independently for each state.
+
+  - claim_id: IIP-007
+    proposition: >-
+      German naval power became a statutory long-term construction program in which fleet size,
+      replacement cycles, personnel and recurring budgets were legislated in advance.
+    source_ids: [SRC-HOP-GERMAN-FLEET-LAW-1898, SRC-HOP-GERMAN-FLEET-LAW-1900]
+    passage_status: VERIFIED_PRIMARY
+    qualification: Strategic purpose and Anglo-German rivalry require policy and diplomatic evidence beyond the statutes.
+
+  - claim_id: IIP-008
+    proposition: >-
+      Long-distance communications increasingly depended on international technical regimes:
+      telegraphy entered a common tariff/accounting framework before 1871, while wireless by 1906
+      required international intercommunication and safety rules across national systems.
+    source_ids: [SRC-HOP-INTL-TELEGRAPH-1865, SRC-HOP-RADIOTELEGRAPH-1906]
+    passage_status: CONVENTION_WITNESSES_LOCKED
+    qualification: 1865 is an inherited antecedent, not a development originating inside the 1871-1914 layer.
+
+  - claim_id: IIP-009
+    proposition: >-
+      Great-power security became increasingly organized through treaty networks containing different
+      degrees of obligation: conditional mutual aid, benevolent neutrality, consultation, mobilization
+      triggers, colonial accommodation and diplomatic support.
+    source_ids: [SRC-HOP-DUAL-ALLIANCE-1879, SRC-HOP-TRIPLE-ALLIANCE-1882, SRC-HOP-FRANCO-RUSSIAN-CONVENTION-1892, SRC-HOP-ENTENTE-CORDIALE-1904]
+    passage_status: DIPLOMATIC_TEXTS_LOCKED
+    qualification: These agreements are not interchangeable and do not by themselves prove automatic bloc war in 1914.
+
+cross_source_questions:
+  - >-
+    Does the industrial state become stronger by directly owning productive institutions, by regulating
+    private concentrations of capital, or by constructing legal and financial infrastructures within which private power operates?
+  - >-
+    How does social insurance alter the state's relation to citizens when employment history, contributions,
+    accident, illness, age and entitlement become administrative records?
+  - >-
+    How can the same period internationalize telegraph and wireless standards while dividing strategic security into secret and conditional alliances?
+  - >-
+    When canal, bank, fleet, corporation and colonial jurisdiction are all governed by long-horizon legal structures,
+    does power shift from episodic command toward permanent organizational capacity?
+remaining_targets:
+  - steel, coal and armaments production through company, state procurement or industrial statistics witnesses
+  - electricity and oil infrastructure through primary corporate/regulatory witnesses
+  - practice-level colonial administration and coercion beyond metropolitan legal claims
+  - Schlieffen/general-staff mobilization documents and railway-war planning
+  - naval policy documents tying fleet legislation to strategic objectives
+  - operational international cable/wireless network evidence
+  - alliance-system documents closer to 1914 and July-crisis decision records only when chronology reaches them
