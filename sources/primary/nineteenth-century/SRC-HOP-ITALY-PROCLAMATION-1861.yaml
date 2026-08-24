@@ -1,0 +1,27 @@
+source_id: SRC-HOP-ITALY-PROCLAMATION-1861
+status: GOVERNING_ARCHIVAL_LEGAL_WITNESS_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+work:
+  corporate_author: Parliament and Crown of the Kingdom of Sardinia / emerging Kingdom of Italy
+  title: Legge 17 marzo 1861 n. 4671
+  date: 1861-03-17
+  original_language: Italian
+  role: legal_proclamation_of_kingdom_of_italy_dynastic_and_constitutional_continuity
+witness:
+  repository: Archivio di Stato di Torino
+  url: https://archiviodistatotorino.cultura.gov.it/iorestoacasa-nascita-regno-italia/
+  description: archival law bearing signatures of Vittorio Emanuele II, Cavour and ministers
+  image_witness: https://commons.wikimedia.org/wiki/File:Legge_17_marzo_1861.png
+  parliamentary_context: https://it.wikisource.org/wiki/Atti_del_parlamento_italiano_(1861)/4
+article_unique:
+  anchor: "Il Re Vittorio Emanuele II assume per sè e pei suoi successori il titolo di Re d'Italia."
+continuity_controls:
+  - Vittorio Emanuele retains ordinal II, marking dynastic continuity with Kingdom of Sardinia
+  - law changes royal title through existing Senate, Chamber, Crown and ministerial procedure
+  - unification therefore requires separate evidence for administrative integration of newly annexed provinces
+witness_policy: >-
+  The 17 March law is the legal act of royal-national title and state proclamation. It
+  does not by itself prove political, fiscal, legal, or administrative homogenization of
+  the peninsula.
+quotation_state: ARTICLE_VERIFIED
+analysis_state: NOT_YET_INTEGRATED
