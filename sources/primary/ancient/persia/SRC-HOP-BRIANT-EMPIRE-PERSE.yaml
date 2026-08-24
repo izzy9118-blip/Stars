@@ -1,0 +1,66 @@
+source_id: SRC-HOP-BRIANT-EMPIRE-PERSE
+status: ORIGINAL_FRENCH_AND_ENGLISH_EDITION_METADATA_LOCKED
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Pierre Briant
+work_or_document_title: Histoire de l'Empire perse: De Cyrus à Alexandre
+original_publication:
+  language: French
+  publisher: Fayard
+  place: Paris
+  year: 1996
+english_translation:
+  title: From Cyrus to Alexander: A History of the Persian Empire
+  translator: Peter T. Daniels
+  publisher: Eisenbrauns / Penn State University Press
+  year: 2002
+  pages: 1196
+  isbn: 9781575060316
+  official_distribution_record: https://utpdistribution.com/9781575060316/from-cyrus-to-alexander/
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+participant_or_observer_position: modern historian synthesizing multilingual, archaeological, administrative and literary evidence
+temporal_distance_if_retrospective: more than two millennia after the Achaemenid Empire
+
+star_claim_target:
+  - overall_Achaemenid_institutional_reconstruction
+  - control_of_Greek_source_dominance
+  - empire_as_network_of_centers_elites_resources_and_subject_lands
+  - chronology_and_source_position_for_Cyrus_to_Alexander
+intended_claim_class: WITNESS_METADATA
+
+what_the_source_can_establish:
+  - A controlled modern reconstruction of the Achaemenid Empire across multiple source traditions.
+  - Historiographical problems created by Greek-source dominance and fragmentary imperial archives.
+  - Context for royal, administrative, provincial, economic and military evidence.
+  - Major scholarly arguments that can be tested against the underlying sources.
+
+what_the_source_cannot_establish:
+  - An Achaemenid self-description merely because the synthesis is comprehensive.
+  - Final resolution of disputed chronology, motives or institutional categories.
+  - That modern terms used analytically were native imperial categories.
+  - A FACT-level Star claim without citation to the underlying primary relations.
+
+rival_or_counter_witnesses_where_known:
+  - Amélie Kuhrt, The Persian Empire
+  - Josef Wiesehöfer, Das antike Persien
+  - Muhammad A. Dandamaev, A Political History of the Achaemenid Empire
+  - specialist editions of royal inscriptions and regional archives
+
+boundary_effect: >-
+  Briant supplies a high-level control against Herodotus-only history, but the project
+  may not replace Greek-source dominance with Briant-as-authority. His synthesis must
+  disclose the primary evidence and scholarly alternatives supporting each adopted relation.
+
+age_of_individual_crossing:
+  relevance: >-
+    Briant can help reconstruct differentiated subject positions and imperial institutions,
+    but cannot by itself define the ancient person or the genealogy of individuality.
+  prohibition: >-
+    Do not infer modern individuality, ethnicity, statehood or public/private distinctions
+    from the vocabulary of a modern historical synthesis.
+
+quotation_state: MODERN_ANALYTICAL_QUOTATION_ONLY_WHERE_NEEDED
+star_integration_state: CRITICAL_CONTROL_NOT_PRIMARY_EVIDENCE
