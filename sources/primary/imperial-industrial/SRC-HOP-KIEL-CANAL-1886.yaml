@@ -1,5 +1,5 @@
 source_id: SRC-HOP-KIEL-CANAL-1886
-status: GOVERNING_WITNESS_LOCKED
+status: GOVERNING_WITNESS_LOCKED_PASSAGES_EXTRACTED
 parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
 work:
   corporate_author: German Empire
@@ -9,11 +9,24 @@ work:
   role: strategic_maritime_infrastructure_public_finance_and_military_mobility
 governing_witness:
   witness_type: REICHSGESETZBLATT_SCAN_TRANSCRIPTION
-  citation: "RGBl. 1886, S. 58 ff."
-  discovery: https://de.wikisource.org/wiki/Kategorie:Deutsches_Reichsgesetzblatt_1886
+  citation: "RGBl. 1886, Nr. 5, S. 58-59"
+  locator: https://de.wikisource.org/wiki/Gesetz%2C_betreffend_die_Herstellung_des_Nord-Ostseekanals
+key_passages:
+  - section: 1
+    anchor: "für die Benutzung durch die deutsche Kriegsflotte geeigneter Seeschiffahrtskanal"
+    proposition: The canal is legally authorized as suitable for use by the German war fleet.
+    estimated_cost_mark: 156000000
+    prussian_contribution_mark: 50000000
+  - section: 2
+    anchor: "im Wege des Kredits"
+    proposition: Reich may raise up to 106 million Mark by interest-bearing loan and treasury notes.
+  - section: 3
+    proposition: Non-Imperial-Navy and non-construction vessels are subject to canal charges.
+  - section: 4
+    proposition: Annual Reich budgets provide construction appropriations.
 related_operational_texts:
   - Allerhöchster Erlaß betreffend den Abgabentarif für den Nord-Ostsee-Kanal, 1895
   - Gesetz betreffend den Abgabentarif für den Kaiser Wilhelm-Kanal, 1896
 qualification: >-
-  The canal is treated as state-built strategic and commercial infrastructure. Its actual
-  effects on naval movement, freight and regional development require separate operational evidence.
+  The law establishes strategic design, public-credit finance and a commercial toll regime.
+  Actual naval movements, freight volumes and economic consequences require operational statistics.
