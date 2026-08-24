@@ -1,0 +1,20 @@
+source_id: SRC-HOP-HEALTH-INSURANCE-1883
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Empire
+  title: Gesetz betreffend die Krankenversicherung der Arbeiter
+  date: 1883-06-15
+  original_language: German
+  role: compulsory_health_insurance_industrial_workers_funds_and_administration
+governing_witness:
+  witness_type: REICHSGESETZBLATT_SCAN_TRANSCRIPTION
+  citation: "RGBl. 1883, Nr. 9, S. 73-104"
+  locator: https://de.wikisource.org/wiki/Deutsches_Reichsgesetzblatt_1883
+key_passages:
+  - section: 1
+    heading: Versicherungszwang
+    proposition: Wage and salary workers in mines, factories, railways, shipyards, building and other listed employments become subject to compulsory insurance.
+qualification: >-
+  Coverage was occupationally defined and not universal. The law creates a compulsory
+  administrative relation among workers, employers, funds, local authorities and Reich law.
