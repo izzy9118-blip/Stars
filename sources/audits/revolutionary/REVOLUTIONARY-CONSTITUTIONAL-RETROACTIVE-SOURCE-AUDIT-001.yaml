@@ -1,0 +1,277 @@
+audit_id: REVOLUTIONARY-CONSTITUTIONAL-RETROACTIVE-SOURCE-AUDIT-001
+status: REVOLUTIONARY_LAYER_REFLECTIVELY_RICH_BUT_CONSTITUENT_AND_DISSENT_ARCHIVE_INCOMPLETE
+parent_star: STAR-HISTORY-OF-POWER-001
+method: sources/SOURCE-WITNESS-METHOD.md
+layer: revolutionary_and_constitutional_power
+
+current_strengths:
+  reflective_witnesses_already_present:
+    - Benjamin Franklin, Autobiography
+    - The Federalist
+    - Edmund Burke, Reflections on the Revolution in France
+    - Gouverneur Morris, diary/correspondence witness to revolutionary France
+    - Talleyrand, Memoirs
+  strength: >-
+    The layer already includes civic self-formation, constitutional design,
+    conservative criticism, diplomatic eyewitness, and post-festum participant reflection.
+    Its defect is that those witnesses are not yet balanced by enough constituent texts,
+    losing-side arguments, fiscal statecraft, radical democratic reflection, and later
+    participant reconstructions.
+
+American_operational_constituent_archive_missing_or_underlinked:
+  - source_id: SRC-HOP-DECLARATION-INDEPENDENCE-1776
+    class: CONSTITUENT_PUBLIC_ACT
+    importance: sovereignty_rights_grievance_people_and_dissolution_of_allegiance
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-ARTICLES-CONFEDERATION
+    class: FIRST_US_FEDERAL_CONSTITUTIONAL_WITNESS
+    importance: state_sovereignty_confederation_congress_war_finance_and_limits_of_union
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-US-CONSTITUTION-1787
+    class: CONSTITUENT_CONSTITUTIONAL_TEXT
+    importance: offices_federalism_taxation_war_executive_judiciary_representation_and_amendment
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-STATE-RATIFYING-CONVENTIONS
+    class: CONSTITUTIONAL_DELIBERATIVE_ARCHIVE
+    importance: actual_public_arguments_by_federalists_and_opponents_across_states
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-BILL-RIGHTS-US-1791
+    class: CONSTITUTIONAL_AMENDMENT_TEXT
+    importance: speech_religion_arms_due_process_reserved_powers_and_limits
+    priority: ESSENTIAL
+
+American_missing_first_class_reflection_and_dissent:
+  - source_id: SRC-HOP-ANTIFEDERALIST-BRUTUS
+    author: Brutus_pseudonymous
+    work: Brutus essays
+    class: CONTEMPORARY_ANTI_FEDERAL_REFLECTION
+    importance: consolidated_power_judiciary_taxation_army_representation_and_scale
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-FEDERAL-FARMER
+    author: Federal_Farmer_pseudonymous
+    work: Letters from the Federal Farmer
+    class: CONTEMPORARY_ANTI_FEDERAL_REFLECTION
+    importance: federalism_representation_rights_and_consolidation
+    priority: HIGH
+  - source_id: SRC-HOP-JOHN-ADAMS-DEFENCE
+    author: John Adams
+    work: A Defence of the Constitutions of Government of the United States of America
+    years: 1787-1788
+    class: CONTEMPORARY_CONSTITUTIONAL_REFLECTION
+    importance: mixed_government_bicameralism_balance_elites_and_popular_power
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-JEFFERSON-NOTES-VIRGINIA
+    author: Thomas Jefferson
+    work: Notes on the State of Virginia
+    publication: 1785
+    class: CONTEMPORARY_REPUBLICAN_SOCIAL_REFLECTION
+    importance: land_slavery_education_state_power_population_and_republican_society
+    caution: slavery_and_race_claims_require_explicit_critical_context
+    priority: HIGH
+  - source_id: SRC-HOP-MADISON-CONVENTION-NOTES
+    author: James Madison
+    work: Notes of Debates in the Federal Convention of 1787
+    written: 1787
+    published: 1840
+    class: CONTEMPORARY_NOTES_POST_FESTUM_PUBLICATION
+    importance: actual_design_conflicts_representation_slavery_executive_federalism_and_compromise
+    caution: edited_by_Madison_and_published_decades_later
+    priority: ESSENTIAL
+
+Hamiltonian_fiscal_and_administrative_state_missing:
+  - source_id: SRC-HOP-HAMILTON-PUBLIC-CREDIT-1790
+    author: Alexander Hamilton
+    work: First Report on the Public Credit
+    year: 1790
+    class: TREASURY_POLICY_AND_REFLECTIVE_STATECRAFT
+    importance: debt_assumption_public_credit_national_authority_and_financial_reputation
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-HAMILTON-NATIONAL-BANK-1790
+    author: Alexander Hamilton
+    work: Report on a National Bank
+    year: 1790
+    class: TREASURY_POLICY_REFLECTION
+    importance: corporate_finance_currency_tax_collection_credit_and_federal_capacity
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-HAMILTON-MANUFACTURES-1791
+    author: Alexander Hamilton
+    work: Report on Manufactures
+    year: 1791
+    class: POLITICAL_ECONOMIC_STATECRAFT
+    importance: industry_defense_tariff_incentives_division_of_labor_and_national_power
+    priority: ESSENTIAL
+  rule: >-
+    Talleyrand's admiration of Hamilton must be tested against Hamilton's own reports,
+    not used as a substitute for them.
+
+French_constituent_operational_archive_missing:
+  - source_id: SRC-HOP-CAHIERS-1789
+    work: selected Cahiers de doléances
+    class: PRE_REVOLUTIONARY_GRIEVANCE_AND_REPRESENTATION_ARCHIVE
+    importance: tax_privilege_estates_law_religion_property_and_local_demands
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-DECLARATION-RIGHTS-MAN-1789
+    work: Déclaration des droits de l'homme et du citoyen
+    class: CONSTITUENT_RIGHTS_TEXT
+    importance: sovereignty_law_equality_property_resistance_and_public_force
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-CONSTITUTION-FRANCE-1791
+    class: CONSTITUTIONAL_TEXT
+    importance: nation_king_assembly_active_citizens_administration_and_separation_of_powers
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-CIVIL-CONSTITUTION-CLERGY-1790
+    class: REVOLUTIONARY_ECCLESIASTICAL_REORGANIZATION
+    importance: church_office_election_salary_diocese_and_state_jurisdiction
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-ASSIGNAT-DECREES
+    class: FISCAL_MONETARY_OPERATIONAL_CORPUS
+    importance: church_property_paper_money_debt_and_revolutionary_finance
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-CONSTITUTION-1793
+    class: RADICAL_REPUBLICAN_CONSTITUTIONAL_TEXT
+    importance: popular_sovereignty_social_rights_insurrection_and_unimplemented_constitution
+    priority: HIGH
+  - source_id: SRC-HOP-COMMITTEE-PUBLIC-SAFETY-DECREES
+    class: REVOLUTIONARY_EXECUTIVE_ARCHIVE
+    importance: war_economy_repression_appointments_armies_and_emergency_government
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-LAW-SUSPECTS-1793
+    class: EMERGENCY_REPRESSIVE_LAW
+    importance: categories_of_suspicion_detention_and_revolutionary_security
+    priority: HIGH
+  - source_id: SRC-HOP-LAW-22-PRAIRIAL
+    class: REVOLUTIONARY_TRIBUNAL_LAW
+    importance: evidence_defense_verdict_and_acceleration_of_Terror
+    priority: HIGH
+  - source_id: SRC-HOP-CONSTITUTION-YEAR-III-1795
+    class: DIRECTORY_CONSTITUTIONAL_TEXT
+    importance: bicameralism_executive_directory_property_and_post_Terror_stabilization
+    priority: ESSENTIAL
+
+French_missing_contemporary_reflective_books:
+  - source_id: SRC-HOP-SIEYES-THIRD-ESTATE
+    author: Emmanuel-Joseph Sieyès
+    work: Qu'est-ce que le Tiers-État?
+    year: 1789
+    class: CONTEMPORARY_CONSTITUENT_REFLECTION
+    importance: nation_representation_privilege_constituent_power_and_political_existence
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-PAINE-RIGHTS-MAN
+    author: Thomas Paine
+    work: Rights of Man
+    years: 1791-1792
+    class: TRANSATLANTIC_REVOLUTIONARY_REFLECTION
+    importance: rights_constitution_revolution_monarchy_taxation_and_social_provision
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-PAINE-COMMON-SENSE
+    author: Thomas Paine
+    work: Common Sense
+    year: 1776
+    class: AMERICAN_REVOLUTIONARY_REFLECTION
+    importance: monarchy_independence_republic_and_constitutional_break
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-CONDORCET-CONSTITUTIONAL-WRITINGS
+    author: Condorcet
+    works: selected_revolutionary_political_and_education_writings
+    class: PARTICIPANT_ENLIGHTENMENT_REVOLUTIONARY_REFLECTION
+    importance: public_instruction_rights_constitution_progress_and_republic
+    priority: HIGH
+  - source_id: SRC-HOP-ROBESPIERRE-SPEECHES
+    author: Maximilien Robespierre
+    class: REVOLUTIONARY_PARTICIPANT_REFLECTION
+    importance: virtue_terror_sovereignty_war_religion_and_revolutionary_government
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-SAINT-JUST-SPEECHES
+    author: Louis Antoine de Saint-Just
+    class: REVOLUTIONARY_PARTICIPANT_REFLECTION
+    importance: republic_constitution_war_terror_and_revolutionary_government
+    priority: HIGH
+
+French_post_festum_dusk_witnesses:
+  - source_id: SRC-HOP-STAEL-CONSIDERATIONS-1818
+    author: Germaine de Staël
+    work: Considérations sur les principaux événements de la Révolution française
+    publication: 1818
+    class: PARTICIPANT_OBSERVER_POST_FESTUM_RECONSTRUCTION
+    importance: monarchy_constitution_revolution_Napoleon_liberty_and_European_context
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-TOCQUEVILLE-ANCIEN-REGIME-1856
+    author: Alexis de Tocqueville
+    work: L'Ancien Régime et la Révolution
+    year: 1856
+    class: LATER_DUSK_RECONSTRUCTION
+    importance: administrative_centralization_continuity_old_regime_and_revolution
+    status: ALREADY_LOCKED_IN_NINETEENTH_CENTURY_CORPUS
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-THIERS-REVOLUTION
+    author: Adolphe Thiers
+    work: Histoire de la Révolution française
+    publication: 1823-1827
+    class: EARLY_NINETEENTH_CENTURY_POST_FESTUM_HISTORY
+    caution: political_position_and_later_statesmanship_must_be_recorded
+    priority: MEDIUM
+
+current_claims_requiring_control:
+  - Federalist_must_not_stand_for_the_whole_American_ratification_debate
+  - popular_sovereignty_requires_actual_state_ratifying_and_constituent_records
+  - American_founding_requires_explicit_slavery_indigenous_and_disfranchisement_boundaries
+  - Burke_prediction_and_Morris_observation_must_be_distinguished_from_French_revolutionary_self_understanding
+  - assignat_story_requires_actual_decrees_and_fiscal_records_not_only_Morris
+  - Committee_and_Tribunal_power_requires decrees_and_laws_beside_diplomatic_observation
+  - Talleyrand_memoires_are_post_festum_self_defense_and_should_be_read_against_contemporary_documents
+  - Brumaire_should_link_forward_to_the_Napoleonic_administrative_corpus_not_terminate_as_a_personality_story
+
+later_critical_reconstruction_required:
+  - author: Gordon S. Wood
+    work: The Creation of the American Republic, 1776-1787
+    year: 1969
+    priority: ESSENTIAL
+  - author: Bernard Bailyn
+    work: The Ideological Origins of the American Revolution
+    year: 1967
+    priority: HIGH
+  - author: Pauline Maier
+    work: Ratification
+    year: 2010
+    role: state_ratifying_public_deliberation
+    priority: ESSENTIAL
+  - author: Jack N. Rakove
+    work: Original Meanings
+    year: 1996
+    role: constitutional_deliberation_and_interpretation
+    priority: HIGH
+  - author: Hannah Arendt
+    work: On Revolution
+    year: 1963
+    class: LATER_PHILOSOPHICAL_RECONSTRUCTION
+    priority: HIGH
+  - author: François Furet
+    work: Penser la Révolution française
+    year: 1978
+    priority: HIGH
+  - author: Lynn Hunt
+    work: Politics, Culture, and Class in the French Revolution
+    year: 1984
+    priority: HIGH
+  - author: Timothy Tackett
+    work: Becoming a Revolutionary
+    year: 1996
+    role: deputies_political_transformation_and_contingency
+    priority: ESSENTIAL
+  - author: William Doyle
+    work: The Oxford History of the French Revolution
+    year: 1989
+    priority: HIGH
+
+narrative_gate:
+  state: NOT_SATISFIED_UNDER_REVISED_METHOD
+  requirements:
+    - add US constituent texts and Anti-Federalist archive
+    - add Hamilton Treasury reports
+    - add French constituent and emergency laws
+    - add Sieyes, Paine, Robespierre and Saint-Just
+    - add Stael as participant post-festum witness
+    - integrate Tocqueville 1856 explicitly as dusk reconstruction
+    - control slavery_exclusion_and_colonial boundaries in the American and French revolutionary narratives
+
+next_layer_after_completion: ADMINISTRATIVE_AND_NATIONAL_POWER_1798_1871
