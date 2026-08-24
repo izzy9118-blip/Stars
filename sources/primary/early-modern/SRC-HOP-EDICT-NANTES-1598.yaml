@@ -1,0 +1,44 @@
+source_id: SRC-HOP-EDICT-NANTES-1598
+name: Edict of Nantes
+status: GOVERNING_WITNESS_LOCKED
+
+work:
+  ruler: Henri IV of France and Navarre
+  title_normalized: Édit de Nantes / Édict du Roy sur la pacification des troubles de ce royaume
+  promulgation: 1598-04
+  parliamentary_registration: 1599-02-25
+  original_language: French
+  role: monarchical_management_of_confessional_plurality_worship_office_and_civil_status
+
+governing_witness:
+  witness_type: CONTEMPORARY_1599_REGISTERED_PRINT
+  title: "Edict du Roy & declaration sur les precedents edicts de pacification"
+  place: Paris
+  year: 1599
+  repository: Bibliothèque nationale de France / Gallica
+  catalogue_record: https://catalogue.bnf.fr/
+  discovery_note: >-
+    BnF records contemporary 1599 editions published after registration in the
+    Parlement of Paris. The Wikisource transcription is used for navigation and
+    quotation cross-checking against the historical print.
+  supporting_transcription: https://fr.wikisource.org/wiki/%C3%89dit_de_Nantes
+
+passage_anchors:
+  - article: VI
+    use: liberty_of_conscience_and_permission_to_live_within_the_realm_subject_to_the_edict
+  - article: XXVII
+    text: >-
+      "capables de tenir et exercer tous États, Dignitez, Offices et Charges publiques quelconques"
+    use: reformed_subjects_admissible_to_public_office
+  - articles: worship_provisions
+    use: specified_places_and_conditions_for_public_exercise_of_reformed_religion
+  - particular_article: I
+    text: "l’article sixième dudit Édit touchant la liberté de conscience"
+    use: explicit_confirmation_of_conscience_clause
+
+claim_boundary: >-
+  The Edict does not establish a religiously neutral state or equal public worship
+  everywhere. Catholic worship was restored and privileged; Reformed worship was
+  permitted under specified territorial and legal conditions, while civil capacities
+  were protected by royal law. Its significance is organized pluralism under monarchy,
+  not modern separation of church and state.
