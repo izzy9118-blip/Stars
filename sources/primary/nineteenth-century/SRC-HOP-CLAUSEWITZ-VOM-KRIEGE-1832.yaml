@@ -1,5 +1,5 @@
 source_id: SRC-HOP-CLAUSEWITZ-VOM-KRIEGE-1832
-status: GOVERNING_POSTHUMOUS_FIRST_EDITION_WITNESS_LOCKED
+status: GOVERNING_POSTHUMOUS_FIRST_EDITION_WITNESS_LOCKED_PASSAGES_IDENTIFIED
 parent_corpus: HOP-ADMINISTRATIVE-STATE-001
 
 work:
@@ -25,18 +25,36 @@ editorial_status:
   - Clausewitz states that the first six books remained an unfinished mass requiring revision
   - Book VIII and the late notes require special attention to textual chronology
 
-primary_passage_targets:
-  - war as an act of force to compel the opponent to fulfill our will
-  - relation between political purpose and military means
-  - friction, uncertainty, moral forces and limited knowledge
-  - distinction between war aimed at overthrowing the opponent and limited war
-  - people's war / national mobilization where relevant
+passages:
+  - location: Book I, Chapter 1, section 2
+    issue: elementary definition of war
+    anchor: "Der Krieg ist also ein Akt der Gewalt, um den Gegner zur Erfüllung unseres Willens zu zwingen."
+    status: GERMAN_TEXT_VERIFIED_FIRST_EDITION_PAGE_CROSSWALK_PENDING
+  - location: Book I, Chapter 1, section 11
+    issue: political purpose re-enters actual war as a measure of objective and effort
+    anchor: "der politische Zweck als das ursprüngliche Motiv des Krieges"
+    status: GERMAN_TEXT_VERIFIED_FIRST_EDITION_PAGE_CROSSWALK_PENDING
+  - location: Book I, Chapter 1, section 24
+    issue: war as political instrument
+    anchors:
+      - "ein wahres politisches Instrument"
+      - "die politische Absicht ist der Zweck, der Krieg ist das Mittel"
+    status: GERMAN_TEXT_VERIFIED_FIRST_EDITION_PAGE_CROSSWALK_PENDING
+  - location: Book I, Chapter 1, section 25
+    issue: stronger motives and tensions involving the whole existence of peoples change the intensity and form of war
+    anchor: "je mehr sie das ganze Dasein der Völker umfassen"
+    status: GERMAN_TEXT_VERIFIED_FIRST_EDITION_PAGE_CROSSWALK_PENDING
+  - location: Book VIII, political-instrument discussion
+    issue: war remains part of political intercourse rather than becoming an autonomous system with its own political logic
+    anchor: "der Krieg nur ein Teil des politischen Verkehrs sei, also durchaus nichts Selbständiges"
+    status: LATE_TEXT_IDENTIFIED_EDITORIAL_STATE_MUST_BE_RETAINED
 
 witness_policy:
   rule: >-
-    Preserve the unfinished and posthumous status of the text. Do not turn one famous
-    formulation into a complete system or assume every passage represents Clausewitz's
-    final revised position.
+    Preserve the unfinished and posthumous status of the text. Modern German
+    transcriptions aid location, but direct quotation should be checked against the
+    digitized first edition. Book I and Book VIII passages must not be flattened into
+    a single timeless formula without their different textual states.
 
-quotation_state: TARGETED_BOOKS_AND_EDITORIAL_NOTES_IDENTIFIED
-analysis_state: NOT_YET_INTEGRATED
+quotation_state: CORE_PASSAGE_WORDING_IDENTIFIED_FIRST_EDITION_IMAGE_CROSSWALK_PENDING
+analysis_state: PASSAGE_MAP_READY_WITH_EDITORIAL_CONTROL
