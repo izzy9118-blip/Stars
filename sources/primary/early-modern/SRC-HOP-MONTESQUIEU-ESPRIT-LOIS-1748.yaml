@@ -1,0 +1,50 @@
+source_id: SRC-HOP-MONTESQUIEU-ESPRIT-LOIS-1748
+name: Montesquieu De l'esprit des loix
+status: GOVERNING_WITNESS_LOCKED
+
+work:
+  author: Charles-Louis de Secondat, baron de La Brède et de Montesquieu
+  title: De l'esprit des loix
+  year: 1748
+  original_language: French
+  role: moderation_political_liberty_distribution_of_powers_commerce_and_interdependence
+
+governing_witness:
+  witness_type: DIGITIZED_1748_FIRST_EDITION
+  place: Geneva
+  publisher: Barrillot & Fils
+  year: 1748
+  repository: Bibliothèque de Genève / e-rara
+  shelfmark: Da 157
+  doi: https://doi.org/10.3931/e-rara-86341
+  extent: "2 tomes: [8], XXIV, 522 p.; [4], XVI, 564 p."
+  rights: Public Domain Mark
+  bibliographic_status: FIRST_EDITION_WITH_RECORDED_CARTONS
+
+supporting_facsimile:
+  repository: Bibliothèque nationale de France via Wikimedia Commons
+  volume_1: https://commons.wikimedia.org/wiki/File:Montesquieu,_De_l%27Esprit_des_loix_(1st_ed,_1748,_vol_1).pdf
+  volume_2: https://commons.wikimedia.org/wiki/File:Montesquieu,_De_l%27Esprit_des_loix_(1st_ed,_1748,_vol_2).pdf
+
+passage_targets:
+  - location: Book XI, chapter IV
+    issue: moderation_and_power_checking_power
+    anchor: "pour qu'on ne puisse abuser du pouvoir, il faut que, par la disposition des choses, le pouvoir arrête le pouvoir"
+  - location: Book XI, chapter VI
+    issue: legislative_executive_judicial_power_and_political_liberty
+    anchors:
+      - "Il y a dans chaque État trois sortes de pouvoirs"
+      - "Lorsque dans la même personne ... la puissance législative est réunie à la puissance exécutrice, il n'y a point de liberté"
+      - "Il n'y a point encore de liberté si la puissance de juger n'est pas séparée"
+  - location: Book XX, chapters I-II
+    issue: commerce_manners_peace_and_mutual_dependence
+    anchors:
+      - "Le commerce guérit des préjugés destructeurs"
+      - "L'effet naturel du commerce est de porter à la paix"
+      - "Deux nations qui négocient ensemble se rendent réciproquement dépendantes"
+
+claim_boundary: >-
+  Montesquieu does not formulate a modern doctrine of mechanically isolated branches.
+  Book XI describes a constitution of distributed powers, checks, and capacities to act
+  or prevent action. Likewise, his treatment of commerce is ambivalent: commerce can
+  soften manners and create interdependence while also altering or corrupting other virtues.
