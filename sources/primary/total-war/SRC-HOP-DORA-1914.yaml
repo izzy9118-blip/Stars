@@ -1,0 +1,17 @@
+source_id: SRC-HOP-DORA-1914
+status: GOVERNING_STATUTORY_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: Parliament of the United Kingdom
+  title: Defence of the Realm Act 1914
+  date: 1914-08-08
+  citation: "4 & 5 Geo. 5 c. 29"
+  original_language: English
+  role: emergency_regulation_security_censorship_property_and_civilian_control
+governing_witness:
+  witness_type: OFFICIAL_UK_STATUTE
+  source: http://www.legislation.gov.uk/id/ukpga/Geo5/4-5/29
+  facsimile: https://commons.wikimedia.org/wiki/File:Defence_of_the_Realm_Act_1914_(UKPGA_Geo5-4-5-29_en).pdf
+qualification: >-
+  The August Act is an opening emergency-power witness. Later DORA amendments and the November 1914 Consolidation Act
+  expanded the regime and must be acquired before claims about the full wartime scope of DORA are made.
