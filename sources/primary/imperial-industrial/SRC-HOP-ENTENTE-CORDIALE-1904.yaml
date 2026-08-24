@@ -1,0 +1,16 @@
+source_id: SRC-HOP-ENTENTE-CORDIALE-1904
+status: DIPLOMATIC_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  parties: [United Kingdom, French Republic]
+  title: Declaration respecting Egypt and Morocco with secret articles
+  date: 1904-04-08
+  original_languages: [English, French]
+  role: imperial_bargaining_spheres_of_action_commercial_liberty_and_diplomatic_support
+governing_witness:
+  witness_type: BRITISH_PARLIAMENTARY_PAPER_TRANSCRIPTION
+  publication: "Great Britain, Parliamentary Papers, 1911, Cmd. 5969"
+  locator: https://avalon.law.yale.edu/20th_century/entecord.asp
+qualification: >-
+  The declaration is not a general military alliance. It reallocates friction over Egypt and Morocco,
+  preserves commercial and strategic provisions, and promises diplomatic support in specified matters.
