@@ -1,0 +1,167 @@
+map_id: NAPOLEONIC-ADMINISTRATIVE-STATE-001
+status: PASSAGE_EXTRACTION_IN_PROGRESS
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+
+method:
+  - The Napoleonic state is not treated as a wholly new creation; Revolutionary inheritances are identified explicitly.
+  - Legal authorization, administrative organization, actual practice, and Napoleon's personal commands are distinct evidence classes.
+  - Centralization means identifiable transfers or concentrations of appointment, reporting, execution, legal, military, police, or educational power; it is not used as a free-standing label.
+  - State knowledge is not inferred from later statistical institutions when a contemporary reporting program can be located.
+  - The Code civil is examined both as territorial/legal standardization and as a structure of private hierarchy; equality before uniform law does not imply equality within every civil relation.
+
+claims:
+  - claim_id: NAP-ADM-001
+    proposition: >-
+      The Constitution of Year VIII concentrated appointment and executive decision
+      in the First Consul while retaining formally differentiated constitutional bodies.
+    source_id: SRC-HOP-CONSTITUTION-AN-VIII-1799
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    locations: [Article 39, Article 41, Article 42]
+    original_language: French
+    anchors:
+      - "Le gouvernement est confié à trois consuls"
+      - "Le Premier consul ... nomme et révoque à volonté"
+      - "la décision du Premier consul suffit"
+    qualification: >-
+      The constitution retains councils and legislative institutions. The claim is
+      concentration of executive appointment and decision, not disappearance of every other body.
+
+  - claim_id: NAP-ADM-002
+    proposition: >-
+      The law of 28 pluviôse Year VIII made the prefect the single departmental
+      administrator, creating a territorial chain through prefects, subprefects,
+      and municipal authorities linked to the central executive.
+    source_id: SRC-HOP-PREFECTS-28-PLUVIOSE-AN-VIII
+    passage_status: VERIFIED_OFFICIAL_CORE_ARTICLE
+    location: departmental administration, Article 3
+    original_language: French
+    anchor: "Le préfet sera chargé seul de l'administration."
+    qualification: >-
+      Department, commune, and council prehistories must remain visible; the law
+      reorganizes territorial administration rather than inventing territorial government.
+
+  - claim_id: NAP-ADM-003
+    proposition: >-
+      Parisian police power was placed in an office corresponding directly with
+      ministers and combining movement control, public order, regulation, cult
+      surveillance, subordinate agents, and administrative execution.
+    source_id: SRC-HOP-PREFECTURE-POLICE-1800
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    locations: [Article 1, Article 2, Article 3, Article 17]
+    original_language: French
+    anchors:
+      - "sous l'autorité immédiate des ministres"
+      - "il correspondra directement avec eux"
+      - "Il délivrera les passeports"
+      - "Il surveillera les lieux où on se réunit pour l'exercice des cultes"
+    qualification: >-
+      The Paris police prefecture is not automatically a model for every department.
+      Its exceptional capital-city jurisdiction must remain explicit.
+
+  - claim_id: NAP-ADM-004
+    proposition: >-
+      Permanent national military obligation entered the Napoleonic order through a
+      Revolutionary law that defined every Frenchman as owing military defense to the patrie.
+    source_id: SRC-HOP-CONSCRIPTION-1798
+    passage_status: VERIFIED_DOCUMENTARY_ARTICLE_I
+    location: Article 1
+    original_language: French
+    anchor: "Tout Français est soldat et se doit à la défense de la patrie."
+    qualification: >-
+      This is a Directory law of 1798. Its importance for Napoleon lies in inheritance,
+      administration, and enlargement, not authorship.
+
+  - claim_id: NAP-ADM-005
+    proposition: >-
+      The 1802 education law created state-funded lycées, subjected secondary education
+      to government authorization and prefectural inspection, and made schooling an
+      administratively organized relation among municipalities, families, and the state.
+    source_id: SRC-HOP-INSTRUCTION-11-FLOREAL-X
+    passage_status: VERIFIED_DOCUMENTARY_TEXT
+    locations: [Article 1, Article 8, Article 9, Article 12]
+    original_language: French
+    anchors:
+      - "entretenus aux frais du Trésor public"
+      - "surveillance et l'inspection particulière des préfets"
+      - "Il sera établi des Lycées"
+    qualification: >-
+      The law creates a layered system rather than a total state monopoly: primary,
+      municipal/private secondary, lycée, and special schools remain differentiated.
+
+  - claim_id: NAP-ADM-006
+    proposition: >-
+      The 1804 Code civil made one official civil code govern property, status,
+      family, inheritance, and obligations while preserving marked hierarchy within
+      the household alongside strong protection of private property.
+    source_id: SRC-HOP-CODE-CIVIL-1804
+    passage_status: VERIFIED_ORIGINAL_EDITION_TRANSCRIPTION
+    locations: [Article 213, Article 544, Article 545]
+    original_language: French
+    anchors:
+      - "Le mari doit protection à sa femme, la femme obéissance à son mari"
+      - "La propriété est le droit de jouir et disposer"
+    qualification: >-
+      Uniformity of civil law must not be confused with social equality. The code
+      standardizes legal relations while giving unequal rights and duties in some relations.
+
+  - claim_id: NAP-ADM-007
+    proposition: >-
+      In 1804 the republic's government was constitutionally entrusted to a hereditary
+      Emperor, and constitutional, civil, judicial, and military officeholders were
+      tied to the imperial order through formal oaths and promulgation channels.
+    source_id: SRC-HOP-SENATUS-CONSULTE-AN-XII-1804
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    locations: [Article 1, Article 3, Article 56, Article 140]
+    original_language: French
+    anchors:
+      - "Le Gouvernement de la République est confié à un Empereur"
+      - "Je jure obéissance aux constitutions de l'Empire et fidélité à l'Empereur"
+    qualification: >-
+      The text deliberately retains republican and constitutional vocabulary while
+      establishing hereditary imperial dignity; neither term should erase the other.
+
+  - claim_id: NAP-ADM-008
+    proposition: >-
+      The Interior Ministry sought to turn prefectural reporting into a systematic
+      body of knowledge about population, agriculture, industry, commerce, wealth,
+      and resources available to government.
+    source_id: SRC-HOP-CHAPTAL-STATISTICS-1801
+    passage_status: ARCHIVAL_TARGET_ONLY
+    location: reported circular of 19 germinal an IX, Archives nationales F/20/136
+    qualification: >-
+      No direct quotation is admitted yet. The original or contemporary printed
+      circular must be inspected before this claim crosses the narrative gate.
+
+  - claim_id: NAP-ADM-009
+    proposition: >-
+      Napoleon's correspondence can test whether the legal architecture above became
+      a practical command system by tracing orders from the center into prefectures,
+      police, military recruitment, finance, public works, education, and reporting.
+    source_id: SRC-HOP-NAPOLEON-CORRESPONDENCE
+    passage_status: DOCUMENT_EXTRACTION_PENDING
+    qualification: >-
+      This is a research proposition, not yet a historical finding. Specific dated
+      letters must be extracted before any claim about routine personal command is admitted.
+
+cross_source_questions:
+  - >-
+    How did a revolution claiming popular sovereignty produce an executive able to appoint
+    large portions of the administrative, diplomatic, military, and judicial apparatus?
+  - >-
+    Which capacities were revolutionary inheritances and which were Consular or Imperial reorganizations?
+  - >-
+    Did the prefectural chain strengthen the state by replacing local political initiative,
+    or by making local information and execution more reliably available to the center?
+  - >-
+    How did legal uniformity coexist with differentiated household, property, and administrative hierarchies?
+  - >-
+    How did conscription, schools, police, statistics, and law make the population simultaneously
+    a bearer of national sovereignty, a resource to mobilize, an object to know, and a field to administer?
+
+remaining_extraction_before_narrative:
+  - Verify Chaptal's 19 germinal an IX circular in the primary archival or contemporary printed witness.
+  - Extract a controlled sample of Napoleon's correspondence to prefects, ministers, police, and military administrators.
+  - Add a direct public-works/roads administrative witness.
+  - Add a fiscal/treasury witness linking taxation and administrative capacity.
+  - Add the Concordat/Organic Articles only if the religion-administration relation proves necessary to this layer rather than duplicating the previous confessional-power unit.
