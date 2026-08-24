@@ -1,0 +1,143 @@
+passage_set_id: PERSIA-ROYAL-BABYLONIAN-TARGETS-001
+status: PREPARATORY_TARGETS_IDENTIFIED_NOT_VERIFIED_OR_ADMITTED
+parent_corpus: HOP-PERSIA-PRELIMINARY-001
+star_layer_target: persian_power
+exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+
+method:
+  - This file identifies exact extraction problems; it does not certify wording.
+  - Every target requires comparison with the artifact and governing-language critical edition.
+  - Royal self-presentation, Babylonian chronicle and later reconstruction remain separate.
+  - Project paraphrases are navigation aids and may not be quoted as translations.
+
+targets:
+  - target_id: PERS-CYRUS-001
+    source_id: SRC-HOP-CYRUS-CYLINDER
+    location: lines 12-19 in standard line numbering
+    issue: Marduk's search for a righteous ruler and selection of Cyrus
+    project_paraphrase: >-
+      The Babylonian royal text makes Marduk the agent who examines lands, takes Cyrus
+      by the hand and calls him to rule Babylon.
+    intended_claim_class: SELF_WITNESS
+    controls:
+      - Schaudig 2001 Akkadian edition
+      - British Museum 90920 and Yale fragment relation
+    cannot_establish: historical fact of divine selection or a universal Persian theology
+
+  - target_id: PERS-CYRUS-002
+    source_id: SRC-HOP-CYRUS-CYLINDER
+    location: lines 20-28
+    issue: entry into Babylon, royal welcome and initial settlement
+    project_paraphrase: >-
+      Cyrus presents his entry and accession through peace, popular reception and the
+      protection of Babylon.
+    intended_claim_class: SELF_WITNESS
+    controls:
+      - exact Akkadian verbs and restorations
+      - Nabonidus Chronicle sequence
+      - Babylonian administrative records
+    cannot_establish: bloodless conquest or unanimous welcome merely from the royal inscription
+
+  - target_id: PERS-CYRUS-003
+    source_id: SRC-HOP-CYRUS-CYLINDER
+    location: lines 30-35
+    issue: return of divine images, cults and displaced communities
+    project_paraphrase: >-
+      The inscription represents Cyrus as restoring sanctuaries and returning cultic
+      images and populations to their places.
+    intended_claim_class: SELF_WITNESS
+    controls:
+      - identify exact objects and populations named or generalized
+      - compare regional evidence for actual returns
+    cannot_establish: a universal human-rights policy or complete implementation
+
+  - target_id: PERS-NABONIDUS-001
+    source_id: SRC-HOP-NABONIDUS-CHRONICLE
+    location: column III, entries for Cyrus's campaign, Sippar and Babylon
+    issue: Babylonian chronological sequence of political transition
+    project_paraphrase: >-
+      The chronicle records Cyrus's advance, the fall of Sippar, entry into Babylon and
+      subsequent cultic or administrative actions in regnal sequence.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    controls:
+      - BM 35382 tablet condition
+      - Grayson Chronicle 7
+      - Sidney Smith plates and readings
+    cannot_establish: eyewitness neutrality or motives absent from the chronicle
+
+  - target_id: PERS-BEHISTUN-001
+    source_id: SRC-HOP-BEHISTUN
+    location: DB column I, royal introduction, genealogy and initial accession account
+    issue: Darius's identity, Achaemenid lineage and divine grant
+    project_paraphrase: >-
+      Darius states who he is, names his lineage and attributes kingship to Ahuramazda.
+    intended_claim_class: SELF_WITNESS
+    controls:
+      - Old Persian, Elamite and Babylonian versions separately
+      - stage of inscriptional composition
+    cannot_establish: uncontested genealogy or legitimacy
+
+  - target_id: PERS-BEHISTUN-002
+    source_id: SRC-HOP-BEHISTUN
+    location: DB columns I-III, Gaumata and named rebellions
+    issue: royal classification of imposture, revolt and suppression
+    project_paraphrase: >-
+      The monument names rivals, commanders, places and defeats while classifying
+      opposition through the Lie and presenting Darius as restorer.
+    intended_claim_class: SELF_WITNESS
+    controls:
+      - version differences
+      - Babylonian and regional revolt evidence
+      - damage and later additions
+    cannot_establish: that every rival was an impostor or rebel in a neutral sense
+
+  - target_id: PERS-BEHISTUN-003
+    source_id: SRC-HOP-BEHISTUN
+    location: DB column IV, commands to future readers and treatment of truth/lie
+    issue: preservation, copying and moral-political memory
+    project_paraphrase: >-
+      Darius addresses future rulers or viewers concerning belief, preservation and
+      the consequences of truth and the Lie.
+    intended_claim_class: SELF_WITNESS
+    controls:
+      - exact Old Persian wording and version differences
+      - Aramaic and Babylonian transmitted copies
+    cannot_establish: empire-wide reception or obedience to the inscription
+
+  - target_id: PERS-DNA-001
+    source_id: SRC-HOP-DARIUS-DNA-DNB
+    location: DNa opening sections and subject-people catalogue
+    issue: Ahuramazda, kingship and imperial plurality
+    project_paraphrase: >-
+      Darius represents creation and kingship under Ahuramazda, then names the lands
+      or peoples held beneath his authority.
+    intended_claim_class: SELF_WITNESS
+    controls:
+      - Old Persian and parallel versions
+      - visual relation between throne bearers and inscription
+      - chronological state of catalogue
+    cannot_establish: equal status, voluntary submission or a complete fixed administrative map
+
+  - target_id: PERS-DNB-001
+    source_id: SRC-HOP-DARIUS-DNA-DNB
+    location: DNb sections on anger, judgment, weak/strong, loyal/wrongdoer and physical skill
+    issue: royal self-command and ideal judgment
+    project_paraphrase: >-
+      The king presents himself as controlled in anger, attentive to both sides,
+      proportionate toward strong and weak, rewarding service and punishing wrongdoing.
+    intended_claim_class: SELF_WITNESS
+    controls:
+      - exact Old Persian clauses
+      - language variants and restored text
+      - comparison with Behistun punishment narrative
+    cannot_establish: Darius's actual conformity to every virtue or equal justice for all subjects
+
+cross_source_questions:
+  - How does Cyrus's Babylonian political theology differ from Darius's Achaemenid dynastic and moral vocabulary?
+  - What changes when a conquest is remembered by a royal foundation deposit versus a Babylonian chronicle?
+  - Does multilingual publication enlarge comprehension, classify subject populations, or both?
+  - How does royal self-command relate to the violent punishment represented at Behistun?
+
+release_rule: >-
+  No direct quotation or Star-native proposition is released from this file until
+  each target has a governing-language extraction record and counter-witness note.
