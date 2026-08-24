@@ -1,0 +1,64 @@
+source_id: SRC-HOP-HORNUNG-ONE-MANY-1971
+status: GOVERNING_GERMAN_FIRST_EDITION_METADATA_LOCKED_REVIEW_EXTRACTION_PENDING
+
+author_or_corporate_author: Erik Hornung
+work_or_document_title: Der Eine und die Vielen
+author_subtitle: Ägyptische Gottesvorstellungen
+date_or_period:
+  publication_year: 1971
+  ancient_periods_discussed: multiple periods of ancient Egyptian religion
+original_language: German
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+
+governing_witness_and_exact_edition_or_archive:
+  edition: first German edition
+  publisher: Wissenschaftliche Buchgesellschaft
+  place: Darmstadt
+  year: 1971
+  isbn: 3-534-05051-7
+  bibliographic_record: https://search.worldcat.org/title/1857057
+  supporting_translation:
+    title: Conceptions of God in Ancient Egypt: The One and the Many
+    translator: John Baines
+    publisher: Cornell University Press
+    year: 1982
+    status: READING_AND_TRANSLATION_AID_NOT_GOVERNING
+
+participant_or_observer_position: twentieth-century Egyptologist reconstructing Egyptian concepts of divinity
+temporal_distance_if_retrospective: millennia after the primary evidence
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - plurality_of_Egyptian_creation_and_divine_accounts
+  - non_absorption_of_distinct_divine_centers
+  - control_of_monotheism_polytheism_and_unity_claims
+intended_claim_class: WITNESS_METADATA
+secondary_integration_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - A major philological reconstruction of how unity and plurality operate in Egyptian concepts of the gods.
+  - Critical restraints against flattening different deities, periods and theological formulations into one doctrine.
+  - A scholarly counterweight to modern esoteric claims of a single hidden Egyptian system.
+what_the_source_cannot_establish:
+  - Direct ancient self-description independent of the texts Hornung interprets.
+  - That every Egyptian community or period held one uniform theology.
+  - Political consequences not separately documented in kingship, temple or administrative evidence.
+
+rival_or_counter_witnesses_where_known:
+  - Jan Assmann, Ma'at and later work on Egyptian religion
+  - Henri Frankfort, Kingship and the Gods
+  - Plutarch, De Iside et Osiride
+  - primary hymns, cosmogonies, temple and mortuary texts
+boundary_effect: >-
+  The work controls claims about divine plurality and unity but may not be promoted
+  from modern critical reconstruction into ancient FACT voice.
+
+age_of_individual_crossing:
+  person_power_relation: modern control of the sacred plurality within which ancient persons and institutions were situated
+  authority_demand: none directly; interpretive control only
+  conduct_formation: clarifies why sacred order cannot be reduced to a private individual's belief system
+  later_relation: PRESERVE_AS_CRITICAL_CONTROL_OF_OLDER_FORM
+  prohibition: Do not turn theological plurality into modern religious choice or individual pluralism.
+
+quotation_state: CRITICAL_ARGUMENT_NOT_YET_EXTRACTED
+star_integration_state: CONTROL_SOURCE_ONLY_NOT_YET_PROPOSED
