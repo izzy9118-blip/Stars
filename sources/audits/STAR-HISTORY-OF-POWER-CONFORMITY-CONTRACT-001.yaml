@@ -1,0 +1,184 @@
+contract_id: STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001
+status: BINDING_FOR_FURTHER_ACQUISITION
+star: STAR-HISTORY-OF-POWER-001
+star_path: stars/STAR-HISTORY-OF-POWER-001.yaml
+narrative_companion: narratives/STAR-HISTORY-OF-POWER-001.md
+
+purpose: >-
+  Ensure that source acquisition, retroactive audit, passage maps, and chronology
+  remain subordinate to the native individual-Star architecture of
+  STAR-HISTORY-OF-POWER-001 rather than becoming a parallel research ontology.
+
+native_star_authority:
+  sole_semantic_authority: stars/STAR-HISTORY-OF-POWER-001.yaml
+  narrative_role: >-
+    The narrative companion expresses the Star in prose but does not supersede the
+    structured Star.
+  source_role: >-
+    Files under sources/ are research and provenance scaffolding only. They may
+    support, challenge, qualify, or propose changes to the Star, but they do not
+    themselves constitute another Star and do not acquire independent semantic authority.
+
+native_star_shape:
+  model: CIVILIZATIONAL_FORMS_OF_POWER
+  governing_constraint: >-
+    Every acquisition must answer or test the Star's governing question about
+    changing historical forms of power. A source is not acquired merely because
+    it is important, canonical, or chronologically adjacent.
+  required_fit:
+    - existing historical_spectrum node
+    - proposed bounded historical_spectrum node necessary to repair a demonstrated gap
+    - boundary, dissent, or counter-witness to an existing node
+    - direct control of a claim already present in fact, conceptual_chain, or governing_principle
+  prohibited_fit:
+    - universal bibliography unrelated to a Star claim
+    - free-standing history of a civilization that does not bear on power
+    - source collection whose organizing question differs from the individual Star
+
+source_class_vs_claim_class:
+  principle: >-
+    Evidence classification and claim classification are orthogonal and must never
+    be collapsed.
+  evidence_classes:
+    - OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+    - CONTEMPORARY_REFLECTIVE_WITNESS
+    - POST_FESTUM_DUSK_WITNESS
+    - LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+  native_claim_classes:
+    - SELF_WITNESS
+    - DOCUMENTED_OR_TEXTUAL_FACT
+    - ATTRIBUTED_TEACHING_OR_JUDGMENT
+    - ANALYTICAL_SYNTHESIS
+    - INTERPRETIVE_BRIDGE
+    - WITNESS_METADATA
+  rule: >-
+    A first-class book does not become a FACT merely because it is first-class. A
+    post-festum participant account remains an attributed retrospective judgment
+    unless separately corroborated. A modern critical reconstruction remains later
+    scholarship even when indispensable.
+
+acquisition_admission_fields:
+  required_for_every_new_source:
+    - source_id
+    - author_or_corporate_author
+    - work_or_document_title
+    - date_or_period
+    - original_language
+    - evidence_class
+    - governing_witness_and_exact_edition_or_archive
+    - participant_or_observer_position
+    - temporal_distance_if_retrospective
+    - star_layer_target
+    - star_claim_target
+    - intended_claim_class
+    - what_the_source_can_establish
+    - what_the_source_cannot_establish
+    - rival_or_counter_witnesses_where_known
+    - boundary_effect
+  rejection_rule: >-
+    If a source cannot be mapped to a Star layer, claim, boundary, or demonstrated
+    omission, it remains outside the acquisition corpus regardless of prestige.
+
+historical_spectrum_rule:
+  principle: >-
+    The historical_spectrum is the native home for chronological transformations.
+    Working maps may decompose a layer for research, but final admissible relations
+    must return to a bounded historical_spectrum node.
+  controls:
+    - No working map becomes a permanent parallel chronology.
+    - No corpus_id becomes a new Star identity.
+    - A production-unit label is procedural metadata only.
+    - Chronology alone never establishes causal descent.
+    - Older forms may persist, collide, be appropriated, or coexist with newer forms.
+
+claim_and_evidence_rule:
+  controls:
+    - Every material factual proposition entering the Star must carry explicit evidence.
+    - Every attributed thinker or participant judgment must remain attributed.
+    - Every cross-source synthesis must identify the underlying supported relations.
+    - Contradictory primary witnesses remain separate where reconciliation is not warranted.
+    - Modern scholarship may control evidence but cannot silently become an ancient or contemporary voice.
+    - Witness dates identify surviving evidence and do not automatically date the origin of a practice or teaching.
+
+boundary_rule:
+  principle: >-
+    Boundaries are part of the Star, not optional caveats. Acquisition must sharpen
+    what a layer does not establish as well as what it does.
+  required_checks:
+    - geography
+    - chronology
+    - membership_or_population_scope
+    - institutional_jurisdiction
+    - author_position_and_bias
+    - textual_transmission
+    - retrospective_distance
+    - rival_interpretation
+    - causal_limit
+
+fact_field_rule:
+  principle: >-
+    The top-level fact is a compressed synthesis of admitted Star relations, not a
+    research notebook.
+  controls:
+    - Source discovery never changes fact directly.
+    - Audit findings remain candidate corrections until mapped into supported Star relations.
+    - A disputed or modern interpretive claim may not remain in unqualified FACT voice.
+    - fact is revised only after the relevant historical_spectrum and evidence structure are ready.
+
+narrative_companion_rule:
+  principle: >-
+    Narrative prose is downstream of the structured Star.
+  controls:
+    - Do not write narrative first and retrofit evidence afterward.
+    - Every substantive narrative addition must have a structured-Star home.
+    - Narrative may preserve tension and sequence but may not erase claim class or source boundaries.
+
+working_scaffold_rule:
+  applies_to:
+    - sources/primary/**
+    - sources/audits/**
+    - sources/**/maps/**
+    - manifest.yaml files under sources
+  status: SUBORDINATE_RESEARCH_SCAFFOLD
+  prohibited_authority:
+    - final Star status
+    - independent ontology
+    - competing historical_spectrum
+    - independent narrative canon
+  note: >-
+    Terms such as corpus, map, narrative gate, production state, and witness count in
+    source files are procedural conveniences only. They do not certify or supersede
+    STAR-HISTORY-OF-POWER-001.
+
+acquisition_sequence_rule:
+  required_order:
+    - audit the existing Star node
+    - identify exact claim/source deficit
+    - select first-class sources because of that deficit
+    - lock governing witnesses
+    - extract passages or institutional relations
+    - classify resulting claims under native Star claim classes
+    - test boundaries and rival evidence
+    - prepare a Star-native integration proposal
+    - only then revise structured Star
+    - only after structured Star revision revise narrative companion
+
+current_conformity_findings:
+  conforms:
+    - The retroactive audit is additive and has not altered the structured Star or narrative.
+    - The audit preserves chronology while explicitly rejecting chronology as automatic causation.
+    - The new witness method strengthens source attribution and retrospective controls already native to the History of Power claim policy.
+    - The audit identifies boundaries, dissent, source position, and unsupported synthesis rather than smoothing conflict.
+  requires_correction_before_acquisition:
+    - Working corpora and maps must be treated explicitly as subordinate scaffolding.
+    - Future source records must include Star layer and claim targets, not merely a thematic role.
+    - First-class books must be acquired because they answer a Star claim or boundary, not because they form a general canon.
+    - Existing History of Power source labels such as authoritative_syntheses must eventually be reclassified where they blur modern interpretation and primary witness.
+    - Egypt claims derived principally from Schwaller de Lubicz or John Anthony West must not remain unqualified FACT-level relations unless independently established.
+
+acquisition_hold:
+  state: RELEASED_ONLY_UNDER_THIS_CONTRACT
+  next_layer: EGYPT
+  rule: >-
+    Egypt acquisition may restart only using source records that satisfy the required
+    Star-target fields above and only for deficits identified in the Egypt retroactive audit.
