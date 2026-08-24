@@ -1,0 +1,23 @@
+verification_id: EGYPT-ONLINE-WITNESS-VERIFICATION-002
+verification_date: 2026-08-24
+status: ADDITIONAL_LOCATORS_HTTP_RETRIEVED
+
+verified_locators:
+  - source_id: SRC-HOP-EGYPT-REKHMIRE-VIZIER
+    url: https://www.metmuseum.org/art/metpublications/The_Tomb_of_Rekh_mi_Re_at_Thebes_Volumes_I_and_II
+    role: Metropolitan Museum of Art facsimile and epigraphic publication landing page
+    witness_layer: LATER_EPIGRAPHIC_CONTROL_OF_ORIGINAL_TT100
+  - source_id: SRC-HOP-EGYPT-IPUWER
+    url: https://archive.org/details/admonitionsofegy00gard
+    role: Alan H. Gardiner 1909 public-domain critical edition
+    witness_layer: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+
+verification_limit: >-
+  Successful retrieval establishes locator availability only. TT100 wall scenes and
+  Leiden I 344 remain the underlying primary witnesses; the Met and Gardiner
+  publications do not replace them.
+
+next_verification:
+  - exact TT100 plate and inscription numbers
+  - exact Leiden papyrus columns and modern critical edition comparison
+  - museum object pages for Berlin, Hermitage, Cairo, and Karnak witnesses
