@@ -1,0 +1,63 @@
+source_id: CTRL-HOP-EGYPT-ASSMANN-MIND
+status: BIBLIOGRAPHIC_WITNESS_LOCKED_PASSAGE_TARGETS_PENDING
+parent_control_corpus: HOP-EGYPT-CRITICAL-CONTROLS-001
+
+author_or_corporate_author: Jan Assmann
+work_or_document_title:
+  original: Ägypten: Eine Sinngeschichte
+  English: The Mind of Egypt: History and Meaning in the Time of the Pharaohs
+date_or_period:
+  original_publication: 1996
+  English_publication: 2002
+original_language: German
+English_translator: Andrew Jenkins
+publisher_data:
+  original: Carl Hanser Verlag, Munich/Vienna
+  English: Harvard University Press
+
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+participant_or_observer_position: Modern Egyptologist and theorist of cultural memory
+temporal_distance_if_retrospective: Modern scholarship separated by millennia from the ancient evidence
+
+governing_witness_and_exact_edition_or_archive:
+  governing_scholarly_witness: German first edition, 1996
+  English_reading_witness: Harvard University Press edition, 2002
+  digital_access: LEGITIMATE_CATALOG_OR_LIBRARY_COPY_TO_BE_LINKED; copyrighted text will not be copied wholesale
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - relations among ma'at, kingship, social order, historical memory, and Egyptian self-description
+  - control of claims that Egypt possessed one continuous civilizational meaning across long periods
+intended_claim_class:
+  - LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+  - INTERPRETIVE_BRIDGE
+
+what_the_source_can_establish:
+  - A major modern reconstruction of Egyptian cultural memory, political theology, ma'at, and historical meaning.
+  - Conceptual distinctions and evidentiary questions to test against ancient texts and monuments.
+  - A scholarly counterweight to unsupported universal or esoteric syntheses.
+what_the_source_cannot_establish:
+  - An ancient Egyptian proposition merely because Assmann reconstructs it.
+  - Uniformity across all periods, regions, institutions, and social ranks without primary evidence.
+  - The exact meaning of a damaged text independent of philological and archaeological control.
+
+rival_or_counter_witnesses_where_known:
+  - Erik Hornung on divine plurality
+  - Barry Kemp on archaeological and institutional structure
+  - Richard Parkinson on literary genre and elite culture
+  - source-specific philological editions and competing Egyptological interpretations
+
+boundary_effect: >-
+  Assmann may organize questions of meaning and memory, but every historical
+  proposition returning to the Star must cite the ancient relation it controls.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  use: >-
+    Helps articulate an older order in which personhood is embedded in ma'at,
+    kingship, memory, and institutions; does not itself prove a direct causal path
+    to the modern individual.
+  crossing_relation: INTERPRETIVE_CONTROL_ONLY
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
