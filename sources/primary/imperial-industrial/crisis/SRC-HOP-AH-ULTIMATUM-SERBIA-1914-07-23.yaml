@@ -1,0 +1,23 @@
+source_id: SRC-HOP-AH-ULTIMATUM-SERBIA-1914-07-23
+status: DIPLOMATIC_NOTE_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Austro-Hungarian Ministry of Foreign Affairs
+  title: Austro-Hungarian Note to Serbia
+  presentation_date: 1914-07-23
+  original_language: German
+  role: ultimatum_sovereignty_police_judicial_collaboration_and_time_limit
+governing_witness:
+  witness_type: ORIGINAL_GERMAN_TEXT_IN_WWI_DOCUMENT_ARCHIVE
+  locator: https://www.rastko.rs/istorija/delo/11064
+supporting_english:
+  locator: https://www.rastko.rs/istorija/delo/11069
+key_relations:
+  - suppression of publications and organizations
+  - removal of military and administrative personnel
+  - Austro-Hungarian collaboration inside Serbia against subversive movements
+  - Austro-Hungarian participation in investigation
+  - short deadline for reply
+qualification: >-
+  The note must be read against Serbia's actual response item by item. Calling it simply
+  'unacceptable' or 'reasonable' is an interpretation and may not replace comparison of the texts.
