@@ -1,0 +1,124 @@
+proposal_id: EGYPT-SOURCE-RECLASSIFICATION-PROPOSAL-001
+status: CANDIDATE_CORRECTION_NOT_YET_APPLIED_TO_STAR
+parent_audit: EGYPT-RETROACTIVE-SOURCE-AUDIT-001
+history_of_power_star: STAR-HISTORY-OF-POWER-001
+alignment_star: STAR-AGE-OF-INDIVIDUAL-001
+
+purpose: >-
+  Correct source-class drift in the current Egypt layer before any new material is
+  integrated. The proposal separates underlying ancient witnesses from modern
+  editions, translations, scholarly reconstructions, and modern symbolist syntheses.
+
+reclassifications:
+  - current_source: Sacred Science - The King of Pharaonic Theocracy
+    author: R. A. Schwaller de Lubicz
+    proposed_evidence_class: LATER_CRITICAL_OR_INTERPRETIVE_RECONSTRUCTION_NOT_PRIMARY
+    required_treatment:
+      - Attribute claims to Schwaller where they are distinctively his reconstruction.
+      - Test royal-principle, sacred-science, Horian/Osirian, and initiatory claims against ancient texts, monuments, and rival Egyptology.
+      - Do not use the label authoritative_synthesis.
+    claims_at_risk:
+      - sacred science as one fully integrated ancient system
+      - true King as cosmic consciousness
+      - sharply differentiated Horian and Osirian paths
+      - initiation as a comprehensive political-spiritual hierarchy
+
+  - current_source: The Egyptian Miracle - An Introduction to the Wisdom of the Temple
+    author: R. A. Schwaller de Lubicz
+    proposed_evidence_class: LATER_CRITICAL_OR_INTERPRETIVE_RECONSTRUCTION_NOT_PRIMARY
+    required_treatment:
+      - Treat Anthropocosmos, intelligence of the heart, and temple-as-initiatory-text as attributed interpretations unless ancient evidence independently establishes the exact claim.
+      - Separate architectural observation from metaphysical synthesis.
+    claims_at_risk:
+      - Luxor as a complete Anthropocosmos program
+      - temple architecture as direct evidence of one esoteric doctrine
+
+  - current_source: Serpent in the Sky - The High Wisdom of Ancient Egypt
+    author: John Anthony West
+    proposed_evidence_class: LATER_POPULAR_INTERPRETIVE_RECONSTRUCTION_NOT_PRIMARY
+    required_treatment:
+      - Preserve as a documented modern reception and argument where relevant.
+      - Exclude Atlantis, older-lost-civilization, and Sphinx-weathering claims from unqualified FACT voice unless independently established through controlled archaeological evidence.
+      - Do not let agreement with Schwaller count as independent corroboration where West is transmitting or extending Schwaller.
+
+  - current_source: The Religion of Ancient Egypt
+    author: W. M. Flinders Petrie
+    proposed_evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+    required_treatment:
+      - Retain as early Egyptological interpretation and compilation.
+      - Identify underlying monuments, texts, and objects separately before using factual propositions.
+      - Record the work's historical scholarly context and limits.
+
+  - current_source: Egyptian Decorative Art
+    author: W. M. Flinders Petrie
+    proposed_evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+    required_treatment:
+      - Use for documented analysis of forms and motifs only with object controls.
+      - Do not convert formal interpretation into an ancient statement of metaphysical meaning.
+
+  - current_source: The Status of the Jews in Egypt
+    author: W. M. Flinders Petrie
+    proposed_evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+    required_treatment:
+      - Retain as an older scholarly reconstruction.
+      - Control claims through Elephantine papyri, legal records, archaeology, and later scholarship.
+
+  - current_source: The Ancient Egyptian Pyramid Texts
+    author_editor: James P. Allen
+    proposed_evidence_class: MODERN_CRITICAL_EDITION_AND_TRANSLATION_OF_PRIMARY_WITNESSES
+    underlying_primary: Pyramid Text inscriptions in named royal monuments
+    required_treatment:
+      - Cite the individual utterance, pyramid, location, and edition.
+      - Distinguish Allen's translation and reconstruction from the ancient inscription.
+
+  - current_source: The Turin King-List
+    author_editor: Kim Ryholt
+    proposed_evidence_class: MODERN_CRITICAL_RECONSTRUCTION_OF_DAMAGED_PRIMARY_WITNESS
+    underlying_primary: Turin Royal Canon papyrus
+    required_treatment:
+      - Cite surviving fragments and reconstruction status.
+      - Distinguish papyrus wording from restored sequence and scholarly placement.
+
+  - current_source_group: UCL Digital Egypt contextual and translation pages
+    proposed_evidence_class: MODERN_SCHOLARLY_CONTEXT_OR_TRANSLATION_LAYER
+    underlying_primary: Named ancient text, object, monument, or papyrus for each page
+    required_treatment:
+      - Create separate source IDs for the underlying witness and modern page.
+      - Use the web page for navigation, translation, or context only within its stated scope.
+
+  - current_source: Histories, Book II
+    author: Herodotus
+    proposed_evidence_class: ANCIENT_POST_FESTUM_EXTERNAL_HISTORICAL_WITNESS
+    required_treatment:
+      - Preserve distinctions among observation, priestly report, inference, hearsay, and judgment.
+      - Do not put Herodotean categories into Egyptian mouths without an Egyptian counter-witness.
+
+claim_level_actions_before_star_revision:
+  - action: TRACE_OR_RECLASSIFY
+    claim: Luxor embodies Anthropocosmos and joins cosmic genesis to transformation of consciousness.
+  - action: TRACE_OR_RECLASSIFY
+    claim: Initiation governs access to several meanings and produces a hierarchy of consciousness within social order.
+  - action: TRACE_OR_RECLASSIFY
+    claim: Sacred science distinguishes an Osirian gradual path and a Horian direct path.
+  - action: TRACE_OR_RECLASSIFY
+    claim: The true King is the being in whom cosmic order becomes conscious of itself.
+  - action: BOUND_AS_OPEN_QUESTION
+    claim: Egypt's civilization was inherited from an older lost civilizational source.
+  - action: REMOVE_FROM_FACT_UNLESS_INDEPENDENTLY_ESTABLISHED
+    claim: Atlantis is the source of Egyptian completeness.
+
+age_of_individual_conformity_effect: >-
+  The correction strengthens the Age of the Individual thesis by preserving Egypt
+  as an older sacred order reconstructed from its own witnesses rather than a
+  modern esoteric philosophy retrojected into antiquity. It also prevents the
+  search for interiority or initiation from becoming an anachronistic claim that
+  Egypt already contained the modern autonomous self.
+
+application_order:
+  - Lock underlying ancient witnesses and critical controls.
+  - Build claim-by-claim provenance table for the current Egypt Star node.
+  - Reclassify evidence in the structured Star.
+  - Revise only those claims whose support or claim class changes.
+  - Revise narrative companion after structured-Star correction.
+
+structured_star_update_authorized: false
