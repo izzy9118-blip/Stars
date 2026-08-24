@@ -1,0 +1,116 @@
+source_id: SRC-HOP-ELEPHANTINE-PAPYRI
+status: PROVINCIAL_CORPUS_AND_PRINCIPAL_ARCHIVES_LOCKED_DOCUMENT_SAMPLE_EXTRACTION_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: multiple Elephantine inhabitants, families, scribes, military personnel and officials
+work_or_document_title: Elephantine papyri and ostraca of the Achaemenid period
+date_or_period: principally 495-399 BCE
+original_languages:
+  - Imperial Aramaic
+  - Demotic Egyptian and other local documentary languages where relevant
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+witness_subclass: PROVINCIAL_COMMUNITY_LEGAL_AND_IMPERIAL_ADMINISTRATIVE_ARCHIVE
+
+participant_or_observer_position: >-
+  Private contracts, family archives, petitions, communal letters, military and official
+  records produced by persons and institutions within an Achaemenid provincial setting.
+  No single document speaks for the whole community or province.
+temporal_distance_if_retrospective: contemporary documentary records, with modern corpus reconstruction
+
+governing_witness_and_exact_edition_or_archive:
+  dispersed_archives:
+    - Brooklyn Museum Ananiah family archive
+    - Berlin collections
+    - other museum and papyrus collections holding Elephantine material
+  exemplar_objects:
+    - Brooklyn Museum 47.218.89, marriage document of Ananiah and Tamet, 449 BCE
+    - Brooklyn Museum 47.218.91 a-b, transfer of property from Ananiah to Tamet, 434 BCE
+  corpus_editions:
+    - Bezalel Porten and Ada Yardeni, Textbook of Aramaic Documents from Ancient Egypt, 1986-1999
+    - Bezalel Porten et al., The Elephantine Papyri in English, revised edition, 2011
+    - Emil G. Kraeling, The Brooklyn Museum Aramaic Papyri, 1953
+  institutional_navigation:
+    - https://isaw.nyu.edu/exhibitions/wgre/highlights/marriage-document-from-ananiah-to-meshullam-aramaic
+    - https://isaw.nyu.edu/exhibitions/wgre/highlights/transfer-of-property-from-ananiah-to-tamet-aramaic
+  rule: >-
+    Every claim must cite a specific document, archive, date, language and legal or
+    communal setting. Modern grouping as 'the Elephantine papyri' does not erase diversity.
+
+star_claim_target:
+  - Persian_provincial_rule_from_below
+  - military_colony_property_household_and_contract
+  - temple_conflict_petition_and_imperial_correspondence
+  - differentiated_subject_status_inside_Achaemenid_Egypt
+intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+
+what_the_source_can_establish:
+  - Named provincial inhabitants used contracts, petitions, letters and archives to organize marriage, property, manumission, debt, temple life and communal claims.
+  - A Judaean military community lived among Egyptian, Aramaean, Iranian and other persons inside Persian imperial jurisdiction.
+  - Subject communities could address officials, preserve claims and invoke administrative channels without becoming sovereign political bodies.
+  - Family and personal status became durable through documentary practice.
+
+what_the_source_cannot_establish:
+  - One uniform legal system for all Elephantine inhabitants or all imperial provinces.
+  - Equal status among free, enslaved, military, gendered, ethnic and religious persons.
+  - That preservation of a document guarantees enforcement of its claim.
+  - The entire policy of Achaemenid rulers toward Jews, Egyptians or temples.
+  - Modern individual rights simply because named persons own, marry, petition or contract.
+
+rival_or_counter_witnesses_where_known:
+  - Arshama correspondence
+  - Egyptian temple and administrative sources
+  - Persian royal inscriptions
+  - local Demotic archives
+  - Ezra and Nehemiah as separately transmitted Persian-period community texts
+
+boundary_effect: >-
+  Elephantine prevents Persian subjects from appearing only as tribute-paying masses
+  in Greek or royal accounts. It also prevents documentary personhood from being
+  conflated with equal citizenship or natural rights.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - imperial and provincial officials
+    - military organization
+    - household and communal institutions
+    - contract, oath and documentary archive
+  human_position:
+    - spouse
+    - property holder
+    - enslaved or manumitted person
+    - soldier and temple servant
+    - petitioner and communal representative
+  claimed_end: durable family, property, status, worship and adjudicable obligation within imperial order
+  claimed_obligations:
+    - contract performance
+    - military or communal service
+    - taxes, dues and legal procedure
+  formation_mechanisms:
+    - written contract
+    - archive and inheritance
+    - communal worship
+    - military detachment
+  coercive_mechanisms:
+    - slavery and dependent status
+    - garrison discipline
+    - property and debt enforcement
+    - official jurisdiction
+  material_relations:
+    - houses and land
+    - marriage goods and inheritance
+    - temple property
+    - military pay and service
+    - loans and transfers
+  knowledge_relations: a person becomes legally and administratively knowable through name, kinship, status, property and document
+  freedom_relation: some persons possess bounded legal agency, but it is status-specific and institutionally mediated rather than naturally equal and prior to the empire
+  crossing_relation: DOCUMENTARY_PERSONHOOD_LATER_EXPANDED_INTO_MORE_GENERAL_INDIVIDUAL_LEGAL_STATUS
+  age_of_individual_relevance: >-
+    Elephantine supplies a crucial intermediate relation: distinct persons can hold
+    claims and archives without becoming autonomous individuals outside household,
+    community, military status and imperial jurisdiction.
+
+quotation_state: DOCUMENT_SAMPLE_SET_NOT_YET_SELECTED
+star_integration_state: NOT_YET_PROPOSED
