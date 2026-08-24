@@ -1,12 +1,12 @@
 source_id: SRC-HOP-MAHAN-SEA-POWER-1890
-status: GOVERNING_FIRST_EDITION_WITNESS_LOCKED
+status: GOVERNING_FIRST_EDITION_WITNESS_LOCKED_PASSAGES_EXTRACTED
 parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
 work:
   author: Alfred Thayer Mahan
   title: The Influence of Sea Power upon History, 1660-1783
   year: 1890
   original_language: English
-  role: naval_strategy_commerce_geography_fleet_and_maritime_power
+  role: naval_strategy_commerce_geography_fleet_bases_colonies_and_maritime_power
 governing_witness:
   witness_type: FIRST_EDITION_SCAN
   publisher: Little, Brown and Company
@@ -14,7 +14,19 @@ governing_witness:
   year: 1890
   scan: https://archive.org/details/seanpowerinf00maha
   public_text: https://www.gutenberg.org/ebooks/13529
+passages:
+  - location: Introductory, opening pages
+    proposition: Mahan treats sea-power history as a history of national rivalry in which sea commerce materially affects wealth and strength and conflict over commercial advantage can produce war.
+  - location: Chapter I, pp. 25-26
+    anchor: "The first and most obvious light in which the sea presents itself ... is that of a great highway"
+    proposition: Sea routes are political-economic highways shaped by recurring trade paths.
+  - location: Chapter I, p. 26
+    proposition: The necessity of a navy arises from peaceful shipping when war requires armed protection of commerce.
+  - location: Chapter I, pp. 27-28
+    proposition: Overseas shipping creates demand for secure ports, refuges, supply points and trading stations, which can develop into colonies.
+  - location: Chapter I, contents/argument
+    proposition: Production, shipping and colonies form linked elements within Mahan's account of sea power.
 witness_policy:
   rule: >-
-    Mahan is evidence for a strategic interpretation of maritime power. Do not infer
-    German, British, American or Japanese policy from Mahan alone without policy-level witnesses.
+    Mahan is evidence for a strategic interpretation of maritime power. His argument can be compared with
+    naval policy and legislation, but it may not be treated as the cause of German, British, American or Japanese policy without independent evidence.
