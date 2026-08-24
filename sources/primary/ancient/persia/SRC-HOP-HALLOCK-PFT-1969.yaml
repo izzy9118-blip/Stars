@@ -1,0 +1,62 @@
+source_id: SRC-HOP-HALLOCK-PFT-1969
+status: CRITICAL_EDITION_METADATA_LOCKED_DOCUMENT_LEVEL_USE_REQUIRED
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Richard T. Hallock
+work_or_document_title: Persepolis Fortification Tablets
+publication:
+  series: Oriental Institute Publications 92
+  publisher: University of Chicago Press
+  place: Chicago
+  year: 1969
+  extent: x plus 776 pages
+  bibliographic_record: https://ocb.uni-tuebingen.de/Record/KEI00087967
+original_language: English editorial matter, transliterations and translations of Elamite tablets
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+witness_subclass: CRITICAL_EDITION_OF_ELAMITE_ADMINISTRATIVE_DOCUMENTS
+participant_or_observer_position: modern Elamitologist editing and translating a selected body of Persepolis Fortification documents
+temporal_distance_if_retrospective: approximately two and a half millennia after the tablets
+
+star_claim_target:
+  - document_level_control_of_Persepolis_administration
+  - ration_movement_authorization_and_personnel_categories
+  - Elamite_language_and_tablet_identifier_crosswalk
+intended_claim_class: WITNESS_METADATA
+
+what_the_source_can_establish:
+  - Controlled readings, transliterations, translations and identifiers for the published tablet corpus.
+  - Document-level evidence for administrative transactions when tied to a specific tablet.
+  - A foundation for later archive, seal and prosopographic research.
+
+what_the_source_cannot_establish:
+  - The whole Persepolis archive, including unpublished and differently written materials.
+  - A complete imperial economy or labor system.
+  - That Hallock's translations or restorations are immune from later revision.
+  - Subjective experience or consent of persons listed in administrative records.
+  - A Star FACT without an identified underlying tablet and bounded inference.
+
+rival_or_counter_witnesses_where_known:
+  - ongoing Persepolis Fortification Archive Project editions
+  - OCHRE records, images and seal studies
+  - later Elamite philology and prosopography
+  - Aramaic and uninscribed sealed components of the archive
+
+boundary_effect: >-
+  Hallock makes administrative claims auditable at tablet level while preventing
+  'the Persepolis archive' from functioning as a vague proof-text. Later corrections
+  and unpublished materials remain open.
+
+age_of_individual_crossing:
+  relevance: >-
+    Hallock permits precise reconstruction of recorded persons through work, ration,
+    movement and authorization. The interpretation of those records in the history of
+    individuality remains a separate analytical step.
+  prohibition: >-
+    Do not equate being individually named in an account with modern legal equality,
+    autonomy or psychological individuality.
+
+quotation_state: PRIMARY_TABLET_TRANSLATIONS_REQUIRE_IDENTIFIER_AND_IMAGE_CONTROL
+star_integration_state: CRITICAL_CONTROL_NOT_PRIMARY_EVIDENCE
