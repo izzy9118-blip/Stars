@@ -1,5 +1,5 @@
 source_id: SRC-HOP-TOCQUEVILLE-DEMOCRACY-1835-1840
-status: GOVERNING_PUBLICATION_SEQUENCE_LOCKED_WORKING_DIGITAL_WITNESSES_REGISTERED
+status: GOVERNING_PUBLICATION_SEQUENCE_LOCKED_PASSAGES_IDENTIFIED
 parent_corpus: HOP-ADMINISTRATIVE-STATE-001
 
 work:
@@ -28,39 +28,43 @@ working_digital_witnesses:
   - description: 1835 Charles Gosselin volume I scan
     repository: Wikimedia Commons / Internet Archive
     url: https://commons.wikimedia.org/wiki/File:De_La_Democratie_En_Amerique_(Vol._I)_(IA_dli.granth.35398).pdf
-    status: PAGE_IMAGE_WITNESS_EDITION_DETAILS_TO_VERIFY_AT_TITLE_PAGE
-  - description: 1835 Charles Gosselin digitized copies available through HathiTrust/Google Books
+  - description: 1835 digitized copies available through HathiTrust/Google Books
     repository: Online Books Page / HathiTrust
     url: https://onlinebooks.library.upenn.edu/webbin/who/Tocqueville%2C%20Alexis%20de%2C%201805-1859
-    status: DIGITAL_PAGE_IMAGES_AVAILABLE
-  - description: 1840 Charles Gosselin third/fourth volume witnesses
+  - description: 1840 Charles Gosselin volume witnesses
     repository: Google Books / Google Play
     url: https://play.google.com/store/books/details/Alexis_de_Tocqueville_De_la_d%C3%A9mocratie_en_Am%C3%A9rique?id=qJnCB4fJUtIC
-    status: FULL_VIEW_PUBLIC_DOMAIN
 
-bibliographic_corroboration:
-  - first part first edition: Paris, Charles Gosselin, 1835, two volumes
-  - second part first edition: Paris, Charles Gosselin, 1840, two volumes
-  - work published in two distinct stages and must not be treated as one simultaneous 1835 text
-
-primary_passage_targets:
-  1835:
-    - township/commune and local self-government
-    - political association
-    - sovereignty of the people
-    - majority power and institutional restraints
-    - federal and state relations
-  1840:
-    - individualism and association
-    - equality and centralization
-    - democratic peoples and administrative tutelage
-    - new form of despotism in democratic societies
+passages:
+  - publication_stage: 1835
+    issue: administrative decentralization and local capacity
+    anchor: "La décentralisation administrative produit en Amérique plusieurs effets divers."
+    related_claim: >-
+      Tocqueville concedes that central administration may be more orderly in some
+      circumstances but argues that habitual local self-administration produces capacities
+      that dependence on a central administrator can weaken.
+    status: FRENCH_TEXT_IDENTIFIED_FIRST_EDITION_IMAGE_CROSSWALK_PENDING
+  - publication_stage: 1835
+    issue: tension between national direction and local independence
+    anchor: "plus la centralisation augmente"
+    status: FRENCH_TEXT_IDENTIFIED_FIRST_EDITION_IMAGE_CROSSWALK_PENDING
+  - publication_stage: 1840
+    issue: democratic individualism combined with a new tutelary central power
+    anchor: "un pouvoir immense et tutélaire"
+    related_claim: >-
+      Tocqueville imagines a power that is detailed, regular, provident, and mild,
+      governing equal individuals through continuous tutelage rather than older spectacular tyranny.
+    status: FRENCH_TEXT_IDENTIFIED_FIRST_EDITION_IMAGE_CROSSWALK_PENDING
+  - publication_stage: 1840
+    issue: novelty of democratic despotism
+    anchor: "les anciens mots de despotisme et de tyrannie ne conviennent point"
+    status: FRENCH_TEXT_IDENTIFIED_FIRST_EDITION_IMAGE_CROSSWALK_PENDING
 
 witness_policy:
   rule: >-
-    Preserve the two-stage 1835/1840 publication history. Use first-edition page images
-    wherever they can be verified; later author-supervised editions may aid navigation but
-    must not silently replace first-edition wording in quotation-sensitive claims.
+    Preserve the two-stage 1835/1840 publication history. Working transcriptions and
+    later digitizations may establish location and wording, but direct quotation in the
+    History of Power requires cross-checking against a verified first-edition page image.
 
-quotation_state: FIRST_EDITION_PASSAGE_EXTRACTION_PENDING
-analysis_state: NOT_YET_INTEGRATED
+quotation_state: CORE_PASSAGES_IDENTIFIED_FIRST_EDITION_IMAGE_CROSSWALK_PENDING
+analysis_state: PASSAGE_MAP_READY_WITH_PUBLICATION_STAGE_CONTROL
