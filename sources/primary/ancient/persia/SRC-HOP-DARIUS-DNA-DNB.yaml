@@ -1,0 +1,107 @@
+source_id: SRC-HOP-DARIUS-DNA-DNB
+status: GOVERNING_MONUMENTS_AND_OLD_PERSIAN_TEXTS_LOCKED_MULTILINGUAL_CROSSWALK_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Darius I and Achaemenid royal inscriptional administration
+work_or_document_title: Naqsh-i Rustam inscriptions DNa and DNb
+date_or_period: late reign of Darius I, before 486 BCE
+original_languages:
+  - Old Persian
+  - Elamite and Babylonian parallel versions where preserved
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+witness_subclass: ROYAL_IMPERIAL_SELF_DESCRIPTION_AND_MORAL_PORTRAIT
+
+participant_or_observer_position: >-
+  Darius's tomb inscriptions. DNa presents creation, genealogy, kingship and a
+  catalogue of subject peoples; DNb presents the ideal qualities of the king.
+  Both are royal self-monumentalization, not independent evaluation.
+temporal_distance_if_retrospective: contemporary royal testament composed after the expansion and consolidation it summarizes
+
+governing_witness_and_exact_edition_or_archive:
+  monument:
+    location: tomb of Darius I, Naqsh-i Rustam, Fars, Iran
+    relation:
+      DNa: upper-register political and imperial inscription
+      DNb: central-register moral and royal portrait
+  critical_text_controls:
+    - Roland G. Kent, Old Persian: Grammar, Texts, Lexicon, second edition, 1953
+    - Rüdiger Schmitt, Achaemenid royal inscription studies and language-specific editions
+  online_navigation:
+    collection: Livius Achaemenid Royal Inscriptions
+    DNb: https://www.livius.org/sources/content/achaemenid-royal-inscriptions/dnb/
+    status: TRANSLITERATION_AND_TRANSLATION_AID_NOT_GOVERNING
+  rule: >-
+    The monument and language-specific critical editions govern. DNa and DNb remain
+    distinct genres even when read together.
+
+star_claim_target:
+  - imperial_peoples_and_multiethnic_kingship
+  - kingship_as_grant_of_Ahuramazda
+  - royal_self_control_hearing_reward_and_punishment
+  - moral_virtue_concentrated_in_the_ideal_king
+intended_claim_class: SELF_WITNESS
+
+what_the_source_can_establish:
+  - Darius represented his empire as kingship over many kinds of peoples under Ahuramazda.
+  - The tomb program made subject peoples visible as a structured imperial plurality.
+  - DNb attributes self-mastery, deliberative hearing and proportionate treatment of strength, weakness, service and wrongdoing to the ideal king.
+  - Achaemenid royal ideology joined military capacity to a moral portrait of the ruler.
+
+what_the_source_cannot_establish:
+  - That every listed people accepted the imperial order or its representation.
+  - That Darius personally acted according to every virtue claimed in DNb.
+  - Equal standing of subjects before an impersonal law.
+  - That the royal catalogue is a complete or stable administrative map for every year.
+  - That imperial moral order was centered equally in every person rather than principally in the king.
+
+rival_or_counter_witnesses_where_known:
+  - SRC-HOP-BEHISTUN
+  - Persepolis administrative archives
+  - Herodotus, Histories
+  - subject-community records from Babylonia, Egypt and Elephantine
+  - later Xenophontic reconstruction of Cyrus and kingship
+
+boundary_effect: >-
+  DNa/DNb correct a conquest-only account of Persian power by showing a royal ideal
+  of plurality and self-command. They also prevent royal virtue from being silently
+  universalized into demonstrated justice for all subjects.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - Darius as king of kings
+    - Ahuramazda as source of creation and kingship
+    - royal monument and dynastic memory
+  human_position:
+    - subject people distinguished by land and identity
+    - weak and strong persons under royal judgment
+    - servant, wrongdoer and loyal supporter
+    - future viewer of the royal tomb
+  claimed_end: ordered plurality, just royal judgment, loyalty and enduring imperial memory
+  claimed_obligations:
+    - tribute and obedience
+    - truthfulness and loyal service
+    - recognition of royal rank and judgment
+  formation_mechanisms:
+    - monumental catalogue
+    - royal moral exemplar
+    - divine legitimation
+  coercive_mechanisms:
+    - military kingship
+    - reward and punishment
+  material_relations:
+    - tribute-bearing lands
+    - tomb monument
+    - army and court
+  knowledge_relations: the ruler defines the visible order of peoples and presents himself as the moral center capable of judging them
+  freedom_relation: differentiated peoples and persons retain names and identities, but authority does not arise from their separate consent
+  crossing_relation: ROYAL_SELF_MASTERY_LATER_DIFFUSED_AND_TRANSFORMED_INTO_PERSONAL_MORAL_AUTONOMY
+  age_of_individual_relevance: >-
+    DNb reveals self-command before modern autonomy, but locates exemplary judgment
+    in the king. The later individualization of moral authority must be treated as a
+    transformation, not as an identity already complete here.
+
+quotation_state: TARGETED_PASSAGES_IDENTIFIED_EXACT_MULTILINGUAL_CROSSWALK_PENDING
+star_integration_state: NOT_YET_PROPOSED
