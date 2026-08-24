@@ -1,0 +1,53 @@
+source_id: SRC-HOP-LOCKE-TWO-TREATISES-1690
+name: John Locke Two Treatises of Government
+status: GOVERNING_WITNESS_LOCKED
+
+work:
+  author: John Locke
+  title: >-
+    Two Treatises of Government: In the Former, the False Principles, and Foundation
+    of Sir Robert Filmer, and His Followers, Are Detected and Overthrown; The Latter
+    Is an Essay Concerning the True Original, Extent, and End of Civil Government
+  title_page_year: 1690
+  actual_publication: December 1689
+  original_language: English
+  role: property_consent_legislative_trust_taxation_and_right_of_resistance
+
+witness:
+  type: FIRST_EDITION_PAGE_IMAGES
+  publisher: Awnsham Churchill
+  place: London
+  year: 1690
+  archive_url: https://archive.org/details/twotreatisesofgo00lock_1
+  catalogue_corroboration:
+    repository: Folger Shakespeare Library
+    url: https://catalog.folger.edu/record/150769
+  public_edition_index:
+    repository: Online Books Page
+    url: https://onlinebooks.library.upenn.edu/webbin/work?id=olbp106857
+
+passage_anchors:
+  - section: Second Treatise §124
+    text: "The great and chief end therefore, of Mens uniting into Commonwealths ... is the preservation of their Property"
+    use: end_of_government
+  - section: Second Treatise §138
+    text: "The Supream Power cannot take from any Man any part of his Property without his own consent"
+    use: limits_on_supreme_power
+  - section: Second Treatise §140
+    use: taxation_requires_consent_of_majority_directly_or_through_representatives
+  - section: Second Treatise §§221-222
+    text: "when the Legislative, or the Prince, either of them act contrary to their Trust"
+    use: breach_of_trust_dissolution_and_resistance
+
+claim_boundary: >-
+  Publication immediately after the Revolution of 1688 does not prove that the work
+  was written as a simple retrospective justification of that settlement. The text's
+  arguments about trust, property, consent, legislative power, and resistance must be
+  treated as Locke's teaching and then compared with, not collapsed into, the enacted
+  Bill of Rights.
+
+reuse_policy: >-
+  STAR-AGE-OF-INDIVIDUAL-001 contains an existing interpretive Locke layer. This
+  primary witness supplements rather than replaces that work. Any transfer into
+  History of Power must preserve the distinction between Locke's own text and the
+  Strauss-based interpretive source already used elsewhere in Stars.
