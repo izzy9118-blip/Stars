@@ -1,0 +1,95 @@
+map_id: EGYPT-AMENEMOPE-PERSON-AUTHORITY-001
+status: WITNESS_AND_CLAIM_TARGET_LOCKED_PASSAGE_WORDING_PENDING
+parent_corpus: HOP-EGYPT-REBALANCE-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: egyptian_power
+source_id: SRC-HOP-AMENEMOPE
+age_of_individual_alignment: REQUIRED
+
+method:
+  - This map supplements EGYPT-PERSON-AUTHORITY-001; it does not create a second Egyptian chronology.
+  - Amenemope is read as indigenous reflective instruction, not administrative fact.
+  - Ancient inwardness and modern autonomous individuality remain distinct.
+  - Exact quotations wait upon the principal papyrus and Laisney crosswalk.
+
+claims:
+  - claim_id: EGY-PER-007
+    proposition: >-
+      Amenemope makes the learner's interior, speech and temper objects of deliberate
+      formation, directing inherited teaching to become a restraint upon impulsive conduct.
+    passage_set: sources/primary/ancient/egypt/passages/EGY-AMENEMOPE-PASSAGE-TARGETS-001.yaml
+    passage_status: TARGETED_EXACT_WORDING_PENDING
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      The composition demonstrates a normative ideal of inner formation, not the
+      measured conduct of all Egyptians or a modern doctrine of autonomous conscience.
+    age_of_individual_crossing:
+      relation: OLDER_INWARD_FORM_LATER_TRANSFORMED
+      finding: >-
+        The person is capable of inward reception and self-command, but the norm is
+        received from wisdom, deity and ma'at rather than authored by private choice.
+
+  - claim_id: EGY-PER-008
+    proposition: >-
+      The instruction joins moral character to concrete powers over land, measure,
+      wealth, office and vulnerable persons, making private advantage answerable to
+      an order that exceeds the strong person's immediate capacity.
+    passage_set: sources/primary/ancient/egypt/passages/EGY-AMENEMOPE-PASSAGE-TARGETS-001.yaml
+    passage_status: TARGETED_EXACT_WORDING_PENDING
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      Moral warning is not proof of equal rights, judicial enforcement or the absence
+      of hierarchy. Operational controls must come from decrees and records.
+    age_of_individual_crossing:
+      relation: PRESERVE_AND_LATER_TRANSFORM
+      finding: >-
+        Property and office exist, but they are not represented as unlimited expressions
+        of an antecedent individual will; measure, boundary and treatment of others remain morally bounded.
+
+  - claim_id: EGY-PER-009
+    proposition: >-
+      The opposition between disciplined and heated conduct shows that an older sacred
+      and social order could govern through cultivated character as well as external command.
+    passage_set: sources/primary/ancient/egypt/passages/EGY-AMENEMOPE-PASSAGE-TARGETS-001.yaml
+    passage_status: TARGETED_EXACT_WORDING_PENDING
+    intended_claim_class: ANALYTICAL_SYNTHESIS
+    qualification: >-
+      The relation is bounded to the instructional text. It does not prove one total
+      Egyptian personality system or eliminate coercive and institutional power.
+    age_of_individual_crossing:
+      relation: COEXISTS_WITH_EXTERNAL_AUTHORITY
+      finding: >-
+        Inner discipline and outer authority are not opposites here. The person is formed
+        to sustain inherited relations rather than liberated from all prior order.
+
+cross_source_relation:
+  proposition: >-
+    Loyalist Teaching internalizes royal authority; Eloquent Peasant gives a marginal
+    petitioner speech against delegated abuse; Amenemope cultivates self-command in
+    ordinary moral, economic and official relations. Together they reveal differentiated
+    Egyptian persons inside one older order without turning them into modern naturally
+    separate individuals.
+  sources:
+    - SRC-HOP-LOYALIST-TEACHING
+    - SRC-HOP-ELOQUENT-PEASANT
+    - SRC-HOP-AMENEMOPE
+  claim_class: ANALYTICAL_SYNTHESIS
+  state: CANDIDATE_FOR_STAR_NATIVE_INTEGRATION
+
+star_native_destination:
+  historical_spectrum_node: subject_labor_petition_and_office
+  proposed_extension:
+    - inward moral formation through instruction
+    - control of speech and passion
+    - boundaries, measures, property and vulnerable persons as moral relations
+  conceptual_chain_effect: >-
+    Add disciplined heart and tongue between hearing/office and outward adjudication,
+    while preserving that the person does not precede the sacred-social order.
+  boundary_effect: >-
+    Explicitly state that lack of modern autonomy is not lack of inwardness, agency,
+    moral judgment or self-command.
+
+remaining_controls:
+  - exact original-language extraction from Laisney and Papyrus BM EA 10474
+  - comparison with Lichtheim, Griffith and Grumach
+  - explicit exclusion of an unproven Proverbs transmission claim from this layer
