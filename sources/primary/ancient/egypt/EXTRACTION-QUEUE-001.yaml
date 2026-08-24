@@ -1,0 +1,170 @@
+queue_id: EGYPT-EXTRACTION-QUEUE-001
+status: ACTIVE
+protocol: sources/primary/ancient/egypt/EXTRACTION-PROTOCOL-001.yaml
+
+priority_order:
+  - order: 1
+    source_id: SRC-HOP-EGYPT-ELOQUENT-PEASANT
+    reason: >-
+      Controls the current claim that ma'at can judge official conduct from the
+      position of an injured subordinate without importing modern rights language.
+    target_units:
+      - seizure and injury setting
+      - first petition defining the official's duty
+      - petitions on hearing, truth, greed, and justice
+      - royal/official disposition of the case
+    current_level: Q0_PARTIAL_Q1_PENDING
+
+  - order: 2
+    source_id: SRC-HOP-EGYPT-SINUHE
+    reason: >-
+      Controls the distinction between rich first-person interiority and a modern
+      self understood as prior to king, homeland, family, name, and burial.
+    target_units:
+      - involuntary flight and fear
+      - self-understanding in foreign exile
+      - royal summons and pardon
+      - return, purification, status restoration, and tomb
+    current_level: Q0_PARTIAL_Q1_PENDING
+
+  - order: 3
+    source_id: SRC-HOP-EGYPT-HOREMHEB-EDICT
+    reason: >-
+      Tests the claim that kingship makes ma'at administrative by restraining
+      abuses committed through delegated authority.
+    target_units:
+      - abuses by collectors, soldiers, and officials
+      - appointment and supervision of judges
+      - punishments and procedural reforms
+      - royal self-description as restorer
+    current_level: Q0_PARTIAL_Q1_PENDING
+
+  - order: 4
+    source_id: SRC-HOP-EGYPT-REKHMIRE-VIZIER
+    reason: >-
+      Controls the distinction among office ideal, administrative jurisdiction,
+      petition access, recordkeeping, and actual practice.
+    target_units:
+      - installation admonition
+      - impartiality and avoidance of favoritism
+      - hearing petitioners and open access
+      - records, reporting, land, taxation, and subordinate officials
+    current_level: Q0_PARTIAL_Q1_FACSIMILE_LOCATED
+
+  - order: 5
+    source_id: SRC-HOP-EGYPT-DEIR-EL-MEDINA-STRIKE
+    reason: >-
+      Adds worker agency and material provisioning to a corpus otherwise dominated
+      by kings, officials, temples, and elite funerary voices.
+    target_units:
+      - first recorded work stoppage
+      - statements concerning hunger or ration arrears
+      - movement to administrative or sacred spaces
+      - negotiations, deliveries, and renewed stoppages
+    current_level: Q0_PARTIAL_Q1_PENDING
+
+  - order: 6
+    source_id: SRC-HOP-EGYPT-HEQANAKHT-PAPYRI
+    reason: >-
+      Supplies household authority, private calculation, kinship conflict, grain,
+      labor, and delegated estate management.
+    target_units:
+      - household commands and rebukes
+      - grain or wage allocations
+      - treatment of dependents and workers
+      - funerary-priestly and estate obligations
+    current_level: Q0_PARTIAL_Q1_CRITICAL_EDITION_LOCATED
+
+  - order: 7
+    source_id: SRC-HOP-EGYPT-WILBOUR-PAPYRUS
+    reason: >-
+      Grounds the current Nile-land-measure-tax synthesis in an actual Ramesside
+      administrative record.
+    target_units:
+      - one controlled land entry
+      - one institutional category
+      - one named or categorized person relation
+      - assessment and measurement terminology
+    current_level: Q0_PARTIAL_Q1_PENDING
+
+  - order: 8
+    source_id: SRC-HOP-EGYPT-HATSHEPSUT-KINGSHIP
+    reason: >-
+      Controls the person-office distinction through actual titulary, imagery,
+      ritual, and monumental representation.
+    target_units:
+      - one titulary witness
+      - one coronation or legitimation scene
+      - one obelisk or building inscription
+      - one controlled later erasure or alteration witness
+    current_level: Q0_CLUSTER_REGISTERED_Q1_PENDING
+
+  - order: 9
+    source_id: SRC-HOP-EGYPT-TURIN-JUDICIAL-PAPYRUS
+    reason: >-
+      Tests individualized accusation, naming, judgment, and punishment without
+      projecting modern legal personhood backward.
+    target_units:
+      - commission authority
+      - named accused and charge categories
+      - judgment and penalty language
+      - proceedings against compromised judges
+    current_level: Q0_PARTIAL_Q1_PENDING
+
+  - order: 10
+    source_id: SRC-HOP-EGYPT-GREAT-HARRIS-PAPYRUS
+    reason: >-
+      Tests claims about temple land, personnel, resources, and royal accounting
+      while controlling praise and dynastic self-legitimation.
+    target_units:
+      - one temple donation section
+      - one personnel category
+      - one land or production category
+      - closing dynastic/restoration narrative
+    current_level: Q0_PARTIAL_Q1_PENDING
+
+  - order: 11
+    source_id: SRC-HOP-EGYPT-ELEPHANTINE-ARAMAIC-ARCHIVE
+    reason: >-
+      Grounds foreign-community property, worship, service, and petition in the
+      community's own documents rather than later generalized description.
+    target_units:
+      - Passover Letter
+      - Petition to Bagoas
+      - Bagoas/Delaiah response memorandum
+    current_level: Q0_DOCUMENT_TARGETS_IDENTIFIED_Q1_PENDING
+
+  - order: 12
+    source_id: SRC-HOP-EGYPT-NEFERTI
+    reason: Controls royal restoration and literary political prophecy.
+    current_level: Q0_PARTIAL_Q1_PENDING
+
+  - order: 13
+    source_id: SRC-HOP-EGYPT-IPUWER
+    reason: Controls breakdown and inversion without converting literature into event chronicle.
+    current_level: Q0_OBJECT_AND_EARLY_EDITION_LOCATED_Q1_MODERN_CONTROL_PENDING
+
+  - order: 14
+    source_id: SRC-HOP-EGYPT-MANETHO-FRAGMENTS
+    reason: Controls dynastic dusk memory and fragmentary transmission.
+    current_level: Q0_TRANSMISSION_CHANNELS_IDENTIFIED_Q1_FRAGMENT_BY_FRAGMENT_PENDING
+
+  - order: 15
+    source_id: SRC-HOP-EGYPT-DIODORUS-I
+    reason: Controls Hellenistic comparative whole-view.
+    current_level: Q0_WORK_IDENTIFIED_Q1_CRITICAL_GREEK_EDITION_PENDING
+
+  - order: 16
+    source_id: SRC-HOP-EGYPT-STRABO-XVII
+    reason: Controls Roman transformation and ancient geographic observation.
+    current_level: Q0_WORK_IDENTIFIED_Q1_CRITICAL_GREEK_EDITION_PENDING
+
+  - order: 17
+    source_id: SRC-HOP-EGYPT-PLUTARCH-ISIS-OSIRIS
+    reason: Controls ancient philosophical reception of Egyptian sacred tradition.
+    current_level: Q0_WORK_IDENTIFIED_Q1_CRITICAL_GREEK_EDITION_PENDING
+
+queue_rule: >-
+  Sources may move out of order only when an authoritative object image or critical
+  edition becomes available sooner and the resulting passage directly controls a
+  current Star claim. Convenience alone does not override claim priority.
