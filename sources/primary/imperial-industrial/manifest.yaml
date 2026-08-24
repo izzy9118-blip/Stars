@@ -1,6 +1,6 @@
 corpus_id: HOP-IMPERIAL-INDUSTRIAL-001
 name: Imperial-Industrial World Power Primary Source Corpus
-status: INITIAL_SYSTEMS_MAPPED
+status: INITIAL_SYSTEMS_AND_CAPACITY_WITNESSES_MAPPED
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: history-of-power-administrative-state-001
 working_branch: history-of-power-imperial-industrial-001
@@ -11,20 +11,22 @@ purpose: >-
   strategic infrastructure, naval power, global communications, and alliance
   systems into imperial-industrial great-power capacity.
 acquisition_rules:
-  - Primary statutes, treaties, corporate agreements, technical conventions, and first-edition strategic texts govern.
-  - Industrial concentration, finance, imperialism, navalism, alliance and communications remain distinct evidence classes until synthesis.
+  - Primary statutes, treaties, corporate agreements, technical conventions, official statistics, archival orders, and first-edition strategic texts govern.
+  - Industrial concentration, finance, imperialism, navalism, alliance, communications and general-staff planning remain distinct evidence classes until synthesis.
   - State and private corporate power are not presumed identical merely because they cooperate.
   - International communications are treated through treaty and technical regimes, not as a generic technology effect.
   - Social insurance is treated as administration of industrial society, not reduced to benevolence or repression.
   - Colonial texts preserve the distinction between metropolitan legal claims and actual colonial practice.
-  - Strategic writings such as Mahan are attributed interpretations, not automatic explanations of state policy.
+  - Strategic writings such as Mahan and Schlieffen are attributed plans or interpretations, not automatic explanations of state policy or later operations.
   - Secret diplomatic treaties governed through later documentary publication retain that witness limitation.
+  - Official statistical categories require unit and boundary controls before numerical claims are admitted.
   - No claim that the period inevitably leads to 1914 is admitted merely from chronology.
 sources:
   - {source_id: SRC-HOP-INTL-TELEGRAPH-1865, state: GOVERNING_CONVENTION_WITNESS_LOCKED_ANTECEDENT}
   - {source_id: SRC-HOP-REICHSBANK-1875, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-DUAL-ALLIANCE-1879, state: DIPLOMATIC_TREATY_WITNESS_LOCKED}
   - {source_id: SRC-HOP-BISMARCK-SOCIAL-MESSAGE-1881, state: GOVERNING_PARLIAMENTARY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-ELECTRIC-LIGHTING-ACT-1882, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
   - {source_id: SRC-HOP-STANDARD-OIL-TRUST-1882, state: PRIMARY_AGREEMENT_WITNESS_LOCKED}
   - {source_id: SRC-HOP-TRIPLE-ALLIANCE-1882, state: DIPLOMATIC_TEXT_LOCKED_THROUGH_DOCUMENTARY_EDITION}
   - {source_id: SRC-HOP-HEALTH-INSURANCE-1883, state: GOVERNING_WITNESS_LOCKED}
@@ -39,19 +41,32 @@ sources:
   - {source_id: SRC-HOP-FRANCO-RUSSIAN-CONVENTION-1892, state: DIPLOMATIC_MILITARY_WITNESS_LOCKED}
   - {source_id: SRC-HOP-GERMAN-FLEET-LAW-1898, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-GERMAN-FLEET-LAW-1900, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-TROTHA-HERERO-ORDER-1904, state: PRIMARY_ARCHIVAL_ORDER_WITNESS_LOCKED}
   - {source_id: SRC-HOP-ENTENTE-CORDIALE-1904, state: DIPLOMATIC_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-SCHLIEFFEN-MEMORANDUM-1905, state: PRIMARY_MILITARY_TEXT_LOCKED_THROUGH_FACSIMILE_TRANSCRIPTION}
   - {source_id: SRC-HOP-RADIOTELEGRAPH-1906, state: GOVERNING_CONVENTION_WITNESS_LOCKED}
-witness_count: 20
-locked_or_registered_count: 20
+  - {source_id: SRC-HOP-GERMAN-STATISTICAL-YEARBOOK-1913, state: GOVERNING_OFFICIAL_STATISTICAL_WITNESS_LOCKED}
+witness_count: 24
+locked_or_registered_count: 24
 maps:
   - map_id: IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001
     path: sources/primary/imperial-industrial/maps/IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001.yaml
     state: PASSAGE_EXTRACTION_IN_PROGRESS
+core_relations_now_documented:
+  - National monetary coordination can combine Reich supervision with private share capital.
+  - Private industrial concentration and public regulation develop together rather than as mutually exclusive systems.
+  - Social insurance turns industrial life risks and employment histories into administered legal relations.
+  - Colonial power operates through both metropolitan treaty/jurisdiction and coercive military practice.
+  - Strategic infrastructure joins public credit, commercial movement and naval mobility.
+  - Naval force becomes a long-horizon statutory construction and replacement program.
+  - Telegraph and wireless systems become internationally standardized while remaining nationally strategic infrastructures.
+  - Alliance treaties range from conditional consultation to explicit simultaneous mobilization commitments.
+  - General-staff planning integrates mass armies, railways, supply, fortifications and territorial schedules.
+  - Official statistics make national productive and transport capacity quantitatively legible.
 next_targets:
-  - steel, coal and armaments production through company, procurement and industrial-statistics witnesses
-  - electricity and oil infrastructure through primary corporate/regulatory witnesses
-  - colony-specific practice, labor and coercion evidence beyond metropolitan statutes
-  - general-staff mobilization, railway-war planning and Schlieffen-era documents
-  - naval policy memoranda tying fleet legislation to strategic objectives
-  - operational cable and wireless network evidence
-  - later alliance and crisis documents only as chronology approaches 1914
+  - controlled extraction of coal, iron, steel, railway, shipping and corporation series from the 1913 yearbook
+  - firm- or procurement-level steel and armaments witnesses where national statistics and fleet law are insufficient
+  - policy-level naval memoranda tying fleet legislation to strategic objectives
+  - operational cable and wireless network evidence beyond convention rules
+  - colony-specific labor, land and economic extraction evidence beyond the 1904 military order
+  - later alliance and July-crisis documents only as chronology approaches 1914
