@@ -97,6 +97,27 @@ Working maps may decompose a layer for research, but they do not become a second
 
 The top-level `fact` is a compressed synthesis of admitted relations. Source discovery does not alter it directly. Structured-Star integration precedes narrative revision.
 
+## Companion-Star alignment: Age of the Individual
+
+History of Power is also bound by `sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml`.
+
+The Age of the Individual is a bounded genealogy of the historical formation of the self-governing and psychologically legible individual and of the changing relation between that individual and older forms of religious, political, economic, scientific, and administrative authority. History of Power supplies the counter-genealogy of those older forces.
+
+This is a selection and synthesis constraint, not a teleological interpretation of the past.
+
+Every historical form of power must first be reconstructed in its own categories and evidentiary world. Only after that independent reconstruction may the project ask how the form positions, forms, commands, protects, classifies, mobilizes, measures, or is transformed by historically specific persons.
+
+Before acquisition, every proposed source must therefore also identify:
+- the historically specific human position implicated by the source;
+- the identifiable form of authority or organized power;
+- the evidenced person-power relation;
+- whether the later crossing relation is `PRESERVES`, `DISPLACES`, `APPROPRIATES`, `COEXISTS_WITH`, `TRANSFORMS`, or `NO_DIRECT_CROSSING_YET`;
+- why the source is material to the bounded older-forces problem rather than merely important to general history.
+
+A source is rejected from History of Power if its only justification is geopolitical importance, canonical prestige, technological novelty, dramatic importance, or chronological proximity.
+
+Neither Star absorbs the other. Egypt is not secretly modern; the polis is not an immature liberal society; medieval plurality is not merely incomplete sovereignty; bureaucracy is not psychology; and twentieth-century administration of desire may not be projected backward merely because older institutions also formed conduct.
+
 ## Narrative gate
 
 No major chronological layer is ready for History of Power integration merely because its institutional map is complete. Before crossing the narrative gate, the layer must also ask:
@@ -106,5 +127,8 @@ No major chronological layer is ready for History of Power integration merely be
 4. Where do those reflections agree, conflict, or expose dimensions absent from the operational archive?
 5. Which current narrative claims depend principally on a modern interpretation rather than on ancient or contemporary evidence?
 6. Can every proposed addition be expressed inside the native individual-Star architecture without creating a parallel research system?
+7. Has the historical form first been reconstructed on its own terms before any Age-of-the-Individual crossing is proposed?
+8. Does the layer contain a bounded person-power crosswalk, and does that crosswalk avoid projecting modern individuality backward?
+9. Is every source included because it materially serves the bounded older-forces problem rather than a universal history of power?
 
 This method applies retroactively to all History of Power layers.
