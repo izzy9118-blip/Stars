@@ -1,0 +1,36 @@
+source_id: SRC-HOP-CALVIN-INSTITUTES-IV-20
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  author: Jean Calvin / Johannes Calvinus
+  title: Institutio christianae religionis
+  target_section: Book IV, Chapter 20, De politica administratione
+  year: 1559
+  original_language: Latin
+  role: civil_government_magistracy_law_obedience_and_resistance
+
+governing_witness:
+  witness_type: DIGITIZED_1559_LATIN_DEFINITIVE_EDITION
+  repository: Bibliothèque de Genève via e-rara
+  persistent_identifier: https://doi.org/10.3931/e-rara-2664
+  url: https://www.e-rara.ch/gep_g/doi/10.3931/e-rara-2664
+  imprint: "Genevae: Oliva Roberti Stephani, 1559"
+  holding: "Bibliothèque de Genève, BGE Cxa 1917 / BGE Bc 64*"
+  extent: "[16], 564, [28] pages"
+  rights: Public Domain Mark
+
+supporting_translation:
+  translator: Henry Beveridge
+  repository: Christian Classics Ethereal Library
+  url: https://ccel.org/ccel/calvin/institutes.vi.xxi.html
+  status: READING_AID_NOT_GOVERNING
+
+witness_policy:
+  governing_language: Latin
+  rule: >-
+    Book IV chapter 20 claims must be checked against the definitive 1559 Latin
+    edition. Beveridge may aid reading but does not replace the Latin witness.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED
