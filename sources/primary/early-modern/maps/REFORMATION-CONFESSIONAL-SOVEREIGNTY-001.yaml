@@ -1,0 +1,219 @@
+map_id: REFORMATION-CONFESSIONAL-SOVEREIGNTY-001
+status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+
+method:
+  - Reformation is not treated as a simple decline of religion or linear rise of secular state power.
+  - Spiritual authority, temporal jurisdiction, territorial confession, conscience, resistance, and sovereignty remain distinct relations.
+  - The Peace of Augsburg and Edict of Nantes are institutional settlements, not statements of modern religious neutrality.
+  - Calvin's constitutional resistance and the Vindiciae's resistance doctrine are not collapsed into private individual revolution.
+  - Bodin's sovereignty is read through its own distinctions among sovereign power, delegated office, positive law, and divine/natural law.
+
+claims:
+  - claim_id: REF-PWR-001
+    proposition: >-
+      Luther denies temporal rulers jurisdiction over inward faith: civil authority can
+      regulate outward conduct and property, but coercion cannot make a person believe.
+    source_id: SRC-HOP-LUTHER-TEMPORAL-AUTHORITY-1523
+    passage_status: VERIFIED_NORMALIZED_GERMAN_WITH_1523_WITNESS_LOCKED
+    location: second part, limits of temporal authority; normalized-text pagination around pp. 263-269 in later editions
+    original_language: German
+    anchors:
+      - "Der Seele soll und kann niemand gebieten ... Das kann aber kein Mensch tun, sondern Gott allein."
+      - "weltlicher Gehorsam und Gewalt erstrecken sich nur über äußerliche Steuer, Zoll, Ehre, Furcht"
+      - "Gottes Wort soll hier streiten"
+      - "Ketzerei ist ein geistlich Ding"
+    qualification: >-
+      This is not a doctrine of religiously neutral government. Luther separates the
+      competence of sword and Word while maintaining strong Christian obligations and
+      temporal government for external order. Direct narrative quotation requires final
+      comparison with the 1523 German print's original spelling and folio.
+
+  - claim_id: REF-PWR-002
+    proposition: >-
+      The Peace of Augsburg converts unresolved confessional division into an imperial
+      legal peace among estates and territories, protecting specified confessions from
+      coercion by rival estates while leaving territorial authority structurally central.
+    source_id: SRC-HOP-PEACE-AUGSBURG-1555
+    passage_status: VERIFIED_CONTEMPORARY_PRINT
+    locations: §§14-16, 23-25
+    original_language: German
+    anchors:
+      - "keinen Stand des Reichs von wegen der Augspurgischen Confession ... wider sein Conscientz, Gewissen und Willen ... tringen"
+      - "Es soll auch kein Stand den andern noch desselben Unterthanen zu seiner Religion dringen"
+      - "mit ihren Weib und Kindern an andere Orte ziehen und sich nieder thun wolten"
+    qualification: >-
+      The protected right of confessional emigration in §24 is not equivalent to an
+      individual right to establish public worship anywhere. The settlement's governing
+      units remain imperial estates, territorial authorities, and legally specified cities.
+
+  - claim_id: REF-PWR-003
+    proposition: >-
+      In imperial cities where both confessions had already become established, Augsburg
+      legally preserves coexistence rather than forcing the city into a single confession.
+    source_id: SRC-HOP-PEACE-AUGSBURG-1555
+    passage_status: VERIFIED_CONTEMPORARY_PRINT
+    location: §27
+    original_language: German
+    anchor: "friedlich und ruhig bey- und neben einander wohnen"
+    qualification: >-
+      This provision applies to the specific imperial-city situation described in the
+      settlement and should not be universalized to every territory in the Empire.
+
+  - claim_id: REF-PWR-004
+    proposition: >-
+      Calvin distinguishes spiritual government from the civil government of outward
+      justice while simultaneously treating magistrate, law, and people as an ordered
+      civil relation under God rather than as mutually independent sovereign spheres.
+    source_id: SRC-HOP-CALVIN-INSTITUTES-IV-20
+    passage_status: VERIFIED_DEFINITIVE_LATIN_TEXT
+    locations: IV.20.1, IV.20.3
+    original_language: Latin
+    anchors:
+      - "duplex in homine regimen"
+      - "ad instituendam civilem duntaxat externamque morum iustitiam"
+      - "Magistratus, qui praeses est legum ac custos: Leges ... Populus"
+    qualification: >-
+      Calvin also assigns magistrates responsibilities concerning public religion.
+      The distinction between spiritual and civil government therefore must not be
+      rewritten as modern separation of religion from public authority.
+
+  - claim_id: REF-PWR-005
+    proposition: >-
+      Calvin withholds coercive resistance from private individuals but recognizes a duty
+      in constitutionally appointed 'popular magistrates' or comparable estates to check
+      royal license when their office makes them guardians of the people's liberty.
+    source_id: SRC-HOP-CALVIN-INSTITUTES-IV-20
+    passage_status: VERIFIED_DEFINITIVE_LATIN_TEXT
+    location: IV.20.31
+    original_language: Latin
+    anchors:
+      - "Nam siqui nunc sint populares magistratus ad moderandam Regum libidinem constituti"
+      - "populi libertatem, cuius se Dei ordinatione tutores positos norunt"
+    qualification: >-
+      This is constitutional interposition, not a general private right of rebellion.
+      Calvin's immediately preceding language stresses obedience and suffering by private persons.
+
+  - claim_id: REF-PWR-006
+    proposition: >-
+      Calvin makes obedience to human rulers conditional at the outer boundary where their
+      commands conflict with obedience owed to God.
+    source_id: SRC-HOP-CALVIN-INSTITUTES-IV-20
+    passage_status: VERIFIED_DEFINITIVE_LATIN_TEXT
+    location: IV.20.32
+    original_language: Latin
+    anchor: "Obediendum Deo potius quam hominibus"
+    qualification: >-
+      The proposition concerns refusal of impious commands and does not erase Calvin's
+      extensive insistence upon ordinary obedience even under bad rulers.
+
+  - claim_id: REF-PWR-007
+    proposition: >-
+      The Vindiciae turns confessional conflict into an explicit sequence of questions about
+      when obedience ends, who may resist a ruler violating divine law, and who may resist
+      a ruler who oppresses or ruins the commonwealth.
+    source_id: SRC-HOP-VINDICIAE-1579
+    passage_status: VERIFIED_1579_LATIN_PRINT
+    locations:
+      - Prima quaestio
+      - Secunda quaestio
+      - Tertia quaestio
+    original_language: Latin
+    anchors:
+      - "an subditi teneantur, aut debeant principibus obedire, si quid contra legem Dei imperent?"
+      - "de Principis in Populum, Populique in Principem, legitima potestate"
+    qualification: >-
+      The work's authorship is disputed and its title-page author is pseudonymous.
+      Its resistance argument proceeds through covenants, offices, people, and magistrates;
+      it is not admitted as a doctrine of unrestricted individual violence.
+
+  - claim_id: REF-PWR-008
+    proposition: >-
+      Bodin defines sovereignty as absolute and perpetual precisely to distinguish the
+      continuing location of supreme authority from officials who may exercise very great
+      power only temporarily or by delegation.
+    source_id: SRC-HOP-BODIN-REPUBLIQUE-1576
+    passage_status: VERIFIED_1576_FRENCH_FIRST_EDITION
+    location: Book I, chapter VIII, pp. 125ff
+    original_language: French
+    anchors:
+      - "La souveraineté est la puissance absoluë & perpetuelle d'une Republique"
+      - "ils ne sont que depositaires, & gardes de cette puissance"
+    qualification: >-
+      The distinction is between sovereign authority and delegated command, not between
+      strong and weak government. Temporary possession of sweeping powers does not itself
+      make an office sovereign.
+
+  - claim_id: REF-PWR-009
+    proposition: >-
+      Bodin's sovereign is not simply outside all norm: sovereign positive law does not bind
+      the ruler in the same manner as a subject, but divine and natural law remain superior
+      obligations of every earthly prince.
+    source_id: SRC-HOP-BODIN-REPUBLIQUE-1576
+    passage_status: VERIFIED_1576_FRENCH_FIRST_EDITION
+    location: Book I, chapter VIII
+    original_language: French
+    anchors:
+      - "quant aux loix divines & naturelles, tous les Princes de la terre y sont sugets"
+      - "La souveraineté est la puissance absoluë & perpetuelle"
+    qualification: >-
+      Do not equate Bodin's absoluteness with arbitrary personal appetite. The analytical
+      problem is where enforceable positive command resides and what differentiates the
+      sovereign from magistrates, not whether the sovereign can make divine or natural law.
+
+  - claim_id: REF-PWR-010
+    proposition: >-
+      The Edict of Nantes manages confessional plurality through royal law: Reformed subjects
+      may live in the realm without coercion against conscience, exercise worship under
+      specified territorial conditions, and hold public offices despite their confession.
+    source_id: SRC-HOP-EDICT-NANTES-1598
+    passage_status: VERIFIED_CONTEMPORARY_REGISTERED_TEXT
+    locations: Articles VI, XXVII and particular article I
+    original_language: French
+    anchors:
+      - "vivre et demeurer ... sans être enquis, vexez, molestez, ni astrains à faire chose ... contre leur conscience"
+      - "capables de tenir et exercer tous États, Dignitez, Offices et Charges publiques quelconques"
+      - "l’article sixième dudit Édit touchant la liberté de conscience"
+    qualification: >-
+      Public Reformed worship remained geographically and legally bounded and Catholic
+      institutions retained privileged standing. Nantes is organized confessional coexistence
+      under monarchy, not a religiously neutral state.
+
+cross_source_questions:
+  - >-
+    If Luther denies the sword competence over inward faith, why do Augsburg and Nantes
+    still organize confession through territorial and royal law rather than privatizing religion?
+  - >-
+    How does Calvin's constitutional role for popular magistrates differ from the Vindiciae's
+    broader covenantal theory of resistance after the French wars of religion?
+  - >-
+    Does Bodin answer religious civil war by eliminating religious obligation, or by locating
+    perpetual positive-law sovereignty more sharply while leaving divine and natural law above princes?
+  - >-
+    How do Augsburg's confessional estates, the Vindiciae's people-and-prince covenant, Bodin's
+    sovereign commonwealth, and Nantes's royal toleration disclose competing ways of reconstructing
+    political unity after western Christian jurisdiction fragmented?
+
+analytical_synthesis:
+  proposition: >-
+    The Reformation does not simply transfer a fixed quantity of power from church to state.
+    It fractures inherited jurisdiction and forces political orders to distinguish inward faith,
+    external civil command, territorial confession, magistratical resistance, and the continuing
+    locus of supreme positive-law authority. The resulting settlements range from imperial
+    confessional peace to constitutional resistance theory, sovereign state doctrine, and royal
+    management of plural worship.
+  status: CROSS_SOURCE_SYNTHESIS_NOT_STATED_BY_ANY_SINGLE_WITNESS
+
+narrative_gate:
+  satisfied:
+    - Luther 1523 governing witness locked and relevant jurisdiction passages extracted
+    - Peace of Augsburg 1555 authorized print locked and key settlement clauses extracted
+    - Calvin 1559 definitive Latin witness locked and IV.20.1, 3, 31, 32 extracted
+    - Vindiciae 1579 original Latin print locked with pseudonymous authorship preserved
+    - Bodin 1576 French first edition locked and sovereignty/delegation/natural-law distinctions extracted
+    - Edict of Nantes contemporary registered print located and core conscience/office clauses extracted
+  remaining:
+    - Direct Luther quotations in the final narrative require image-level comparison with the 1523 print spelling and folio.
+    - If a long Vindiciae quotation is used, record exact 1579 page/folio rather than question heading alone.
+    - If a direct Edict of Nantes quotation is used, cross-check the chosen 1599 Gallica impression rather than relying solely on normalized Wikisource spelling.
