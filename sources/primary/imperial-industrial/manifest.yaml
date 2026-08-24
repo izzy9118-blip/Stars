@@ -1,0 +1,31 @@
+corpus_id: HOP-IMPERIAL-INDUSTRIAL-001
+name: Imperial-Industrial World Power Primary Source Corpus
+status: INITIAL_WITNESSES_GATHERING
+parent_star: STAR-HISTORY-OF-POWER-001
+base_branch: history-of-power-administrative-state-001
+working_branch: history-of-power-imperial-industrial-001
+period_focus: "1871-1914"
+purpose: >-
+  Reconstruct the fusion of national administration, industrial production,
+  corporate and banking organization, social insurance, colonial jurisdiction,
+  strategic infrastructure, naval power, global communications, and alliance
+  systems into imperial-industrial great-power capacity.
+acquisition_rules:
+  - Primary statutes, treaties, corporate agreements, technical conventions, and first-edition strategic texts govern.
+  - Industrial concentration, finance, imperialism, navalism, and alliance are distinct evidence classes.
+  - State and private corporate power are not presumed identical merely because they cooperate.
+  - International communications are treated through treaty and technical regimes, not as a generic technology effect.
+  - Social insurance is treated as administration of industrial society, not reduced to benevolence or repression.
+  - Colonial texts must preserve the distinction between metropolitan legal claims and actual colonial practice.
+  - Strategic writings such as Mahan are attributed interpretations, not automatic explanations of state policy.
+  - No claim that the period inevitably leads to 1914 is admitted merely from chronology.
+initial_targets:
+  - Reichsbank and national monetary coordination
+  - modern stock corporations and trusts
+  - German social insurance
+  - Berlin Conference colonial order
+  - strategic canal and fleet legislation
+  - Mahan and sea-power theory
+  - international telegraph/radiotelegraph conventions
+  - alliance treaties and military conventions
+  - oil, electricity, steel and armaments where primary institutional witnesses can be locked
