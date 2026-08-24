@@ -1,0 +1,36 @@
+source_id: SRC-HOP-BODIN-REPUBLIQUE-1576
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  author: Jean Bodin
+  title: Les six livres de la République
+  year: 1576
+  original_language: French
+  role: sovereignty_commonwealth_office_law_and_forms_of_regime
+
+governing_witness:
+  witness_type: DIGITIZED_1576_FRENCH_FIRST_EDITION
+  repository: Bibliothèque nationale de France / Gallica
+  imprint: "Paris: Jacques du Puy, 1576"
+  discovery_record: https://cour-de-france.fr/histoire-et-fonction/politique-guerre-et-justice/ouvrages-avant-1800/article/les-six-livres-de-la-republique
+  public_domain_facsimile: https://fr.wikisource.org/wiki/Fichier:Bodin_-_Les_Six_Livres_de_la_R%C3%A9publique,_1576.djvu
+  source_of_facsimile: Bibliothèque nationale de France
+  rights: Public domain
+
+supporting_translation:
+  title: The Six Bookes of a Commonweale
+  translator: Richard Knolles
+  year: 1606
+  url: https://commons.wikimedia.org/wiki/File:The_six_bookes_of_a_commonweale_(IA_sixbookesofcommo00bodi).pdf
+  status: HISTORICAL_ENGLISH_READING_WITNESS_NOT_GOVERNING
+
+witness_policy:
+  governing_language: French
+  rule: >-
+    The 1576 French first edition governs terminology and quotations, especially
+    claims concerning souveraineté. Knolles's 1606 English version is a historical
+    translation witness and may not silently replace Bodin's French text.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED
