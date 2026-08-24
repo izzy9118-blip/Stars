@@ -1,0 +1,56 @@
+source_id: SRC-HOP-REKHMIRE-VIZIER
+status: MONUMENT_AND_CRITICAL_EDITION_LOCKED_PASSAGE_EXTRACTION_PENDING
+
+author_or_corporate_author: Rekhmire workshop / royal-vizierial inscription tradition
+work_or_document_title: Installation and Duties of the Vizier Rekhmire
+monument: Theban Tomb 100, Sheikh Abd el-Qurna
+date_or_period: reigns of Thutmose III and early Amenhotep II
+original_language: Ancient Egyptian in hieroglyphic inscription
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+secondary_evidence_character: office ideal and autobiographical self-presentation
+
+governing_witness_and_exact_edition_or_archive:
+  original_witness: inscriptions and scenes in TT100
+  documentary_edition: Norman de Garis Davies, The Tomb of Rekh-mi-Re at Thebes, Metropolitan Museum of Art Egyptian Expedition 11, New York, 1943, two volumes
+  digital_edition: https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/168715/
+  modern_critical_control: G. P. F. van den Boorn, The Duties of the Vizier: Civil Administration in the Early New Kingdom, 1988
+  textual_note: related incomplete copies survive in other vizierial tombs
+
+participant_or_observer_position: elite office-holder's monumental representation of appointment, duties and proper conduct
+temporal_distance_if_retrospective: contemporary office monument, but selective and self-presentational
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - vizier_as_delegated_royal_office
+  - hearing_impartiality_judgment_and_procedure
+  - treasury_agriculture_military_and_civil_administration
+  - office_as_mediation_between_king_and_population
+intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+
+what_the_source_can_establish:
+  - The vizierial office was represented through specified procedures, reporting relations and jurisdictions.
+  - Royal speech and office instruction demanded impartiality and disciplined hearing.
+  - Monumental scenes join administrative office to taxation, production, tribute, workshops and social hierarchy.
+what_the_source_cannot_establish:
+  - That every vizier performed these duties exactly as represented.
+  - That TT100 describes all periods or regions of Egyptian government.
+  - That autobiographical moral claims are independently verified facts about Rekhmire's conduct.
+
+rival_or_counter_witnesses_where_known:
+  - Horemheb Edict
+  - Eloquent Peasant
+  - tax, labor and treasury records
+  - other Installation of the Vizier copies
+boundary_effect: >-
+  Preserve office ideal, operational description, pictorial program and personal
+  self-presentation as related but non-identical evidentiary layers.
+
+age_of_individual_crossing:
+  person_power_relation: official formed as an office-bearer mediating royal command, procedure and the governed population
+  authority_demand: impartial hearing, record, reporting, supervision and restraint of personal preference
+  conduct_formation: the person is subordinated to a role whose legitimacy exceeds the private occupant
+  later_relation: PRESERVE_AND_TRANSFORM_IN_LATER_BUREAUCRATIC_OFFICE
+  prohibition: Do not equate office discipline with modern autonomous civil service or legal equality.
+
+quotation_state: NOT_YET_ADMITTED
+star_integration_state: NOT_YET_PROPOSED
