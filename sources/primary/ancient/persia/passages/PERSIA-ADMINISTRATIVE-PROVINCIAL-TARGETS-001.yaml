@@ -1,0 +1,122 @@
+passage_set_id: PERSIA-ADMINISTRATIVE-PROVINCIAL-TARGETS-001
+status: PREPARATORY_DOCUMENT_CATEGORIES_AND_INITIAL_OBJECTS_IDENTIFIED_NOT_ADMITTED
+parent_corpus: HOP-PERSIA-PRELIMINARY-001
+star_layer_target: persian_power
+exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+
+method:
+  - Corpus-level descriptions do not substitute for document-level evidence.
+  - Each released claim must name the tablet, papyrus, letter or monument section.
+  - Name, status, labor, ration, property and petition remain distinct relations.
+  - Modern documentary identifiers and ancient physical witnesses are both recorded.
+  - No target below is admitted to the Star under the current exception.
+
+target_groups:
+  - group_id: PERS-PFA-SAMPLE-001
+    source_id: SRC-HOP-PERSEPOLIS-FORTIFICATION
+    issue: routine imperial movement, ration and authorization
+    sample_categories_to_select:
+      - travel ration document with named authorization and destination
+      - worker-group ration document showing status/category and allocation
+      - document involving a named woman or royal-estate relation
+      - official or messenger document connecting institutions and route
+      - sealed but uninscribed or Aramaic document demonstrating archive plurality
+    governing_controls:
+      - Hallock tablet identifiers and Elamite readings
+      - OCHRE/PFA images and seal data
+      - later corrections to Hallock
+    proposed_relations:
+      - named persons enter administrative knowledge through work, movement and entitlement
+      - imperial coordination relies upon distributed scribal and sealing practices
+    prohibited_inferences:
+      - ration equals wage in every case
+      - archive category equals personal identity
+      - Persepolis practice governs every province
+      - numerical generalization without corpus-boundary control
+
+  - group_id: PERS-ELEPHANTINE-001
+    source_id: SRC-HOP-ELEPHANTINE-PAPYRI
+    issue: household, property and status in a Persian provincial military community
+    initial_objects:
+      - object: Brooklyn Museum 47.218.89
+        date: 449 BCE
+        description: marriage document of Ananiah and Tamet/Tamut
+        document_identifier_control: Porten-Yardeni / Brooklyn corpus crosswalk pending
+      - object: Brooklyn Museum 47.218.91 a-b
+        date: 434 BCE
+        description: transfer of property from Ananiah to Tamet/Tamut
+        document_identifier_control: Porten-Yardeni / Brooklyn corpus crosswalk pending
+    proposed_relations:
+      - named spouses and family members possess document-mediated claims
+      - property and status are organized through household, local law and archive
+    prohibited_inferences:
+      - equal gender or status relations
+      - universal Persian private law
+      - enforcement merely from preserved contract
+
+  - group_id: PERS-ELEPHANTINE-002
+    source_id: SRC-HOP-ELEPHANTINE-PAPYRI
+    issue: communal petition after destruction of the YHW temple
+    target_document:
+      conventional_title: Petition to Bagohi
+      date: 407 BCE
+      likely_corpus_identifier: TAD A4.7 / Cowley 30, exact crosswalk to verify
+      recipients_and_context: Judaean community addresses high officials concerning temple reconstruction
+    proposed_relations:
+      - a subject community can preserve grievance and seek redress through imperial channels
+      - petition joins religious identity, local conflict and administrative hierarchy
+    prohibited_inferences:
+      - communal sovereignty
+      - religious toleration as one uniform imperial right
+      - successful remedy without subsequent documentary control
+
+  - group_id: PERS-ARSAMES-001
+    source_id: SRC-HOP-ARSAMES-LETTERS
+    issue: absent satrapal command through agents and documentary transmission
+    sample_categories_to_select:
+      - instruction to an estate manager concerning land, seed, livestock or labor
+      - travel or provision order for an authorized person
+      - report or complaint concerning subordinate performance
+      - document displaying seal, carrier, address or archive-bag relation
+    governing_controls:
+      - Aršāma and His World, document number and physical witness
+      - Driver edition only as earlier comparison
+    proposed_relations:
+      - public office and estate authority overlap through written command
+      - absence is overcome by agents, records, seals and resource control
+    prohibited_inferences:
+      - modern public/private distinction
+      - successful execution of every order
+      - satrapal practice as complete imperial constitution
+
+  - group_id: PERS-UDJAHORRESNET-001
+    source_id: SRC-HOP-UDJAHORRESNET
+    issue: Egyptian elite mediation under Cambyses and Darius
+    monument_sections_to_crosswalk:
+      - titles and career under late Saite kings
+      - self-presentation before Cambyses and explanation of Egyptian kingship/cult
+      - measures concerning foreign presence or temple precinct at Sais
+      - restoration, school or House-of-Life relation attributed to Darius
+      - appeal for memorial and mortuary continuity
+    governing_controls:
+      - Vatican statue faces and line numbering
+      - Posener hieroglyphic edition
+      - Lichtheim translation comparison
+    proposed_relations:
+      - local knowledge mediates foreign kingship
+      - one elite person survives regime change through office, cult and self-presentation
+    prohibited_inferences:
+      - general Egyptian consent
+      - Persian piety as neutral fact
+      - complete refutation or confirmation of Herodotus
+
+cross_source_questions:
+  - How do records make persons visible while leaving their inward experience largely unknown?
+  - Which claims are held by individuals, households, military communities, temples or offices?
+  - When does an imperial channel permit petition, and when does it primarily classify and command?
+  - How do Persian, Aramaic, Elamite and Egyptian documentary practices coexist without becoming one uniform law?
+  - Does local mediation restrain imperial power, make it effective, or both?
+
+release_rule: >-
+  Document-level claims remain withheld until every target has an exact corpus identifier,
+  artifact locator, original-language reading and stated boundary.
