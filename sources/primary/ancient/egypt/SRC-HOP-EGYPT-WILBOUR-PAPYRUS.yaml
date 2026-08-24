@@ -1,0 +1,69 @@
+source_id: SRC-HOP-EGYPT-WILBOUR-PAPYRUS
+status: GOVERNING_PAPYRUS_IDENTIFIED_SECTION_AND_EDITION_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Ramesside administrative scribal authority
+work_or_document_title: The Wilbour Papyrus
+principal_identifier: Brooklyn Museum 34.5596
+original_language: Hieratic Egyptian
+date_or_period: Year 4 of Ramesses V, Twentieth Dynasty
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+participant_or_observer_position: Administrative land survey and assessment record classifying fields, institutions, cultivators or holders, and fiscal relations
+temporal_distance_if_retrospective: Contemporary administrative document relative to the survey it records
+
+governing_witness_and_exact_edition_or_archive:
+  original_object:
+    repository: Brooklyn Museum, New York
+    accession: 34.5596
+    status: GOVERNING_OBJECT_IDENTIFIED_SECTION_COLUMN_AND_IMAGE_CROSSWALK_PENDING
+  critical_edition:
+    editor: Alan H. Gardiner
+    title: The Wilbour Papyrus
+    evidence_class: MODERN_CRITICAL_EDITION_OF_PRIMARY_WITNESS
+    status: EXACT_VOLUME_PUBLICATION_DATA_AND_SECTION_CROSSWALK_PENDING
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Land becomes governable through measured fields, named institutions, categorized holders or cultivators, scribal record, and assessment.
+  - Fiscal legibility joins temple, office, land, production, and persons without reducing those relations to modern private ownership.
+intended_claim_class:
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - The categories, places, institutions, field units, persons, and assessments recorded in one major Ramesside land document.
+  - A concrete administrative technique by which land and obligations become legible to governing institutions.
+  - The coexistence of temple, state, office, and individual names within a fiscal record.
+what_the_source_cannot_establish:
+  - A complete cadastral map or tax roll for all Egypt.
+  - That every assessed amount was collected.
+  - Modern fee-simple ownership or a single uncontested theory of Egyptian landholding.
+  - The lived experience of every person named in the record.
+
+rival_or_counter_witnesses_where_known:
+  - other land, tax, and temple-account papyri
+  - archaeological field and settlement evidence
+  - legal documents concerning transfer, inheritance, and use
+  - modern debates on Ramesside land tenure and institutional ownership
+
+boundary_effect: >-
+  The papyrus can ground the Star's Nile-land-measure-tax relation in an actual
+  administrative witness while preventing modern property categories from being
+  projected backward.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - forms_of_authority.household_authority
+  authority_bearer: Scribal-fiscal administration, temples, offices, and land institutions
+  human_position: Named or categorized holder, cultivator, official, or dependent situated within measured land and assessed obligation
+  demanded_conduct: Cultivation, accounting, delivery, or obligation as recorded; exact duties remain entry-specific
+  formative_technique: Survey, measure, list, category, place-name, assessment, and archived papyrus
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    Administrative individuation in a register is not the modern individual as
+    bearer of prior rights. Persons become legible through land and institutional obligation.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
