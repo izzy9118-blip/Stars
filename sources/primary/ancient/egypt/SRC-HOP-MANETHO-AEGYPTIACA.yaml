@@ -1,0 +1,60 @@
+source_id: SRC-HOP-MANETHO-AEGYPTIACA
+status: TRANSMISSION_DOSSIER_LOCKED_ORIGINAL_WORK_LOST
+
+author_or_corporate_author: Manetho of Sebennytos
+work_or_document_title: Aegyptiaca
+date_or_period: early Ptolemaic period, third century BCE
+original_language: Greek
+evidence_class: POST_FESTUM_DUSK_WITNESS
+
+governing_witness_and_exact_edition_or_archive:
+  original_status: lost
+  earliest_principal_transmission:
+    author: Flavius Josephus
+    work: Contra Apionem, Book I, especially sections beginning around 73
+    governing_greek_edition: Benedikt Niese, Flavii Iosephi Opera, volume V, Berlin, 1889
+    perseus_urn: urn:cts:greekLit:tlg0526.tlg003.perseus-grc1
+    online_text: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0216%3Abook%3D1%3Asection%3D73
+  later_transmission_targets:
+    - Africanus fragments as preserved by Syncellus
+    - Eusebius fragments and Armenian/chronographic transmission
+  rule: No reconstructed Manethonian sentence is treated as direct manuscript text without identifying its transmitter.
+
+participant_or_observer_position: Egyptian priest writing a Greek history under Ptolemaic rule
+temporal_distance_if_retrospective: many centuries after most dynasties narrated; possible temple-record access must be tested fragment by fragment
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - royal_succession_and_priestly_memory
+  - transmission_of_Egyptian_order_across_regime_change
+  - distinction_between_witness_date_and_claimed_antiquity
+intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - Later antiquity attributed a dynastic Egyptian historical synthesis to an Egyptian priest writing in Greek.
+  - The surviving fragments became a major ancient vehicle for organizing Egyptian kings into dynasties and succession.
+  - Josephus's use of Manetho reveals an ancient controversy over Egyptian and Jewish historical memory.
+what_the_source_cannot_establish:
+  - The complete wording, structure or intent of the lost Aegyptiaca.
+  - That every transmitted king list or narrative derives unchanged from temple archives.
+  - Direct facts about early Egypt without independent Egyptian evidence.
+
+rival_or_counter_witnesses_where_known:
+  - Turin Royal Canon
+  - Abydos and Saqqara king lists
+  - Herodotus Book II
+  - Diodorus Book I
+  - archaeological chronology
+boundary_effect: >-
+  Manetho is a native post-festum synthesis available only through contested transmission.
+  Native authorship does not erase lateness, Ptolemaic context or fragmentary survival.
+
+age_of_individual_crossing:
+  person_power_relation: priestly historian reorganizing inherited royal memory under a new imperial order
+  authority_demand: preservation and interpretation of succession rather than direct subject obedience
+  conduct_formation: historical classification makes earlier kingship intelligible to a Greek-reading public
+  later_relation: NO_DIRECT_CROSSING_YET
+  note: The source controls memory of older power; it does not itself establish the emergence of the separate individual.
+
+quotation_state: FRAGMENTS_ONLY_NO_DIRECT_MANETHO_QUOTATION_ADMITTED
+star_integration_state: NOT_YET_PROPOSED
