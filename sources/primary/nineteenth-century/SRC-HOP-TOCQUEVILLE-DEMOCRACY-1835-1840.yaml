@@ -1,0 +1,66 @@
+source_id: SRC-HOP-TOCQUEVILLE-DEMOCRACY-1835-1840
+status: GOVERNING_PUBLICATION_SEQUENCE_LOCKED_WORKING_DIGITAL_WITNESSES_REGISTERED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  author: Alexis de Tocqueville
+  title: De la démocratie en Amérique
+  original_language: French
+  role: democratic_equality_local_liberty_association_majority_power_administrative_centralization_and_soft_despotism
+
+publication_sequence:
+  first_part:
+    publisher: Librairie de Charles Gosselin
+    place: Paris
+    year: 1835
+    volumes: 2
+    first_edition_pagination: "xxiv + 367; 459 pages"
+    first_print_run: 500
+  second_part:
+    publisher: Librairie de Charles Gosselin
+    place: Paris
+    year: 1840
+    volumes: 2
+    first_edition_pagination: "v + 333; 363 pages"
+    first_print_run: 1000
+
+working_digital_witnesses:
+  - description: 1835 Charles Gosselin volume I scan
+    repository: Wikimedia Commons / Internet Archive
+    url: https://commons.wikimedia.org/wiki/File:De_La_Democratie_En_Amerique_(Vol._I)_(IA_dli.granth.35398).pdf
+    status: PAGE_IMAGE_WITNESS_EDITION_DETAILS_TO_VERIFY_AT_TITLE_PAGE
+  - description: 1835 Charles Gosselin digitized copies available through HathiTrust/Google Books
+    repository: Online Books Page / HathiTrust
+    url: https://onlinebooks.library.upenn.edu/webbin/who/Tocqueville%2C%20Alexis%20de%2C%201805-1859
+    status: DIGITAL_PAGE_IMAGES_AVAILABLE
+  - description: 1840 Charles Gosselin third/fourth volume witnesses
+    repository: Google Books / Google Play
+    url: https://play.google.com/store/books/details/Alexis_de_Tocqueville_De_la_d%C3%A9mocratie_en_Am%C3%A9rique?id=qJnCB4fJUtIC
+    status: FULL_VIEW_PUBLIC_DOMAIN
+
+bibliographic_corroboration:
+  - first part first edition: Paris, Charles Gosselin, 1835, two volumes
+  - second part first edition: Paris, Charles Gosselin, 1840, two volumes
+  - work published in two distinct stages and must not be treated as one simultaneous 1835 text
+
+primary_passage_targets:
+  1835:
+    - township/commune and local self-government
+    - political association
+    - sovereignty of the people
+    - majority power and institutional restraints
+    - federal and state relations
+  1840:
+    - individualism and association
+    - equality and centralization
+    - democratic peoples and administrative tutelage
+    - new form of despotism in democratic societies
+
+witness_policy:
+  rule: >-
+    Preserve the two-stage 1835/1840 publication history. Use first-edition page images
+    wherever they can be verified; later author-supervised editions may aid navigation but
+    must not silently replace first-edition wording in quotation-sensitive claims.
+
+quotation_state: FIRST_EDITION_PASSAGE_EXTRACTION_PENDING
+analysis_state: NOT_YET_INTEGRATED
