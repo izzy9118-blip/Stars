@@ -1,0 +1,80 @@
+extract_id: EXTRACT-EGYPT-ELOQUENT-PEASANT-001
+source_id: SRC-HOP-EGYPT-ELOQUENT-PEASANT
+status: Q0_WITNESS_GROUP_LOCKED_Q1_CRITICAL_EDITION_TARGETED_Q2_PENDING
+protocol: sources/primary/ancient/egypt/EXTRACTION-PROTOCOL-001.yaml
+
+Q0_witness_identity:
+  composition: The Tale of the Eloquent Peasant
+  original_language: Middle Egyptian
+  principal_witness_group:
+    repository: Egyptian Museum and Papyrus Collection, Staatliche Museen zu Berlin
+    objects:
+      - Papyrus Berlin P 3023
+      - Papyrus Berlin P 3025
+      - Papyrus Berlin P 10499
+    qualification: >-
+      The composition is reconstructed from a manuscript tradition. No single
+      online English text is identical with every surviving witness.
+  manuscript_concordance_state: EXACT_SIGLA_AND_SECTION_ASSIGNMENT_PENDING
+
+Q1_textual_control:
+  critical_edition_target:
+    author_editor: R. B. Parkinson
+    title: The Tale of the Eloquent Peasant
+    publication: Oxford, Griffith Institute, 1991
+    status: BIBLIOGRAPHIC_TARGET_SELECTED_PHYSICAL_OR_DIGITAL_COPY_PENDING
+  navigation_witness:
+    repository: UCL Digital Egypt
+    url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/peasant.html
+    status: RETRIEVED_NAVIGATION_AND_WORKING_TRANSLATION_ONLY
+  control_rule: >-
+    Parkinson's manuscript and line concordance must govern extraction. The UCL
+    text may identify candidate passages but may not govern quotation wording.
+
+Q2_passage_targets:
+  - target_id: PEASANT-T1
+    scene: seizure of the peasant's goods and initial injury
+    purpose: establish status, material vulnerability, and the occasion of petition
+    exact_manuscript_lines: PENDING_PARKINSON_CROSSWALK
+  - target_id: PEASANT-T2
+    scene: first address to the high steward
+    purpose: identify what justice and official office require in the petitioner's voice
+    exact_manuscript_lines: PENDING_PARKINSON_CROSSWALK
+  - target_id: PEASANT-T3
+    scene: petition concerning hearing, greed, falsehood, or the official as protector
+    purpose: bound the claim that ma'at can be invoked upward from subordinate position
+    exact_manuscript_lines: PENDING_PARKINSON_CROSSWALK
+  - target_id: PEASANT-T4
+    scene: official and royal management of the petitions and final disposition
+    purpose: distinguish genuine hearing from the instrumental preservation of eloquent speech
+    exact_manuscript_lines: PENDING_PARKINSON_CROSSWALK
+
+Q3_translation_control:
+  governing_translation: NONE_YET
+  working_translation_sources:
+    - UCL Digital Egypt, translator/editor metadata to be recorded before use
+  quotation_readiness: WORKING_TRANSLATION_ONLY
+
+Q4_star_claim_mapping:
+  relation_id: EGYPT-PA-002
+  star_claim_target: >-
+    A person may speak against injustice while remaining a petitioner who addresses
+    ma'at through officials and kingship rather than standing outside the order as
+    a sovereign natural-rights bearer.
+  intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+  age_of_individual_crossing: COEXIST_WITH
+
+Q5_boundary_and_rival_test:
+  boundaries:
+    - literary petitioner is not proven historical litigant
+    - eloquence is not ordinary legal access
+    - official hearing does not establish legal equality
+    - narrative outcome does not establish standard court procedure
+  rival_controls:
+    - SRC-HOP-EGYPT-HOREMHEB-EDICT
+    - SRC-HOP-EGYPT-REKHMIRE-VIZIER
+    - administrative petitions and legal papyri
+    - CTRL-HOP-EGYPT-PARKINSON-POETRY-CULTURE
+
+Q6_quotation_readiness: NOT_READY
+next_action: LOCK_PARKINSON_EDITION_AND_ASSIGN_MANUSCRIPT_LINES_TO_T1_T4
