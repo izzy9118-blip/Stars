@@ -1,5 +1,5 @@
 audit_program: HISTORY-OF-POWER-RETROACTIVE-SOURCE-AUDIT
-status: FIRST_FULL_PASS_COMPLETE_DUAL_CONFORMITY_BOUND_EGYPT_ACQUISITION_ACTIVE
+status: FIRST_FULL_PASS_COMPLETE_DUAL_CONFORMITY_BOUND_PERSIA_PREPARATORY_PACKAGE_COMPLETE
 branch: history-of-power-retroactive-source-audit-001
 method: sources/SOURCE-WITNESS-METHOD.md
 history_of_power_conformity_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
@@ -51,60 +51,72 @@ sequence:
     layer: EGYPT
     audit: sources/audits/ancient/EGYPT-RETROACTIVE-SOURCE-AUDIT-001.yaml
     acquisition_corpus: sources/primary/ancient/egypt/manifest.yaml
-    person_authority_map: sources/primary/ancient/egypt/maps/EGYPT-PERSON-AUTHORITY-001.yaml
+    person_authority_maps:
+      - sources/primary/ancient/egypt/maps/EGYPT-PERSON-AUTHORITY-001.yaml
+      - sources/primary/ancient/egypt/maps/EGYPT-AMENEMOPE-PERSON-AUTHORITY-001.yaml
     modern_reclassification: sources/primary/ancient/egypt/RECLASSIFICATION-MODERN-EGYPT-INTERPRETATIONS-001.yaml
-    status: FIRST_BATCH_LOCKED_PASSAGE_CONTROL_AND_RECLASSIFICATION_IN_PROGRESS
-    next_action: COMPLETE_PASSAGE_CONTROL_AND_PREPARE_STAR_NATIVE_PROPOSAL
+    correction_proposals:
+      - sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-CORRECTION-PROPOSAL-001.yaml
+      - sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-CORRECTION-ADDENDUM-AMENEMOPE-001.yaml
+    status: EVIDENCE_PACKAGE_CONDITIONALLY_READY_STRUCTURED_CORRECTION_NOT_CERTIFIED_OR_APPLIED
+    next_action: OWNER_REVIEW_CERTIFICATION_AND_CONTROLLED_STRUCTURED_APPLICATION
   - order: 2
     layer: PERSIA
     audit: sources/audits/ancient/PERSIA-RETROACTIVE-SOURCE-AUDIT-001.yaml
-    status: AUDIT_COMPLETE_REBALANCING_REQUIRED
-    next_action: ACQUIRE_OWN_ARCHIVE_AND_REATTRIBUTION_UNDER_DUAL_CONFORMITY_GATE
+    preparatory_corpus: sources/primary/ancient/persia/manifest.yaml
+    exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+    person_authority_map: sources/primary/ancient/persia/maps/PERSIA-PERSON-AUTHORITY-001.yaml
+    herodotus_control: sources/primary/ancient/persia/HERODOTUS-REATTRIBUTION-AND-CONTROL-001.yaml
+    preparatory_proposal: sources/primary/ancient/persia/integration/PERSIA-STRUCTURED-STAR-CORRECTION-PROPOSAL-001.yaml
+    status: PREPARATORY_PACKAGE_COMPLETE_NOT_ADMITTED_OR_CERTIFIABLE_UNDER_EXCEPTION
+    next_action: HOLD_FOR_OWNER_REVIEW_AND_LATER_MULTILINGUAL_PASSAGE_VERIFICATION
   - order: 3
     layer: GREECE
     audit: sources/audits/ancient/GREECE-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_AND_EPIGRAPHIC_EXPANSION_REQUIRED
-    next_action: ACQUIRE_AND_LINK_UNDER_DUAL_CONFORMITY_GATE
+    next_action: HOLD_NOT_AUTHORIZED_UNDER_CURRENT_EXCEPTION
   - order: 4
     layer: ROME
     audit: sources/audits/ancient/ROME-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_ANNALISTIC_AND_PRINCIPATE_CONTROLS_REQUIRED
-    next_action: ACQUIRE_AND_RECLASSIFY_UNDER_DUAL_CONFORMITY_GATE
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
   - order: 5
     layer: POST_IMPERIAL_AND_MEDIEVAL
     audit: sources/audits/medieval/POST-IMPERIAL-MEDIEVAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_INSTITUTIONAL_AND_REFLECTIVE_EXPANSION_REQUIRED
-    next_action: ACQUIRE_LAW_CHARTERS_AND_MAJOR_BOOKS_UNDER_DUAL_CONFORMITY_GATE
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
   - order: 6
     layer: RENAISSANCE_EARLY_MODERN_AND_ENLIGHTENMENT
     audit: sources/audits/early-modern/RENAISSANCE-EARLY-MODERN-ENLIGHTENMENT-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_CANON_EXPANSION_REQUIRED
-    next_action: ACQUIRE_MAJOR_BOOKS_AND_DUSK_WITNESSES_UNDER_DUAL_CONFORMITY_GATE
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
   - order: 7
     layer: REVOLUTIONARY_AND_CONSTITUTIONAL
     audit: sources/audits/revolutionary/REVOLUTIONARY-CONSTITUTIONAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_CONSTITUENT_DISSENT_AND_DUSK_EXPANSION_REQUIRED
-    next_action: ACQUIRE_CONSTITUENT_ARCHIVE_AND_RIVAL_REFLECTION_UNDER_DUAL_CONFORMITY_GATE
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
   - order: 8
     layer: ADMINISTRATIVE_AND_NATIONAL_POWER_1798_1871
     audit: sources/audits/nineteenth-century/ADMINISTRATIVE-NATIONAL-POWER-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_AND_INDUSTRIAL_CANON_EXPANSION_REQUIRED
-    next_action: ACQUIRE_INDUSTRIAL_1848_NATIONAL_BOOKS_UNDER_DUAL_CONFORMITY_GATE
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
   - order: 9
     layer: IMPERIAL_INDUSTRIAL_WORLD_POWER_1871_1914
     audit: sources/audits/imperial-industrial/IMPERIAL-INDUSTRIAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_RIVAL_REFLECTIVE_CANON_EXPANSION_REQUIRED
-    next_action: ACQUIRE_RIVAL_IMPERIAL_CORPORATE_COLONIAL_AND_JAPANESE_BOOKS_UNDER_DUAL_CONFORMITY_GATE
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
   - order: 10
     layer: TOTAL_WAR_AND_MASS_STATE_1914_1918
     audit: sources/audits/total-war/TOTAL-WAR-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_SOCIAL_AND_OPERATIONAL_EXPANSION_REQUIRED
-    next_action: ACQUIRE_WAR_ECONOMY_REVOLUTION_FRONT_PROPAGANDA_AND_COLONIAL_WITNESSES_UNDER_DUAL_CONFORMITY_GATE
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
 
 completion_rule: >-
   A layer is not ready because sources are named or a map is complete. It requires
   provenance correction, first-class rival witnesses, boundaries, an Age-of-the-
-  Individual person-power crosswalk and a structured-Star integration proposal.
+  Individual person-power crosswalk, verified passages or documents, and a structured-
+  Star integration proposal. Preparation, verification, admission, application and
+  certification remain separate states.
 
 acquisition_admission_rule: >-
   Every new source identifies its History of Power layer and claim targets, native
@@ -116,21 +128,24 @@ program_findings:
   - No existing layer passes the revised narrative gate unchanged.
   - History of Power and the Age of the Individual are structurally aligned; the main risk is universal-history and state-capacity drift.
   - Ancient layers require strict separation among ancient self-witness, ancient dusk reflection and modern reconstruction.
-  - Egypt's first rebalancing batch shows loyal subjecthood, productive labor, petition, delegated office and later reception without back-projecting modern individuality.
-  - Neferti presents the heart turned only toward itself as disorder rather than liberation.
-  - Schwaller de Lubicz and John Anthony West can no longer govern unqualified FACT prose without independent primary support.
-  - Persia remains overdependent on Herodotus and requires its own imperial and provincial archive.
+  - Egypt now includes loyal subjecthood, labor, petition, office and Amenemope's inward moral formation without back-projecting modern autonomy.
+  - Egypt's modern symbolist and lost-civilization claims are reclassified and no longer eligible for unqualified FACT voice.
+  - Persia's preparatory package now supplies royal, Babylonian, administrative, provincial and reflective voices alongside Herodotus.
+  - The Persian evidence replaces a simple free-Greek/passive-Persian contrast with differentiated agency under unequal imperial forms.
+  - Herodotus remains indispensable but is governed by an explicit reattribution table.
   - Greece needs epigraphic institutions and philosophical regime reflection; Rome needs direct principate texts and annalistic controls.
-  - Medieval history needs laws, charters, canon law and major political books beside chronicles.
-  - Early-modern, revolutionary, nineteenth-century, imperial-industrial and total-war layers each require the reflective and rival witness additions listed in their audits.
+  - Medieval and modern layers retain the reflective and rival witness deficits identified in their audits.
 
 acquisition_state:
-  state: ACTIVE_ONLY_UNDER_DUAL_CONFORMITY_GATE
-  current_layer: EGYPT
-  egypt_first_batch_records: 14
-  egypt_narrative_gate: OPEN_NOT_SATISFIED
+  state: PERSIA_PREPARATORY_EXCEPTION_COMPLETE
+  current_layer: PERSIA
+  Egypt_status: GOVERNING_PENDING_CORRECTION_NOT_CERTIFIED_OR_APPLIED
+  Persia_status: PREPARATORY_COMPLETE_ZERO_ADMITTED_EVIDENCE
+  next_layer: GREECE
+  chronology_hold: ACTIVE
   rule: >-
-    Persia may not begin until Egypt has completed passage control, modern-source
-    reclassification, boundary testing and a bounded structured-Star proposal.
+    Do not move to Greece under the present exception. Persian evidence may not enter
+    the structured Star until Egypt's status and Persian admission receive separate
+    owner-approved decisions.
 
-current_position: EGYPT_FIRST_BATCH_LOCKED_PASSAGE_CONTROL_IN_PROGRESS
+current_position: PERSIA_PREPARATORY_PACKAGE_COMPLETE_HOLD_FOR_OWNER_REVIEW
