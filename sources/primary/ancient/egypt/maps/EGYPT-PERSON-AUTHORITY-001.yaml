@@ -1,0 +1,234 @@
+map_id: EGYPT-PERSON-AUTHORITY-001
+status: INITIAL_PASSAGE_AND_BOUNDARY_MAP
+parent_corpus: HOP-EGYPT-REBALANCE-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: egyptian_power
+age_of_individual_alignment: REQUIRED
+
+method:
+  - Indigenous reflection, operative monument, ancient reception and modern reconstruction remain separate evidence classes.
+  - The person-power relation is reconstructed in Egyptian categories before any later comparison to individuality.
+  - VERIFIED_PRIMARY_TEXT means an original-language transliteration and working translation are tied to an identified witness tradition.
+  - DOCUMENTARY_LOCATOR_PENDING means the monument or manuscript is locked but the exact original-language clause has not yet crossed its critical-edition check.
+  - No modern reconstruction can independently produce a FACT-level Egyptian proposition.
+
+claims:
+  - claim_id: EGY-PER-001
+    proposition: >-
+      The Loyalist Teaching represents royal authority as something subjects must
+      carry within body and heart, while the king is simultaneously presented as
+      a source of protection, provisions, wealth, punishment and social position.
+    source_id: SRC-HOP-LOYALIST-TEACHING
+    passage_status: VERIFIED_PRIMARY_TEXT
+    location: sections 2-6 in the Posener/UCL division
+    original_language: Middle Egyptian
+    anchors:
+      - transliteration: "dwA nswt m Xnw Xt.tn / snsn Hm.f m ib.tn"
+        working_translation: "Praise the king within your bodies / embrace His Agency in your hearts."
+      - transliteration: "dd.f DfAw n nty m Sms.f / sDfA.f mDd mtn.f"
+        working_translation: "He grants provisions for anyone in his following / and supplies the one who treads his paths."
+      - transliteration: "kA pw nswt Hw pw r.f"
+        working_translation: "Sustenance is the king, Abundance is his word."
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      This is elite normative instruction, not proof that all Egyptians accepted
+      its account or that provision cancelled coercion and dependence.
+    age_of_individual_crossing:
+      relation: OLDER_FORM_LATER_APPROPRIATED_AND_TRANSFORMED
+      finding: >-
+        Authority is internalized, but not as modern private conviction or consent;
+        body, heart, service and social survival are ordered toward the king.
+
+  - claim_id: EGY-PER-002
+    proposition: >-
+      The same Loyalist Teaching does not reduce ordinary people to passive matter:
+      it says people and their labor bring existing goods into being, directs the
+      office-holder not to overwhelm the field-laborer, and treats care of the human
+      flock as useful to the lord and to mortuary continuity.
+    source_id: SRC-HOP-LOYALIST-TEACHING
+    passage_status: VERIFIED_PRIMARY_TEXT
+    locations: sections 9, 11, 12 and 14
+    original_language: Middle Egyptian
+    anchors:
+      - "in rmT sxpr nty / anx.tw imy m awy.sn"
+      - "m sAt aHwty Hr bAkw"
+      - "aHA Hr rmt m Ss nb"
+    working_sense:
+      - People bring what exists into being, and life depends upon their labor.
+      - Do not overwhelm the field-laborer with work.
+      - Fight for people in every way, for they are a flock good for their lord.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      Recognition of labor and paternal restraint occurs inside hierarchical rule;
+      it is not a doctrine of worker sovereignty or equality.
+    age_of_individual_crossing:
+      relation: PRESERVE_AND_TRANSFORM
+      finding: >-
+        The governed person appears as productive and morally considerable, yet
+        remains situated within office, household, levy, inheritance and royal order.
+
+  - claim_id: EGY-PER-003
+    proposition: >-
+      The Eloquent Peasant places a sustained appeal to ma'at in the mouth of a
+      marginal petitioner suffering theft and failed hearing, while also making the
+      king's extraction of further petitions part of the moral problem.
+    source_id: SRC-HOP-ELOQUENT-PEASANT
+    passage_status: VERIFIED_MANUSCRIPT_CONSTELLATION_WITH_PRIMARY_ANCHOR
+    location: culmination of the nine petitions; complete text reconstructed from Berlin 3023, 3025, 10499 and BM ESA 10274
+    original_language: Middle Egyptian
+    anchor:
+      transliteration: "nn sf n wsf nn xnms n sX mAat nn hrw nfr n awn ib"
+      working_translation: >-
+        There can be no yesterday for the do-nothing; no friend for one deaf to
+        Right; no festivity for the greedy-hearted.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      The petitioner appeals within a royal-sacral order and eventually receives
+      goods through high official and king. He is not a pre-political rights-bearer;
+      nor is kingship presented as morally innocent.
+    age_of_individual_crossing:
+      relation: PRESERVE_AND_LATER_TRANSFORM
+      finding: >-
+        A distinct speaker can judge delegated power by ma'at, but the judgment is
+        not grounded in autonomous self-legislation or rights prior to the order.
+
+  - claim_id: EGY-PER-004
+    proposition: >-
+      Neferti represents political and social disorder through the breakdown of
+      intelligible roles and boundaries, followed by restoration through legitimate kingship.
+    source_id: SRC-HOP-NEFERTI
+    passage_status: WITNESS_LOCKED_EXACT_PASSAGE_EXTRACTION_PENDING
+    location: Papyrus Hermitage 1116B with New Kingdom parallel witnesses
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      The prophecy is a literary construction set in Sneferu's court; its disorder
+      cannot be converted directly into a chronicle of one historical collapse.
+    age_of_individual_crossing:
+      relation: PRESERVE_AS_OLDER_FORM
+      finding: >-
+        Security and social identity are represented as dependent upon restoration
+        of an order preceding the separate private will.
+
+  - claim_id: EGY-PER-005
+    proposition: >-
+      Horemheb's Great Edict presents royal reform as a response to abuses by
+      delegated agents and joins protection, dues, procedure, appointment and punishment.
+    source_id: SRC-HOP-HOREMHEB-EDICT
+    passage_status: DOCUMENTARY_LOCATOR_PENDING_HIEROGLYPHIC_CROSSWALK
+    location: Karnak inscription near the Tenth Pylon
+    intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    qualification: >-
+      No exact operative clause is admitted until Helck/Urkunden text, monument
+      condition and translation are cross-walked. Promulgation does not prove enforcement.
+    age_of_individual_crossing:
+      relation: OLDER_ADMINISTRATIVE_FORM_LATER_TRANSFORMED
+      finding: >-
+        The subject is protected from some agents by royal authority while remaining
+        liable to service, dues and the jurisdiction of that same order.
+
+  - claim_id: EGY-PER-006
+    proposition: >-
+      Rekhmire's tomb program represents the vizier as a disciplined office-bearer
+      mediating royal command, procedure, hearing, treasury, production and the governed population.
+    source_id: SRC-HOP-REKHMIRE-VIZIER
+    passage_status: DOCUMENTARY_LOCATOR_PENDING_INSCRIPTION_CROSSWALK
+    location: TT100, Installation and Duties of the Vizier scenes and texts
+    intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    qualification: >-
+      Office ideal, pictorial program, operative description and Rekhmire's self-presentation
+      must remain distinct; no claim of universal administrative practice follows automatically.
+    age_of_individual_crossing:
+      relation: PRESERVE_AND_TRANSFORM_IN_LATER_BUREAUCRATIC_OFFICE
+      finding: >-
+        The occupant's private preference is subordinated to an office, but this is
+        not yet an autonomous impersonal civil service or equality before law.
+
+  - claim_id: EGY-MEM-001
+    proposition: >-
+      Manetho is evidence that an Egyptian priest under Ptolemaic rule attempted a
+      Greek-language historical ordering of Egyptian royal succession, but his lost
+      work survives through adversarial and chronographic transmitters.
+    source_id: SRC-HOP-MANETHO-AEGYPTIACA
+    passage_status: TRANSMISSION_RELATION_VERIFIED_DIRECT_WORDING_NOT_ADMITTED
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      Native authorship does not cancel Ptolemaic context, temporal distance or the
+      loss of the original Aegyptiaca.
+    age_of_individual_crossing:
+      relation: NO_DIRECT_CROSSING_YET
+      finding: Historical classification controls memory of older power rather than directly constituting a new person-power relation.
+
+  - claim_id: EGY-MEM-002
+    proposition: >-
+      Diodorus, Strabo and Plutarch disclose three different ancient transformations
+      of Egypt into an object of universal history, Roman-period geography and philosophical religion.
+    source_ids:
+      - SRC-HOP-DIODORUS-EGYPT-I
+      - SRC-HOP-STRABO-EGYPT-XVII
+      - SRC-HOP-PLUTARCH-ISIS-OSIRIS
+    passage_status: GOVERNING_GREEK_EDITIONS_LOCKED_TARGETED_EXTRACTION_PENDING
+    intended_claim_class: ANALYTICAL_SYNTHESIS
+    qualification: >-
+      These ancient dusk witnesses may preserve traditions and observation, but none
+      may overwrite indigenous Egyptian texts or flatten pharaonic, Ptolemaic and Roman Egypt.
+    age_of_individual_crossing:
+      relation: TRANSFORM_INTO_COMPARATIVE_AND_PHILOSOPHICAL_OBJECT
+      finding: >-
+        Older sacred and political forms become available to an observing and interpreting
+        reader, a different relation from direct participation in pharaonic order.
+
+critical_controls:
+  - source_id: SRC-HOP-FRANKFORT-KINGSHIP-GODS-1948
+    control: comparative kingship and society-nature synthesis
+    prohibited_use: Egyptian self-description
+  - source_id: SRC-HOP-HORNUNG-ONE-MANY-1971
+    control: divine plurality, unity and period/genre differentiation
+    prohibited_use: hidden timeless Egyptian doctrine
+  - source_id: SRC-HOP-LICHTHEIM-AEL-1973-1980
+    control: translation, genre and underlying-witness crosswalk
+    prohibited_use: English translation treated as artifact or direct chronicle
+  - source_id: SRC-HOP-KEMP-ANATOMY-EGYPT-1989
+    control: archaeology, bureaucracy, economy and ordinary material life
+    prohibited_use: one unchanging provider state
+  - source_id: SRC-HOP-ASSMANN-MAAT-1990
+    control: differentiated reconstruction of ma'at, justice, memory and immortality
+    prohibited_use: all uses of ma'at collapsed into one modern abstraction
+
+person_authority_types_now_visible:
+  - loyal_subject
+  - productive_laborer_within_hierarchy
+  - marginal_petitioner
+  - protected_and_taxed_subject
+  - disciplined_office_bearer
+  - royal_priestly_historian_of_past_rule
+  - external_or_cosmopolitan_interpreter
+  - judged_person_within_a_cosmic_social_mortuary_order
+
+age_of_individual_boundary:
+  finding: >-
+    The first Egyptian repair strengthens rather than weakens the Age of the Individual
+    thesis. Persons speak, labor, petition, judge and bear office, but they are not yet
+    constituted primarily as naturally separate individuals whose rights or desires precede
+    the order. Their identities and claims operate through ma'at, kingship, office, household,
+    labor, memory, mortuary judgment and inherited sacred forms.
+  prohibition: >-
+    Do not infer that absence of modern individuality means absence of agency, interiority,
+    criticism or moral judgment.
+
+cross_source_questions:
+  - How can authority be praised within body and heart while abusive agents remain open to judgment by ma'at?
+  - Does royal protection restrain delegated coercion, legitimate it, or do both at once?
+  - How does office discipline distinguish the role from the private occupant without creating a modern impersonal state?
+  - What can a marginal petitioner's speech disclose that royal decree and elite autobiography cannot?
+  - Which later ancient interpretations preserve Egyptian relations, and which transform them for Greek or Roman readers?
+  - Which present History of Power claims depend chiefly on Schwaller de Lubicz or John Anthony West rather than the primary and controlled critical corpus?
+
+remaining_before_star_native_integration:
+  - Extract Neferti disorder/restoration passages from the governing manuscript edition.
+  - Cross-walk Horemheb operative clauses against the hieroglyphic critical text.
+  - Cross-walk Rekhmire appointment and duty passages against TT100 and Davies/van den Boorn.
+  - Build a transmitter-by-transmitter Manetho fragment table.
+  - Extract targeted Greek passages from Diodorus, Strabo and Plutarch.
+  - Complete explicit reclassification of Schwaller de Lubicz, John Anthony West and Petrie.
+  - Test Anthropocosmos, initiation, Horian/Osirian path, inherited-civilization, Sphinx-weathering and Atlantis claims.
+  - Prepare bounded proposals for the native egyptian_power historical_spectrum node; do not revise narrative first.
