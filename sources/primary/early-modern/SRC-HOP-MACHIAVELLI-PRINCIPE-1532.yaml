@@ -1,0 +1,67 @@
+source_id: SRC-HOP-MACHIAVELLI-PRINCIPE-1532
+name: Niccolò Machiavelli Il Principe
+status: GOVERNING_WITNESS_LOCKED
+
+work:
+  author: Niccolò Machiavelli
+  title: Il principe
+  composition: 1513
+  first_print_year: 1532
+  original_language: Italian
+  role: founding_acquisition_preservation_necessity_arms_appearance_and_effectual_truth
+
+governing_witness:
+  witness_type: DIGITIZED_ROMAN_FIRST_EDITION
+  title_page_author: Niccholo Machiauello
+  place: Rome
+  printer: Antonio Blado d'Asola
+  colophon_date: 1532-01-04
+  repository: Folger Shakespeare Library
+  catalogue_record: https://catalog.folger.edu/record/75461
+  digital_status: AVAILABLE_ONLINE_DIGITAL_IMAGES
+  call_number: Bd.w. PQ4627.M2 H5 1532 Cage
+  extent: "[2], 49 leaves"
+
+supporting_first_year_witness:
+  edition: Florence, Bernardo di Giunta, 1532-05-08
+  digital_project: M-DATA / Istituto Nazionale di Studi sul Rinascimento
+  url: https://progettomachiavelli.insr.it/scheda/principe-e-opere-minori-firenze-bernardo-giunta-1532/
+  status: DIGITAL_IMAGES_AND_DOWNLOAD_AVAILABLE
+
+navigation_aids:
+  - url: https://it.wikisource.org/wiki/Il_Principe
+    status: MODERN_TRANSCRIPTION_READING_AID_NOT_GOVERNING
+
+passage_targets:
+  - chapter: VI
+    issue: founding_new_orders_force_and_armed_innovators
+    anchors:
+      - "nuovi ordini e modi"
+      - "non è cosa più difficile a trattare ... che farsi capo ad introdurre nuovi ordini"
+      - "tutti e' profeti armati vinsono, e li disarmati ruinorno"
+  - chapter: XV
+    issue: effectual_truth_necessity_and_non_good_action
+    anchors:
+      - "verità effettuale della cosa"
+      - "imparare a potere essere non buono"
+  - chapter: XXV
+    issue: fortune_virtue_and_adaptation_to_times
+    anchors:
+      - "la fortuna sia arbitra della metà delle azioni nostre"
+      - "riscontrare el modo del procedere suo con la qualità de' tempi"
+
+claim_boundary: >-
+  Il Principe is not reduced to a doctrine that any end justifies any means. The
+  primary inquiry is how acquisition, preservation, founding, arms, necessity,
+  reputation, fortune, and institutional innovation are related under unstable
+  political conditions. Claims about a philosophical 'lowering of ends' belong to
+  the separately identified Strauss interpretive layer in STAR-AGE-OF-INDIVIDUAL-001.
+
+reuse_relation:
+  repository_source: STAR-AGE-OF-INDIVIDUAL-001
+  interpretive_evidence:
+    - SRC-STRAUSS-THOUGHTS-MACHIAVELLI-1958
+    - SRC-STRAUSS-NATURAL-RIGHT-1962
+    - SRC-STRAUSS-BASIC-PRINCIPLES-1961
+    - SRC-STRAUSS-INTRO-POLITICAL-PHILOSOPHY-1965
+  rule: PRIMARY_MACHIAVELLI_AND_STRAUSS_INTERPRETATION_MUST_REMAIN_DISTINCT
