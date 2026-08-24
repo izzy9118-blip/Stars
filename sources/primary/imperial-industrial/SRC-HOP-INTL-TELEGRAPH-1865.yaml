@@ -1,0 +1,17 @@
+source_id: SRC-HOP-INTL-TELEGRAPH-1865
+status: GOVERNING_CONVENTION_WITNESS_LOCKED_ANTECEDENT
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: International Telegraph Conference, Paris
+  title: Convention télégraphique internationale
+  date: 1865-05-17
+  original_language: French
+  role: inherited_international_telegraph_standardization_tariffs_accounting_and_cross_border_communications
+governing_witness:
+  witness_type: ITU_DIGITIZED_CONVENTION_AND_FACSIMILE
+  repository: International Telecommunication Union
+  url: https://www.itu.int/en/history/Pages/PlenipotentiaryConferences.aspx?conf=4.1
+qualification: >-
+  This convention predates the 1871 layer and is retained explicitly as inherited infrastructure.
+  Its importance here is that later imperial-industrial communications operate through an already
+  internationalized technical and accounting regime rather than through isolated national systems alone.
