@@ -1,0 +1,17 @@
+source_id: SRC-HOP-CLEMENCEAU-COLONIAL-REPLY-1885
+status: OFFICIAL_PARLIAMENTARY_SPEECH_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  speaker: Georges Clemenceau
+  title: Réponse à Jules Ferry sur la politique coloniale
+  date: 1885-07-31
+  original_language: French
+  role: rejection_of_racial_hierarchy_civilizing_right_and_force_as_right
+governing_witness:
+  witness_type: OFFICIAL_CHAMBER_OF_DEPUTIES_TRANSCRIPT
+  repository: Assemblée nationale
+  locator: https://www.assemblee-nationale.fr/histoire/7ec.asp
+qualification: >-
+  Clemenceau's reply demonstrates that racial hierarchy and civilizing conquest were contested
+  within metropolitan politics at the moment they were invoked. His opposition does not stand in
+  for colonized judgment and must not erase other anti-imperial arguments or his later political career.

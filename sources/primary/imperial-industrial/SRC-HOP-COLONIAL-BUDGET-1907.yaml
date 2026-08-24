@@ -1,0 +1,26 @@
+source_id: SRC-HOP-COLONIAL-BUDGET-1907
+status: GOVERNING_BUDGET_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Empire
+  title: Gesetz betreffend die Feststellung des Haushalts-Etats für die Schutzgebiete auf das Rechnungsjahr 1907
+  year: 1907
+  original_language: German
+  role: colonial_civil_military_railway_harbor_revenue_and_reich_subsidy_accounting
+governing_witness:
+  witness_type: REICHSGESETZBLATT_BUDGET_TRANSCRIPTION
+  locator: https://de.wikisource.org/wiki/Gesetz%2C_betreffend_die_Feststellung_des_Haushalts-Etats_f%C3%BCr_die_Schutzgebiete_auf_das_Rechnungsjahr_1907
+key_example:
+  jurisdiction: Deutsch-Ostafrika
+  recurring_expenditures:
+    civil_administration_mark: 4948533
+    military_administration_mark: 3083590
+    flotilla_mark: 514371
+    railways_mark: 78850
+    harbor_facilities_mark: 20000
+  revenues:
+    own_revenue_mark: 5458930
+    reich_subsidy_mark: 5860844
+qualification: >-
+  These are enacted budget categories for 1907, not a measure of every colonial resource flow or actual final expenditure.
+  They show colonial government as a separately budgeted field combining civil, military, transport and metropolitan subsidy.

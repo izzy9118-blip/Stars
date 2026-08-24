@@ -1,0 +1,29 @@
+source_id: SRC-HOP-NIETZSCHE-BEYOND-GOOD-EVIL-1886
+status: FIRST_EDITION_AND_CRITICAL_TEXT_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  author: Friedrich Nietzsche
+  title: Jenseits von Gut und Böse. Vorspiel einer Philosophie der Zukunft
+  date: 1886
+  original_language: German
+  role: critique_of_modern_morality_historicism_nationalism_and_the_crisis_of_ends
+governing_witnesses:
+  - witness_type: FIRST_EDITION_SCAN
+    repository: Zentralbibliothek Zürich e-rara
+    locator: https://www.e-rara.ch/zuz/content/titleinfo/20295083
+  - witness_type: DIGITAL_CRITICAL_EDITION
+    edition: Digitale Kritische Gesamtausgabe Werke und Briefe, edited by Paolo D'Iorio
+    locator: https://doc.nietzschesource.org/en/ekgwb
+interpretive_provenance:
+  - SRC-STRAUSS-NIETZSCHE-BGE-1971
+  - SRC-STRAUSS-NIETZSCHE-ZARATHUSTRA
+  - SRC-STRAUSS-HISTORICISM-RELATIVISM-1956
+  - SRC-STRAUSS-RELATIVISM
+  - SRC-STRAUSS-EXISTENTIALISM
+  - SRC-STRAUSS-GERMAN-NIHILISM
+qualification: >-
+  Nietzsche is used to identify the late-modern crisis of authoritative ends: inherited
+  standards lose their self-evidence while historical and scientific explanation cannot by
+  themselves legislate the good. His critique is not treated as the cause of imperialism,
+  nationalism, racial doctrine, administrative expansion or the First World War. Strauss's
+  readings govern the interpretive relation but do not replace Nietzsche's primary text.

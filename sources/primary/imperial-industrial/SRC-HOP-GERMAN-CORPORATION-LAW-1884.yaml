@@ -1,0 +1,16 @@
+source_id: SRC-HOP-GERMAN-CORPORATION-LAW-1884
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Empire
+  title: Gesetz betreffend die Kommanditgesellschaften auf Aktien und die Aktiengesellschaften
+  date: 1884-07-18
+  original_language: German
+  role: stock_corporation_capital_governance_disclosure_and_shareholder_structure
+governing_witness:
+  witness_type: REICHSGESETZBLATT_SCAN_TRANSCRIPTION
+  citation: "RGBl. 1884, Nr. 22, S. 123-170"
+  locator: https://de.wikisource.org/wiki/Gesetz,_betreffend_die_Kommanditgesellschaften_auf_Aktien_und_die_Aktiengesellschaften._Vom_18._Juli_1884
+qualification: >-
+  This law is used to reconstruct the legal organization of large pooled capital in
+  Germany. Corporate scale and concentration must not be inferred from legal form alone.

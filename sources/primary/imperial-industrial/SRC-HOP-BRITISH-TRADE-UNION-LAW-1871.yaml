@@ -1,0 +1,23 @@
+source_id: SRC-HOP-BRITISH-TRADE-UNION-LAW-1871
+status: GOVERNING_STATUTORY_WITNESSES_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Parliament of the United Kingdom
+  title: Trade Union Act and Criminal Law Amendment Act
+  date: 1871
+  original_language: English
+  role: legal_recognition_of_trade_union_organization_and_continuing_limits_on_collective_pressure
+governing_witnesses:
+  - witness_type: OFFICIAL_ENACTED_STATUTE
+    title: Trade Union Act 1871
+    citation: "34 & 35 Vict. c. 31"
+    locator: https://www.legislation.gov.uk/ukpga/Vict/34-35/31/contents/enacted
+  - witness_type: OFFICIAL_ENACTED_STATUTE
+    title: Criminal Law Amendment Act 1871
+    citation: "34 & 35 Vict. c. 32"
+    locator: https://www.legislation.gov.uk/ukpga/Vict/34-35/32/contents/enacted
+qualification: >-
+  The paired statutes show that legal recognition and legal restraint developed together.
+  Registration and protection of union funds did not make every union agreement judicially
+  enforceable or remove criminal restrictions surrounding pressure, intimidation and picketing.
+  British labor law therefore cannot be narrated as either simple emancipation or simple repression.

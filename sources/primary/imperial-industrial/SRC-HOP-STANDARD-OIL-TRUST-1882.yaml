@@ -1,0 +1,17 @@
+source_id: SRC-HOP-STANDARD-OIL-TRUST-1882
+status: PRIMARY_AGREEMENT_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Standard Oil trust parties
+  title: Standard Oil Trust Agreement
+  date: 1882-01-02
+  original_language: English
+  role: intercorporate_control_trustees_certificates_and_private_industrial_concentration
+governing_witness:
+  witness_type: AGREEMENT_REPRODUCED_IN_US_HOUSE_PROCEEDINGS
+  provenance: "Proceedings in Relation to Trusts, U.S. House of Representatives, 1888, Report No. 3112, pp. 307-313"
+  transcription: https://en.wikisource.org/wiki/The_History_of_the_Standard_Oil_Company/Volume_2/Appendix/Number_52
+  corroboration: https://books.google.com/books?id=Xe9EAQAAMAAJ
+qualification: >-
+  The agreement is evidence for a private mechanism concentrating control across multiple
+  corporations through trustees and trust certificates. Monopoly effects require separate market evidence.

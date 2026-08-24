@@ -1,0 +1,17 @@
+source_id: SRC-HOP-SHIMONOSEKI-1895
+status: DIPLOMATIC_TREATY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  parties: [Empire of Japan, Qing Empire]
+  title: Treaty of Peace between the Empire of Japan and the Empire of China
+  conventional_title: Treaty of Shimonoseki
+  date: 1895-04-17
+  role: war_settlement_territorial_transfer_indemnity_trade_and_regional_power_shift
+governing_witness:
+  witness_type: JAPANESE_DIPLOMATIC_DOCUMENT_DATABASE_TEXT
+  repository: The World and Japan Database / Japanese diplomatic documents
+  index: https://worldjpn.net/documents/indices/pw/index-ENG.html
+  languages_available: [Japanese, English, Chinese, Korean]
+qualification: >-
+  The treaty records the legal settlement imposed after war, including territorial and economic terms.
+  It does not by itself explain Japan's military victory, domestic mobilization or later colonial administration.

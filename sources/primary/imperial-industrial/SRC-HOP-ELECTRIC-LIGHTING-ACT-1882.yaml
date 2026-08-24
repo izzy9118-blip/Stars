@@ -1,0 +1,15 @@
+source_id: SRC-HOP-ELECTRIC-LIGHTING-ACT-1882
+status: GOVERNING_STATUTORY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Parliament of the United Kingdom
+  title: Electric Lighting Act 1882
+  citation: "45 & 46 Vict. c. 56"
+  original_language: English
+  role: electricity_licensing_local_authority_franchise_and_public_private_infrastructure
+governing_witness:
+  witness_type: OFFICIAL_STATUTE_PDF
+  url: https://www.legislation.gov.uk/ukpga/Vict/45-46/56/pdfs/ukpga_18820056_en.pdf
+qualification: >-
+  The Act shows electric supply entering public licensing and local-authority jurisdiction.
+  It should not be treated as a measure of actual generating capacity or network penetration.

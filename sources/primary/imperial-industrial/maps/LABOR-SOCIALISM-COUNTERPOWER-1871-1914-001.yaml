@@ -1,0 +1,85 @@
+map_id: LABOR-SOCIALISM-COUNTERPOWER-1871-1914-001
+status: NARRATIVE_GATE_SATISFIED_FOR_COMPARATIVE_SYNTHESIS
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+method:
+  - Workers are treated as organized political actors who formed institutions, claims and strategies, not merely as populations administered by employers and states.
+  - Trade unionism, social democracy, revolutionary socialism and immediate reform remain distinguishable even when they overlap.
+  - Repression, welfare incorporation, collective bargaining, electoral organization, strikes and international congresses remain separate forms of power.
+  - British, German, American and transnational witnesses are comparative cases, not one universal sequence.
+claims:
+  - claim_id: LAB-001
+    proposition: >-
+      British law recognized trade unions as durable legal associations and protected registered union property while simultaneously preserving important limits on enforceability and collective pressure.
+    source_id: SRC-HOP-BRITISH-TRADE-UNION-LAW-1871
+    passage_status: PAIRED_STATUTES_LOCKED
+    qualification: Legal recognition did not settle the political meaning or practical freedom of collective action.
+
+  - claim_id: LAB-002
+    proposition: >-
+      The German Reich attempted to disable socialist associations, meetings and publications through exceptional legislation even as socialist electoral and organizational life persisted.
+    source_id: SRC-HOP-GERMAN-ANTI-SOCIALIST-LAW-1878
+    passage_status: REICH_STATUTE_LOCKED
+    qualification: Suppression of specified organization and publicity is not evidence that socialist politics vanished.
+
+  - claim_id: LAB-003
+    proposition: >-
+      German social policy combined repression with incorporation: the state restricted socialist organization while compulsory insurance made workers, employers and public institutions parties to continuing administered obligations.
+    source_ids:
+      - SRC-HOP-GERMAN-ANTI-SOCIALIST-LAW-1878
+      - SRC-HOP-BISMARCK-SOCIAL-MESSAGE-1881
+      - SRC-HOP-HEALTH-INSURANCE-1883
+      - SRC-HOP-ACCIDENT-INSURANCE-1884
+      - SRC-HOP-OLD-AGE-INSURANCE-1889
+    passage_status: CROSS_STATUTE_RELATION_VERIFIED
+    qualification: Repression and insurance were distinct instruments and neither exhausted working-class political agency.
+
+  - claim_id: LAB-004
+    proposition: >-
+      The Erfurt Program interpreted capitalist development as producing class conflict and organized workers as an independent political force while demanding suffrage, civil liberties, labor protection, union freedom and worker participation in insurance.
+    source_id: SRC-HOP-SPD-ERFURT-PROGRAM-1891
+    passage_status: PARTY_PROGRAM_LOCKED
+    qualification: Revolutionary diagnosis and immediate institutional demands must be preserved together.
+
+  - claim_id: LAB-005
+    proposition: >-
+      The Pullman conflict joined company ownership, wages and rents, a railway union and boycott, coordinated railroad management, federal injunction and federal troops within one contest over industrial and public authority.
+    source_id: SRC-HOP-US-STRIKE-COMMISSION-PULLMAN-1894
+    passage_status: OFFICIAL_INVESTIGATION_LOCKED
+    qualification: The commission's report is an official judgment whose categories and conclusions remain attributable to the commission.
+
+  - claim_id: LAB-006
+    proposition: >-
+      By 1907 socialist parties and trade unions could deliberate across borders about labor organization, colonialism, migration, militarism and war, constituting an international counter-organization to nationally bounded capital and state power.
+    source_id: SRC-HOP-SECOND-INTERNATIONAL-STUTTGART-1907
+    passage_status: CONGRESS_PROCEEDINGS_LOCKED
+    qualification: International organization did not erase doctrinal disagreement or guarantee effective common action in 1914.
+
+  - claim_id: LAB-007
+    proposition: >-
+      Industrial power therefore generated opposing organizations rather than a single administered mass: corporations, governments, unions and socialist parties struggled over who could represent workers, define social risk and command production and transport.
+    source_ids:
+      - SRC-HOP-STANDARD-OIL-TRUST-1882
+      - SRC-HOP-US-STRIKE-COMMISSION-PULLMAN-1894
+      - SRC-HOP-SPD-ERFURT-PROGRAM-1891
+      - SRC-HOP-SECOND-INTERNATIONAL-STUTTGART-1907
+    passage_status: CROSS_SOURCE_RELATION_LOCKED
+
+cross_source_questions:
+  - When does legal recognition strengthen labor organization, and when does it domesticate or delimit it?
+  - How do repression and social insurance operate together without becoming the same policy?
+  - When do transportation and communications networks give workers leverage, and when do they permit coordinated corporate and state suppression?
+  - Can international class organization overcome the institutions, loyalties and coercive powers of national states?
+
+narrative_gate:
+  state: SATISFIED_FOR_COMPARATIVE_SYNTHESIS
+  satisfied:
+    - union legal form represented
+    - socialist repression and welfare incorporation related but not collapsed
+    - party organization and program represented
+    - strike, corporation, court and federal-force relations represented
+    - international labor and socialist organization represented
+  boundaries:
+    - no single labor subject presumed
+    - no automatic path from industrialization to socialism presumed
+    - no anticipation that the 1907 congress controlled national decisions in 1914

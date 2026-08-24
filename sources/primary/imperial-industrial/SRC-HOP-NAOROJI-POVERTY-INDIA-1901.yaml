@@ -1,0 +1,18 @@
+source_id: SRC-HOP-NAOROJI-POVERTY-INDIA-1901
+status: FIRST_EDITION_ANTI_IMPERIAL_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  author: Dadabhai Naoroji
+  title: Poverty and Un-British Rule in India
+  date: 1901
+  original_language: English
+  role: indian_critique_of_colonial_drain_expenditure_administration_and_imperial_legitimacy
+governing_witness:
+  witness_type: FIRST_EDITION_SCAN
+  publisher: Swan Sonnenschein, London
+  locator: https://archive.org/details/povertyunbritish00naoruoft
+qualification: >-
+  Naoroji is an authority within the history being reconstructed, not merely a later reception of
+  British rule. His drain analysis challenges imperial economic and moral claims through Indian
+  revenue, expenditure, remittances and administrative relations. Particular numerical estimates
+  require table- and edition-level control before reuse.

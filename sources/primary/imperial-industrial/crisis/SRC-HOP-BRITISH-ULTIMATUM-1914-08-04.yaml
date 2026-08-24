@@ -1,0 +1,24 @@
+source_id: SRC-HOP-BRITISH-ULTIMATUM-1914-08-04
+status: GOVERNING_PARLIAMENTARY_DOCUMENT_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  author: Sir Edward Grey
+  recipient: Sir Edward Goschen
+  title: Telegram concerning Belgian neutrality and German action
+  date: 1914-08-04
+  original_language: English
+  role: british_ultimatum_treaty_obligation_belgian_neutrality_and_entry_into_war
+governing_witness:
+  witness_type: COMMAND_PAPER_CORRESPONDENCE
+  repository: UK Parliamentary Archives
+  catalogue: SAM/A/45
+  presentation: https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/collections/the-outbreak-of-the-first-world-war/command-paper/command-paper-two/
+supporting_text:
+  publication: British diplomatic correspondence / document no. 153
+  text: https://www.gutenberg.org/cache/epub/10809/pg10809-images.html
+key_relation: >-
+  Britain demands an immediate assurance that Germany will not proceed with its demand upon Belgium
+  and will respect Belgian neutrality, with a same-day deadline after reports of German violation.
+qualification: >-
+  Belgian neutrality was central to the ultimatum, but Britain's full decision-making also involved French security,
+  strategic position, cabinet politics and prior naval commitments. This document may not be made the sole explanation of British entry.

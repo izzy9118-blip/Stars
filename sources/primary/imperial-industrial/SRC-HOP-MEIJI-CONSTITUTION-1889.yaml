@@ -1,0 +1,24 @@
+source_id: SRC-HOP-MEIJI-CONSTITUTION-1889
+status: GOVERNING_JAPANESE_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Empire of Japan
+  title: 大日本帝国憲法 / Constitution of the Empire of Japan
+  date: 1889-02-11
+  original_language: Japanese
+  role: imperial_sovereignty_diet_ministers_courts_taxation_and_military_command
+governing_witness:
+  witness_type: CONTEMPORARY_1889_JAPANESE_PRINT_DIGITIZATION
+  repository: National Diet Library Japan
+  persistent_identifier: info:ndljp/pid/789056
+  url: https://ndlsearch.ndl.go.jp/books/R100000039-I789056
+supporting_official_english:
+  repository: National Diet Library, Birth of the Constitution of Japan
+  url: https://www.ndl.go.jp/constitution/e/etc/c02.html
+witness_policy:
+  rule: >-
+    The Japanese 1889 witness governs. The NDL English text aids interpretation but does not replace
+    Japanese wording where constitutional terminology is material.
+qualification: >-
+  The constitution joins inherited imperial sovereignty to a modern constitutional apparatus.
+  Formal constitutional allocation must be distinguished from actual oligarchic, cabinet and military practice.

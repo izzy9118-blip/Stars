@@ -1,0 +1,145 @@
+corpus_id: HOP-IMPERIAL-INDUSTRIAL-001
+name: Imperial-Industrial World Power Primary Source Corpus
+status: SYNTHESIS_READY_THROUGH_OUTBREAK_OF_WORLD_WAR_1914
+parent_star: STAR-HISTORY-OF-POWER-001
+base_branch: history-of-power-administrative-state-001
+working_branch: history-of-power-imperial-industrial-001
+period_focus: "1871-1914, including July Crisis through 4 August 1914"
+purpose: >-
+  Reconstruct the fusion of national administration, industrial production,
+  corporate and banking organization, social insurance, colonial jurisdiction,
+  strategic infrastructure, naval power, global communications, educational formation,
+  organized labor and socialism, imperial doctrine and its contemporary opponents,
+  alliance systems and mobilization planning into imperial-industrial great-power capacity;
+  relate those expanding means to the Nietzschean crisis of ends, then test the resulting
+  capacities against the actual political decisions of July-August 1914.
+acquisition_rules:
+  - Primary statutes, treaties, corporate agreements, technical conventions, official statistics, archival orders, first-edition strategic texts and dated crisis documents govern.
+  - Industrial concentration, finance, imperialism, navalism, alliance, communications, education, general-staff planning and crisis decisions remain distinct evidence classes until synthesis.
+  - Workers remain political actors represented through unions, parties, strikes and international organization rather than appearing only as objects of social administration.
+  - Racial and civilizing doctrines are historical claims requiring attribution, disagreement and colonized counter-judgment; they are never adopted as analytical truths.
+  - Nietzsche marks a crisis in authoritative ends but is not made the cause of imperialism, nationalism, racial policy or war.
+  - Germany is a major case rather than a universal model; British, American, colonial Indian, Japanese, Austro-Hungarian, Serbian, Russian, French and Belgian pathways or voices remain independently visible where relevant.
+  - State and private corporate power are not presumed identical merely because they cooperate.
+  - Official wartime document books are primary evidence for published governmental communications, not neutral verdicts on responsibility.
+  - Colonial texts preserve the distinction between metropolitan legal claims, economic administration and actual coercive practice.
+  - Strategic writings such as Mahan and Schlieffen are attributed plans or interpretations, not automatic explanations of policy or later operations.
+  - Official statistical categories require unit and boundary controls before numerical claims are admitted.
+  - No claim that the institutional developments of 1871-1914 inevitably caused war is admitted from chronology alone.
+prewar_sources:
+  - SRC-HOP-INTL-TELEGRAPH-1865
+  - SRC-HOP-BRITISH-TRADE-UNION-LAW-1871
+  - SRC-HOP-REICHSBANK-1875
+  - SRC-HOP-GERMAN-ANTI-SOCIALIST-LAW-1878
+  - SRC-HOP-DUAL-ALLIANCE-1879
+  - SRC-HOP-BISMARCK-SOCIAL-MESSAGE-1881
+  - SRC-HOP-ELECTRIC-LIGHTING-ACT-1882
+  - SRC-HOP-STANDARD-OIL-TRUST-1882
+  - SRC-HOP-TRIPLE-ALLIANCE-1882
+  - SRC-HOP-HEALTH-INSURANCE-1883
+  - SRC-HOP-GALTON-HUMAN-FACULTY-1883
+  - SRC-HOP-ACCIDENT-INSURANCE-1884
+  - SRC-HOP-GERMAN-CORPORATION-LAW-1884
+  - SRC-HOP-BERLIN-CONFERENCE-1885
+  - SRC-HOP-FERRY-COLONIAL-POLICY-1885
+  - SRC-HOP-CLEMENCEAU-COLONIAL-REPLY-1885
+  - SRC-HOP-INDIAN-TELEGRAPH-ACT-1885
+  - SRC-HOP-KIEL-CANAL-1886
+  - SRC-HOP-GERMAN-COLONIAL-LAW-1886
+  - SRC-HOP-NIETZSCHE-BEYOND-GOOD-EVIL-1886
+  - SRC-HOP-OLD-AGE-INSURANCE-1889
+  - SRC-HOP-MEIJI-CONSTITUTION-1889
+  - SRC-HOP-BRITISH-NAVAL-DEFENCE-1889
+  - SRC-HOP-JAPAN-EDUCATION-RESCRIPT-1890
+  - SRC-HOP-MAHAN-SEA-POWER-1890
+  - SRC-HOP-SHERMAN-ACT-1890
+  - SRC-HOP-SPD-ERFURT-PROGRAM-1891
+  - SRC-HOP-FRANCO-RUSSIAN-CONVENTION-1892
+  - SRC-HOP-US-STRIKE-COMMISSION-PULLMAN-1894
+  - SRC-HOP-SHIMONOSEKI-1895
+  - SRC-HOP-GERMAN-FLEET-LAW-1898
+  - SRC-HOP-GERMAN-FLEET-LAW-1900
+  - SRC-HOP-TIRPITZ-RISK-FLEET-1900
+  - SRC-HOP-NAOROJI-POVERTY-INDIA-1901
+  - SRC-HOP-ANGLO-JAPANESE-ALLIANCE-1902
+  - SRC-HOP-TROTHA-HERERO-ORDER-1904
+  - SRC-HOP-ENTENTE-CORDIALE-1904
+  - SRC-HOP-SCHLIEFFEN-MEMORANDUM-1905
+  - SRC-HOP-COLONIAL-MINING-1906
+  - SRC-HOP-RADIOTELEGRAPH-1906
+  - SRC-HOP-COLONIAL-BUDGET-1907
+  - SRC-HOP-SECOND-INTERNATIONAL-STUTTGART-1907
+  - SRC-HOP-JAPAN-KOREA-ANNEXATION-1910
+  - SRC-HOP-GERMAN-STATISTICAL-YEARBOOK-1913
+crisis_sources:
+  - SRC-HOP-BLANK-CHECK-1914-07-05
+  - SRC-HOP-AH-ULTIMATUM-SERBIA-1914-07-23
+  - SRC-HOP-SERBIAN-REPLY-1914-07-25
+  - SRC-HOP-AH-DECLARATION-WAR-SERBIA-1914-07-28
+  - SRC-HOP-RUSSIAN-ORANGE-BOOK-1914
+  - SRC-HOP-WILLY-NICKY-1914
+  - SRC-HOP-MOLTKE-JULY29-1914
+  - SRC-HOP-FRENCH-YELLOW-BOOK-1914
+  - SRC-HOP-GERMAN-ULTIMATUM-RUSSIA-1914
+  - SRC-HOP-GERMAN-MOBILIZATION-1914-08-01
+  - SRC-HOP-FRENCH-MOBILIZATION-1914-08-01
+  - SRC-HOP-BELGIUM-ULTIMATUM-REPLY-1914
+  - SRC-HOP-BRITISH-ULTIMATUM-1914-08-04
+witness_count: 57
+locked_or_registered_count: 57
+maps:
+  - map_id: CRISIS-OF-ENDS-NIETZSCHE-1871-1914-001
+    path: sources/primary/imperial-industrial/maps/CRISIS-OF-ENDS-NIETZSCHE-1871-1914-001.yaml
+    state: INTERPRETIVE_RELATION_LOCKED_WITH_CAUSAL_BOUNDARY
+  - map_id: LABOR-SOCIALISM-COUNTERPOWER-1871-1914-001
+    path: sources/primary/imperial-industrial/maps/LABOR-SOCIALISM-COUNTERPOWER-1871-1914-001.yaml
+    state: NARRATIVE_GATE_SATISFIED_FOR_COMPARATIVE_SYNTHESIS
+  - map_id: IMPERIAL-DOCTRINE-RACE-COUNTERJUDGMENT-1883-1914-001
+    path: sources/primary/imperial-industrial/maps/IMPERIAL-DOCTRINE-RACE-COUNTERJUDGMENT-1883-1914-001.yaml
+    state: NARRATIVE_GATE_SATISFIED_WITH_DISAGREEMENT_PRESERVED
+  - map_id: IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001
+    path: sources/primary/imperial-industrial/maps/IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001.yaml
+    state: SYNTHESIS_READY_WITH_QUANTITATIVE_CONTROL_OPEN
+  - map_id: JULY-CRISIS-1914-001
+    path: sources/primary/imperial-industrial/maps/JULY-CRISIS-1914-001.yaml
+    state: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
+integration_package:
+  narrative: sources/primary/imperial-industrial/integration/IMPERIAL-INDUSTRIAL-NARRATIVE-INSERT-001.md
+  structured: sources/primary/imperial-industrial/integration/IMPERIAL-INDUSTRIAL-STRUCTURED-INSERT-001.yaml
+  state: INTEGRATION_CANDIDATE_NOT_YET_APPLIED
+  intended_placement: after Administrative and National Power as the eleventh older force
+core_relations_now_documented:
+  - The crisis of authoritative ends identified through Nietzsche is related to expanding modern means without being made the cause of institutional or military action.
+  - National monetary coordination can combine public supervision with private share capital.
+  - Private industrial concentration and public regulation develop together rather than as mutually exclusive systems.
+  - Social insurance turns industrial life risks and employment histories into administered legal relations.
+  - Workers form counter-organizations through unions, socialist parties, strikes and international congresses; repression, incorporation and bargaining are rival relations rather than a one-way administration of labor.
+  - Colonial power operates through metropolitan treaty and law, separately budgeted administration and extraction, and coercive practice on the ground.
+  - Imperial economic, strategic, racial and civilizing arguments are contemporaneously disputed, including within metropolitan parliaments and by critics among the governed.
+  - Strategic infrastructure joins public credit, commercial movement and naval mobility.
+  - Naval force becomes a long-horizon statutory procurement and replacement program; policy memoranda can state opponent-specific strategic rationales.
+  - Telegraph and wireless systems become internationally standardized while imperial governments maintain monopoly, licensing and interception powers.
+  - Alliance treaties range from conditional consultation to explicit mobilization commitments and region-specific imperial interests.
+  - General-staff planning integrates mass armies, railways, supply, fortifications and territorial schedules.
+  - Japan develops a distinct constitutional-imperial path joining imperial sovereignty, education, war settlement, alliance and colonial annexation.
+  - During July-August 1914, these long-built systems became constraints and options, but identifiable actors still made sequential diplomatic, mobilization and war decisions.
+remaining_controls:
+  - controlled extraction of coal, iron, steel, railway, shipping and corporation series from the locked 1913 German yearbook remains open; no secondary figures substitute for the inaccessible primary table delivery
+  - firm- or procurement-level steel and armaments witnesses may be added where national statistics and naval statutes are insufficient
+  - operational cable and wireless network evidence beyond convention rules remains desirable
+  - colony-specific land, labor and economic extraction evidence should continue beyond German mining, budget and military witnesses
+  - additional colonized political voices should extend the Naoroji witness as later geographic layers require them
+  - strike and union evidence beyond Britain, Germany and the United States should be added only where the final narrative makes a broader comparative claim
+  - British cabinet records are needed only if the final July-crisis synthesis extends beyond the bounded Belgian-neutrality ultimatum claim
+  - Russian and French archival editions should supersede wartime Orange/Yellow Book wording if direct quotation becomes central
+chronological_next:
+  name: TOTAL_WAR_AND_MASS_STATE_1914_1918
+  targets:
+    - wartime emergency powers and censorship
+    - military-industrial production and state allocation
+    - blockade, shipping, food and raw-material control
+    - mass taxation, borrowing and central banking under war
+    - propaganda and public opinion administration
+    - conscription expansion, casualties and manpower accounting
+    - occupation regimes and colonial troop mobilization
+    - revolution, war termination and the 1918 settlement transition

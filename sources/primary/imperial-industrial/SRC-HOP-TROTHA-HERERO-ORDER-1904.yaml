@@ -1,0 +1,19 @@
+source_id: SRC-HOP-TROTHA-HERERO-ORDER-1904
+status: PRIMARY_ARCHIVAL_ORDER_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  author: Lothar von Trotha
+  title: Proklamation an das Volk der Herero und Zusatzbefehl an die Schutztruppe
+  date: 1904-10-02
+  original_language: German
+  role: colonial_war_expulsion_exclusion_prisoner_policy_and_military_coercion
+governing_witness:
+  witness_type: ARCHIVAL_HANDWRITTEN_COPY
+  repository: German Federal Archives
+  citation: "Akten des Reichskolonialamtes, RKA 10.01 2089, Bl. 23"
+  transcription: https://germanhistorydocs.org/de/das-wilhelminische-kaiserreich-und-der-erste-weltkrieg/lothar-von-trothas-vernichtungsbefehl-2-oktober-1904
+  archival_gallery: https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/der-krieg-gegen-die-herero-1904/
+qualification: >-
+  This is evidence of colonial military command and coercive practice in German Southwest Africa,
+  not a representative statement of every colonial policy. The later rescission and wider campaign
+  record must remain visible when this source is integrated.

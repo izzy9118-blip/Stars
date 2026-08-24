@@ -1,0 +1,23 @@
+source_id: SRC-HOP-GERMAN-ULTIMATUM-RUSSIA-1914
+status: OFFICIAL_WARTIME_DOCUMENT_SEQUENCE_LOCKED_WITH_CAUTION
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Imperial Government
+  documents:
+    - ultimatum to Russia demanding cessation of military measures, presented 1914-07-31/1914-08-01
+    - declaration that Germany considered itself at war with Russia, 1914-08-01
+  original_language: German
+  role: ultimatum_mobilization_deadline_and_formal_transition_to_war
+governing_witness:
+  witness_type: GERMAN_WHITE_BOOK_OFFICIAL_WARTIME_PUBLICATION
+  locator: https://www.gwpda.org/papers/germwhit.html
+key_relations:
+  - Germany demands that Russia suspend military measures directed against Germany and Austria-Hungary within a fixed deadline.
+  - German government links Russian noncompliance to German mobilization.
+  - after the deadline and lack of a satisfactory reply, the ambassador is instructed to declare Germany in a state of war with Russia.
+witness_policy:
+  rule: >-
+    The German White Book is an official wartime publication and not a neutral retrospective archive.
+    The notes establish Germany's published legal-diplomatic sequence; allegations about frontier crossings or causal responsibility require independent control.
+qualification: >-
+  This source distinguishes formal diplomatic ultimatum and declaration from the separate August 1 mobilization order already locked in the corpus.

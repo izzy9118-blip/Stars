@@ -1,0 +1,20 @@
+source_id: SRC-HOP-TIRPITZ-RISK-FLEET-1900
+status: PRIMARY_POLICY_MEMORANDUM_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Etatsabteilung des Reichsmarineamts
+  associated_official: Alfred von Tirpitz
+  title: Entwurf einer Aufzeichnung über die Risikoflotte
+  date: 1900-02
+  original_language: German
+  role: naval_policy_britain_deterrence_risk_fleet_and_fleet_legislation
+governing_witness:
+  witness_type: DOCUMENTARY_TRANSCRIPTION_OF_REICHSMARINEAMT_DRAFT
+  repository: German History in Documents and Images
+  url: https://germanhistorydocs.org/de/das-wilhelminische-kaiserreich-und-der-erste-weltkrieg-1890-1918/die-risikoflotte-entwurf-einer-aufzeichnung-aus-der-etatsabteilung-des-reichsmarineamts-februar-1900
+key_passages:
+  - proposition: England's maritime trade cannot realistically be attacked through cruiser warfare because of Britain's lead in bases and overseas ships.
+  - proposition: The fleet is conceived around the danger to England if the British home fleet were defeated or seriously weakened.
+qualification: >-
+  This is a draft from the Imperial Naval Office budget department and is used as a policy-level
+  witness for the risk-fleet rationale. It should not be treated as the sole motive of every German naval appropriation.

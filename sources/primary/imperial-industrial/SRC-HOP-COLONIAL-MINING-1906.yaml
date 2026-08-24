@@ -1,0 +1,20 @@
+source_id: SRC-HOP-COLONIAL-MINING-1906
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Empire
+  title: Kaiserliche Bergverordnung für die afrikanischen und Südseeschutzgebiete mit Ausnahme von Deutsch-Südwestafrika
+  date: 1906-02-27
+  original_language: German
+  role: colonial_mining_concessions_fees_taxation_governor_and_reich_chancellery
+governing_witness:
+  witness_type: REICHSGESETZBLATT_SCAN_TRANSCRIPTION
+  citation: "RGBl. 1906, Nr. 13, S. 363-386"
+  locator: https://de.wikisource.org/wiki/Kaiserliche_Bergverordnung_f%C3%BCr_die_afrikanischen_und_S%C3%BCdseeschutzgebiete_mit_Ausnahme_von_Deutsch-S%C3%BCdwestafrika
+key_relations:
+  - prospecting and mining rights are conditioned by colonial permits and field rules
+  - fees, field taxes and extraction charges are administratively adjustable
+  - governors receive implementing powers while Reich Chancellor functions are exercised through the Foreign Office colonial department
+qualification: >-
+  The ordinance establishes a legal-extractive framework in specified protectorates. Actual mining output,
+  labor conditions, land dispossession and company practice require colony- and enterprise-specific evidence.

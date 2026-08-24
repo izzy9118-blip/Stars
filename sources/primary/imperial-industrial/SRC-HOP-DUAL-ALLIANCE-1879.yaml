@@ -1,0 +1,16 @@
+source_id: SRC-HOP-DUAL-ALLIANCE-1879
+status: DIPLOMATIC_TREATY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  parties: [German Empire, Austria-Hungary]
+  title: Dual Alliance
+  date: 1879-10-07
+  original_languages: [German]
+  role: conditional_mutual_aid_neutrality_and_security_commitment
+governing_witness:
+  witness_type: PUBLISHED_DIPLOMATIC_TEXT_WITH_ORIGINAL_GERMAN_PROVENANCE
+  source_note: "Original German partly published in Reichs- und Staatsanzeiger, 3 Feb. 1888; later documentary editions preserve full text."
+  locator: https://germanhistorydocs.org/en/forging-an-empire-bismarckian-germany-1866-1890/dual-alliance-with-austria-october-7-1879.pdf
+qualification: >-
+  The treaty creates conditional obligations centered especially on Russian attack. It should
+  not be treated as proof that every later Austro-German policy was jointly determined.

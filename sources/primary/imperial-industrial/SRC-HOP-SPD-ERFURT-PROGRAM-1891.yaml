@@ -1,0 +1,19 @@
+source_id: SRC-HOP-SPD-ERFURT-PROGRAM-1891
+status: PARTY_PROGRAM_PRIMARY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Social Democratic Party of Germany
+  title: Das Erfurter Programm
+  date: 1891-10
+  original_language: German
+  role: socialist_class_analysis_political_organization_and_immediate_reform_program
+governing_witness:
+  witness_type: PARTY_CONGRESS_PROCEEDINGS_TRANSCRIPTION
+  citation: "Protokoll über die Verhandlungen des Parteitages der Sozialdemokratischen Partei Deutschlands, abgehalten zu Erfurt vom 14. bis 20. Oktober 1891, Berlin 1891, S. 3-6"
+  locator: https://germanhistorydocs.org/de/das-wilhelminische-kaiserreich-und-der-erste-weltkrieg-1890-1918/das-erfurter-programm-1891
+  english_translation: https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi%3Adocument-766
+qualification: >-
+  The program combines a Marxian account of capitalist development and class conflict with an
+  immediate program of suffrage, civil rights, labor protection, an eight-hour day, freedom of
+  association and worker participation in insurance. Its revolutionary diagnosis and institutional
+  demands must remain visible together rather than being reduced to either one.

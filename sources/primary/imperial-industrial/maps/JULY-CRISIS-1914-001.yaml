@@ -1,0 +1,136 @@
+map_id: JULY-CRISIS-1914-001
+status: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+period: 1914-07-05/1914-08-04
+method:
+  - Institutional preconditions and political decisions remain distinct.
+  - Alliance obligations, mobilization plans, diplomatic notes, personal telegrams, military memoranda and formal decrees are separate evidence classes.
+  - Official wartime document books are primary evidence for published governmental communications, not neutral verdicts on responsibility.
+  - The sequence is chronological but not treated as mechanically inevitable.
+claims:
+  - claim_id: JULY-001
+    date: 1914-07-05
+    proposition: Austria-Hungary received a reported assurance that Germany would support firm action against Serbia even if Russian intervention widened the risk.
+    source_id: SRC-HOP-BLANK-CHECK-1914-07-05
+    passage_status: DIPLOMATIC_REPORT_LOCKED
+    qualification: Austrian ambassador's report of imperial assurances, not a treaty or cabinet protocol.
+
+  - claim_id: JULY-002
+    date: 1914-07-23
+    proposition: >-
+      Austria-Hungary converted its conflict with Serbia into a time-limited interstate demand reaching inside Serbian press,
+      associations, education, administration, military personnel and criminal investigation.
+    source_id: SRC-HOP-AH-ULTIMATUM-SERBIA-1914-07-23
+    passage_status: ORIGINAL_GERMAN_TEXT_LOCKED
+
+  - claim_id: JULY-003
+    date: 1914-07-25
+    proposition: >-
+      Serbia accepted or conditionally accepted many demands while resisting or narrowing Austro-Hungarian participation where it invoked
+      constitutional and procedural limits, and offered international adjudication if the reply was deemed inadequate.
+    source_id: SRC-HOP-SERBIAN-REPLY-1914-07-25
+    passage_status: FRENCH_DIPLOMATIC_TEXT_LOCKED
+    qualification: Neither total rejection nor complete acceptance accurately describes the reply.
+
+  - claim_id: JULY-004
+    date: 1914-07-28
+    proposition: Austria-Hungary formally moved from coercive diplomacy to a declared bilateral state of war after judging Serbia's reply insufficient.
+    source_id: SRC-HOP-AH-DECLARATION-WAR-SERBIA-1914-07-28
+    passage_status: FORMAL_WAR_NOTE_LOCKED
+
+  - claim_id: JULY-005
+    date: 1914-07-29
+    proposition: >-
+      The Russian Foreign Ministry stated that its military preparations followed Austrian mobilization and the failure of peaceful settlement,
+      rejected Germany's demand that those preparations cease, and told France that Russia was accelerating preparations while regarding war as probably inevitable.
+    source_id: SRC-HOP-RUSSIAN-ORANGE-BOOK-1914
+    passage_status: OFFICIAL_WARTIME_DOCUMENT_NO_58_LOCKED
+    qualification: The Orange Book is a wartime official selection; its chronology and omissions require archival control before responsibility claims.
+
+  - claim_id: JULY-006
+    dates: 1914-07-29/1914-08-01
+    proposition: >-
+      Direct imperial diplomacy continued while military preparations accelerated: Nicholas appealed for restraint on Austria-Hungary,
+      while Wilhelm increasingly treated Russian military measures as incompatible with continued mediation and German security.
+    source_id: SRC-HOP-WILLY-NICKY-1914
+    passage_status: TELEGRAM_SEQUENCE_LOCKED
+
+  - claim_id: JULY-007
+    date: 1914-07-29
+    proposition: >-
+      Moltke presented delay itself as a worsening military danger and interpreted Austro-Russian escalation through alliance obligations,
+      mobilization timing and an expected two-front war.
+    source_id: SRC-HOP-MOLTKE-JULY29-1914
+    passage_status: MILITARY_POLICY_MEMORANDUM_LOCKED
+    qualification: Military assessment exerted pressure on civilian choice but was not constitutional compulsion.
+
+  - claim_id: JULY-008
+    date: 1914-07-30
+    proposition: >-
+      French diplomatic records show Paris simultaneously receiving German mobilization warnings, urging avoidance of measures that could furnish a German pretext,
+      and remaining tied to Russian alliance expectations while Russian and Austrian mobilizations expanded.
+    source_id: SRC-HOP-FRENCH-YELLOW-BOOK-1914
+    passage_status: OFFICIAL_WARTIME_DOCUMENTS_101_102_105_LOCKED
+    qualification: The Yellow Book is a French wartime official publication; editorial selection is not treated as neutral.
+
+  - claim_id: JULY-009
+    dates: 1914-07-31/1914-08-01
+    proposition: >-
+      Germany transformed mobilization pressure into a fixed diplomatic deadline: Russia was required to halt military measures,
+      and failure to provide a satisfactory reply was followed by a German declaration of war.
+    source_id: SRC-HOP-GERMAN-ULTIMATUM-RUSSIA-1914
+    passage_status: OFFICIAL_WARTIME_DOCUMENT_SEQUENCE_LOCKED
+    qualification: German White Book factual allegations outside the formal notes require independent control.
+
+  - claim_id: JULY-010
+    date: 1914-08-01
+    proposition: The German emperor formally activated pre-existing army and naval mobilization plans, converting organizational preparation into execution.
+    source_id: SRC-HOP-GERMAN-MOBILIZATION-1914-08-01
+    passage_status: BUNDESARCHIV_ORDER_LOCKED
+
+  - claim_id: JULY-011
+    date: 1914-08-01
+    proposition: >-
+      France formally ordered general mobilization of land and sea forces, including requisition of transport resources,
+      and transmitted the order through military commands and the prefectural-municipal administrative chain.
+    source_id: SRC-HOP-FRENCH-MOBILIZATION-1914-08-01
+    passage_status: JOURNAL_OFFICIEL_DECREE_LOCKED
+    qualification: Mobilization establishes activation of French capacity, not the totality of French diplomatic motive or Plan XVII operations.
+
+  - claim_id: JULY-012
+    dates: 1914-08-02/1914-08-03
+    proposition: >-
+      German operational requirements encountered Belgian sovereignty directly when Germany demanded military transit and named railways,
+      roads, tunnels and fortresses as possible obstacles, while Belgium refused on grounds of neutrality, treaty obligation and national honor.
+    source_id: SRC-HOP-BELGIUM-ULTIMATUM-REPLY-1914
+    passage_status: BELGIAN_GREY_BOOK_SEQUENCE_LOCKED
+
+  - claim_id: JULY-013
+    date: 1914-08-04
+    proposition: >-
+      Britain made respect for Belgian neutrality and withdrawal of the German demand a same-day ultimatum,
+      turning a treaty and neutral-state issue into a condition whose rejection accompanied British entry into war.
+    source_id: SRC-HOP-BRITISH-ULTIMATUM-1914-08-04
+    passage_status: PARLIAMENTARY_COMMAND_PAPER_WITNESS_LOCKED
+    qualification: Belgian neutrality was central but not the sole context of British strategic and cabinet decision-making.
+
+cross_source_questions:
+  - At which points do alliances remain political commitments open to interpretation, and at which points do military planners treat them as operational certainties?
+  - How does mobilization timing alter political choice when general staffs argue that waiting itself changes the balance of power?
+  - Why do personal rulers continue conciliatory telegrams while institutions under their governments move toward mobilization?
+  - How do railways, roads, fortifications and neutral territory transform from infrastructure into military constraints during crisis?
+  - Which decisions explicitly reject, narrow or preserve mediation and arbitration options?
+  - Does the crisis show impersonal systems causing war, or political actors acting under pressures generated by systems they and their predecessors had built?
+
+narrative_gate:
+  state: CONDITIONALLY_SATISFIED
+  satisfied:
+    - Austro-Hungarian, Serbian, German, Russian, French, Belgian and British governmental or diplomatic voices independently represented
+    - political assurances, ultimatum, reply, declaration of war, military memorandum, mobilization decrees and neutrality dispute kept as distinct evidence classes
+    - official wartime document-book limitations explicitly preserved
+  remaining_controls:
+    - original Russian general-mobilization order would improve the map but is no longer required for a bounded claim because Russian governmental preparations and France/Germany responses are independently documented
+    - British cabinet records required only for a fuller explanation of motives beyond the Belgian-neutrality ultimatum
+    - French and Russian archival editions should supersede wartime Yellow/Orange Book wording if direct quotation becomes central
+    - no synthetic war-guilt conclusion is admitted from this map alone

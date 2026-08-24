@@ -1,0 +1,22 @@
+source_id: SRC-HOP-SHERMAN-ACT-1890
+status: GOVERNING_ENROLLED_ACT_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: United States Congress
+  title: Sherman Anti-Trust Act
+  date: 1890-07-02
+  original_language: English
+  role: federal_regulation_of_trusts_interstate_commerce_and_monopoly
+governing_witness:
+  witness_type: ENROLLED_ACT_NATIONAL_ARCHIVES
+  repository: U.S. National Archives
+  record_group: 11
+  url: https://www.archives.gov/milestone-documents/sherman-anti-trust-act
+key_passages:
+  - section: 1
+    anchor: "Every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade"
+  - section: 2
+    anchor: "monopolize, or attempt to monopolize"
+qualification: >-
+  The Act demonstrates federal jurisdiction asserting itself against concentrated private
+  economic organization. Enforcement effectiveness and judicial interpretation require separate evidence.
