@@ -1,0 +1,23 @@
+source_id: SRC-HOP-ANGLO-JAPANESE-ALLIANCE-1902
+status: DIPLOMATIC_TREATY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  parties: [United Kingdom, Empire of Japan]
+  title: Agreement of Alliance between Japan and Great Britain
+  date: 1902-01-30
+  original_language: English
+  role: east_asian_alliance_special_interests_neutrality_and_conditional_joint_war
+governing_witness:
+  witness_type: JAPANESE_DIPLOMATIC_DOCUMENT_DATABASE_TEXT
+  repository: The World and Japan Database
+  url: https://worldjpn.net/documents/texts/pw/19020130.T1E.html
+corroboration:
+  repository: Japan Center for Asian Historical Records
+  url: https://www.jacar.go.jp/english/exhibition/nichiro/uk-japan.htm
+key_relations:
+  - Britain and Japan recognize special interests in China and Korea.
+  - One ally remains neutral if the other fights one power in defense of listed interests.
+  - Joint war follows if additional powers join hostilities against the ally.
+qualification: >-
+  The 1902 agreement is conditional and regional. It should not be treated as an unconditional
+  global military commitment or as proof that Japan merely entered a Western-directed system.
