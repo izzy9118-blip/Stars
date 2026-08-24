@@ -1,11 +1,11 @@
 corpus_id: HOP-ADMINISTRATIVE-STATE-001
 name: Administrative and National Power Primary Source Corpus
-status: NAPOLEONIC_CORE_MAPPED_RESTORATION_1815_1848_GATHERED
+status: NAPOLEONIC_CORE_MAPPED_RESTORATION_1815_1848_SUBSTANTIALLY_GATHERED
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: history-of-power-primary-sources-001
 working_branch: history-of-power-administrative-state-001
 
-period_focus: "1798-1815 core administrative unit mapped; 1815-1848 Restoration and democratic-national-state unit gathered"
+period_focus: "1798-1815 core administrative unit mapped; 1815-1848 Restoration, democratic-national-state, communications and transport unit substantially gathered"
 
 purpose: >-
   Reconstruct how revolutionary sovereignty and mobilization were converted into
@@ -13,7 +13,7 @@ purpose: >-
   informational, infrastructural, fiscal, and accounting capacities under the
   Consulate and Empire, then determine which capacities survive Restoration and
   subsequent constitutional revolutions and how nineteenth-century thinkers
-  understand the national, administrative, and military state.
+  understand the national, administrative, military, and infrastructural state.
 
 acquisition_rules:
   - Primary legal and administrative texts govern over later descriptions.
@@ -23,6 +23,7 @@ acquisition_rules:
   - Regime change and administrative continuity are separate relations and must be demonstrated independently.
   - A later critical correspondence edition may govern document identification only when each quoted letter retains its individual primary-document metadata.
   - Philosophical and military-theoretical texts are attributed interpretations, not substitutes for institutional evidence.
+  - Communications and transport are political capacities only where their legal, financial, or administrative organization is documented.
   - Claims of centralization, bureaucracy, nationalism, modernization, or state capacity must be demonstrated through institutions and documents rather than assumed from period labels.
 
 napoleonic_sources:
@@ -45,14 +46,17 @@ napoleonic_sources:
 restoration_1815_1848_sources:
   - {source_id: SRC-HOP-CHARTER-1814, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
   - {source_id: SRC-HOP-VIENNA-FINAL-ACT-1815, state: GOVERNING_DIPLOMATIC_TEXT_LOCKED}
-  - {source_id: SRC-HOP-HEGEL-PHILOSOPHY-RIGHT-1821, state: GOVERNING_FIRST_EDITION_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-CLAUSEWITZ-VOM-KRIEGE-1832, state: GOVERNING_POSTHUMOUS_FIRST_EDITION_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-TOCQUEVILLE-DEMOCRACY-1835-1840, state: GOVERNING_PUBLICATION_SEQUENCE_LOCKED_WORKING_DIGITAL_WITNESSES_REGISTERED}
+  - {source_id: SRC-HOP-HEGEL-PHILOSOPHY-RIGHT-1821, state: GOVERNING_FIRST_EDITION_WITNESS_LOCKED_PASSAGES_IDENTIFIED}
+  - {source_id: SRC-HOP-CLAUSEWITZ-VOM-KRIEGE-1832, state: GOVERNING_POSTHUMOUS_FIRST_EDITION_WITNESS_LOCKED_PASSAGES_IDENTIFIED}
+  - {source_id: SRC-HOP-TOCQUEVILLE-DEMOCRACY-1835-1840, state: GOVERNING_PUBLICATION_SEQUENCE_LOCKED_PASSAGES_IDENTIFIED}
   - {source_id: SRC-HOP-CHARTER-1830, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
+  - {source_id: SRC-HOP-TELEGRAPH-LAW-1837, state: CONTEMPORARY_LEGAL_TEXT_LOCKED}
+  - {source_id: SRC-HOP-RAILWAY-LAW-1842, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
   - {source_id: SRC-HOP-CONSTITUTION-1848, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
+  - {source_id: SRC-HOP-PREFECTURAL-CONTINUITY-1814-1848, state: MULTI_DOCUMENT_PRIMARY_CONTINUITY_SET_LOCKED}
 
-witness_count: 22
-locked_or_registered_count: 22
+witness_count: 25
+locked_or_registered_count: 25
 
 maps:
   - map_id: NAPOLEONIC-ADMINISTRATIVE-STATE-001
@@ -61,26 +65,28 @@ maps:
   - map_id: RESTORATION-NATIONAL-STATE-1815-1848-001
     path: sources/primary/nineteenth-century/maps/RESTORATION-NATIONAL-STATE-1815-1848-001.yaml
     state: PASSAGE_EXTRACTION_IN_PROGRESS
+  - map_id: ADMINISTRATIVE-CONTINUITY-1814-1848-001
+    path: sources/primary/nineteenth-century/maps/ADMINISTRATIVE-CONTINUITY-1814-1848-001.yaml
+    state: CORE_RELATION_VERIFIED
 
 napoleonic_unit_remaining_controls:
   - Inspect Chaptal's 19 germinal an IX statistical circular before direct quotation.
   - Cross-walk the 25 March 1802 road letter to its original minute or critical correspondence number before direct quotation.
   - Add a quantified aggregate budget/Treasury witness only if later synthesis requires a claim about aggregate fiscal capacity rather than machinery.
 
-restoration_unit_next_controls:
-  - Extract first-edition Hegel passages on police/corporation, civil servants, estates and sovereignty.
-  - Extract Clausewitz Book I and late political-war passages with editorial-state notes.
-  - Extract first-edition Tocqueville passages from both 1835 and 1840.
-  - Acquire institution-specific evidence showing whether prefectures, Code civil, Cour des comptes, cadastre, tax collection, or other administrative machinery survives 1814, 1830 and 1848.
-  - Reach Tocqueville's 1856 Ancien Régime chronologically before using it as a retrospective centralization witness.
+restoration_unit_remaining_controls:
+  - Cross-check identified Hegel sections against first-edition page images before direct quotation.
+  - Cross-check identified Clausewitz passages against the posthumous first edition and retain editorial-state notes.
+  - Cross-check identified Tocqueville passages against verified 1835 and 1840 first-edition page images.
+  - Continue institution-specific continuity testing beyond prefectures to Code civil, Cour des comptes, cadastre and fiscal administration as needed.
 
 chronological_next:
-  name: ADMINISTRATIVE_CONTINUITY_INDUSTRIAL_INFRASTRUCTURE_AND_1848_TO_UNIFICATION
+  name: REVOLUTION_1848_INDUSTRIAL_COMMUNICATION_AND_NATIONAL_UNIFICATION
   sequence:
-    - administrative survival across 1814/1830/1848
-    - 1848 political and social claims
-    - railway and telegraph infrastructure
+    - 1848 social and republican claims
+    - railway and electric-telegraph expansion
     - statistical and fiscal administration
-    - national military organization
     - 1856 Tocqueville retrospective centralization analysis
-    - movement toward Italian and German unification and Bismarck
+    - national military organization
+    - Italian and German unification
+    - Bismarck and the administrative-national state
