@@ -1,6 +1,6 @@
 corpus_id: HOP-EGYPT-REBALANCE-001
 name: Egypt Source Rebalancing Corpus
-status: FIRST_ACQUISITION_BATCH_LOCKED_PASSAGE_CONTROL_IN_PROGRESS
+status: SECOND_ACQUISITION_BATCH_LOCKED_STAR_CORRECTION_READY_WITH_HELD_CLAIMS
 parent_star: STAR-HISTORY-OF-POWER-001
 star_layer_target: egyptian_power
 method: sources/SOURCE-WITNESS-METHOD.md
@@ -9,7 +9,7 @@ age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-A
 branch: history-of-power-retroactive-source-audit-001
 
 purpose: >-
-  Rebalance the Egyptian layer by adding indigenous political reflection,
+  Rebalance the Egyptian layer by adding indigenous political and moral reflection,
   operational-administrative witnesses, ancient post-festum reconstructions, and
   explicit modern critical controls. Every source must illuminate a bounded form
   of Egyptian power and the position of the human being within that order; no
@@ -20,22 +20,23 @@ acquisition_rules:
   - Modern transliterations, translations and reconstructions remain separate editorial layers.
   - Ancient external and post-festum witnesses state their own reconstructions; they do not become transparent Egyptian self-witnesses.
   - Modern Egyptology controls damaged evidence and tests synthesis but never speaks in the voice of ancient Egypt.
-  - Person-power crossings must not turn Egyptian subjects, petitioners or officials into modern autonomous rights-bearers.
-  - Absence of modern individuality does not imply absence of agency, inwardness, criticism or moral judgment.
+  - Person-power crossings must not turn Egyptian subjects, petitioners, learners or officials into modern autonomous rights-bearers.
+  - Absence of modern individuality does not imply absence of agency, inwardness, criticism, conscience-like reflection or moral judgment.
   - No narrative or structured-Star claim is changed by acquisition alone.
 
-first_batch:
+acquired_witnesses:
   indigenous_and_operational:
-    - {source_id: SRC-HOP-NEFERTI, state: WITNESS_CONSTELLATION_LOCKED_PASSAGE_EXTRACTION_PENDING}
+    - {source_id: SRC-HOP-NEFERTI, state: WITNESS_CONSTELLATION_LOCKED_WORKING_PASSAGES_EXTRACTED}
     - {source_id: SRC-HOP-ELOQUENT-PEASANT, state: MANUSCRIPT_CONSTELLATION_LOCKED_PRIMARY_ANCHOR_MAPPED}
     - {source_id: SRC-HOP-LOYALIST-TEACHING, state: WITNESS_CONSTELLATION_LOCKED_PRIMARY_PASSAGES_MAPPED}
+    - {source_id: SRC-HOP-AMENEMOPE, state: GOVERNING_MANUSCRIPT_AND_CRITICAL_EDITION_LOCKED_PASSAGE_TARGETS_MAPPED}
     - {source_id: SRC-HOP-HOREMHEB-EDICT, state: MONUMENT_LOCKED_CRITICAL_TEXT_CROSSWALK_PENDING}
     - {source_id: SRC-HOP-REKHMIRE-VIZIER, state: MONUMENT_AND_CRITICAL_EDITION_LOCKED_PASSAGE_CROSSWALK_PENDING}
   ancient_post_festum:
     - {source_id: SRC-HOP-MANETHO-AEGYPTIACA, state: TRANSMISSION_DOSSIER_LOCKED_ORIGINAL_LOST}
-    - {source_id: SRC-HOP-DIODORUS-EGYPT-I, state: GOVERNING_GREEK_EDITION_LOCKED_EXTRACTION_PENDING}
-    - {source_id: SRC-HOP-STRABO-EGYPT-XVII, state: GOVERNING_GREEK_EDITION_LOCKED_EXTRACTION_PENDING}
-    - {source_id: SRC-HOP-PLUTARCH-ISIS-OSIRIS, state: GOVERNING_GREEK_EDITION_LOCKED_EXTRACTION_PENDING}
+    - {source_id: SRC-HOP-DIODORUS-EGYPT-I, state: GOVERNING_GREEK_EDITION_LOCKED_TARGETED_SECTIONS_MAPPED}
+    - {source_id: SRC-HOP-STRABO-EGYPT-XVII, state: GOVERNING_GREEK_EDITION_LOCKED_TARGETED_SECTIONS_MAPPED}
+    - {source_id: SRC-HOP-PLUTARCH-ISIS-OSIRIS, state: GOVERNING_GREEK_EDITION_LOCKED_TARGETED_SECTIONS_MAPPED}
   later_critical_controls:
     - {source_id: SRC-HOP-FRANKFORT-KINGSHIP-GODS-1948, state: FIRST_EDITION_METADATA_LOCKED}
     - {source_id: SRC-HOP-HORNUNG-ONE-MANY-1971, state: GERMAN_FIRST_EDITION_METADATA_LOCKED}
@@ -44,9 +45,8 @@ first_batch:
     - {source_id: SRC-HOP-ASSMANN-MAAT-1990, state: GERMAN_FIRST_EDITION_METADATA_LOCKED}
 
 current_counts:
-  source_records_planned: 14
-  source_records_locked: 14
-  indigenous_and_operational: 5
+  source_records_locked_or_controlled: 15
+  indigenous_and_operational: 6
   ancient_post_festum: 4
   later_critical_controls: 5
 
@@ -54,28 +54,69 @@ maps:
   - map_id: EGYPT-PERSON-AUTHORITY-001
     path: sources/primary/ancient/egypt/maps/EGYPT-PERSON-AUTHORITY-001.yaml
     state: INITIAL_PASSAGE_AND_BOUNDARY_MAP
+  - map_id: EGYPT-AMENEMOPE-PERSON-AUTHORITY-001
+    path: sources/primary/ancient/egypt/maps/EGYPT-AMENEMOPE-PERSON-AUTHORITY-001.yaml
+    state: WITNESS_AND_CLAIM_TARGET_LOCKED_PASSAGE_WORDING_PENDING
+
+passage_controls:
+  - {path: sources/primary/ancient/egypt/passages/EGY-NEFERTI-PASSAGES-001.yaml, state: VERIFIED_WORKING_PASSAGES_PRINTED_EDITION_CHECK_PENDING}
+  - {path: sources/primary/ancient/egypt/passages/EGY-LOYALIST-PASSAGES-001.yaml, state: PRIMARY_PASSAGES_MAPPED}
+  - {path: sources/primary/ancient/egypt/passages/EGY-ELOQUENT-PEASANT-PASSAGES-001.yaml, state: PRIMARY_PASSAGES_MAPPED}
+  - {path: sources/primary/ancient/egypt/passages/EGY-AMENEMOPE-PASSAGE-TARGETS-001.yaml, state: TARGETED_EXACT_WORDING_PENDING}
+  - {path: sources/primary/ancient/egypt/passages/EGY-ANCIENT-DUSK-PASSAGES-001.yaml, state: TARGETED_SECTIONS_IDENTIFIED_GREEK_CROSSWALK_PENDING}
+
+transmission_controls:
+  - {path: sources/primary/ancient/egypt/transmission/MANETHO-TRANSMISSION-001.yaml, state: TRANSMISSION_DOSSIER_LOCKED}
+
+interpretive_reclassification:
+  path: sources/primary/ancient/egypt/RECLASSIFICATION-MODERN-EGYPT-INTERPRETATIONS-001.yaml
+  state: BINDING_FOR_EGYPT_REPAIR
+  effect: >-
+    Schwaller de Lubicz remains attributed modern interpretation; John Anthony West
+    is quarantined from FACT-level synthesis; Petrie is early Egyptological reconstruction.
+    Atlantis, settled Sphinx-weathering chronology, comprehensive Horian/Osirian paths,
+    fixed initiatory hierarchy and Luxor-as-Anthropocosmos are not admitted as Egyptian facts.
+
+structured_star_correction:
+  main_proposal:
+    path: sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-CORRECTION-PROPOSAL-001.yaml
+    state: READY_FOR_CONTROLLED_REVIEW_NOT_APPLIED
+  amenemope_addendum:
+    path: sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-CORRECTION-ADDENDUM-AMENEMOPE-001.yaml
+    state: READY_FOR_CONTROLLED_REVIEW_NOT_APPLIED
 
 person_power_finding: >-
-  Egyptian evidence now shows loyal subjecthood, productive labor, marginal
-  petition, vulnerability to delegated office, disciplined office-bearing,
-  priestly historical memory and later philosophical observation without turning
-  any of those persons into a modern naturally separate rights-bearer. Agency and
-  criticism remain visible inside older sacred, royal, social and mortuary forms.
+  Egyptian evidence now shows loyal subjecthood, productive labor, marginal petition,
+  vulnerability to delegated office, disciplined office-bearing, inward moral formation,
+  priestly historical memory and later philosophical observation without turning any
+  of those persons into a modern naturally separate rights-bearer. Agency, inwardness,
+  criticism and self-command remain visible inside older sacred, royal, social and
+  mortuary forms.
 
-next_phase:
-  name: PASSAGE_CONTROL_RECLASSIFICATION_AND_STAR_NATIVE_PROPOSAL
-  required_work:
-    - Extract Neferti passages from a governing manuscript edition.
-    - Cross-walk Horemheb and Rekhmire against original-language critical texts.
-    - Complete Manetho transmission table.
-    - Extract targeted Greek passages from Diodorus, Strabo and Plutarch.
-    - Reclassify Schwaller de Lubicz, John Anthony West and Petrie explicitly.
-    - Test Anthropocosmos, initiation, Horian/Osirian, inherited-civilization, Sphinx-weathering and Atlantis propositions.
-    - Prepare a bounded structured-Star integration proposal before narrative revision.
+held_claims:
+  - claim: Horemheb operative administrative provisions
+    reason: original-language Kruchten/monument crosswalk remains incomplete
+    disposition: WITHHOLD_FROM_DIRECT_QUOTATION_AND_DOCUMENTED_FACT_INTEGRATION
+  - claim: Rekhmire exact vizierial appointment and duty clauses
+    reason: TT100/Faulkner/van_den_Boorn crosswalk remains incomplete
+    disposition: WITHHOLD_FROM_DIRECT_QUOTATION_AND_DOCUMENTED_FACT_INTEGRATION
+  - claim: Amenemope exact wording
+    reason: principal papyrus/Laisney crosswalk remains incomplete
+    disposition: ALLOW_BOUNDED_ATTRIBUTED_RELATION_WITHOUT_DIRECT_QUOTATION_ONLY
+  - claim: Diodorus_Strabo_Plutarch exact Greek wording
+    reason: targeted passages located but final Greek crosswalk remains open
+    disposition: ALLOW_SOURCE_POSITION_AND_TARGETED_PARAPHRASE_ONLY
 
 narrative_gate:
-  state: OPEN_NOT_SATISFIED
+  state: CONDITIONALLY_READY_FOR_STRUCTURED_STAR_CORRECTION_WITH_HELD_CLAIMS
   rule: >-
-    Acquisition is complete only for the first witness batch. Passage extraction,
-    counter-witness testing, modern-interpretation reclassification and a native
-    STAR-HISTORY-OF-POWER-001 integration proposal remain required.
+    The main Egypt correction and Amenemope addendum may be reviewed and applied at
+    the structured-Star level without using the held Horemheb/Rekhmire clauses or
+    unverified direct quotations. Narrative revision remains downstream of structured
+    correction. Claims under epigraphic or philological hold stay outside admitted FACT.
+
+chronological_next_after_structured_correction:
+  layer: PERSIA
+  rule: >-
+    Persia acquisition begins only after the Egypt structured-Star correction is
+    safely applied or explicitly preserved as the governing pending correction package.
