@@ -1,0 +1,56 @@
+source_id: CTRL-HOP-EGYPT-PARKINSON-POETRY-CULTURE
+status: BIBLIOGRAPHIC_WITNESS_LOCKED_PASSAGE_TARGETS_PENDING
+parent_control_corpus: HOP-EGYPT-CRITICAL-CONTROLS-001
+
+author_or_corporate_author: R. B. Parkinson
+work_or_document_title: Poetry and Culture in Middle Kingdom Egypt: A Dark Side to Perfection
+date_or_period: 2002
+original_language: English
+publisher: Continuum
+
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+participant_or_observer_position: Modern Egyptologist and literary scholar analyzing Middle Kingdom texts, voice, genre, elite culture, and historical use
+temporal_distance_if_retrospective: Modern scholarship separated by millennia from the compositions and manuscripts
+
+governing_witness_and_exact_edition_or_archive:
+  governing_scholarly_witness: First edition, 2002
+  digital_access: LEGITIMATE_CATALOG_OR_LIBRARY_COPY_TO_BE_LINKED; copyrighted text will not be copied wholesale
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - genre and historical-use controls for Neferti, Sinuhe, the Eloquent Peasant, Ipuwer, and related Middle Kingdom literature
+  - present claims about interiority, justice, disorder, loyalty, and the relation between literary voice and social reality
+intended_claim_class:
+  - LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+  - WITNESS_METADATA
+  - BOUNDARY_CONTROL
+
+what_the_source_can_establish:
+  - A specialist account of the literary, manuscript, elite, and cultural contexts in which Middle Kingdom compositions can be interpreted.
+  - Controls against treating fictional speakers as straightforward historical persons or literary scenes as direct administrative transcripts.
+  - Ways in which apparently harmonious ideological forms coexist with anxiety, critique, ambiguity, and contested voice.
+what_the_source_cannot_establish:
+  - That Parkinson's interpretation is itself an ancient Egyptian proposition.
+  - The actual prevalence of attitudes represented in literature without independent evidence.
+  - A direct genealogy from Egyptian literary interiority to the modern individual.
+
+rival_or_counter_witnesses_where_known:
+  - alternative philological editions and literary interpretations
+  - source-specific manuscript studies
+  - administrative and archaeological evidence from the Middle Kingdom
+  - Jan Assmann and Barry Kemp on broader cultural and institutional structures
+
+boundary_effect: >-
+  Parkinson supplies the principal genre control needed before the newly acquired
+  literary voices enter a History of Power synthesis.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  use: >-
+    Allows the project to recognize first-person voice, anxiety, petition, and
+    reflection without misnaming them as autonomous individualism or treating
+    them as irrelevant to personhood.
+  crossing_relation: INTERPRETIVE_CONTROL_ONLY
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
