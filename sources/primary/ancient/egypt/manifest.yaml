@@ -1,0 +1,53 @@
+corpus_id: HOP-EGYPT-REBALANCE-001
+name: Egypt Source Rebalancing Corpus
+status: FIRST_ACQUISITION_BATCH_IN_PROGRESS
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: egyptian_power
+method: sources/SOURCE-WITNESS-METHOD.md
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+branch: history-of-power-retroactive-source-audit-001
+
+purpose: >-
+  Rebalance the Egyptian layer by adding indigenous political reflection,
+  operational-administrative witnesses, ancient post-festum reconstructions, and
+  explicit modern critical controls. Every source must illuminate a bounded form
+  of Egyptian power and the position of the human being within that order; no
+  source is admitted merely because it is canonical.
+
+acquisition_rules:
+  - Original Egyptian monuments and manuscripts govern where extant.
+  - Modern transliterations, translations and reconstructions remain separate editorial layers.
+  - Ancient external and post-festum witnesses state their own reconstructions; they do not become transparent Egyptian self-witnesses.
+  - Modern Egyptology controls damaged evidence and tests synthesis but never speaks in the voice of ancient Egypt.
+  - Person-power crossings must not turn Egyptian subjects, petitioners or officials into modern autonomous rights-bearers.
+  - No narrative or structured-Star claim is changed by acquisition alone.
+
+first_batch:
+  indigenous_and_operational:
+    - SRC-HOP-NEFERTI
+    - SRC-HOP-ELOQUENT-PEASANT
+    - SRC-HOP-LOYALIST-TEACHING
+    - SRC-HOP-HOREMHEB-EDICT
+    - SRC-HOP-REKHMIRE-VIZIER
+  ancient_post_festum:
+    - SRC-HOP-MANETHO-AEGYPTIACA
+    - SRC-HOP-DIODORUS-EGYPT-I
+    - SRC-HOP-STRABO-EGYPT-XVII
+    - SRC-HOP-PLUTARCH-ISIS-OSIRIS
+  later_critical_controls:
+    - SRC-HOP-FRANKFORT-KINGSHIP-GODS-1948
+    - SRC-HOP-HORNUNG-ONE-MANY-1971
+    - SRC-HOP-LICHTHEIM-AEL-1973-1980
+    - SRC-HOP-KEMP-ANATOMY-EGYPT-1989
+    - SRC-HOP-ASSMANN-MAAT-1990
+
+current_counts:
+  source_records_planned: 14
+  source_records_locked: 0
+
+narrative_gate:
+  state: OPEN
+  rule: >-
+    Passage extraction, counter-witness testing, modern-interpretation
+    reclassification and a Star-native integration proposal are still required.
