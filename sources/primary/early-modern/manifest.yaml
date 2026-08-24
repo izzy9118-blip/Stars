@@ -4,6 +4,7 @@ status: ACQUISITION_IN_PROGRESS
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: star-history-of-power-001
 working_branch: history-of-power-primary-sources-001
+
 purpose: >-
   Acquire and lock the primary witnesses needed to repair the missing transition
   from the post-imperial and medieval History of Power layer into early-modern
@@ -14,258 +15,105 @@ purpose: >-
 acquisition_rules:
   - Primary texts govern over secondary summaries.
   - Original-language witnesses govern wherever a usable original witness is available.
-  - Translations are registered as subordinate witnesses unless explicitly adopted as governing.
-  - Exact edition, translator where known, repository, stable locator, and access state are recorded before quotation use.
-  - A digital scan and a modern transcription are distinct witnesses and must not be silently conflated.
-  - Later editorial attribution must not replace original title-page attribution without an explicit note.
+  - Translations are subordinate unless explicitly adopted as governing.
+  - Digital scan, transcription, translation, and later edition are distinct witnesses.
+  - Exact edition, language, repository, stable locator, and translator where relevant are recorded before quotation use.
+  - Source-specific witness records supersede discovery-stage notes in this manifest.
   - No quotation is admitted to the History of Power narrative until its governing witness is locked and checked.
-  - Copyrighted modern editions may be linked and cited but are not copied into this repository merely because they are readable online.
+  - Copyrighted modern editions may be linked and cited but are not copied wholesale into the repository.
 
 sources:
   - source_id: SRC-HOP-LUTHER-TEMPORAL-AUTHORITY-1523
-    author: Martin Luther
-    title: "Temporal Authority: To What Extent It Should Be Obeyed"
-    original_year: 1523
-    original_language: German
     role: reformation_temporal_and_spiritual_jurisdiction
-    governing_witness:
-      type: ONLINE_PDF_TRANSCRIPTION
-      repository: ETH Zurich / ISN Primary Resources in International Affairs
-      url: https://www.files.ethz.ch/isn/125470/606.pdf
-      language: English
-      pages: 22
-      exact_translation_metadata: TO_BE_VERIFIED_BEFORE_QUOTATION
-    access_state: FULL_TEXT_VERIFIED
+    state: FULL_TEXT_LOCATED_TRANSLATION_METADATA_PENDING
+    locator: https://www.files.ethz.ch/isn/125470/606.pdf
 
   - source_id: SRC-HOP-CALVIN-INSTITUTES-IV-20
-    author: John Calvin
-    title: "Institutes of the Christian Religion, Book IV, Chapter 20: Of Civil Government"
-    original_year: 1559
-    original_language: Latin
     role: reformation_magistracy_law_people
-    governing_witness:
-      type: ONLINE_FULL_TEXT
-      repository: Christian Classics Ethereal Library
-      url: https://ccel.org/ccel/calvin/institutes.vi.xxi.html
-      language: English
-      translation: Henry Beveridge
-    access_state: FULL_TEXT_VERIFIED
+    state: FULL_TEXT_LOCATED_TRANSLATION_WITNESS
+    locator: https://ccel.org/ccel/calvin/institutes.vi.xxi.html
 
   - source_id: SRC-HOP-BODIN-SIX-BOOKES-1606
-    author: Jean Bodin
-    title: The Six Bookes of a Commonweale
-    original_work_year: 1576
-    witness_year: 1606
-    original_language: French
     role: sovereignty_and_commonwealth
-    governing_witness:
-      type: FACSIMILE_SCAN
-      repository: Boston Public Library / John Adams Library via Internet Archive and Wikimedia Commons
-      url: https://commons.wikimedia.org/wiki/File:The_six_bookes_of_a_commonweale_(IA_sixbookesofcommo00bodi).pdf
-      language: English
-      translator: Richard Knolles
-      imprint: "London: Impensis G. Bishop, 1606"
-    supporting_transcription:
-      url: https://davidmhart.com/liberty/OtherWorks/Bodin/1606-SixBookes/index.html
-    access_state: FULL_SCAN_AND_TRANSCRIPTION_VERIFIED
+    state: GOVERNING_WITNESS_LOCKED
+    witness: "Richard Knolles English translation, London: G. Bishop, 1606"
+    locator: https://commons.wikimedia.org/wiki/File:The_six_bookes_of_a_commonweale_(IA_sixbookesofcommo00bodi).pdf
 
   - source_id: SRC-HOP-UNION-UTRECHT-1579
-    corporate_author: Provinces and members forming the Union of Utrecht
-    title: Union of Utrecht
-    date: 1579-01-23
-    original_language: Dutch/French documentary tradition
     role: dutch_confederal_constitution_and_provincial_right
-    governing_witness:
-      type: ENGLISH_TRANSLATION
-      repository: Constitution Society
-      url: https://constitution.org/1-Constitution/cons/dutch/Union_Utrecht_1579.html
-      translator: Herbert H. Rowen
-      translation_source: "The Low Countries in Early Modern Times: A Documentary History (1972), pp. 69-74"
-    access_state: FULL_TEXT_VERIFIED
-    caution: Translation is copyrighted; link and cite, do not reproduce wholesale.
+    state: TRANSLATION_LOCATED_ORIGINAL_LANGUAGE_WITNESS_PENDING
+    locator: https://constitution.org/1-Constitution/cons/dutch/Union_Utrecht_1579.html
 
   - source_id: SRC-HOP-ACT-ABJURATION-1581
-    corporate_author: States General of the Netherlands
-    title: Plakkaat van Verlatinghe / Act of Abjuration
-    date: 1581-07-26
-    original_language: Dutch
     role: deposition_tyranny_and_dissolution_of_allegiance
-    governing_witness:
-      type: ORIGINAL_LANGUAGE_WITNESS_TO_ACQUIRE
-      repository: Dutch archival witness preferred
-      language: Dutch
-    supporting_translation:
-      repository: University of Groningen American History project
-      url: https://www.let.rug.nl/usa/documents/before-1600/plakkaat-van-verlatinghe-1581-july-26.php
-      language: English
-    access_state: TRANSLATION_LOCATED_ORIGINAL_WITNESS_PENDING_LOCK
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-ACT-ABJURATION-1581.yaml
+    witness: "Leiden, Charles Silvius, 1581 Dutch print"
 
   - source_id: SRC-HOP-VOC-CHARTER-1602
-    corporate_author: States General of the United Netherlands
-    title: Charter of the Dutch East India Company
-    date: 1602-03-20
-    original_language: Dutch
-    role: chartered_corporate_quasi_sovereignty
-    governing_witness:
-      type: ORIGINAL_LANGUAGE_WITNESS_TO_ACQUIRE
-      language: Dutch
-    supporting_translation:
-      repository: British Library India Office Private Papers
-      shelfmark: Mss Eur C940
-      description: Typescript translation of Charter of Dutch East India Company, dated 20 Mar 1602
-      catalog_url: https://searcharchives.bl.uk/
-      extent: 5 folios
-    public_translation_reference:
-      translator_names: Peter Reynders and Rupert Gerritsen
-      year: 2009
-      note: First widely available online English translation; exact public file locator to be locked before quotation.
-    access_state: TRANSLATION_AND_ARCHIVAL_RECORD_VERIFIED
+    role: chartered_corporate_monopoly_military_diplomatic_and_commercial_power
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-VOC-CHARTER-1602.yaml
+    witness: "Nationaal Archief, VOC archive 1.04.02, inv. no. 1"
 
   - source_id: SRC-HOP-GROTIUS-DE-JURE-PRAEDAE
-    author: Hugo Grotius
-    title: Commentary on the Law of Prize and Booty
-    composition_period: 1604-1606
-    original_language: Latin
     role: dutch_commerce_prize_war_and_corporate_force
-    governing_witness:
-      type: MODERN_CRITICAL_TRANSLATION
-      repository: Online Library of Liberty / Liberty Fund
-      url: https://oll.libertyfund.org/titles/ittersum-commentary-on-the-law-of-prize-and-booty
-      edition: "ed. and intro. Martine Julia van Ittersum, 2006; based on Williams and Zeydel translation"
-      language: English
-    access_state: FULL_TEXT_VERIFIED
-    copyright_note: Modern edition is copyrighted; quote within permitted limits and do not repository-copy wholesale.
+    state: MODERN_TRANSLATION_LOCATED_ORIGINAL_LATIN_WITNESS_PENDING
+    locator: https://oll.libertyfund.org/titles/ittersum-commentary-on-the-law-of-prize-and-booty
 
   - source_id: SRC-HOP-GROTIUS-MARE-LIBERUM-1609
-    author: Hugo Grotius
-    title: Mare Liberum / The Free Sea
-    year: 1609
-    original_language: Latin
     role: freedom_of_seas_trade_and_interstate_order
-    governing_witness:
-      type: HISTORICAL_TEXT_WITH_MODERN_ONLINE_EDITION
-      repository: Online Library of Liberty
-      url: https://oll.libertyfund.org/
-      language: Latin/English depending witness
-    access_state: FULL_TEXT_LOCATED_EXACT_EDITION_LOCK_PENDING
+    state: FULL_TEXT_LOCATED_EXACT_WITNESS_PENDING
+    locator: https://oll.libertyfund.org/
 
   - source_id: SRC-HOP-DEWITT-DEDUCTIE-1654
-    author_attribution: Johan de Witt
-    corporate_voice: States of Holland and West-Friesland
-    title: >-
-      Deductie, ofte declaratie van de Staten van Hollandt ende West-Vrieslandt;
-      behelsende een waerachtich, ende grondich bericht van de fondamenten der
-      regieringe vande vrye Vereenichde Nederlanden ...
-    year: 1654
-    original_language: Dutch
     role: dutch_republican_constitution_provincial_sovereignty_and_act_of_seclusion
-    governing_witness:
-      type: ORIGINAL_1654_DUTCH_PRINT_DIGITAL_WITNESS
-      repository: Utrecht University Library Repository
-      handle: 20.500.14918/22745
-      url: https://dbc.library.uu.nl/handle/20.500.14918/22745
-      publisher: "Weduwe ende Erfgenamen van wylen Hillebrandt Jacobsz van Wouw"
-      place: "'s-Gravenhage"
-      physical_location: "Universiteitsbibliotheek Utrecht: S oct 5180"
-      language: Dutch
-    corroborating_witnesses:
-      - repository: Rijksmuseum
-        object_number: NG-70
-        url: https://www.rijksmuseum.nl/nl/collectie/object/Deductie-ofte-Declaratie-van-de-Staten-van-Hollandt-ende-West-Vrieslandt--4c4983c6fa6b58f9f3cb9dbebb7c233c
-        description: 1654 book, parchment binding, 198 pages plus title page
-      - repository: Google Books
-        id: F80hL2_ITLEC
-        url: https://books.google.com/books?id=F80hL2_ITLEC
-        original_from: National Library of the Netherlands / Utrecht University Library
-        pages: 198
-    translation_policy: NO_ENGLISH_SUBSTITUTE_AS_GOVERNING_WITNESS
-    access_state: ORIGINAL_DUTCH_WITNESS_LOCKED
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-DEWITT-DEDUCTIE-1654.yaml
+    witness: "Utrecht University Library, 1654 Dutch edition, handle 20.500.14918/22745"
+    rule: NO_ENGLISH_SUBSTITUTE_AS_GOVERNING_WITNESS
 
   - source_id: SRC-HOP-DELACOURT-TRUE-INTEREST-1662
-    author: Pieter de la Court
-    title: Interest van Holland / The True Interest and Political Maxims of the Republic of Holland
-    original_year: 1662
-    original_language: Dutch
     role: commercial_republicanism_trade_toleration_and_anti_stadtholder_interest
-    governing_witness:
-      type: ORIGINAL_DUTCH_WITNESS_TO_ACQUIRE
-      language: Dutch
-    supporting_translation:
-      repository: Online Library of Liberty
-      url: https://oll.libertyfund.org/titles/court-the-true-interest-and-political-maxims-of-the-republic-of-holland
-      language: English
-      historical_translation_year: 1746
-    attribution_caution: Historical English editions sometimes attribute the work to Johan de Witt; repository attribution is normalized to Pieter de la Court with the historical title-page attribution retained as evidence.
-    access_state: ENGLISH_FULL_TEXT_VERIFIED_DUTCH_WITNESS_PENDING_LOCK
+    state: ENGLISH_TRANSLATION_LOCATED_ORIGINAL_DUTCH_WITNESS_PENDING
+    locator: https://oll.libertyfund.org/titles/court-the-true-interest-and-political-maxims-of-the-republic-of-holland
 
   - source_id: SRC-HOP-PETITION-RIGHT-1628
-    corporate_author: Parliament of England
-    title: Petition of Right
-    year: 1628
-    original_language: English
     role: taxation_imprisonment_prerogative_and_subject_right
-    governing_witness:
-      type: HISTORICAL_ENGLISH_TEXT
-      repository: Parliamentary/archival transcription to be locked
-      language: English
-    access_state: FULL_TEXT_LOCATED_EXACT_WITNESS_LOCK_PENDING
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-PETITION-RIGHT-1628.yaml
+    witness: "Enacted text, 3 Cha. 1 c. 1"
 
   - source_id: SRC-HOP-PUTNEY-DEBATES-1647
-    corporate_author: General Council of the New Model Army
-    recorder: William Clarke papers
-    title: Putney Debates
-    dates: 1647-10-28/1647-11-11
-    original_language: English
     role: representation_property_consent_army_and_constituent_power
-    governing_witness:
-      type: EDITED_PRIMARY_MANUSCRIPT_TRANSCRIPTION
-      editor: C. H. Firth
-      publication: "The Clarke Papers, vol. 1 (Camden Society, 1891), pp. 226-428"
-      online_pdf: https://davidmhart.com/liberty/Books/1647-PutneyDebates/Officers_PutneyDebates-T111-ebook.pdf
-    access_state: FULL_TEXT_VERIFIED
+    state: EDITED_PRIMARY_MANUSCRIPT_TRANSCRIPTION_LOCKED
+    witness: "William Clarke papers, ed. C. H. Firth, vol. 1 (1891), pp. 226-428"
+    locator: https://davidmhart.com/liberty/Books/1647-PutneyDebates/Officers_PutneyDebates-T111-ebook.pdf
 
   - source_id: SRC-HOP-HOBBES-LEVIATHAN-1651
-    author: Thomas Hobbes
-    title: Leviathan
-    year: 1651
-    original_language: English
     role: artificial_person_authorization_and_undivided_sovereignty
-    governing_witness:
-      type: ORIGINAL_EDITION_OR_FACSIMILE_TO_LOCK
-      language: English
-    supporting_public_text:
-      repository: Project Gutenberg
-      url: https://www.gutenberg.org/ebooks/3207
-    access_state: PUBLIC_FULL_TEXT_VERIFIED_ORIGINAL_EDITION_LOCK_PENDING
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-HOBBES-LEVIATHAN-1651.yaml
+    witness: "1651 first edition, first issue ('Head' edition)"
 
   - source_id: SRC-HOP-BILL-RIGHTS-1689
-    corporate_author: Parliament of England
-    title: English Bill of Rights
-    year: 1689
-    original_language: English
     role: crown_parliament_law_taxation_army_and_election
-    governing_witness:
-      type: DOCUMENTARY_TRANSCRIPTION
-      repository: Yale Law School Avalon Project
-      url: https://avalon.law.yale.edu/17th_Century/england.asp
-      language: English
-    access_state: FULL_TEXT_VERIFIED
+    state: DOCUMENTARY_TRANSCRIPTION_LOCATED
+    locator: https://avalon.law.yale.edu/17th_Century/england.asp
+
+  - source_id: SRC-HOP-BOE-ACT-1694
+    role: funded_public_credit_taxation_subscription_and_war_finance
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-BOE-ACT-1694.yaml
+    witness: "Enacted text, 5 & 6 Will. & Mar. c. 20"
 
   - source_id: SRC-HOP-BOE-CHARTER-1694
-    corporate_author: William and Mary / Parliament and Crown settlement
-    title: Charter of the Corporation of the Governor and Company of the Bank of England
-    date: 1694-07-27
-    original_language: English
-    role: funded_public_credit_and_war_finance
-    governing_witness:
-      type: OFFICIAL_TRANSCRIPTION_FACSIMILE_COLLECTION
-      repository: Bank of England
-      url: https://www.bankofengland.co.uk/-/media/boe/files/about/legislation/boe-charter.pdf
-      language: English
-    related_act:
-      description: 1694 Act authorizing subscriptions and revenue supporting the founding settlement
-      exact_statutory_witness: TO_BE_LOCKED
-    access_state: CHARTER_FULL_TEXT_VERIFIED_ACT_WITNESS_PENDING
+    role: corporate_constitution_of_the_bank
+    state: OFFICIAL_CHARTER_TEXT_LOCATED
+    locator: https://www.bankofengland.co.uk/-/media/boe/files/about/legislation/boe-charter.pdf
+
+locked_count: 7
+pending_count: 9
 
 repair_sequence:
   - reformation_and_confessional_jurisdiction
@@ -278,9 +126,9 @@ repair_sequence:
   - funded_public_credit_and_fiscal_military_power
 
 next_acquisition_targets:
-  - Lock an original Dutch witness for the Act of Abjuration.
-  - Lock the original Dutch VOC charter witness alongside the British Library English typescript record.
-  - Lock the original Dutch 1662 Interest van Holland witness.
-  - Lock exact original/facsimile witnesses for Hobbes 1651 and the Petition of Right.
-  - Lock the exact 1694 statutory Act paired with the Bank of England Charter.
-  - Verify the exact translation metadata of the ETH Zurich Luther witness before quotation use.
+  - Lock original-language Union of Utrecht witness.
+  - Lock original Latin witnesses for De Jure Praedae and Mare Liberum.
+  - Lock original Dutch 1662 Interest van Holland witness.
+  - Verify exact translation metadata of the ETH Zurich Luther witness or replace it with a fully identified edition.
+  - Lock a stronger primary witness for Calvin if the Beveridge translation remains only a reading witness.
+  - Lock a parliamentary/official original-language witness for the Bill of Rights alongside Avalon.
