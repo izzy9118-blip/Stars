@@ -1,0 +1,46 @@
+source_id: SRC-HOP-ABOLITION-SLAVERY-1848
+status: GOVERNING_OFFICIAL_TEXT_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: Gouvernement provisoire de la République française
+  title: Décret du 27 avril 1848 relatif à l'abolition de l'esclavage dans les colonies et possessions françaises
+  date: 1848-04-27
+  original_language: French
+  role: republican_equality_colonial_emancipation_citizenship_and_administrative_execution
+
+governing_witness:
+  witness_type: OFFICIAL_LEGISLATIVE_TEXT
+  repository: Légifrance
+  url: https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000295898/
+  language: French
+
+archival_corroboration:
+  repository: Archives nationales
+  description: original abolition decree preserved and exhibited as an archival essential
+  url: https://www.archives-nationales.culture.gouv.fr/evenements/exposition-du-decret-dabolition-de-lesclavage-de-1848
+
+key_provisions:
+  - preamble:
+      issue: slavery condemned as attack on human dignity, free will, natural right/duty, and republican liberty-equality-fraternity
+  - article: 1
+    issue: complete abolition in French colonies and possessions after local promulgation
+  - article: 3
+    issue: governors or general commissioners of the Republic charged with applying measures to assure freedom across named colonies and possessions
+  - article: 4
+    issue: amnesty and recall from administrative deportation for specified acts linked to unfree status
+  - article: 6
+    issue: colonial representation in National Assembly
+  - article: 8
+    issue: prohibition on French citizens possessing, buying, selling or participating in slave exploitation even abroad, tied to citizenship sanction
+  - article: 9
+    issue: ministers of Marine/Colonies and War charged with execution
+
+witness_policy:
+  rule: >-
+    Use the decree as both a rights claim and an administrative command. It abolishes
+    slavery but does not end French colonial rule; emancipation, compensation, labor
+    organization and colonial administration must remain distinct questions.
+
+quotation_state: CORE_ARTICLES_VERIFIED
+analysis_state: NOT_YET_INTEGRATED
