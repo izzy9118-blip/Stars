@@ -1,0 +1,23 @@
+source_id: SRC-HOP-SCHLIEFFEN-MEMORANDUM-1905
+status: PRIMARY_MILITARY_TEXT_LOCKED_THROUGH_FACSIMILE_TRANSCRIPTION
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  author: Alfred Graf von Schlieffen
+  title: Denkschrift "Krieg gegen Frankreich"
+  date: 1905-12
+  original_language: German
+  role: general_staff_mass_army_railway_mobilization_and_operational_planning
+governing_witness:
+  witness_type: FACSIMILE_AND_TRANSCRIPTION_DOCUMENTARY_EDITION
+  repository: 1000 Schlüsseldokumente / Bayerische Staatsbibliothek project
+  url: https://www.1000dokumente.de/Dokumente/Alfred_Graf_von_Schlieffen%2C_Denkschrift_%22Krieg_gegen_Frankreich%22_%28Schlieffen-Plan%29
+supporting_transcription:
+  url: https://germanhistorydocs.org/de/das-wilhelminische-kaiserreich-und-der-erste-weltkrieg/ghdi:document-796
+key_relations:
+  - mass armies and reserves
+  - railway movement and supply
+  - fortresses and occupied rear areas
+  - violation of Belgian neutrality within operational planning
+qualification: >-
+  Preserve manuscript/editorial history and later Moltke annotations. Do not equate Schlieffen's
+  memorandum mechanically with the exact German operations of August 1914.
