@@ -1,6 +1,6 @@
 corpus_id: HOP-IMPERIAL-INDUSTRIAL-001
 name: Imperial-Industrial World Power Primary Source Corpus
-status: INITIAL_SYSTEMS_AND_CAPACITY_WITNESSES_MAPPED
+status: COMPARATIVE_SYSTEMS_MAPPED_PRE_1914
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: history-of-power-administrative-state-001
 working_branch: history-of-power-imperial-industrial-001
@@ -8,15 +8,16 @@ period_focus: "1871-1914"
 purpose: >-
   Reconstruct the fusion of national administration, industrial production,
   corporate and banking organization, social insurance, colonial jurisdiction,
-  strategic infrastructure, naval power, global communications, and alliance
-  systems into imperial-industrial great-power capacity.
+  strategic infrastructure, naval power, global communications, educational formation,
+  and alliance systems into imperial-industrial great-power capacity.
 acquisition_rules:
   - Primary statutes, treaties, corporate agreements, technical conventions, official statistics, archival orders, and first-edition strategic texts govern.
-  - Industrial concentration, finance, imperialism, navalism, alliance, communications and general-staff planning remain distinct evidence classes until synthesis.
+  - Industrial concentration, finance, imperialism, navalism, alliance, communications, education and general-staff planning remain distinct evidence classes until synthesis.
+  - Germany is a major case rather than a universal model; British, American, colonial Indian and Japanese pathways remain independently visible.
   - State and private corporate power are not presumed identical merely because they cooperate.
-  - International communications are treated through treaty and technical regimes, not as a generic technology effect.
+  - International communications are treated through treaty and technical regimes alongside national or colonial monopoly, licensing and interception powers.
   - Social insurance is treated as administration of industrial society, not reduced to benevolence or repression.
-  - Colonial texts preserve the distinction between metropolitan legal claims and actual colonial practice.
+  - Colonial texts preserve the distinction between metropolitan legal claims, economic administration and actual coercive practice.
   - Strategic writings such as Mahan and Schlieffen are attributed plans or interpretations, not automatic explanations of state policy or later operations.
   - Secret diplomatic treaties governed through later documentary publication retain that witness limitation.
   - Official statistical categories require unit and boundary controls before numerical claims are admitted.
@@ -33,21 +34,31 @@ sources:
   - {source_id: SRC-HOP-ACCIDENT-INSURANCE-1884, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-GERMAN-CORPORATION-LAW-1884, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-BERLIN-CONFERENCE-1885, state: GOVERNING_TREATY_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-KIEL-CANAL-1886, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-INDIAN-TELEGRAPH-ACT-1885, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-KIEL-CANAL-1886, state: GOVERNING_WITNESS_LOCKED_PASSAGES_EXTRACTED}
   - {source_id: SRC-HOP-GERMAN-COLONIAL-LAW-1886, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-OLD-AGE-INSURANCE-1889, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-MEIJI-CONSTITUTION-1889, state: GOVERNING_JAPANESE_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-BRITISH-NAVAL-DEFENCE-1889, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-JAPAN-EDUCATION-RESCRIPT-1890, state: GOVERNING_DOCUMENTARY_TEXT_LOCKED}
   - {source_id: SRC-HOP-MAHAN-SEA-POWER-1890, state: GOVERNING_FIRST_EDITION_WITNESS_LOCKED}
   - {source_id: SRC-HOP-SHERMAN-ACT-1890, state: GOVERNING_ENROLLED_ACT_WITNESS_LOCKED}
   - {source_id: SRC-HOP-FRANCO-RUSSIAN-CONVENTION-1892, state: DIPLOMATIC_MILITARY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-SHIMONOSEKI-1895, state: DIPLOMATIC_TREATY_WITNESS_LOCKED}
   - {source_id: SRC-HOP-GERMAN-FLEET-LAW-1898, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-GERMAN-FLEET-LAW-1900, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-TIRPITZ-RISK-FLEET-1900, state: PRIMARY_POLICY_MEMORANDUM_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-ANGLO-JAPANESE-ALLIANCE-1902, state: DIPLOMATIC_TREATY_WITNESS_LOCKED}
   - {source_id: SRC-HOP-TROTHA-HERERO-ORDER-1904, state: PRIMARY_ARCHIVAL_ORDER_WITNESS_LOCKED}
   - {source_id: SRC-HOP-ENTENTE-CORDIALE-1904, state: DIPLOMATIC_WITNESS_LOCKED}
   - {source_id: SRC-HOP-SCHLIEFFEN-MEMORANDUM-1905, state: PRIMARY_MILITARY_TEXT_LOCKED_THROUGH_FACSIMILE_TRANSCRIPTION}
+  - {source_id: SRC-HOP-COLONIAL-MINING-1906, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-RADIOTELEGRAPH-1906, state: GOVERNING_CONVENTION_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-COLONIAL-BUDGET-1907, state: GOVERNING_BUDGET_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-JAPAN-KOREA-ANNEXATION-1910, state: DIPLOMATIC_TREATY_WITNESS_LOCKED}
   - {source_id: SRC-HOP-GERMAN-STATISTICAL-YEARBOOK-1913, state: GOVERNING_OFFICIAL_STATISTICAL_WITNESS_LOCKED}
-witness_count: 24
-locked_or_registered_count: 24
+witness_count: 34
+locked_or_registered_count: 34
 maps:
   - map_id: IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001
     path: sources/primary/imperial-industrial/maps/IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001.yaml
@@ -56,17 +67,19 @@ core_relations_now_documented:
   - National monetary coordination can combine Reich supervision with private share capital.
   - Private industrial concentration and public regulation develop together rather than as mutually exclusive systems.
   - Social insurance turns industrial life risks and employment histories into administered legal relations.
-  - Colonial power operates through both metropolitan treaty/jurisdiction and coercive military practice.
+  - Colonial power operates through metropolitan treaty and law, separately budgeted administration and extraction, and coercive practice on the ground.
   - Strategic infrastructure joins public credit, commercial movement and naval mobility.
-  - Naval force becomes a long-horizon statutory construction and replacement program.
-  - Telegraph and wireless systems become internationally standardized while remaining nationally strategic infrastructures.
-  - Alliance treaties range from conditional consultation to explicit simultaneous mobilization commitments.
+  - Naval force becomes a long-horizon statutory construction, procurement and replacement program; policy memoranda can state opponent-specific strategic rationales.
+  - Telegraph and wireless systems become internationally standardized while imperial governments maintain monopoly, licensing and interception powers.
+  - Alliance treaties range from conditional consultation to explicit simultaneous mobilization commitments and region-specific imperial interests.
   - General-staff planning integrates mass armies, railways, supply, fortifications and territorial schedules.
   - Official statistics make national productive and transport capacity quantitatively legible.
+  - Japan develops a distinct constitutional-imperial path joining imperial sovereignty, education, war settlement, alliance and colonial annexation.
 next_targets:
-  - controlled extraction of coal, iron, steel, railway, shipping and corporation series from the 1913 yearbook
-  - firm- or procurement-level steel and armaments witnesses where national statistics and fleet law are insufficient
-  - policy-level naval memoranda tying fleet legislation to strategic objectives
+  - controlled extraction of coal, iron, steel, railway, shipping and corporation series from the 1913 German yearbook; DigiZeitschriften's legacy delivery is unavailable, so no secondary figures substitute for the locked witness
+  - firm- or procurement-level steel and armaments witnesses where national statistics and naval statutes are insufficient
+  - first-edition Mahan passage extraction
   - operational cable and wireless network evidence beyond convention rules
-  - colony-specific labor, land and economic extraction evidence beyond the 1904 military order
-  - later alliance and July-crisis documents only as chronology approaches 1914
+  - colony-specific land, labor and economic extraction evidence beyond German mining/budget/military witnesses
+  - Japanese military and industrial-administration witnesses where needed to test constitutional text against capacity
+  - immediate pre-1914 diplomatic and mobilization decisions only after this prewar institutional map passes its evidence gate
