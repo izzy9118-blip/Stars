@@ -1,14 +1,14 @@
 map_id: DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001
-status: PASSAGE_EXTRACTION_IN_PROGRESS
+status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
 parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
 intended_parent_star: STAR-HISTORY-OF-POWER-001
 
 method:
   - No claim below is admitted to the History of Power narrative merely by appearing here.
-  - VERIFIED_PRIMARY means wording and location were checked in the locked original-language witness or its diplomatic representation.
-  - LOCATOR_ONLY means the relevant primary witness and location are identified but the exact passage still requires witness-level checking.
-  - Original wording is kept short here; extended transcription is unnecessary for claim control.
-  - Working English abstractions remain subordinate to original-language passages.
+  - VERIFIED_PRIMARY means wording and location were checked in the locked original-language witness or a diplomatic representation tied directly to it.
+  - VERIFIED_TEXTUAL_CHAIN means exact wording and edition location are established through a reliable scholarly quotation, but a final image-level cross-check remains required before verbatim narrative quotation.
+  - HISTORICAL_TRANSCRIPTION means a later historical transcription preserves the relevant clause while the original charter remains the governing witness.
+  - Original wording remains primary; working English abstractions are subordinate.
 
 claims:
   - claim_id: DUTCH-PWR-001
@@ -37,7 +37,7 @@ claims:
     anchor: "geen accoordt van bestant oft peys maecken, noch oorloge aenveerden ... dan met gemeen advys ende consent"
     qualification: >-
       Other confederal matters could proceed by provincial majority under Article IX;
-      the rule is therefore differentiated rather than a general unanimity principle.
+      the rule is differentiated rather than a general unanimity principle.
 
   - claim_id: DUTCH-PWR-003
     proposition: >-
@@ -60,16 +60,19 @@ claims:
       delegated monopoly, diplomatic, military, judicial, and fortification powers
       within a geographically defined overseas field.
     source_id: SRC-HOP-VOC-CHARTER-1602
-    passage_status: LOCATOR_ONLY
-    location: Original Dutch charter, Nationaal Archief 1.04.02 inventory 1
-    extraction_targets:
-      - twenty-one-year exclusive navigation/trade zone east of the Cape of Good Hope or through the Strait of Magellan
-      - authority to negotiate with Asian rulers and political powers
-      - authority concerning fortifications, military personnel, war, and government
+    passage_status: HISTORICAL_TRANSCRIPTION_WITH_ORIGINAL_CHARTER_LOCKED
+    original_witness: Nationaal Archief 1.04.02 inventory 1
+    working_location: later article numbering XXXIV-XXXVI in François Valentijn's 1724 transcription
+    original_language: Dutch
+    anchors:
+      - "niemant ... anders dan die van de voorsz Compagnie ... binnen den tyd van 21 jaaren ... Beoosten de kaap de Bonne Esperance, ofte door de straat van Magellanes"
+      - "met de Princen ende Potentaten verbintenis te maaken, ende contracten op den naam van de Staaten Generaal"
+      - "fortressen ende verzekertheden te bouwen, gouverneurs, volk van oorlog, ende officiers van Justitie"
     qualification: >-
-      Do not call the VOC simply a sovereign state. The analytical question is how
-      public powers were delegated to a chartered company while ultimate chartering
-      authority remained with the States General.
+      The original 1602 charter remains governing. The article numbers and spelling
+      above come from Valentijn's later transcription and must not be represented as
+      diplomatic transcription of the original manuscript. The essential delegation,
+      however, is independently confirmed by the Nationaal Archief description.
 
   - claim_id: DUTCH-PWR-005
     proposition: >-
@@ -87,37 +90,46 @@ claims:
 
   - claim_id: DUTCH-PWR-006
     proposition: >-
-      De Iure Praedae places the legal theory of prize, property, contract, war,
-      and commerce inside the immediate controversy produced by VOC seizure and
-      overseas force.
+      De Iure Praedae places the legal theory of prize and just war inside a concrete
+      Dutch struggle over Asian commerce, public wealth, and war against Iberian power.
     source_id: SRC-HOP-GROTIUS-DE-JURE-PRAEDAE
-    passage_status: LOCATOR_ONLY
-    location: Leiden University Libraries autograph manuscript BPL 917
-    extraction_targets:
-      - opening legal architecture of right and obligation
-      - treatment of just war and prize
-      - passages connected to the Santa Catarina seizure
-      - manuscript material corresponding to the argument later published as Mare Liberum
+    passage_status: VERIFIED_CRITICAL_EDITION_WITH_MANUSCRIPT_FOLIO
+    location: BPL 917, fol. 2r, Caput I opening; Brill/Arkyves critical edition identifier dipms_fac002r
+    original_language: Latin
+    anchors:
+      - "an iusto in bello ... auctoritate publica, recte spolient"
+      - "corruet Asiatica omnis negotiatio, qua vel sola vel potissima publicas opes sustineri"
+      - "dedit ... Deus telum in ipsa imperii Hispanici viscera"
     qualification: >-
-      BPL 917 was revised over time. Chapter numbering and textual state must be
-      cross-walked before a quotation is admitted.
+      The manuscript contains revisions. These anchors are tied to the critical
+      edition's manuscript folio and must retain the chosen textual state when quoted.
+      The claim is not that commerce alone explains Grotius's law of war, but that
+      the legal argument is visibly embedded in Dutch commercial and geopolitical stakes.
 
   - claim_id: DUTCH-PWR-007
     proposition: >-
-      The Deductie explicitly makes the separate rights of the respective provincial
-      States and the limited matters transferred to the Generality a constitutional
-      question in its defense of the 1654 Act of Seclusion.
+      The Deductie treats hereditary concentration of the highest political and
+      military offices as a danger by which republics can be reduced to monarchy.
     source_id: SRC-HOP-DEWITT-DEDUCTIE-1654
-    passage_status: VERIFIED_PRIMARY_FRONT_MATTER
-    location: 1654 Dutch title page / full title
+    passage_status: VERIFIED_TEXTUAL_CHAIN
+    location: Part II, chapter I, paragraphs 9-10; 1654 edition p. 48
     original_language: Dutch
-    anchor: "recht competerende de respective Staten vande gheunieerde Provincien yder apart"
-    next_passage_target:
-      location: Part II, chapter I; page/folio crosswalk to be verified against Utrecht 1654 witness
-      issue: hereditary concentration of high civil and military offices and danger to republican liberty
+    anchor: >-
+      "dat in eene Republijcque soodanighe charges niet sonder merckelijck perijckel
+      vande vryheydt konnen werden gheconfereert op die geene welckers Ouders de
+      selve charges daer bevoorens hebben bekleedt"
+    continuation_anchor: >-
+      "dat alle de Republijcquen vande gantsche Werelt, geene uytghesondert ...
+      daer door onder subjectie ghebracht, ende tot een Monarchicquen staet
+      ghereduceert zijn"
+    corroborating_location:
+      passage: Caesar example
+      citation: Part II, chapter I, paragraph 12, fol. C12v
+      significance: military command can turn the arms of a republic against the republic itself
     hard_rule: >-
-      The Utrecht 1654 Dutch edition governs. No later English rendering may be used
-      as the basis of quotation or abstraction without a matching Dutch passage.
+      The Utrecht 1654 Dutch edition governs. The wording and page are established
+      through scholarship quoting that edition; verbatim narrative quotation still
+      requires final image-level comparison with the Utrecht scan.
 
   - claim_id: DUTCH-PWR-008
     proposition: >-
@@ -143,9 +155,9 @@ cross_source_questions:
     How can the provinces act 'as if one province' for union purposes while retaining
     rights that De Witt later insists belong to the respective provincial States separately?
   - >-
-    How does the repudiation of tyrannical princely rule in 1581 relate to the later
-    republican fear that hereditary control of stadholder and captain-general offices
-    could recreate monarchical dependence?
+    How does the repudiation of tyrannical princely rule in 1581 relate to De Witt's
+    fear that hereditary control of the highest civil and military offices can reduce
+    a republic to monarchy?
   - >-
     How does the States General's delegation of coercive and diplomatic powers to the
     VOC coexist with a constitutional order suspicious of concentrated domestic office?
@@ -158,7 +170,7 @@ cross_source_questions:
     merchant, corporate, naval, and financial capacities?
 
 remaining_extraction_before_narrative:
-  - Verify De Witt Part II passage directly against the Utrecht 1654 scan and record exact folio/page.
-  - Extract the exact original VOC charter clauses for delegated diplomatic and military powers.
-  - Extract selected BPL 917 passages from the autograph/critical Latin text with manuscript foliation.
-  - Add Amsterdam financial institutions only after their own primary witnesses are acquired; they are not inferred from the present seven-source corpus.
+  - Perform final image-level cross-check of De Witt p. 48 against Utrecht 1654 scan before verbatim quotation.
+  - If a diplomatic transcription of the original 1602 VOC charter becomes available, replace Valentijn spelling and article numbering with original manuscript locators.
+  - Preserve Grotius manuscript textual-state information for every quotation.
+  - Complete DUTCH-FINANCIAL-POWER-001 before narrative integration.
