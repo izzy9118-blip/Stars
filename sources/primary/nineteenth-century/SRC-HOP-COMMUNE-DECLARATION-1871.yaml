@@ -1,0 +1,42 @@
+source_id: SRC-HOP-COMMUNE-DECLARATION-1871
+status: GOVERNING_OFFICIAL_POSTER_WITNESS_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: Commune de Paris
+  title: Déclaration au peuple français
+  date: 1871-04-19
+  original_language: French
+  role: communal_autonomy_federation_election_revocation_citizen_participation_and_republican_unity
+
+governing_witness:
+  witness_type: OFFICIAL_IMPRIMERIE_NATIONALE_POSTER
+  repository: Bibliothèque historique de la Ville de Paris
+  identifier: ark:/73873/pf0001485940
+  poster_number: 170
+  url: https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0001485940
+  rights: public domain
+
+serial_corroboration:
+  title: Journal officiel de la République française, édition de la Commune
+  repository: Bibliothèque nationale de France
+  catalogue_identifier: ark:/12148/cb328020920
+  url: https://catalogue.bnf.fr/ark:/12148/cb328020920.public
+  publication_run: 1871-03-20 through 1871-05-24
+
+key_relations:
+  - the Republic treated as the political form compatible with popular rights
+  - autonomy claimed for Paris and for other freely associated communes
+  - communal authority over budget, taxation, services, police, education and communal property
+  - election, responsibility, continuing control and recall of communal magistrates and officials
+  - continuing citizen intervention through speech, association, assembly and publication
+  - French unity reconstructed through voluntary association rather than administrative absorption by one center
+
+witness_policy:
+  rule: >-
+    The declaration governs the Commune's official constitutional program. It does not
+    establish that every stated institution was fully implemented during the Commune's
+    short and besieged existence, nor that all Communards shared one doctrine.
+
+quotation_state: OFFICIAL_POSTER_LOCKED
+analysis_state: READY_FOR_BOUNDED_SYNTHESIS
