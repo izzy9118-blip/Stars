@@ -1,0 +1,114 @@
+passage_set_id: EGY-ANCIENT-DUSK-PASSAGES-001
+status: TARGETED_SECTIONS_IDENTIFIED_GREEK_CROSSWALK_PENDING
+star_layer_target: egyptian_power
+
+method:
+  - Sections are identified in governing Greek editions; English formulations are project paraphrases.
+  - Ancient lateness and author position remain part of every claim.
+  - Reception and observation may transform an older form without becoming Egyptian self-witness.
+
+passages:
+  - passage_id: EGY-DIODORUS-001
+    source_id: SRC-HOP-DIODORUS-EGYPT-I
+    location: Bibliotheca Historica 1.44
+    governing_greek: Bekker-Dindorf-Vogel, Teubner 1888-1890
+    project_paraphrase: >-
+      Diodorus reports a succession from divine and heroic rulers to mortal kings,
+      and says priests preserved records about royal character and deeds in sacred books.
+    supports:
+      - late_Hellenistic_reconstruction_of_Egyptian_succession
+      - priestly_record_as_claimed_source_of_historical_memory
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: >-
+      This establishes Diodorus's report and source claim, not the independent accuracy
+      of every reign, duration or priestly archive he invokes.
+
+  - passage_id: EGY-DIODORUS-002
+    source_id: SRC-HOP-DIODORUS-EGYPT-I
+    location: Bibliotheca Historica 1.72
+    project_paraphrase: >-
+      Diodorus says that some kings were denied customary public burial because of
+      popular opposition, and that fear of postmortem disgrace could restrain rulers.
+    supports:
+      - later_ancient_claim_of_public_postmortem_judgment_on_kings
+      - royal_memory_as_a_limit_on_rule
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: >-
+      The institution and frequency require Egyptian corroboration; Diodorus's moral
+      explanation cannot be adopted as direct pharaonic constitutional fact.
+    age_of_individual_crossing:
+      relation: TRANSFORM_INTO_HISTORICAL_MORAL_JUDGMENT
+      finding: >-
+        The king becomes an object of remembered collective judgment rather than the
+        sole author of his historical meaning.
+
+  - passage_id: EGY-DIODORUS-003
+    source_id: SRC-HOP-DIODORUS-EGYPT-I
+    location: Bibliotheca Historica 1.73
+    project_paraphrase: >-
+      Diodorus describes nomes, nomarchs, priestly land, hereditary priestly practice,
+      proximity to royal counsel and reading of sacred records to the king.
+    supports:
+      - Hellenistic_systematization_of_office_land_priesthood_and_royal_counsel
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: >-
+      His social tripartition and institutional continuity must be tested by period;
+      they cannot define all of pharaonic Egypt.
+
+  - passage_id: EGY-STRABO-001
+    source_id: SRC-HOP-STRABO-EGYPT-XVII
+    location: Geography 17.1.12
+    governing_greek: Meineke, Teubner 1877
+    project_paraphrase: >-
+      Strabo states that Egypt is now a tribute-paying Roman province under a prefect,
+      judicial and fiscal officers, imperial freedmen, stewards, legions, cohorts and cavalry,
+      while selected native offices remain in Alexandria.
+    supports:
+      - Roman_reorganization_of_Egyptian_territory_and_office
+      - continuity_and_subordination_of_native_institutions
+      - military_and_fiscal_legibility_of_population_and_property
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: >-
+      This is Augustan-period Egypt described from a pro-imperial Greek-Roman position,
+      not a timeless description of Egyptian government.
+    age_of_individual_crossing:
+      relation: TRANSFORM_TO_ROMAN_IMPERIAL_ADMINISTRATION
+      finding: >-
+        Persons and property appear inside a provincial chain of jurisdiction, revenue,
+        adjudication and military control distinct from pharaonic kingship.
+
+  - passage_id: EGY-PLUTARCH-001
+    source_id: SRC-HOP-PLUTARCH-ISIS-OSIRIS
+    location: De Iside et Osiride 11
+    governing_greek: Bernardakis, Moralia II, Teubner 1889
+    project_paraphrase: >-
+      Addressing Clea, Plutarch tells the reader not to understand Egyptian divine tales
+      as literal occurrences and demonstrates allegorical interpretation through animal
+      names and the solar child emerging from the lotus.
+    supports:
+      - Egyptian_myth_as_object_of_personal_philosophical_interpretation
+      - distinction_between_ritual_image_and_literal_event_in_Plutarch
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: >-
+      Plutarch's allegorical method is his own Roman-imperial Platonist reconstruction;
+      it is not automatically the method of earlier Egyptian priests.
+    age_of_individual_crossing:
+      relation: TRANSFORM_SACRED_ORDER_INTO_REFLECTIVE_INTERPRETATION
+      finding: >-
+        A named reader is invited to search for meaning behind inherited cultic forms,
+        a different relation from unreflective participation or direct royal command.
+
+cross_source_synthesis:
+  proposition: >-
+    Diodorus, Strabo and Plutarch do not simply preserve Egypt. They successively
+    remake it as a field of universal history, provincial administration and personal
+    philosophical interpretation. Their value lies partly in this transformation,
+    provided it remains distinct from the Egyptian evidence they interpret.
+  claim_class: ANALYTICAL_SYNTHESIS
+  state: CANDIDATE_NOT_YET_ADMITTED_TO_STAR
+
+remaining_controls:
+  - Cross-check all section wording in the governing Greek editions.
+  - Identify Diodorus's named and unnamed source dependencies where possible.
+  - Compare Strabo's provincial description with Augustan papyri and administrative evidence.
+  - Test Plutarch's mythic details against Egyptian-language sources and later cult context.
