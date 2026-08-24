@@ -1,0 +1,21 @@
+source_id: SRC-HOP-GERMAN-FLEET-LAW-1900
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Empire
+  title: Gesetz betreffend die deutsche Flotte
+  date: 1900-06-14
+  original_language: German
+  role: expanded_battle_fleet_personnel_and_budgetary_commitment
+governing_witness:
+  witness_type: REICHSGESETZBLATT_SCAN_TRANSCRIPTION
+  citation: "RGBl. 1900, S. 255-258"
+  locator: https://de.wikisource.org/wiki/Gesetz,_betreffend_die_deutsche_Flotte._Vom_14._Juni_1900
+key_passages:
+  - section: 4
+    proposition: Personnel establishments are tied to active and reserve fleet requirements.
+  - section: 5
+    proposition: Annual budget remains the formal means of providing implementation funds.
+qualification: >-
+  The 1900 law enlarges and regularizes naval construction; the relation to Britain and Weltpolitik
+  must be established with additional diplomatic and policy documents rather than inferred from fleet size alone.
