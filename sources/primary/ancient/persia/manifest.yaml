@@ -9,20 +9,24 @@ age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-A
 persia_audit: sources/audits/ancient/PERSIA-RETROACTIVE-SOURCE-AUDIT-001.yaml
 
 purpose: >-
-  Preserve the Persia source records already present on the branch while preventing
-  their existence from being treated as active acquisition, admitted evidence,
-  completed passage work, or authorization to move beyond the uncertified Egypt layer.
+  Preserve the Persia source records and preliminary person-authority map already
+  present on the branch while preventing their existence from being treated as active
+  acquisition, admitted evidence, completed passage work, or authorization to move
+  beyond the uncertified Egypt layer.
 
 origin_and_status:
   discovery: >-
     A branch comparison performed while closing the Egypt package revealed fourteen
-    Persia source records already present without a Persia corpus manifest.
+    Persia source records and one preliminary person-authority map already present
+    without a Persia corpus manifest.
   disposition: >-
-    The records are retained as preliminary discovery and witness-planning artifacts.
-    They are not deleted, rewritten into Egypt, or counted as an active chronological layer.
+    The artifacts are retained as preliminary discovery, witness-planning and claim-
+    decomposition records. They are not deleted, rewritten into Egypt, or counted as
+    an active chronological layer.
   no_drift_rule: >-
-    No Persia passage extraction, claim map, structured-Star integration proposal,
-    narrative prose, certification or movement to Greece may proceed under this manifest.
+    No Persia passage extraction, promotion of mapped claims, structured-Star
+    integration proposal, narrative prose, certification or movement to Greece may
+    proceed under this manifest.
 
 preliminary_records:
   direct_and_operational_targets:
@@ -43,32 +47,42 @@ preliminary_records:
     - {source_id: SRC-HOP-KUHRT-PERSIAN-EMPIRE, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
     - {source_id: SRC-HOP-BRIANT-EMPIRE-PERSE, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
 
+preliminary_maps:
+  - map_id: PERSIA-PERSON-AUTHORITY-001
+    path: sources/primary/ancient/persia/maps/PERSIA-PERSON-AUTHORITY-001.yaml
+    state: PRELIMINARY_MAP_NOT_OPERATIVE_OR_ADMITTED
+    disposition: >-
+      Retain as a future re-audit starting point. Every proposition, source priority,
+      witness locator and Age crossing must be rechecked after the Persia phase opens.
+
 current_counts:
-  files_present: 14
+  source_files_present: 14
+  map_files_present: 1
   active_acquisition_records: 0
   admitted_star_evidence: 0
-  passage_sets: 0
-  claim_maps: 0
+  active_passage_sets: 0
+  active_claim_maps: 0
   integration_proposals: 0
 
 preliminary_quality_finding: >-
-  The sampled records already contain History of Power targets, evidence classes,
-  counter-witness limits and Age-of-the-Individual crossings. Their structure is
-  promising, but exact witness metadata, edition controls, source selection and
-  passage priorities must be re-audited when the Persia phase formally opens.
+  The sampled records and map already contain History of Power targets, evidence
+  classes, counter-witness limits and Age-of-the-Individual crossings. Their structure
+  is promising, but exact witness metadata, edition controls, source selection, mapped
+  propositions and passage priorities must be re-audited when the Persia phase formally opens.
 
 release_conditions:
   - Owner certifies EGYPT-REPAIR-CERTIFICATION-001.
   - Egypt correction is safely applied or explicitly adopted as the governing pending correction under a stated exception.
   - Owner or governing workflow authorizes formal movement to Persia.
-  - Persia audit is read again before any preliminary record is promoted.
-  - A Persia corpus manifest is amended from PRE_ACQUISITION_HOLD to ACQUISITION_IN_PROGRESS through an explicit commit.
+  - Persia audit is read again before any preliminary record or mapped claim is promoted.
+  - This manifest is amended from PRE_ACQUISITION_HOLD to ACQUISITION_IN_PROGRESS through an explicit commit.
 
 prohibited_inferences:
   - File existence does not equal source acquisition.
   - Metadata locking does not equal passage verification.
+  - Preliminary map existence does not equal active claim mapping or narrative readiness.
   - A royal inscription does not become neutral imperial history.
   - A preliminary Age crossing does not establish causal descent toward modern individuality.
-  - These records do not satisfy the Persia narrative gate.
+  - These artifacts do not satisfy the Persia narrative gate.
 
 next_action: HOLD_POSITION_AT_EGYPT_PENDING_OWNER_CERTIFICATION
