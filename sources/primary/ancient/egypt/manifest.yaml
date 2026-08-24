@@ -1,6 +1,6 @@
 corpus_id: HOP-EGYPT-REBALANCE-001
 name: Egypt Source Rebalancing Corpus
-status: EGYPT_REPAIR_PACKAGE_PENDING_OWNER_CERTIFICATION
+status: EGYPT_REPAIR_PACKAGE_PENDING_OWNER_CERTIFICATION_PERSIA_PREPARATION_EXCEPTION_ACTIVE
 parent_star: STAR-HISTORY-OF-POWER-001
 star_layer_target: egyptian_power
 method: sources/SOURCE-WITNESS-METHOD.md
@@ -92,6 +92,12 @@ structured_star_correction:
   certification_package:
     path: sources/primary/ancient/egypt/integration/EGYPT-REPAIR-CERTIFICATION-001.yaml
     state: PENDING_OWNER_CERTIFICATION
+  chronology_addendum:
+    path: sources/primary/ancient/egypt/integration/EGYPT-REPAIR-CERTIFICATION-ADDENDUM-PERSIA-EXCEPTION-001.yaml
+    state: BINDING_LIMITED_PREPARATORY_EXCEPTION
+    effect: >-
+      Preparatory Persia acquisition may continue without certifying Egypt or admitting
+      Persian claims. Persian structured integration and movement to Greece remain blocked.
 
 person_power_finding: >-
   Egyptian evidence now shows loyal subjecthood, productive labor, marginal petition,
@@ -123,7 +129,7 @@ validation_state:
     source_records: VERIFIED_PRESENT
     passage_sets: VERIFIED_PRESENT
     proposal_candidate_and_addendum: VERIFIED_PRESENT
-    certification_package: VERIFIED_PRESENT
+    certification_package_and_chronology_addendum: VERIFIED_PRESENT
   local_clone_validation:
     state: NOT_AVAILABLE
     reason: container network could not resolve GitHub; this was an environment transport limitation, not a repository-content finding
@@ -136,15 +142,20 @@ narrative_gate:
   structured_star_review: OPEN
   structured_star_application: BLOCKED_PENDING_OWNER_CERTIFICATION_AND_SAFE_WRITE
   narrative_revision: BLOCKED_UNTIL_STRUCTURED_STAR_APPLICATION
+  preparatory_persia_acquisition: AUTHORIZED_UNDER_LIMITED_EXCEPTION
+  persian_structured_integration: BLOCKED
+  movement_to_greece: BLOCKED
   rule: >-
     The main Egypt correction, exact candidate and Amenemope addendum are ready for
     owner judgment. Selected Horemheb/Rekhmire relations may support review, but held
-    quotation-sensitive details remain outside admitted FACT. Narrative revision stays
-    downstream of safe structured-Star application.
+    quotation-sensitive details remain outside admitted FACT. The owner's repeated
+    instruction to continue permits bounded Persia preparation only; it is not Egypt
+    certification or Persian admission. Narrative revision stays downstream of safe
+    structured-Star application.
 
-chronological_next_after_certification:
-  layer: PERSIA
-  rule: >-
-    Persia acquisition begins only after the owner certifies this package and either
-    the Egypt structured-Star correction is safely applied or the package is explicitly
-    adopted as the governing pending correction under a stated exception.
+chronology_state:
+  evidence_repair_completed_for_review: EGYPT
+  owner_certification: PENDING
+  current_preparatory_layer: PERSIA
+  next_layer: GREECE
+  hold: STOP_BEFORE_GREECE_AND_BEFORE_PERSIAN_STRUCTURED_INTEGRATION
