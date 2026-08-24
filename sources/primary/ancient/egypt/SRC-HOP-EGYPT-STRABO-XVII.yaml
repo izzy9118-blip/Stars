@@ -1,0 +1,64 @@
+source_id: SRC-HOP-EGYPT-STRABO-XVII
+status: WORK_AND_TEXTUAL_TRADITION_REGISTERED_PASSAGE_EXTRACTION_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Strabo
+work_or_document_title: Geography, Book XVII
+original_language: Greek
+date_or_period: Late first century BCE to early first century CE; Augustan context
+
+evidence_class: POST_FESTUM_DUSK_WITNESS_AND_CONTEMPORARY_OBSERVER_OF_ROMAN_EGYPT
+participant_or_observer_position: Greek geographer and traveler describing Egypt within the Roman imperial world while compiling earlier geographic and historical traditions
+temporal_distance_if_retrospective: Contemporary to early Roman Egypt but centuries to millennia removed from most pharaonic institutions discussed
+
+governing_witness_and_exact_edition_or_archive:
+  ancient_textual_state: Survives through medieval Greek manuscript transmission, not an autograph
+  Greek_critical_text_target:
+    editor_tradition: August Meineke and subsequent critical editions
+    repository: Perseus Digital Library or page-image critical edition
+    status: EXACT_EDITION_URN_AND_SECTION_CROSSWALK_PENDING
+  translation_rule: No modern translation governs over the Greek witness
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Roman incorporation transforms the territorial, fiscal, urban, military, and priestly field within which older Egyptian forms persist.
+  - A later traveler can distinguish surviving monuments and cults from the contemporary provincial administration that now governs Egypt.
+intended_claim_class:
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - WITNESS_METADATA
+
+what_the_source_can_establish:
+  - Strabo's observations and reports concerning Augustan Egypt, its geography, cities, monuments, priestly centers, and Roman administration.
+  - A post-festum view of older Egyptian power from within a new imperial order.
+  - The coexistence and transformation of inherited sacred places under Roman provincial rule.
+what_the_source_cannot_establish:
+  - Direct evidence for the original function of monuments or institutions from much earlier periods.
+  - That every reported custom remained unchanged or was personally observed.
+  - The perspectives of Egyptian inhabitants absent from the geographer's account.
+
+rival_or_counter_witnesses_where_known:
+  - Egyptian Demotic and Greek papyri from Roman Egypt
+  - Herodotus, Histories Book II
+  - SRC-HOP-EGYPT-DIODORUS-I
+  - archaeological and epigraphic evidence for the sites described
+
+boundary_effect: >-
+  Strabo is strongest for the transformation of Egypt under Rome and weakest when
+  later observation is projected backward into pharaonic origins.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - forms_of_authority.sovereign_authority
+  authority_bearer: Roman imperial and provincial administration coexisting with cities, temples, priests, and inherited sacred geography
+  human_position: Provincial inhabitant classified territorially and fiscally within an empire that contains older identities and cults
+  demanded_conduct: Obedience to provincial order; source-specific cultic and civic conduct remains separately attributed
+  formative_technique: Geography, census-like description, provincial office, city hierarchy, travel, and comparative classification
+  crossing_relation: TRANSFORM
+  non_teleology_rule: >-
+    Roman incorporation transforms the field of authority but does not by itself
+    produce the modern separate individual.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
