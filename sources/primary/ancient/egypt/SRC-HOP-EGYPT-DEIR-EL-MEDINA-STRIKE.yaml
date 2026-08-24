@@ -1,0 +1,68 @@
+source_id: SRC-HOP-EGYPT-DEIR-EL-MEDINA-STRIKE
+status: GOVERNING_PAPYRUS_IDENTIFIED_IMAGE_AND_COLUMN_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Egyptian administrative scribal record associated with the Deir el-Medina workmen's community
+work_or_document_title: Turin Strike Papyrus
+principal_identifier: Papyrus Turin Cat. 1880
+original_language: Late Egyptian
+date_or_period: Year 29 of Ramesses III, Twentieth Dynasty
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+participant_or_observer_position: Scribal record of collective work stoppage, ration arrears, complaints, movement, and negotiation
+temporal_distance_if_retrospective: Near-contemporary administrative record; individual entries and compilation sequence require papyrological control
+
+governing_witness_and_exact_edition_or_archive:
+  original_object:
+    repository: Museo Egizio, Turin
+    catalogue: Cat. 1880
+    status: GOVERNING_OBJECT_IDENTIFIED_EXACT_RECTO_VERSO_AND_COLUMN_CROSSWALK_PENDING
+  candidate_digital_record:
+    url: https://collezioni.museoegizio.it/en-GB/material/Cat_1880
+    status: LOCATOR_TO_VERIFY_BEFORE_QUOTATION
+  translation_and_edition_control:
+    status: MODERN_HIEROGLYPHIC_TRANSCRIPTION_AND_TRANSLATION_TO_BE_SELECTED
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Temple-state labor and royal building depend upon regular provisioning, scribal accounting, supervisors, storehouses, and channels of petition.
+  - Organized workers can suspend labor and address authorities from within, rather than outside, the encompassing royal-administrative order.
+intended_claim_class:
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - A recorded episode of ration arrears, collective work stoppage, complaint, movement, negotiation, and administrative response at Deir el-Medina.
+  - The material dependence of skilled state workers upon provisioning and accounting institutions.
+  - Collective agency exercised through recognized sacred, administrative, and local channels.
+what_the_source_cannot_establish:
+  - A modern labor movement, right to strike, or class consciousness in a later sense.
+  - The normal condition of all Egyptian laborers or all royal projects.
+  - The complete causes and effects of the dispute without related journals, accounts, and ostraca.
+
+rival_or_counter_witnesses_where_known:
+  - Deir el-Medina journals, ration lists, letters, and ostraca
+  - royal building inscriptions
+  - SRC-HOP-EGYPT-HOREMHEB-EDICT
+  - SRC-HOP-EGYPT-WENI-AUTOBIOGRAPHY
+
+boundary_effect: >-
+  This witness adds worker and local-administrative agency to an elite-heavy
+  corpus while remaining bounded to one exceptional community and episode.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - forms_of_authority.household_authority
+  authority_bearer: Pharaoh's work administration, temple/storehouse provisioning, scribes, supervisors, and local officials
+  human_position: Skilled worker-subject whose service depends on material obligations owed by the governing order
+  demanded_conduct: Labor, attendance, and petition through recognized channels; collective withdrawal appears when provision fails
+  formative_technique: Ration list, work journal, hierarchy, complaint, procession, oath, and recorded negotiation
+  crossing_relation: COEXIST_WITH
+  non_teleology_rule: >-
+    Collective refusal shows agency without converting the workmen into modern
+    contractually free individuals. Their claims arise from duties and provisions
+    internal to the royal-temple order.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
