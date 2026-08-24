@@ -1,0 +1,67 @@
+source_id: SRC-HOP-EGYPT-ABUSIR-PAPYRI
+status: ARCHIVE_CLUSTER_REGISTERED_OBJECT_AND_EDITION_CONCORDANCE_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Old Kingdom temple scribal and administrative offices
+work_or_document_title: Abusir Papyri
+original_language: Old Egyptian in hieratic
+date_or_period: Fifth and Sixth Dynasties; individual archive groups and copies require separate dating
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+participant_or_observer_position: Temple administrative records concerning ritual schedules, personnel, inventories, deliveries, accounts, and institutional routines
+temporal_distance_if_retrospective: Contemporary administrative records relative to the activities they register; modern reconstruction of dispersed fragments remains separate
+
+governing_witness_and_exact_edition_or_archive:
+  archive_groups:
+    - mortuary temple archive of Neferirkare Kakai
+    - mortuary temple archive of Neferefre
+    - related Abusir temple papyri to be admitted document by document
+  repositories: Dispersed museum holdings, including Cairo and other collections; exact fragment concordance pending
+  critical_edition_targets:
+    - Paule Posener-Kriéger, Les archives du temple funéraire de Néferirkarê-Kakaï
+    - archive-specific editions for Neferefre and later discoveries
+  rule: >-
+    Each extracted relation must identify one archive, fragment, document type,
+    edition, plate, and line. 'The Abusir Papyri' is not one continuous document.
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Temple ritual depends upon recurring schedules, personnel, goods, inventory, writing, and administrative coordination.
+  - Priests, workers, goods, and time become institutionally differentiated within a mortuary cult that joins sacred maintenance to practical administration.
+intended_claim_class:
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - The administrative categories and routines preserved in specified Old Kingdom temple documents.
+  - A direct connection among cult, personnel, provisioning, recordkeeping, and institutional continuity.
+  - That temple power operated through ordinary repetitive administration as well as monumental theology.
+what_the_source_cannot_establish:
+  - One uniform temple administration for all periods or cults.
+  - The beliefs or lived experience of every person listed.
+  - A complete economy of the Egyptian state.
+  - Modern bureaucratic impersonality independent of royal and mortuary institutions.
+
+rival_or_counter_witnesses_where_known:
+  - SRC-HOP-EGYPT-GREAT-HARRIS-PAPYRUS
+  - SRC-HOP-EGYPT-WILBOUR-PAPYRUS
+  - temple archaeology and settlement evidence
+  - later temple papyri and priestly archives
+
+boundary_effect: >-
+  The archive grounds temple administration directly while forcing period,
+  institution, document type, and fragment-level limits.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: Mortuary temple, royal cult, priestly office, schedule, archive, and provisioning system
+  human_position: Priest, worker, supplier, or official identified by role within recurring cult administration
+  demanded_conduct: Attendance, ritual service, delivery, accounting, and performance of assigned rotation
+  formative_technique: Roster, calendar, inventory, account, seal, scribal record, and archive
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    Administrative identification of personnel does not make the worker or priest
+    an autonomous individual prior to the cultic institution.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
