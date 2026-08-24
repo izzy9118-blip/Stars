@@ -1,92 +1,61 @@
 corpus_id: HOP-ADMINISTRATIVE-STATE-001
 name: Administrative and National Power Primary Source Corpus
-status: NAPOLEONIC_CORE_MAPPED_RESTORATION_1815_1848_SUBSTANTIALLY_GATHERED
+status: THROUGH_1856_GATHERED_NATIONAL_UNIFICATION_NEXT
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: history-of-power-primary-sources-001
 working_branch: history-of-power-administrative-state-001
 
-period_focus: "1798-1815 core administrative unit mapped; 1815-1848 Restoration, democratic-national-state, communications and transport unit substantially gathered"
+period_focus: "1798-1815 Napoleonic administrative state mapped; 1815-1848 constitutional/administrative continuity and infrastructure gathered; 1848-1856 republican expansion and Tocqueville retrospective added"
 
 purpose: >-
-  Reconstruct how revolutionary sovereignty and mobilization were converted into
-  durable executive, territorial, military, legal, educational, police,
-  informational, infrastructural, fiscal, and accounting capacities under the
-  Consulate and Empire, then determine which capacities survive Restoration and
-  subsequent constitutional revolutions and how nineteenth-century thinkers
-  understand the national, administrative, military, and infrastructural state.
+  Reconstruct how revolutionary sovereignty and mobilization were converted into durable
+  executive, territorial, military, legal, educational, police, informational,
+  infrastructural, fiscal, and accounting capacities; determine how those capacities
+  survive constitutional regime change; and follow their fusion with democratic claims,
+  industrial communications, national military organization, and nineteenth-century unification.
 
 acquisition_rules:
   - Primary legal and administrative texts govern over later descriptions.
   - Original-language official texts and archival witnesses govern where available.
   - Revolutionary institutions inherited by Napoleon are not relabeled as Napoleonic inventions.
-  - Constitution, administration, police, military recruitment, law, education, statistics, infrastructure, taxation, accounting, and personal executive correspondence remain distinct evidence classes.
   - Regime change and administrative continuity are separate relations and must be demonstrated independently.
-  - A later critical correspondence edition may govern document identification only when each quoted letter retains its individual primary-document metadata.
+  - Constitution, administration, police, military recruitment, law, education, statistics, infrastructure, taxation, accounting, communications, and personal executive correspondence remain distinct evidence classes.
   - Philosophical and military-theoretical texts are attributed interpretations, not substitutes for institutional evidence.
+  - Later retrospective texts such as Tocqueville 1856 are primary evidence for the author's interpretation, not automatically for the earlier institutions described.
   - Communications and transport are political capacities only where their legal, financial, or administrative organization is documented.
   - Claims of centralization, bureaucracy, nationalism, modernization, or state capacity must be demonstrated through institutions and documents rather than assumed from period labels.
 
-napoleonic_sources:
-  - {source_id: SRC-HOP-CONSCRIPTION-1798, state: GOVERNING_DOCUMENTARY_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-CONSTITUTION-AN-VIII-1799, state: GOVERNING_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-PREFECTS-28-PLUVIOSE-AN-VIII, state: GOVERNING_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-PREFECTURE-POLICE-1800, state: GOVERNING_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-PORTALIS-DISCOURS-1801, state: DOCUMENTARY_TEXT_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-CHAPTAL-STATISTICS-1801, state: ARCHIVAL_PROGRAM_LOCATED_EXACT_CIRCULAR_TEXT_PENDING}
-  - {source_id: SRC-HOP-INSTRUCTION-11-FLOREAL-X, state: GOVERNING_DOCUMENTARY_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-CODE-CIVIL-1804, state: GOVERNING_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-SENATUS-CONSULTE-AN-XII-1804, state: GOVERNING_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-NAPOLEON-CORRESPONDENCE, state: PRIMARY_CORRESPONDENCE_CORPUS_LOCKED}
-  - {source_id: SRC-HOP-NAPOLEON-ADMIN-LETTERS, state: TWO_PRIMARY_MINUTES_LOCKED_ONE_PUBLISHED_TEXT_PENDING_CROSSWALK}
-  - {source_id: SRC-HOP-ROUTES-DECREE-1811, state: GOVERNING_DOCUMENTARY_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-CADASTRE-RECUEIL-1811, state: GOVERNING_ADMINISTRATIVE_COMPILATION_LOCKED}
-  - {source_id: SRC-HOP-COUR-COMPTES-1807, state: GOVERNING_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-DROITS-REUNIS-1804, state: ARCHIVAL_INSTITUTIONAL_WITNESS_LOCKED}
+napoleonic_sources_count: 15
+restoration_1815_1848_sources_count: 10
+post_1848_sources:
+  - {source_id: SRC-HOP-ABOLITION-SLAVERY-1848, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
+  - {source_id: SRC-HOP-TOCQUEVILLE-ANCIEN-REGIME-1856, state: GOVERNING_FIRST_EDITION_WITNESS_LOCKED}
 
-restoration_1815_1848_sources:
-  - {source_id: SRC-HOP-CHARTER-1814, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
-  - {source_id: SRC-HOP-VIENNA-FINAL-ACT-1815, state: GOVERNING_DIPLOMATIC_TEXT_LOCKED}
-  - {source_id: SRC-HOP-HEGEL-PHILOSOPHY-RIGHT-1821, state: GOVERNING_FIRST_EDITION_WITNESS_LOCKED_PASSAGES_IDENTIFIED}
-  - {source_id: SRC-HOP-CLAUSEWITZ-VOM-KRIEGE-1832, state: GOVERNING_POSTHUMOUS_FIRST_EDITION_WITNESS_LOCKED_PASSAGES_IDENTIFIED}
-  - {source_id: SRC-HOP-TOCQUEVILLE-DEMOCRACY-1835-1840, state: GOVERNING_PUBLICATION_SEQUENCE_LOCKED_PASSAGES_IDENTIFIED}
-  - {source_id: SRC-HOP-CHARTER-1830, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
-  - {source_id: SRC-HOP-TELEGRAPH-LAW-1837, state: CONTEMPORARY_LEGAL_TEXT_LOCKED}
-  - {source_id: SRC-HOP-RAILWAY-LAW-1842, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
-  - {source_id: SRC-HOP-CONSTITUTION-1848, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
-  - {source_id: SRC-HOP-PREFECTURAL-CONTINUITY-1814-1848, state: MULTI_DOCUMENT_PRIMARY_CONTINUITY_SET_LOCKED}
-
-witness_count: 25
-locked_or_registered_count: 25
+witness_count: 27
+locked_or_registered_count: 27
 
 maps:
-  - map_id: NAPOLEONIC-ADMINISTRATIVE-STATE-001
-    path: sources/primary/nineteenth-century/maps/NAPOLEONIC-ADMINISTRATIVE-STATE-001.yaml
-    state: CONDITIONALLY_SATISFIED_FOR_CORE_ADMINISTRATIVE_MECHANISMS
-  - map_id: RESTORATION-NATIONAL-STATE-1815-1848-001
-    path: sources/primary/nineteenth-century/maps/RESTORATION-NATIONAL-STATE-1815-1848-001.yaml
-    state: PASSAGE_EXTRACTION_IN_PROGRESS
-  - map_id: ADMINISTRATIVE-CONTINUITY-1814-1848-001
-    path: sources/primary/nineteenth-century/maps/ADMINISTRATIVE-CONTINUITY-1814-1848-001.yaml
-    state: CORE_RELATION_VERIFIED
+  - {map_id: NAPOLEONIC-ADMINISTRATIVE-STATE-001, path: sources/primary/nineteenth-century/maps/NAPOLEONIC-ADMINISTRATIVE-STATE-001.yaml, state: CONDITIONALLY_SATISFIED_FOR_CORE_ADMINISTRATIVE_MECHANISMS}
+  - {map_id: RESTORATION-NATIONAL-STATE-1815-1848-001, path: sources/primary/nineteenth-century/maps/RESTORATION-NATIONAL-STATE-1815-1848-001.yaml, state: PASSAGE_EXTRACTION_IN_PROGRESS}
+  - {map_id: ADMINISTRATIVE-CONTINUITY-1814-1848-001, path: sources/primary/nineteenth-century/maps/ADMINISTRATIVE-CONTINUITY-1814-1848-001.yaml, state: CORE_RELATION_VERIFIED}
 
-napoleonic_unit_remaining_controls:
-  - Inspect Chaptal's 19 germinal an IX statistical circular before direct quotation.
-  - Cross-walk the 25 March 1802 road letter to its original minute or critical correspondence number before direct quotation.
-  - Add a quantified aggregate budget/Treasury witness only if later synthesis requires a claim about aggregate fiscal capacity rather than machinery.
+core_findings_under_test:
+  - Constitutional sovereignty can change while territorial administrative offices persist.
+  - The state becomes increasingly capable of knowing property and population, collecting and auditing revenue, moving armies and officials, controlling rapid signaling, and planning national transport networks.
+  - Democratic or republican reforms do not necessarily dissolve central administrative capacity; they can repurpose it.
+  - Administrative centralization may have important pre-Revolutionary roots even where Revolution and Empire intensify or reorganize it.
 
-restoration_unit_remaining_controls:
-  - Cross-check identified Hegel sections against first-edition page images before direct quotation.
-  - Cross-check identified Clausewitz passages against the posthumous first edition and retain editorial-state notes.
-  - Cross-check identified Tocqueville passages against verified 1835 and 1840 first-edition page images.
-  - Continue institution-specific continuity testing beyond prefectures to Code civil, Cour des comptes, cadastre and fiscal administration as needed.
+remaining_controls:
+  - First-edition image crosswalk for direct Hegel, Clausewitz, and Tocqueville 1835/1840 quotations.
+  - Original text of Chaptal 1801 statistical circular before direct quotation.
+  - Institution-specific continuity tests beyond prefectures if required by final synthesis.
 
 chronological_next:
-  name: REVOLUTION_1848_INDUSTRIAL_COMMUNICATION_AND_NATIONAL_UNIFICATION
-  sequence:
-    - 1848 social and republican claims
-    - railway and electric-telegraph expansion
-    - statistical and fiscal administration
-    - 1856 Tocqueville retrospective centralization analysis
-    - national military organization
-    - Italian and German unification
-    - Bismarck and the administrative-national state
+  name: NATIONAL_UNIFICATION_AND_ADMINISTRATIVE_MILITARY_POWER_1850_1871
+  targets:
+    - Prussian Constitution of 1850
+    - Prussian military/budget conflict and Bismarck's 1862 constitutional argument
+    - North German Confederation Constitution of 1867
+    - German Empire Constitution of 1871
+    - Statuto Albertino and legal proclamation of the Kingdom of Italy
+    - railway, telegraph, taxation, military service and bureaucracy as unification mechanisms where primary evidence supports the relation
