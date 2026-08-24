@@ -1,0 +1,30 @@
+source_id: SRC-HOP-ROUSSEAU-CONTRAT-SOCIAL-1762
+status: GOVERNING_WITNESS_LOCKED
+work:
+  author: Jean-Jacques Rousseau
+  title: Du contract social, ou, Principes du droit politique
+  year: 1762
+  original_language: French
+  role: social_pact_general_will_sovereignty_law_and_citizenship
+governing_witness:
+  type: DIGITIZED_1762_FIRST_EDITION
+  place: Amsterdam
+  publisher: Marc Michel Rey
+  repository: Bibliothèque de Genève / e-rara
+  shelfmark: Df 92
+  doi: https://doi.org/10.3931/e-rara-7948
+  extent: "[4], VIII, 323, [1] p."
+  rights: Public Domain Mark
+passage_targets:
+  - {location: "Book I, chapter VI", anchor: "Trouver une forme d'association qui défende et protège de toute la force commune la personne et les biens de chaque associé", use: problem_of_social_pact}
+  - {location: "Book I, chapter VI", anchor: "Chacun de nous met en commun sa personne et toute sa puissance sous la suprême direction de la volonté générale", use: formation_of_collective_body}
+  - {location: "Book II, chapter I", anchor: "la souveraineté, n'étant que l'exercice de la volonté générale, ne peut jamais s'aliéner", use: inalienable_sovereignty}
+  - {location: "Book II, chapter II", anchor: "la souveraineté est indivisible", use: indivisible_general_will}
+claim_boundary: >-
+  Rousseau distinguishes sovereignty, law, government, and magistracy. His sovereign
+  is the collective body acting through the general will; this is not identical with
+  an executive government or with whatever a temporary majority happens to desire.
+reuse_relation:
+  repository_source: STAR-AGE-OF-INDIVIDUAL-001
+  interpretive_evidence: [SRC-STRAUSS-ROUSSEAU-1962]
+  rule: ROUSSEAU_PRIMARY_TEXT_AND_STRAUSS_INTERPRETATION_REMAIN_DISTINCT
