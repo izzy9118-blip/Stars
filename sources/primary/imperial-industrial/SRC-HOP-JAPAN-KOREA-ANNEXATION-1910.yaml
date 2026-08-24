@@ -1,0 +1,17 @@
+source_id: SRC-HOP-JAPAN-KOREA-ANNEXATION-1910
+status: DIPLOMATIC_TREATY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  parties: [Empire of Japan, Korean Empire]
+  title: Treaty Regarding the Annexation of Korea to the Empire of Japan
+  date: 1910-08-22
+  role: colonial_annexation_sovereignty_transfer_and_imperial_jurisdiction
+governing_witness:
+  witness_type: JAPANESE_DIPLOMATIC_DOCUMENT_DATABASE_TEXT
+  repository: The World and Japan Database
+  index: https://worldjpn.net/documents/indices/pw/index-ENG.html
+  languages_available: [Japanese, English, Chinese, Korean]
+qualification: >-
+  The treaty records Japan's legal claim to annexation and transfer of sovereignty. It must not be treated
+  as proof of free Korean consent or as an adequate account of the coercive political context, resistance,
+  and subsequent colonial administration. Those require Korean and administrative witnesses.
