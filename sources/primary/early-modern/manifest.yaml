@@ -1,6 +1,6 @@
 corpus_id: HOP-EARLY-MODERN-PRIMARY-001
 name: Early-Modern Primary Source Repair Corpus
-status: DUTCH_CONSTITUTIONAL_COMMERCIAL_AND_FINANCIAL_WITNESSES_MAPPED
+status: DUTCH_UNIT_MAPPED_ENGLISH_UNIT_NEXT
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: star-history-of-power-001
 working_branch: history-of-power-primary-sources-001
@@ -126,6 +126,12 @@ sources:
     record: sources/primary/early-modern/SRC-HOP-DEWITT-LYFRENTEN-1671.yaml
     witness: "1671 Dutch print, 's-Gravenhage: Jacobus Scheltus"
 
+  - source_id: SRC-HOP-FINANCIE-HOLLAND-30129
+    role: provincial_treasury_public_debt_taxation_and_annuity_accounting
+    state: ARCHIVAL_SERIES_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-FINANCIE-HOLLAND-30129.yaml
+    witness: "Nationaal Archief, Archief van de Financie van Holland 3.01.29"
+
   - source_id: SRC-HOP-DE-LA-VEGA-CONFUSION-1688
     role: amsterdam_share_trading_speculation_credit_information_and_bank_settlement
     state: GOVERNING_WITNESS_LOCKED
@@ -150,8 +156,8 @@ sources:
     record: sources/primary/early-modern/SRC-HOP-BOE-CHARTER-1694.yaml
     witness: "Official Bank of England text of Charter dated 27 July 1694"
 
-witness_count: 21
-locked_count: 21
+witness_count: 22
+locked_count: 22
 
 maps:
   - map_id: DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001
@@ -159,7 +165,7 @@ maps:
     status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
   - map_id: DUTCH-FINANCIAL-POWER-001
     path: sources/primary/early-modern/maps/DUTCH-FINANCIAL-POWER-001.yaml
-    status: PASSAGE_EXTRACTION_IN_PROGRESS
+    status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
 
 repair_sequence:
   - reformation_and_confessional_jurisdiction
@@ -183,8 +189,18 @@ next_phase:
   dutch_unit:
     constitutional_commercial_map: sources/primary/early-modern/maps/DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001.yaml
     financial_map: sources/primary/early-modern/maps/DUTCH-FINANCIAL-POWER-001.yaml
-    narrative_gate:
+    state: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
+    remaining_controls:
       - final image-level comparison of any De Witt 1654 wording intended for direct quotation
       - preserve later-transcription status of VOC charter article numbering unless original diplomatic text is obtained
       - preserve Grotius manuscript textual-state information
-      - cross-check any quantitative claim about Wisselbank or provincial debt against accounting records
+      - do not make recurrent quantitative Wisselbank borrowing claims from the single 1662 Bontemantel entry
+  next_unit:
+    name: ENGLISH_CIVIL_WAR_SOVEREIGNTY_1688_AND_FUNDED_CREDIT
+    initial_sources:
+      - SRC-HOP-PETITION-RIGHT-1628
+      - SRC-HOP-PUTNEY-DEBATES-1647
+      - SRC-HOP-HOBBES-LEVIATHAN-1651
+      - SRC-HOP-BILL-RIGHTS-1689
+      - SRC-HOP-BOE-ACT-1694
+      - SRC-HOP-BOE-CHARTER-1694
