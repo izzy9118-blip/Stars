@@ -1,0 +1,53 @@
+source_id: SRC-HOP-PLUTARCH-ISIS-OSIRIS
+status: GOVERNING_GREEK_EDITION_LOCKED_PASSAGE_EXTRACTION_PENDING
+
+author_or_corporate_author: Plutarch
+work_or_document_title: De Iside et Osiride
+date_or_period: late first to early second century CE
+original_language: Greek
+evidence_class: POST_FESTUM_DUSK_WITNESS
+
+governing_witness_and_exact_edition_or_archive:
+  governing_edition: Plutarchi Chaeronensis Moralia, volume II, ed. Gregorios N. Bernardakis, Leipzig: Teubner, 1889
+  cts_urn: urn:cts:greekLit:tlg0007.tlg089.perseus-grc1
+  parallel_library: https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg089/
+  translation_aid: Frank Cole Babbitt, Plutarch's Moralia volume V, 1936
+  textual_note: manuscript tradition and later philosophical mediation require explicit control
+
+participant_or_observer_position: Greek Platonist philosopher interpreting Egyptian religion in the Roman imperial world
+temporal_distance_if_retrospective: very late relative to the formation of the Osiris traditions he discusses
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - later_ancient_interpretation_of_Osiris_Isis_and_Seth
+  - transmission_and_transformation_of_Egyptian_symbolism
+  - boundary_between_Egyptian_self_witness_and_philosophical_reception
+intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - Plutarch produced a major ancient philosophical reconstruction of Egyptian myth, ritual and divine symbolism.
+  - Egyptian religious forms had become objects of cosmopolitan interpretation beyond Egypt.
+  - The work preserves traditions and interpretations that must be tested individually against Egyptian evidence.
+what_the_source_cannot_establish:
+  - Transparent Old or Middle Kingdom theology.
+  - Greek etymologies or philosophical harmonizations as native Egyptian explanations.
+  - The current narrative's distinct Horian and Osirian paths without independent Egyptian support.
+
+rival_or_counter_witnesses_where_known:
+  - Pyramid Texts and Coffin Texts
+  - temple inscriptions and ritual texts
+  - Diodorus Book I
+  - modern critical work by Hornung and Assmann
+boundary_effect: >-
+  Use Plutarch to map ancient reception and philosophical transformation. Do not
+  let his lateness or prestige convert interpretation into Egyptian self-description.
+
+age_of_individual_crossing:
+  person_power_relation: individual philosophical reader interpreting inherited cult within a cosmopolitan imperial setting
+  authority_demand: reflective approach to ritual and divine symbolism rather than direct royal administration
+  conduct_formation: inherited sacred forms become objects of personal and philosophical interpretation
+  later_relation: TRANSFORM_SACRED_ORDER_INTO_REFLECTIVE_RELIGIOUS_INTERPRETATION
+  prohibition: Do not project Plutarch's philosophical subject backward into pharaonic social order.
+
+quotation_state: NOT_YET_ADMITTED
+star_integration_state: NOT_YET_PROPOSED
