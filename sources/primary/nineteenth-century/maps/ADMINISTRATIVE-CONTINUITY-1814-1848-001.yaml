@@ -1,0 +1,80 @@
+map_id: ADMINISTRATIVE-CONTINUITY-1814-1848-001
+status: CORE_RELATION_VERIFIED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+intended_parent_map: RESTORATION-NATIONAL-STATE-1815-1848-001
+
+problem: >-
+  Determine whether the territorial-administrative machinery reorganized under
+  the Revolution and Napoleon disappears when sovereignty changes form, or whether
+  later monarchies and republics reauthorize and reuse it.
+
+claims:
+  - claim_id: CONT-001
+    proposition: >-
+      Bourbon restoration did not abolish the departmental prefectural structure:
+      royal government continued appointing prefects and issuing orders executable
+      through prefectural publication and registration.
+    source_id: SRC-HOP-PREFECTURAL-CONTINUITY-1814-1848
+    passage_status: VERIFIED_MULTI_DOCUMENT_PRIMARY_SET
+    evidence:
+      - 1814 Bulletin des lois prefect appointments
+      - 16 May 1830 ordinance requiring publication by prefects and registration at prefectures
+    qualification: >-
+      Office continuity does not imply continuity of officeholder, political loyalty,
+      or unchanged legal competence.
+
+  - claim_id: CONT-002
+    proposition: >-
+      The July Revolution reassigned central ministries and the police prefecture rather
+      than dissolving the territorial-administrative machinery as a whole.
+    source_id: SRC-HOP-PREFECTURAL-CONTINUITY-1814-1848
+    passage_status: VERIFIED_PRIMARY_DOCUMENT_TRANSCRIPTION
+    location: ordinances of 1-2 August 1830
+    qualification: >-
+      Transitional personnel replacement can coexist with institutional continuity.
+
+  - claim_id: CONT-003
+    proposition: >-
+      The Second Republic constitution explicitly retained departments, arrondissements,
+      cantons, communes, prefects, prefecture councils and subprefects while changing the
+      constitutional source of sovereignty and widening electoral participation.
+    source_ids:
+      - SRC-HOP-CONSTITUTION-1848
+      - SRC-HOP-PREFECTURAL-CONTINUITY-1814-1848
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    locations: [Article 76, Article 77, Article 79]
+    anchors:
+      - "La division du territoire ... est maintenue."
+      - "une administration composée d'un préfet"
+    qualification: >-
+      The same constitution democratizes elected local councils; continuity therefore
+      occurs together with institutional modification rather than simple preservation.
+
+  - claim_id: CONT-004
+    proposition: >-
+      The 1848 constitution itself supplies a general continuity rule by keeping existing
+      laws, regulations and constituted authorities in force until lawfully altered.
+    source_id: SRC-HOP-CONSTITUTION-1848
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    locations: [Article 112, Article 113]
+    qualification: >-
+      General continuity does not settle whether a particular prior rule is compatible
+      with the new constitution; specific survival remains an empirical legal question.
+
+analytical_synthesis:
+  proposition: >-
+    Nineteenth-century French political power increasingly separates the question
+    "who is sovereign?" from the question "through what territorial machinery is rule
+    administered?" Monarchy, constitutional monarchy, and democratic republic can alter
+    the first while retaining substantial portions of the second.
+  status: CROSS_SOURCE_SYNTHESIS
+  limits:
+    - not a claim that administration is politically neutral
+    - not a claim of unbroken personnel continuity
+    - not a claim that prefectural powers are identical under every regime
+
+next_tests:
+  - Code civil continuity after 1814 and 1830
+  - Cour des comptes continuity
+  - cadastral and fiscal continuity
+  - relationship of elected local councils to appointed prefects under July Monarchy and Second Republic
