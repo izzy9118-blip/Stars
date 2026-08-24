@@ -1,0 +1,20 @@
+source_id: SRC-HOP-WAR-LOAN-1917
+status: GOVERNING_STATUTORY_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: Parliament of the United Kingdom
+  title: War Loan Act 1917
+  date: 1917-08-21
+  citation: "7 & 8 Geo. 5 c. 41"
+  original_language: English
+  role: mass_public_borrowing_treasury_securities_banks_and_war_finance
+governing_witness:
+  witness_type: OFFICIAL_UK_STATUTE_PDF
+  url: https://www.legislation.gov.uk/ukpga/Geo5/7-8/41/pdfs/ukpga_19170041_en.pdf
+key_relations:
+  - Treasury may create and issue securities to raise parliamentary supply for wartime service
+  - statute incorporates earlier war-loan machinery into repeated borrowing
+  - Banks of England and Ireland are paid for management of securities
+qualification: >-
+  The Act establishes statutory borrowing capacity. Subscription campaigns, distribution of holders,
+  inflationary effects and central-bank operations require separate prospectus and banking records.
