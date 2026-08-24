@@ -1,0 +1,112 @@
+passage_set_id: EGY-NEFERTI-PASSAGES-001
+status: VERIFIED_WORKING_PASSAGES_FROM_IDENTIFIED_TRANSLITERATION
+source_id: SRC-HOP-NEFERTI
+star_layer_target: egyptian_power
+governing_text_basis:
+  principal_witness: Papyrus Hermitage 1116B
+  transliteration: after Wolfgang Helck 1970
+  online_diplomatic_aid: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/nefertytransl.html
+  note: >-
+    UCL supplies transliteration and translation keyed to Hermitage lines. Direct
+    quotation in the final Star still requires comparison with the printed Helck edition.
+
+passages:
+  - passage_id: EGY-NEFERTI-001
+    location: section 8, Papyrus Hermitage 1116B lines 40-45
+    original_language: Middle Egyptian
+    transliteration: >-
+      nn rm.tw n mwt / nn sDr.tw Hqr n mwt / ib n s m-sA.f Ds.f /
+      nn ir.tw sAmwt min ib sTni n Hr.s r-Aw
+    working_translation: >-
+      No one will weep at death; no one will sleep hungry for want of death;
+      the heart of a man will only be after himself. No mourning will be observed
+      today—the heart is turned entirely to itself.
+    supports:
+      - disorder_as_breakdown_of_social_and_mortuary_bonds
+      - heart_turned_to_itself_as_lamented_condition
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    age_of_individual_boundary: >-
+      The self-directed heart appears here as a sign of disintegration, not as the
+      morally authoritative private self of modern individualism.
+
+  - passage_id: EGY-NEFERTI-002
+    location: section 11, Papyrus Hermitage 1116B lines 49-54
+    original_language: Middle Egyptian
+    transliteration: >-
+      and tA aSA xrpw.f / wS.f aA bAkw.f / ktt it wr itp
+    working_translation: >-
+      The land is poor, but rich in directors; it lies ruined, but its labors are
+      great; the harvest is small, the grain-measure great.
+    supports:
+      - administrative_multiplication_without_order
+      - labor_and_exaction_as_measures_of_failed_rule
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      This is literary criticism of disorder, not a statistical description of a
+      particular bureaucracy or harvest.
+
+  - passage_id: EGY-NEFERTI-003
+    location: section 12, Papyrus Hermitage 1116B lines 54-57
+    original_language: Middle Egyptian
+    transliteration: >-
+      di.i n.k Xry r Hry / pXhr.ti m-sA pXr Xt
+    working_translation: >-
+      Let me show you the lower made the upper, stirred around after the stirring
+      around of the body.
+    supports:
+      - reversal_of_rank_and_role_as_disorder
+      - social_identity_embedded_in_ordered_position
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      The passage records the composition's normative hierarchy; it is not adopted
+      by the project as proof that hierarchy is just in itself.
+
+  - passage_id: EGY-NEFERTI-004
+    location: section 13, Papyrus Hermitage 1116B lines 57-61
+    original_language: Middle Egyptian
+    transliteration: >-
+      nswt pw r iyt n rsy / imny mAa xrw rn.f ... iw.f r Ssp HDt /
+      iw.f r wTs dSrt / iw.f smA sxmty / iw.f r sHtp nbwy m mrt.sn
+    working_translation: >-
+      There is a king who will come from the south, Ameny true of voice is his
+      name. He will take up the White Crown, raise the Red Crown, unite the Two
+      Mighty Goddesses, and appease the Two Lord Gods with what they desire.
+    supports:
+      - royal_restoration_as_reunion_of_territory_crown_and_divine_order
+      - legitimate_kingship_against_fragmentation
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      Ameny's identity and the date and purpose of the composition remain debated;
+      this passage establishes the literary form of restoration, not an exact historical chronology.
+
+  - passage_id: EGY-NEFERTI-005
+    location: section 14, Papyrus Hermitage 1116B lines 61-65
+    original_language: Middle Egyptian
+    transliteration: >-
+      rSy rmT nt hAw.f / sA n s r irt rn.f / r nHH Hna Dt
+    working_translation: >-
+      Rejoice, O people of his time. The son of a man will make his name for
+      eternity and everlasting time.
+    supports:
+      - people_and_personal_name_within_restored_kingship
+      - memory_and_endurance_under_order
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    age_of_individual_boundary: >-
+      Personal name and remembrance are real, but they appear within restored royal
+      and cosmic order rather than as self-created identity independent of it.
+
+cross_passage_synthesis:
+  proposition: >-
+    Neferti contrasts a world in which hearts, kin, rank, labor, mourning, property
+    and speech lose ordered relation with a restoration embodied in the king who
+    reunites crowns, gods and territory. The composition therefore supplies an
+    indigenous reflection on the older force of power as the maintenance of a common
+    intelligible order, while also showing that ancient persons possessed hearts,
+    names, fears and judgments not reducible to passive obedience.
+  claim_class: ANALYTICAL_SYNTHESIS
+  state: CANDIDATE_NOT_YET_ADMITTED_TO_STAR
+
+remaining_controls:
+  - Compare each line with Helck 1970 printed text and note variants from ostraca.
+  - Check alternative translations by Lichtheim, Parkinson and Goedicke.
+  - Keep literary setting, date of composition and political-legitimation hypotheses separate.
