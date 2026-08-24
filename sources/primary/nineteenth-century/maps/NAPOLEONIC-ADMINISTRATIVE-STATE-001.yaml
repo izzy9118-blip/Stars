@@ -1,14 +1,15 @@
 map_id: NAPOLEONIC-ADMINISTRATIVE-STATE-001
-status: PASSAGE_EXTRACTION_IN_PROGRESS
+status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
 parent_corpus: HOP-ADMINISTRATIVE-STATE-001
 intended_parent_star: STAR-HISTORY-OF-POWER-001
 
 method:
   - The Napoleonic state is not treated as a wholly new creation; Revolutionary inheritances are identified explicitly.
   - Legal authorization, administrative organization, actual practice, and Napoleon's personal commands are distinct evidence classes.
-  - Centralization means identifiable transfers or concentrations of appointment, reporting, execution, legal, military, police, or educational power; it is not used as a free-standing label.
+  - Centralization means identifiable transfers or concentrations of appointment, reporting, execution, legal, military, police, fiscal, accounting, educational, or infrastructural power; it is not used as a free-standing label.
   - State knowledge is not inferred from later statistical institutions when a contemporary reporting program can be located.
   - The Code civil is examined both as territorial/legal standardization and as a structure of private hierarchy; equality before uniform law does not imply equality within every civil relation.
+  - Assessment, collection, accounting, and audit are treated as distinct fiscal mechanisms.
 
 claims:
   - claim_id: NAP-ADM-001
@@ -123,26 +124,118 @@ claims:
 
   - claim_id: NAP-ADM-008
     proposition: >-
-      The Interior Ministry sought to turn prefectural reporting into a systematic
-      body of knowledge about population, agriculture, industry, commerce, wealth,
-      and resources available to government.
+      The Interior Ministry organized a bureau of statistics and ordered prefectural
+      inquiries intended to produce comparable knowledge about population, agriculture,
+      industry, commerce, wealth, and resources across the departmental territory.
     source_id: SRC-HOP-CHAPTAL-STATISTICS-1801
-    passage_status: ARCHIVAL_TARGET_ONLY
-    location: reported circular of 19 germinal an IX, Archives nationales F/20/136
+    passage_status: ARCHIVAL_PROGRAM_VERIFIED_EXACT_CIRCULAR_TEXT_PENDING
+    location: Archives nationales, statistical subseries F/20; circular of 19 germinal an IX reported in F/20/136 tradition
     qualification: >-
-      No direct quotation is admitted yet. The original or contemporary printed
-      circular must be inspected before this claim crosses the narrative gate.
+      The existence and administrative organization of the statistical program are
+      verified from the Archives nationales finding aid. No direct quotation from the
+      19 germinal circular is admitted until the original or contemporary printed text is inspected.
 
   - claim_id: NAP-ADM-009
     proposition: >-
-      Napoleon's correspondence can test whether the legal architecture above became
-      a practical command system by tracing orders from the center into prefectures,
-      police, military recruitment, finance, public works, education, and reporting.
-    source_id: SRC-HOP-NAPOLEON-CORRESPONDENCE
-    passage_status: DOCUMENT_EXTRACTION_PENDING
+      Napoleon personally used ministerial correspondence to request named intelligence,
+      surveillance, arrest, mapped infrastructure information, earmarked public-works funds,
+      and reports, connecting the formal administrative hierarchy to case-specific commands.
+    source_ids:
+      - SRC-HOP-NAPOLEON-ADMIN-LETTERS
+      - SRC-HOP-NAPOLEON-CORRESPONDENCE
+    passage_status: TWO_PRIMARY_MINUTES_VERIFIED_ROUTE_LETTER_PROVENANCE_PENDING
+    verified_documents:
+      - CG5-10048, 13 May 1805 to Fouché, Archives nationales AF IV 866
+      - CG6-12216, 1 June 1806 to Fouché, Archives nationales AF IV 869
+    working_document:
+      - 25 March 1802 to Chaptal concerning roads, earmarked funds, route map and Canal de Saint-Quentin report
     qualification: >-
-      This is a research proposition, not yet a historical finding. Specific dated
-      letters must be extracted before any claim about routine personal command is admitted.
+      The evidence establishes personal intervention in selected administrative matters.
+      It does not prove that Napoleon personally directed every routine act of administration.
+
+  - claim_id: NAP-ADM-010
+    proposition: >-
+      The 1811 road decree classified the Empire's major roads, assigned jurisdiction
+      and financial responsibility, and distributed enforcement among engineers,
+      prefectural authorities, mayors, police, and gendarmerie.
+    source_id: SRC-HOP-ROUTES-DECREE-1811
+    passage_status: VERIFIED_BULLETIN_DES_LOIS_DOCUMENTARY_WITNESS
+    location: Bulletin des Lois, 4e série, vol. XVI, no 418, texte 7644
+    original_language: French
+    anchor: "Toutes les routes de notre Empire sont divisées en routes impériales et routes départementales."
+    qualification: >-
+      Classification and maintenance jurisdiction do not by themselves establish road quality,
+      transport speed, or actual completion of every projected work.
+
+  - claim_id: NAP-ADM-011
+    proposition: >-
+      The cadastral system made landed property administratively legible through
+      delimitation, parcel measurement, classification, valuation, owner identification,
+      matrices, plans, and mutation records tied to land-tax assessment.
+    source_id: SRC-HOP-CADASTRE-RECUEIL-1811
+    passage_status: VERIFIED_CONTEMPORARY_ADMINISTRATIVE_COMPILATION
+    location: Recueil méthodique, Imprimerie impériale, 1811
+    original_language: French
+    extraction_scope:
+      - parcel measurement and plans
+      - classification by land use and quality
+      - taxable-product valuation
+      - ownership and cadastral matrices
+      - mutation and tax-roll records
+    qualification: >-
+      Cadastre makes property more legible to administration; it does not make every
+      property boundary or valuation uncontested or perfectly accurate.
+
+  - claim_id: NAP-ADM-012
+    proposition: >-
+      The 1807 Cour des comptes created a permanent judicial machinery for national
+      public accounting, requiring public accountants to submit accounts and judging
+      Treasury, departmental, military, maritime, indirect-tax, and local public funds.
+    source_id: SRC-HOP-COUR-COMPTES-1807
+    passage_status: VERIFIED_OFFICIAL_LEGISLATIVE_TEXT
+    locations: [Article 1, Article 11, Article 12, Article 13]
+    original_language: French
+    anchors:
+      - "Les fonctions de la comptabilité nationale seront exercées par une Cour des comptes."
+      - "Les comptables des deniers publics ... seront tenus de fournir et déposer leurs comptes"
+    qualification: >-
+      Judicial accounting is a capacity for review and enforcement; it is not evidence
+      that imperial finances were free from executive influence, arrears, or irregularity.
+
+  - claim_id: NAP-ADM-013
+    proposition: >-
+      The Régie des droits réunis re-established a staffed territorial machinery for
+      indirect taxation, with departmental directors, inspectors, controllers and
+      collection agents transmitting revenues through receivers-general to the Treasury.
+    source_id: SRC-HOP-DROITS-REUNIS-1804
+    passage_status: INSTITUTIONAL_AND_ARCHIVAL_RELATIONS_VERIFIED
+    location: law of 5 ventôse an XII and surviving Seine departmental accounting registers, 1804-1813
+    original_language: French
+    qualification: >-
+      Institutional reach does not establish collection efficiency or consent. The
+      duties were politically contentious and must not be redescribed as neutral administration.
+
+mechanism_chain:
+  political_authorization:
+    sources: [SRC-HOP-CONSTITUTION-AN-VIII-1799, SRC-HOP-SENATUS-CONSULTE-AN-XII-1804]
+  territorial_execution:
+    sources: [SRC-HOP-PREFECTS-28-PLUVIOSE-AN-VIII, SRC-HOP-PREFECTURE-POLICE-1800]
+  military_mobilization:
+    sources: [SRC-HOP-CONSCRIPTION-1798]
+  legal_standardization:
+    sources: [SRC-HOP-CODE-CIVIL-1804, SRC-HOP-PORTALIS-DISCOURS-1801]
+  formation:
+    sources: [SRC-HOP-INSTRUCTION-11-FLOREAL-X]
+  informational_legibility:
+    sources: [SRC-HOP-CHAPTAL-STATISTICS-1801, SRC-HOP-CADASTRE-RECUEIL-1811]
+  physical_infrastructure:
+    sources: [SRC-HOP-ROUTES-DECREE-1811, SRC-HOP-NAPOLEON-ADMIN-LETTERS]
+  revenue_collection:
+    sources: [SRC-HOP-DROITS-REUNIS-1804, SRC-HOP-CADASTRE-RECUEIL-1811]
+  accounting_and_audit:
+    sources: [SRC-HOP-COUR-COMPTES-1807]
+  personal_executive_direction:
+    sources: [SRC-HOP-NAPOLEON-ADMIN-LETTERS, SRC-HOP-NAPOLEON-CORRESPONDENCE]
 
 cross_source_questions:
   - >-
@@ -154,14 +247,29 @@ cross_source_questions:
     Did the prefectural chain strengthen the state by replacing local political initiative,
     or by making local information and execution more reliably available to the center?
   - >-
-    How did legal uniformity coexist with differentiated household, property, and administrative hierarchies?
+    How did legal uniformity coexist with differentiated household, property, fiscal, and administrative hierarchies?
   - >-
-    How did conscription, schools, police, statistics, and law make the population simultaneously
-    a bearer of national sovereignty, a resource to mobilize, an object to know, and a field to administer?
+    How did conscription, schools, police, statistics, cadastre, roads, taxation, accounting, and law make the population and territory simultaneously bearers of sovereignty, resources to mobilize, objects to know, and fields to administer?
+  - >-
+    Which capacities depended upon Napoleon personally, and which were institutional enough to survive his fall?
 
-remaining_extraction_before_narrative:
-  - Verify Chaptal's 19 germinal an IX circular in the primary archival or contemporary printed witness.
-  - Extract a controlled sample of Napoleon's correspondence to prefects, ministers, police, and military administrators.
-  - Add a direct public-works/roads administrative witness.
-  - Add a fiscal/treasury witness linking taxation and administrative capacity.
-  - Add the Concordat/Organic Articles only if the religion-administration relation proves necessary to this layer rather than duplicating the previous confessional-power unit.
+narrative_gate:
+  state: CONDITIONALLY_SATISFIED_FOR_CORE_ADMINISTRATIVE_MECHANISMS
+  satisfied:
+    - executive appointment and decision
+    - prefectural territorial administration
+    - police authority
+    - revolutionary conscription inherited by the regime
+    - state-organized secondary education
+    - civil-law standardization
+    - imperial constitutional settlement
+    - road classification and public-works direction
+    - property legibility through cadastre
+    - indirect-tax collection machinery
+    - centralized public-accounting review
+    - two archival-minuted examples of personal police direction
+  remaining_controls:
+    - inspect the original or contemporary printed Chaptal statistical circular before direct quotation
+    - cross-walk the 25 March 1802 Chaptal road letter to its original minute or critical correspondence number before direct quotation
+    - acquire one quantified Treasury/budget witness only if the narrative requires claims about aggregate fiscal capacity rather than administrative machinery
+    - preserve revolutionary origins of conscription and earlier antecedents of prefectural, statistical, road, cadastral, and accounting practices
