@@ -1,6 +1,6 @@
 corpus_id: HOP-EGYPT-REBALANCE-001
 name: Egypt Source Rebalancing Corpus
-status: SECOND_ACQUISITION_BATCH_LOCKED_STAR_CORRECTION_READY_WITH_HELD_CLAIMS
+status: EGYPT_REPAIR_PACKAGE_PENDING_OWNER_CERTIFICATION
 parent_star: STAR-HISTORY-OF-POWER-001
 star_layer_target: egyptian_power
 method: sources/SOURCE-WITNESS-METHOD.md
@@ -22,7 +22,7 @@ acquisition_rules:
   - Modern Egyptology controls damaged evidence and tests synthesis but never speaks in the voice of ancient Egypt.
   - Person-power crossings must not turn Egyptian subjects, petitioners, learners or officials into modern autonomous rights-bearers.
   - Absence of modern individuality does not imply absence of agency, inwardness, criticism, conscience-like reflection or moral judgment.
-  - No narrative or structured-Star claim is changed by acquisition alone.
+  - No narrative or structured-Star claim is changed by acquisition, mapping or certification scaffolding alone.
 
 acquired_witnesses:
   indigenous_and_operational:
@@ -30,8 +30,8 @@ acquired_witnesses:
     - {source_id: SRC-HOP-ELOQUENT-PEASANT, state: MANUSCRIPT_CONSTELLATION_LOCKED_PRIMARY_ANCHOR_MAPPED}
     - {source_id: SRC-HOP-LOYALIST-TEACHING, state: WITNESS_CONSTELLATION_LOCKED_PRIMARY_PASSAGES_MAPPED}
     - {source_id: SRC-HOP-AMENEMOPE, state: GOVERNING_MANUSCRIPT_AND_CRITICAL_EDITION_LOCKED_PASSAGE_TARGETS_MAPPED}
-    - {source_id: SRC-HOP-HOREMHEB-EDICT, state: MONUMENT_LOCKED_CRITICAL_TEXT_CROSSWALK_PENDING}
-    - {source_id: SRC-HOP-REKHMIRE-VIZIER, state: MONUMENT_AND_CRITICAL_EDITION_LOCKED_PASSAGE_CROSSWALK_PENDING}
+    - {source_id: SRC-HOP-HOREMHEB-EDICT, state: MONUMENT_AND_CRITICAL_EDITION_LOCKED_SELECTED_RELATIONS_CONTROLLED_FINE_GRAINED_HOLD}
+    - {source_id: SRC-HOP-REKHMIRE-VIZIER, state: MONUMENT_TEXTS_AND_CRITICAL_LOCATORS_LOCKED_SELECTED_RELATIONS_CONTROLLED_FINE_GRAINED_HOLD}
   ancient_post_festum:
     - {source_id: SRC-HOP-MANETHO-AEGYPTIACA, state: TRANSMISSION_DOSSIER_LOCKED_ORIGINAL_LOST}
     - {source_id: SRC-HOP-DIODORUS-EGYPT-I, state: GOVERNING_GREEK_EDITION_LOCKED_TARGETED_SECTIONS_MAPPED}
@@ -63,6 +63,8 @@ passage_controls:
   - {path: sources/primary/ancient/egypt/passages/EGY-LOYALIST-PASSAGES-001.yaml, state: PRIMARY_PASSAGES_MAPPED}
   - {path: sources/primary/ancient/egypt/passages/EGY-ELOQUENT-PEASANT-PASSAGES-001.yaml, state: PRIMARY_PASSAGES_MAPPED}
   - {path: sources/primary/ancient/egypt/passages/EGY-AMENEMOPE-PASSAGE-TARGETS-001.yaml, state: TARGETED_EXACT_WORDING_PENDING}
+  - {path: sources/primary/ancient/egypt/passages/EGY-HOREMHEB-EDICT-PASSAGES-001.yaml, state: SELECTED_RELATIONS_CONTROLLED_EXTENDED_QUOTATION_AND_CLAUSE_TABLE_HELD}
+  - {path: sources/primary/ancient/egypt/passages/EGY-REKHMIRE-VIZIER-PASSAGES-001.yaml, state: SELECTED_RELATIONS_CONTROLLED_DIRECT_QUOTATION_CLAUSE_AND_IMAGE_TABLES_HELD}
   - {path: sources/primary/ancient/egypt/passages/EGY-ANCIENT-DUSK-PASSAGES-001.yaml, state: TARGETED_SECTIONS_IDENTIFIED_GREEK_CROSSWALK_PENDING}
 
 transmission_controls:
@@ -81,9 +83,15 @@ structured_star_correction:
   main_proposal:
     path: sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-CORRECTION-PROPOSAL-001.yaml
     state: READY_FOR_CONTROLLED_REVIEW_NOT_APPLIED
+  exact_candidate:
+    path: sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-REPLACEMENT-CANDIDATE-001.yaml
+    state: EXACT_CANDIDATE_CONTENT_NOT_APPLIED
   amenemope_addendum:
     path: sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-CORRECTION-ADDENDUM-AMENEMOPE-001.yaml
     state: READY_FOR_CONTROLLED_REVIEW_NOT_APPLIED
+  certification_package:
+    path: sources/primary/ancient/egypt/integration/EGYPT-REPAIR-CERTIFICATION-001.yaml
+    state: PENDING_OWNER_CERTIFICATION
 
 person_power_finding: >-
   Egyptian evidence now shows loyal subjecthood, productive labor, marginal petition,
@@ -94,29 +102,49 @@ person_power_finding: >-
   mortuary forms.
 
 held_claims:
-  - claim: Horemheb operative administrative provisions
-    reason: original-language Kruchten/monument crosswalk remains incomplete
-    disposition: WITHHOLD_FROM_DIRECT_QUOTATION_AND_DOCUMENTED_FACT_INTEGRATION
-  - claim: Rekhmire exact vizierial appointment and duty clauses
-    reason: TT100/Faulkner/van_den_Boorn crosswalk remains incomplete
-    disposition: WITHHOLD_FROM_DIRECT_QUOTATION_AND_DOCUMENTED_FACT_INTEGRATION
+  - claim: Horemheb extended quotation and fine-grained reconstructed clauses
+    reason: final Kruchten-plate and Urk. IV clause table remains incomplete
+    disposition: ALLOW_SELECTED_RELATIONS_WITHHOLD_EXTENDED_QUOTATION_AND_FINE_DETAIL
+  - claim: Rekhmire direct quotation, literal timetable, quantitative and frequency claims
+    reason: Faulkner/van_den_Boorn clause table and Davies image crosswalk remain incomplete
+    disposition: ALLOW_SELECTED_RELATIONS_WITHHOLD_DIRECT_QUOTATION_AND_QUANTITATIVE_USE
   - claim: Amenemope exact wording
     reason: principal papyrus/Laisney crosswalk remains incomplete
     disposition: ALLOW_BOUNDED_ATTRIBUTED_RELATION_WITHOUT_DIRECT_QUOTATION_ONLY
   - claim: Diodorus_Strabo_Plutarch exact Greek wording
     reason: targeted passages located but final Greek crosswalk remains open
     disposition: ALLOW_SOURCE_POSITION_AND_TARGETED_PARAPHRASE_ONLY
+  - claim: canonical structured-Star application
+    reason: owner certification and a safe non-truncating write mechanism are required
+    disposition: DO_NOT_APPLY_FROM_SOURCE_SCAFFOLD
+
+validation_state:
+  connector_readback:
+    source_records: VERIFIED_PRESENT
+    passage_sets: VERIFIED_PRESENT
+    proposal_candidate_and_addendum: VERIFIED_PRESENT
+    certification_package: VERIFIED_PRESENT
+  local_clone_validation:
+    state: NOT_AVAILABLE
+    reason: container network could not resolve GitHub; this was an environment transport limitation, not a repository-content finding
+  canonical_integrity:
+    structured_star_untouched: true
+    narrative_untouched: true
 
 narrative_gate:
-  state: CONDITIONALLY_READY_FOR_STRUCTURED_STAR_CORRECTION_WITH_HELD_CLAIMS
+  state: PENDING_OWNER_CERTIFICATION
+  structured_star_review: OPEN
+  structured_star_application: BLOCKED_PENDING_OWNER_CERTIFICATION_AND_SAFE_WRITE
+  narrative_revision: BLOCKED_UNTIL_STRUCTURED_STAR_APPLICATION
   rule: >-
-    The main Egypt correction and Amenemope addendum may be reviewed and applied at
-    the structured-Star level without using the held Horemheb/Rekhmire clauses or
-    unverified direct quotations. Narrative revision remains downstream of structured
-    correction. Claims under epigraphic or philological hold stay outside admitted FACT.
+    The main Egypt correction, exact candidate and Amenemope addendum are ready for
+    owner judgment. Selected Horemheb/Rekhmire relations may support review, but held
+    quotation-sensitive details remain outside admitted FACT. Narrative revision stays
+    downstream of safe structured-Star application.
 
-chronological_next_after_structured_correction:
+chronological_next_after_certification:
   layer: PERSIA
   rule: >-
-    Persia acquisition begins only after the Egypt structured-Star correction is
-    safely applied or explicitly preserved as the governing pending correction package.
+    Persia acquisition begins only after the owner certifies this package and either
+    the Egypt structured-Star correction is safely applied or the package is explicitly
+    adopted as the governing pending correction under a stated exception.
