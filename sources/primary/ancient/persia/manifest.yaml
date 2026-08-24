@@ -1,6 +1,6 @@
 corpus_id: HOP-PERSIA-PRELIMINARY-001
 name: Persia Preparatory Source Corpus
-status: PREPARATORY_ACQUISITION_AUTHORIZED_NOT_ADMITTED
+status: PREPARATORY_PACKAGE_COMPLETE_NOT_ADMITTED
 parent_star: STAR-HISTORY-OF-POWER-001
 star_layer_target: persian_power
 branch: history-of-power-retroactive-source-audit-001
@@ -22,6 +22,7 @@ exception_boundary:
     - Age-of-the-Individual crossing analysis
     - non-admitted claim maps and passage-target plans
     - Herodotus reattribution as research control
+    - non-operative structured-Star correction drafting
   not_authorized:
     - certification or application of the Egypt correction
     - admission of Persian claims into STAR-HISTORY-OF-POWER-001
@@ -67,36 +68,47 @@ research_controls:
       Governs preparatory attribution so Persian self-witness is not silently replaced
       by Herodotus. It does not presently revise the canonical claim policy or narrative.
 
+preparatory_passage_targets:
+  - {path: sources/primary/ancient/persia/passages/PERSIA-ROYAL-BABYLONIAN-TARGETS-001.yaml, state: TARGETS_IDENTIFIED_NOT_VERIFIED_OR_ADMITTED}
+  - {path: sources/primary/ancient/persia/passages/PERSIA-ADMINISTRATIVE-PROVINCIAL-TARGETS-001.yaml, state: DOCUMENT_CATEGORIES_IDENTIFIED_NOT_VERIFIED_OR_ADMITTED}
+  - {path: sources/primary/ancient/persia/passages/PERSIA-REFLECTIVE-TARGETS-001.yaml, state: GREEK_TARGETS_IDENTIFIED_NOT_VERIFIED_OR_ADMITTED}
+
+preparatory_integration:
+  - proposal_id: PERSIA-STRUCTURED-STAR-CORRECTION-PROPOSAL-001
+    path: sources/primary/ancient/persia/integration/PERSIA-STRUCTURED-STAR-CORRECTION-PROPOSAL-001.yaml
+    state: PREPARATORY_NOT_ADMITTED_NOT_APPLIED
+
 current_counts:
   source_records_acquired_for_review: 14
   preparatory_map_files: 1
   binding_research_controls: 1
+  preparatory_passage_target_sets: 3
+  non_operational_integration_proposals: 1
   admitted_star_evidence: 0
   verified_passage_sets: 0
-  structured_integration_proposals: 0
-  narrative_revisions: 0
+  canonical_revisions: 0
 
 preparatory_quality_finding: >-
-  The records, map and reattribution control contain History of Power targets, evidence
-  classes, counter-witness limits and Age-of-the-Individual crossings. Exact editions,
-  multilingual witness relations, document samples and mapped propositions still require
-  re-audit and verification before any claim can be proposed for Star-native integration.
+  The preparatory package now identifies source classes, governing witnesses, person-
+  authority relations, Herodotean reattributions, passage and document targets, and a
+  native structured-Star destination. Exact multilingual readings and document samples
+  remain unverified, and nothing has entered the canonical Star.
 
-next_preparatory_work:
-  - re-read the Persia audit and test the fourteen-source selection against its exact deficits
-  - verify governing witnesses, languages, editions, archives and transmission chains
-  - select passage targets without admitting quotations or claims
-  - preserve royal self-witness, routine administration, provincial documents, Greek reflection and modern control as separate classes
-  - keep the current layer at Persia and stop before Greece
+held_claims:
+  - all direct quotations from royal, Babylonian, Egyptian and Greek texts
+  - all document-level generalizations from Persepolis, Elephantine and Arsames
+  - all event claims resting only on royal self-presentation
+  - all proposed structured-Star and narrative corrections
 
 structured_integration_release_conditions:
   - Owner certifies and safely applies the Egypt correction, or approves a further explicit exception preserving Egypt's pending status.
   - Persia governing witnesses and passage claims are independently verified.
-  - A Star-native Persia correction proposal is prepared without canonical application.
+  - The non-operative Persia correction proposal is reviewed against the native Star.
   - Owner or governing workflow separately authorizes Persian admission.
 
 prohibited_inferences:
   - Acquisition for review does not equal evidentiary admission.
+  - Passage targeting does not equal passage verification.
   - A preparatory map does not equal a verified claim map.
   - Herodotus reattribution control does not erase Herodotus or rewrite the Star.
   - A royal inscription does not become neutral imperial history.
@@ -107,3 +119,5 @@ chronology_hold:
   current_layer: PERSIA
   next_layer: GREECE
   state: HOLD_AT_PERSIA_AFTER_PREPARATORY_PACKAGE
+
+next_action: RETURN_PERSIA_PREPARATORY_PACKAGE_FOR_OWNER_REVIEW_WITHOUT_MOVING_TO_GREECE
