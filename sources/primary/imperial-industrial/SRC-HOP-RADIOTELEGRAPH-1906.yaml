@@ -1,0 +1,18 @@
+source_id: SRC-HOP-RADIOTELEGRAPH-1906
+status: GOVERNING_CONVENTION_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: International Radiotelegraph Conference, Berlin
+  title: Convention radiotélégraphique internationale
+  date: 1906
+  original_language: French
+  role: wireless_intercommunication_maritime_safety_and_international_technical_governance
+governing_witness:
+  witness_type: ITU_DIGITIZED_CONVENTION
+  repository: International Telecommunication Union
+  url: https://www.itu.int/en/history/Pages/RadioConferences.aspx?conf=4.36
+supporting_public_domain_edition:
+  url: https://commons.wikimedia.org/wiki/File:International_radio_telegraph_convention_of_Berlin,_1906_(IA_internationalrad00inte).pdf
+qualification: >-
+  The convention shows wireless communication becoming subject to international operating rules and
+  interoperability obligations. It does not by itself measure network coverage or strategic use by navies.
