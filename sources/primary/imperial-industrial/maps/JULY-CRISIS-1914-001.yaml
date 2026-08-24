@@ -1,0 +1,108 @@
+map_id: JULY-CRISIS-1914-001
+status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE_INITIAL_SEQUENCE
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+period: 1914-07-05/1914-08-04
+method:
+  - Institutional preconditions and political decisions remain distinct.
+  - Alliance obligations, mobilization plans, diplomatic notes, personal telegrams and military memoranda are separate evidence classes.
+  - No state's later war narrative is accepted as neutral merely because it published official documents.
+  - The sequence is chronological but not treated as mechanically inevitable.
+claims:
+  - claim_id: JULY-001
+    date: 1914-07-05
+    proposition: >-
+      Austria-Hungary received a reported assurance that Germany would support firm action against Serbia even if Russian intervention widened the risk.
+    source_id: SRC-HOP-BLANK-CHECK-1914-07-05
+    passage_status: DIPLOMATIC_REPORT_LOCKED
+    qualification: Austrian ambassador's report of imperial assurances, not a treaty or cabinet protocol.
+
+  - claim_id: JULY-002
+    date: 1914-07-23
+    proposition: >-
+      Austria-Hungary converted its conflict with Serbia into a time-limited interstate demand that reached inside Serbian press,
+      associations, education, administration, military personnel and criminal investigation.
+    source_id: SRC-HOP-AH-ULTIMATUM-SERBIA-1914-07-23
+    passage_status: ORIGINAL_GERMAN_TEXT_LOCKED
+    qualification: The legal-political reach of the demands must be compared item by item with Serbia's reply.
+
+  - claim_id: JULY-003
+    date: 1914-07-25
+    proposition: >-
+      Serbia accepted or conditionally accepted many demands while resisting or narrowing Austro-Hungarian participation where it invoked
+      constitutional and procedural limits, and offered international adjudication if the reply was deemed inadequate.
+    source_id: SRC-HOP-SERBIAN-REPLY-1914-07-25
+    passage_status: FRENCH_DIPLOMATIC_TEXT_LOCKED
+    qualification: Neither 'total rejection' nor 'complete acceptance' accurately describes the reply.
+
+  - claim_id: JULY-004
+    date: 1914-07-28
+    proposition: >-
+      Austria-Hungary formally moved from coercive diplomacy to a declared bilateral state of war after judging Serbia's reply insufficient.
+    source_id: SRC-HOP-AH-DECLARATION-WAR-SERBIA-1914-07-28
+    passage_status: FORMAL_WAR_NOTE_LOCKED
+    qualification: The declaration does not itself establish that broader European escalation was unavoidable.
+
+  - claim_id: JULY-005
+    dates: 1914-07-29/1914-08-01
+    proposition: >-
+      Direct imperial diplomacy continued while military preparations accelerated: Nicholas appealed for restraint on Austria-Hungary,
+      while Wilhelm increasingly treated Russian military measures as incompatible with continued mediation and German security.
+    source_id: SRC-HOP-WILLY-NICKY-1914
+    passage_status: TELEGRAM_SEQUENCE_LOCKED
+    qualification: Personal sovereign correspondence did not command every cabinet, foreign ministry or general staff process.
+
+  - claim_id: JULY-006
+    date: 1914-07-29
+    proposition: >-
+      Moltke presented delay itself as a worsening military danger and interpreted Austro-Russian escalation through alliance obligations,
+      mobilization timing and an expected two-front war.
+    source_id: SRC-HOP-MOLTKE-JULY29-1914
+    passage_status: MILITARY_POLICY_MEMORANDUM_LOCKED
+    qualification: Military assessment exerted pressure on civilian choice but was not constitutional compulsion.
+
+  - claim_id: JULY-007
+    date: 1914-08-01
+    proposition: >-
+      The German emperor formally activated pre-existing army and naval mobilization plans, converting organizational preparation into execution.
+    source_id: SRC-HOP-GERMAN-MOBILIZATION-1914-08-01
+    passage_status: BUNDESARCHIV_ORDER_LOCKED
+    qualification: Formal mobilization must be distinguished from earlier preparatory measures and from subsequent invasion orders.
+
+  - claim_id: JULY-008
+    dates: 1914-08-02/1914-08-03
+    proposition: >-
+      German operational requirements encountered Belgian sovereignty directly when Germany demanded military transit and named railways,
+      roads, tunnels and fortresses as possible obstacles, while Belgium refused on grounds of neutrality, treaty obligation and national honor.
+    source_id: SRC-HOP-BELGIUM-ULTIMATUM-REPLY-1914
+    passage_status: BELGIAN_GREY_BOOK_SEQUENCE_LOCKED
+    qualification: This is the point where infrastructure designed for national administration and mobility becomes an object of interstate coercive demand.
+
+  - claim_id: JULY-009
+    date: 1914-08-04
+    proposition: >-
+      Britain made respect for Belgian neutrality and withdrawal of the German demand a same-day ultimatum, turning a treaty and neutral-state issue
+      into a condition whose rejection accompanied British entry into war.
+    source_id: SRC-HOP-BRITISH-ULTIMATUM-1914-08-04
+    passage_status: PARLIAMENTARY_COMMAND_PAPER_WITNESS_LOCKED
+    qualification: Belgian neutrality was central but not the sole context of British strategic and cabinet decision-making.
+
+cross_source_questions:
+  - >-
+    At which points do alliances operate as political commitments open to interpretation, and at which points do military planners treat them as operational certainties?
+  - >-
+    How does mobilization timing alter political choice when general staffs argue that waiting itself changes the balance of power?
+  - >-
+    Why do personal rulers continue to exchange conciliatory telegrams while institutions under their governments move toward mobilization?
+  - >-
+    How do railways, roads, fortifications and neutral territory transform from infrastructure into military constraints during crisis?
+  - >-
+    Which decisions in the sequence explicitly reject, narrow or preserve mediation and arbitration options?
+  - >-
+    Does the crisis show impersonal systems causing war, or political actors acting under pressures generated by systems they and their predecessors had built?
+remaining_controls:
+  - Add a Russian governmental or archival mobilization-order witness rather than reconstructing Russian measures only through German and imperial correspondence.
+  - Add the formal German declaration/ultimatum to Russia and, if necessary, France to control the legal transition to those wars.
+  - Add British cabinet/foreign-office records if the final narrative requires motives beyond the Belgian-neutrality ultimatum.
+  - Add French governmental crisis documents before making claims about French mobilization or decision-making.
+  - July-crisis synthesis remains open until Russian and French voices are independently represented.
