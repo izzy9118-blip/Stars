@@ -1,0 +1,72 @@
+source_id: SRC-HOP-EGYPT-PETIESE-PETITION
+status: GOVERNING_DEMOTIC_PAPYRUS_IDENTIFIED_DOCUMENT_AND_EDITION_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Petiese and the Demotic scribal/legal tradition preserving his family petition
+work_or_document_title: Petition of Petiese
+principal_identifier: Papyrus Rylands IX
+original_language: Demotic Egyptian
+date_or_period: Achaemenid-period Egypt, fifth century BCE; document narrates a longer family and priestly dispute extending backward in time
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS_AND_PERSONAL_FAMILY_PETITION
+participant_or_observer_position: Petitioner reconstructing hereditary priestly, property, office, violence, and administrative claims across generations
+temporal_distance_if_retrospective: Contemporary petition containing an extended retrospective family narrative; each narrated episode has separate distance and evidentiary status
+
+governing_witness_and_exact_edition_or_archive:
+  original_object:
+    repository: John Rylands Library, University of Manchester
+    identifier: Rylands Papyrus IX
+    status: GOVERNING_OBJECT_IDENTIFIED_EXACT_IMAGE_COLUMN_AND_CURRENT_CATALOGUE_CROSSWALK_PENDING
+  critical_edition:
+    editor_translator: F. Ll. Griffith
+    title: Catalogue of the Demotic Papyri in the John Rylands Library, Volume III, Key-List, Translations, Commentaries and Indices
+    publication: Manchester and London, 1909
+    evidence_class: LATER_CRITICAL_EDITION_AND_TRANSLATION_OF_PRIMARY_WITNESS
+    status: PUBLIC_DOMAIN_EDITION_TO_BE_LOCKED_BY_PAGE_AND_COLUMN
+  modern_control: Later Demotic re-editions and legal-historical analysis to be selected
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Family, priestly office, property, temple jurisdiction, local violence, documentary memory, and appeal to superior authority can remain entangled across generations.
+  - The archive allows a petitioner to construct a self and claim through lineage, inherited grievance, documents, and institutional history.
+intended_claim_class:
+  - SELF_WITNESS
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - INTERPRETIVE_BRIDGE
+
+what_the_source_can_establish:
+  - The claims, genealogy, offices, property relations, accusations, and appeals Petiese's petition records.
+  - A long-form Demotic legal narrative in which the petitioner uses documentary and family memory to seek redress.
+  - The persistence and contestability of priestly office and temple-linked property under foreign imperial rule.
+what_the_source_cannot_establish:
+  - The truth of every retrospective episode without corroborating documents.
+  - A neutral history of the temple, family, or officials accused.
+  - A general right of petition equally available to all inhabitants.
+  - Modern individual ownership or legal standing independent of family, priestly office, and status.
+
+rival_or_counter_witnesses_where_known:
+  - other Demotic petitions, temple archives, and contracts
+  - Persian-period administrative and Aramaic evidence
+  - SRC-HOP-EGYPT-ELEPHANTINE-ARAMAIC-ARCHIVE
+  - archaeological and prosopographical evidence for Teudjoi and related institutions
+
+boundary_effect: >-
+  The petition adds a native late-Egyptian dusk-like family reconstruction from
+  within legal practice while keeping allegation, memory, and documentary fact distinct.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - historical_spectrum.revelation_and_divine_law
+  authority_bearer: Temple office, family lineage, property, local officials, imperial administration, document, and petition
+  human_position: Named petitioner whose claim is constituted through ancestry, office, inherited grievance, and preserved record
+  demanded_conduct: Recognition of office/property claims and lawful redress as framed by the petition
+  formative_technique: Genealogy, archive, narrative, contract memory, petition, accusation, and appeal to superior authority
+  crossing_relation: COEXIST_WITH
+  non_teleology_rule: >-
+    A richly documented personal claim does not make Petiese an abstract individual
+    prior to corporate, familial, priestly, and imperial relations.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
