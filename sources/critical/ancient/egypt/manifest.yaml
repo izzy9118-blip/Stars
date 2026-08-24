@@ -1,0 +1,44 @@
+control_corpus_id: HOP-EGYPT-CRITICAL-CONTROLS-001
+name: Egypt Later Critical Reconstruction Controls
+status: ACQUISITION_IN_PROGRESS
+linked_primary_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+history_of_power_star: STAR-HISTORY-OF-POWER-001
+alignment_star: STAR-AGE-OF-INDIVIDUAL-001
+
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+
+purpose: >-
+  Control translation, textual genre, archaeology, kingship, religion,
+  administration, and cultural memory without allowing modern scholarship to
+  become an Egyptian self-description.
+
+rules:
+  - Each work is acquired for a demonstrated Star claim or boundary problem.
+  - Modern agreement is not counted as independent ancient evidence.
+  - Underlying objects and texts retain separate source IDs.
+  - Disagreement among scholars remains visible.
+  - No modern work receives the label authoritative_synthesis.
+
+initial_controls:
+  - source_id: CTRL-HOP-EGYPT-ASSMANN-MIND
+    role: cultural_memory_maat_kingship_and_historical_meaning
+  - source_id: CTRL-HOP-EGYPT-HORNUNG-ONE-MANY
+    role: plurality_divine_conceptions_and_limits_of_monolithic_theology
+  - source_id: CTRL-HOP-EGYPT-KEMP-ANATOMY
+    role: archaeology_state_settlement_economy_and_institutional_scale
+  - source_id: CTRL-HOP-EGYPT-PARKINSON-POETRY-CULTURE
+    role: Middle_Kingdom_literature_genre_voice_elite_context_and_historical_use
+  - source_id: CTRL-HOP-EGYPT-KINGSHIP-OCONNOR-SILVERMAN
+    role: comparative_specialist_control_of_pharaonic_kingship
+
+record_count_target: 5
+records_created: 0
+
+critical_questions:
+  - Which current claims about ma'at and kingship are supported across independent evidence?
+  - Does divine plurality resist describing Egyptian religion as one closed doctrine?
+  - Which institutional claims are archaeologically visible beyond elite texts?
+  - How should literary voices be used without turning poems and tales into administrative transcripts?
+  - Which modern symbolist claims lack acceptance or independent evidentiary control?
+
+structured_star_integration_state: NOT_AUTHORIZED
