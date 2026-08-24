@@ -1,0 +1,62 @@
+source_id: SRC-HOP-ELOQUENT-PEASANT
+status: MANUSCRIPT_CONSTELLATION_LOCKED_PASSAGE_EXTRACTION_PENDING
+
+author_or_corporate_author: unknown Egyptian author
+work_or_document_title: Tale of Khuninpu
+conventional_title: Eloquent Peasant
+date_or_period:
+  composition: Middle Kingdom; exact date debated
+  narrative_setting: First Intermediate Period
+original_language: Middle Egyptian
+evidence_class: CONTEMPORARY_REFLECTIVE_WITNESS
+
+governing_witness_and_exact_edition_or_archive:
+  manuscripts:
+    - Papyrus Berlin 3023
+    - Papyrus Berlin 3025
+    - Papyrus Berlin 10499
+    - British Museum ESA 10274 / Papyrus Butler
+  witness_relation: the four manuscripts together preserve a complete version
+  source_overview: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/midegsummaries.html
+  manuscript_context: https://www.ucl.ac.uk/museums-static/digitalegypt/writing/library/athanasi.html
+  critical_translation_control: Miriam Lichtheim, Ancient Egyptian Literature, volume I
+
+participant_or_observer_position: Egyptian literary composition voicing a marginal petitioner against official abuse
+temporal_distance_if_retrospective: >-
+  The narrative is set earlier than its likely composition and survives through
+  multiple manuscript copies; neither setting nor manuscript date alone dates the social practice described.
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - ma_at_as_standard_beyond_official_appetite
+  - office_hearing_speech_and_justice
+  - distinction_between_royal_office_and_abusive_agent
+intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - Egyptian literature could place formulations of ma_at in the mouth of a socially marginal petitioner.
+  - Official abuse, failed hearing, petition and adjudication could become objects of internal political criticism.
+  - The king and high official remain inside the drama of justice rather than outside it.
+what_the_source_cannot_establish:
+  - Ordinary court procedure or the frequency of successful petitions.
+  - A modern doctrine of equal individual rights against the state.
+  - That the king is represented only as impartial protector; his extraction of further petitions is itself morally troubling.
+
+rival_or_counter_witnesses_where_known:
+  - Loyalist Teaching
+  - Teaching of Ptahhotep
+  - Teaching for King Merikare
+  - Horemheb Edict
+boundary_effect: >-
+  Keep criticism from below and dependence upon royal adjudication together. Do
+  not absorb the petitioner into a modern liberal subject or erase the coercive curiosity of the king.
+
+age_of_individual_crossing:
+  person_power_relation: petitioner appealing from abusive delegated power to a shared order of right
+  authority_demand: persuasive speech, endurance and appeal through ma_at rather than self-authorized sovereignty
+  conduct_formation: eloquence exposes the official to a standard the office claims to serve
+  later_relation: PRESERVE_AND_LATER_TRANSFORM
+  prohibition: The petitioner is not yet a bearer of pre-political rights independent of the political-sacred order.
+
+quotation_state: NOT_YET_ADMITTED
+star_integration_state: NOT_YET_PROPOSED
