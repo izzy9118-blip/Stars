@@ -1,0 +1,31 @@
+source_id: SRC-HOP-KEYNES-ECONOMIC-CONSEQUENCES-1919
+status: GOVERNING_PARTICIPANT_POST_FESTUM_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+source_class: IMMEDIATE_POST_FESTUM
+work:
+  author: John Maynard Keynes
+  title: The Economic Consequences of the Peace
+  original_year: 1919
+  original_language: English
+  participant_position: British_Treasury_delegate_who_resigned_from_the_Paris_Peace_Conference
+  role: European_interdependence_war_exhaustion_reparations_and_the_economic_conditions_of_peace
+governing_witnesses:
+  owner_supplied_edition: New_York_Harcourt_Brace_and_Howe_1920_Project_Gutenberg_transcription
+  owner_supplied_path: /Users/onepiece/Downloads/pg15776-images-3.epub
+  digital_record: https://www.gutenberg.org/ebooks/15776
+  cross_star_source_id: SRC-KEYNES-ECONOMIC-CONSEQUENCES-1919-1920
+core_diagnosis:
+  - prewar Europe formed an interdependent system of population, imported food and materials, production, transport, credit and confidence
+  - war dislocated that system and exhausted fiscal, monetary and productive capacities without making national economies self-sufficient
+  - a punitive settlement that ignores subsistence, trade and reconstruction threatens social and political order across victor and defeated states
+passage_map:
+  - anchor: chapter II, Europe Before the War
+    supports: population_food_raw_materials_trade_credit_and_prewar_interdependence
+  - anchor: chapter VI, Europe After the Treaty
+    supports: wartime_dislocation_subsistence_and_the_material_limits_of_the_settlement
+  - anchor: chapter VII, Remedies
+    supports: reconstruction_trade_credit_and_revision_of_punitive_terms
+disagreement_boundary: >-
+  Keynes's economic diagnosis does not share Lenin's class theory of the state, Ludendorff's command perspective or Weber's
+  institutional remedy. His proximity to the negotiations gives evidence and insight but also a participant's selection,
+  estimates and polemical judgments, which remain attributed rather than converted into unqualified fact.

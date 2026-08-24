@@ -1,0 +1,21 @@
+source_id: SRC-HOP-FRANCE-DALBIEZ-1915
+status: GOVERNING_FRENCH_STATUTORY_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: French Republic
+  title: Loi assurant la juste repartition et une meilleure utilisation des hommes mobilises ou mobilisables
+  date: 1915-08-17
+  publication: Journal officiel de la Republique francaise, 19 August 1915, pages 5795-5797
+  original_language: French
+  role: allocation_of_mobilized_men_between_front_administration_and_war_industry
+governing_witnesses:
+  archival_notice: https://www.servicehistorique.sga.defense.gouv.fr/ark/1133306
+  parliamentary_context: https://www.senat.fr/comptes-rendus-seances/3eme/pdf/1915/08/S19150810_0453_0472.pdf
+  official_citation_control: Journal officiel, 47e annee, no. 223, 19 August 1915, pages 5795-5797
+key_relations:
+  - military and administrative manpower is reviewed for reassignment to combat or defense production
+  - retention of certain mobilized workers in private war establishments is subjected to regional commission review
+  - specified commissions contain equal employer and worker representation under ministerial presidency
+qualification: >-
+  The law demonstrates a French route to manpower allocation, combining military obligation, industrial necessity and review.
+  It does not establish that France copied the British ministry system or that statutory reassignment operated without conflict.

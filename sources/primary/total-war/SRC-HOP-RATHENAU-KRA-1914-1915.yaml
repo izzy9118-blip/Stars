@@ -1,0 +1,32 @@
+source_id: SRC-HOP-RATHENAU-KRA-1914-1915
+status: GOVERNING_PARTICIPANT_AND_ARCHIVAL_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  author: Walther Rathenau
+  title: Kriegsrohstoffabteilung reports, memoranda, correspondence and Die Organisation der Rohstoffversorgung
+  period: 1914-1915
+  original_language: German
+  role: raw_material_inventory_requisition_allocation_and_state_industry_coordination
+governing_witnesses:
+  documentary_control: >-
+    Walther Rathenau Gesamtausgabe, volume III, which identifies the October 1914 activity report,
+    KRA meeting records, correspondence, raw-material memoranda and occupation-related requisition documents.
+  contents_register: https://walther-rathenau.de/wp-content/uploads/2022/05/WR-G_III_Inhalt.pdf
+  contemporary_lecture: Die Organisation der Rohstoffversorgung, delivered 20 December 1915
+  lecture_record: https://ghdi.ghi-dc.org/sub_image.cfm?image_id=1725&language=german
+  archival_context: https://www.deutsches-chemie-museum.de/de/datei/anzeigen/id/4850%2C1089/mb_48_inhalt_s.87-268__combinepdf-35.pdf
+key_relations:
+  - scarcity is rendered administratively legible through inventories, reporting and commodity categories
+  - the military state coordinates with private firms and war companies rather than simply replacing them
+  - requisition, substitution and allocation connect domestic industry to resources taken from occupied territory
+passage_map:
+  - anchor: Walther Rathenau Gesamtausgabe III, KRA activity report of 27/29 October 1914, pages 946-966
+    supports: inventory_reporting_allocation_and_organizational_design
+  - anchor: KRA meeting records, correspondence and raw-material requisition documents registered in Gesamtausgabe III
+    supports: state_private_coordination_and_occupied_resource_requisition
+  - anchor: Die Organisation der Rohstoffversorgung, lecture of 20 December 1915
+    supports: participant_public_explanation_of_the_raw_material_system
+qualification: >-
+  Rathenau was a participant defending and interpreting an organization he helped create. The record demonstrates
+  a state-private allocation system under scarcity, not a complete planned economy, and it does not make Rathenau
+  the sole author of German wartime economic administration.

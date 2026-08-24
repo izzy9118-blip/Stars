@@ -1,0 +1,19 @@
+source_id: SRC-HOP-COMPIEGNE-ARMISTICE-1918
+status: GOVERNING_ARMISTICE_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  parties: Allied and Associated Powers and Germany
+  title: Armistice with Germany
+  date: 1918-11-11
+  original_languages: [French, English, German]
+  role: cessation_of_hostilities_withdrawal_disarmament_transport_surrender_and_continued_blockade
+governing_witnesses:
+  treaty_series_facsimile: https://tile.loc.gov/storage-services/service/ll/lltreaties/lltreaties-ustbv002/lltreaties-ustbv002.pdf
+  federal_archive_context: https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/waffenstillstand-von-compiegne/
+key_relations:
+  - hostilities cease on a timetable while occupation withdrawals and Allied occupation of the left bank of the Rhine are imposed
+  - Germany surrenders extensive military, naval, rail and transport means
+  - Brest-Litovsk is annulled, Allied prisoners are returned without immediate reciprocity and the blockade continues
+qualification: >-
+  The armistice terminated fighting under coercive military conditions but was not yet a general peace settlement.
+  It therefore belongs to the history of total-war power and its dismantling, not simply to postwar diplomacy.

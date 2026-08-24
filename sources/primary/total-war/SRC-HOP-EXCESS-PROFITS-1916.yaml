@@ -1,0 +1,19 @@
+source_id: SRC-HOP-EXCESS-PROFITS-1916
+status: GOVERNING_STATUTORY_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: Parliament of the United Kingdom
+  title: Finance Act 1916, Part III - Excess Profits Duty
+  date: 1916
+  citation: "6 & 7 Geo. 5 c. 24"
+  original_language: English
+  role: wartime_profit_tax_business_accounts_and_fiscal_capture_of_war_gains
+governing_witness:
+  witness_type: OFFICIAL_UK_STATUTE_PDF
+  url: https://www.legislation.gov.uk/ukpga/1916/24/pdfs/ukpga_19160024_en.pdf
+key_passage:
+  section: 45
+  proposition: Wartime excess-profits duty is continued and increased, with a sixty-percent rate applied to specified excess profits and reporting obligations imposed on liable businesses.
+qualification: >-
+  Tax liability does not establish that government controlled business investment or prices generally.
+  The source demonstrates fiscal capture and accounting of wartime gains rather than comprehensive economic planning.

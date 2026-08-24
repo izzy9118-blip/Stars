@@ -1,0 +1,21 @@
+source_id: SRC-HOP-BRITISH-FOOD-CONTROL-1918
+status: GOVERNING_OFFICIAL_MANUAL_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: British Ministry of Food / H.M. Stationery Office
+  title: Food Supply Manual, revised to 31 July 1918
+  date: 1918-07-31
+  original_language: English
+  role: requisition_prices_rationing_local_distribution_licensing_enforcement_and_civilian_consumption
+governing_witness:
+  witness_type: OFFICIAL_CONSOLIDATED_EMERGENCY_ORDERS
+  facsimile: https://upload.wikimedia.org/wikipedia/commons/2/2b/Manuals_of_emergency_legislation._Food_supply_manual%2C_rev%2C_to_July_31st%2C_1918%2C_comprising_the_food_controller%27s_powers_and_orders%2C_and_orders_of_other_departments_ancillary_thereto_%28IA_foodsupplymanual00grearich%29.pdf
+  visual_control: introductory note and Rationing Order 1918 inspected against facsimile
+key_relations:
+  - the Ministry combines requisition, maximum prices, rationing, local distribution, licensing, registration and enforcement
+  - ration books and coupons reorganize household access to specified foods through retailers and local committees
+  - local authorities and food-control committees mediate central orders rather than disappearing beneath them
+  - public meals, national kitchens, hoarding, waste and overcharging become objects of wartime regulation
+qualification: >-
+  The manual records the legal-administrative food system at a late wartime date. It does not by itself measure compliance,
+  nutrition, regional inequality or household experience, and it must not be projected backward unchanged to 1914.

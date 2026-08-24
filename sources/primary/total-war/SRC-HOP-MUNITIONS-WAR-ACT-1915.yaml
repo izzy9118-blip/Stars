@@ -1,0 +1,20 @@
+source_id: SRC-HOP-MUNITIONS-WAR-ACT-1915
+status: GOVERNING_STATUTORY_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: Parliament of the United Kingdom
+  title: Munitions of War Act 1915
+  date: 1915-07-02
+  citation: "5 & 6 Geo. 5 c. 54"
+  original_language: English
+  role: controlled_establishments_labor_disputes_worker_mobility_profits_and_munitions_supply
+governing_witness:
+  witness_type: OFFICIAL_UK_STATUTE_PDF
+  url: https://www.legislation.gov.uk/ukpga/Geo5/5-6/54/pdfs/ukpga_19150054_en.pdf
+key_relations:
+  - industrial disputes may be referred into compulsory settlement machinery
+  - establishments may be declared controlled establishments
+  - wartime munitions production becomes subject to special labor and profit rules
+qualification: >-
+  Statutory control did not eliminate strikes, bargaining, firm management or worker resistance.
+  Practice-level ministry and tribunal records are required before claiming complete labor command.

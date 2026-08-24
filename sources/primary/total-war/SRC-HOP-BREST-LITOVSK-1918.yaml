@@ -1,0 +1,19 @@
+source_id: SRC-HOP-BREST-LITOVSK-1918
+status: GOVERNING_TREATY_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  parties: Russia and Germany, Austria-Hungary, Bulgaria and the Ottoman Empire
+  title: Peace Treaty of Brest-Litovsk
+  date: 1918-03-03
+  original_languages: [Russian, German, Hungarian, Bulgarian, Ottoman_Turkish]
+  role: separate_peace_demobilization_territorial_transfer_occupation_and_economic_reordering
+governing_witness:
+  witness_type: FRUS_TRANSLATION_OF_TREATY_TEXT
+  source: https://avalon.law.yale.edu/20th_century/bl34.asp
+key_relations:
+  - the state of war is ended separately between revolutionary Russia and the Central Powers
+  - Russia accepts immediate demobilization and loss of sovereignty over extensive former imperial territories
+  - occupation, propaganda, navigation, prisoners, legal relations and economic relations are reorganized by treaty
+qualification: >-
+  The treaty records the asymmetrical legal result of military defeat and revolutionary withdrawal, not realization
+  of the Decree on Peace's universal program. Later annulment does not erase its immediate redistribution of power.

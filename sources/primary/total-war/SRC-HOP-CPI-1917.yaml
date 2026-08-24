@@ -1,0 +1,19 @@
+source_id: SRC-HOP-CPI-1917
+status: GOVERNING_EXECUTIVE_ORDER_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  author: Woodrow Wilson
+  title: Executive Order creating the Committee on Public Information
+  date: 1917-04-14
+  original_language: English
+  role: executive_information_coordination_press_publicity_and_wartime_opinion
+governing_witness:
+  witness_type: EXECUTIVE_ORDER_REPRODUCED_IN_OFFICIAL_CPI_HISTORY
+  source: Preliminary Statement to the Activities of the Committee on Public Information
+  facsimile: https://tile.loc.gov/storage-services/public/gdcmassbookdig/preliminarystate00unit/preliminarystate00unit.pdf
+key_passage:
+  anchor: "I hereby create a Committee on Public Information"
+  composition: [Secretary of State, Secretary of War, Secretary of the Navy, civilian executive director George Creel]
+qualification: >-
+  The order creates an authoritative wartime information body. Actual propaganda methods, censorship relations,
+  media reach and public effects require CPI publications and distribution records rather than inference from creation alone.

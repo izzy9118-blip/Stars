@@ -1,0 +1,34 @@
+source_id: SRC-HOP-JUNGER-STAHLGEWITTERN-1920
+status: GOVERNING_FRONT_POST_FESTUM_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+source_class: IMMEDIATE_POST_FESTUM
+work:
+  author: Ernst Jünger
+  title: In Stahlgewittern. Aus dem Tagebuch eines Stoßtruppführers
+  year: 1920
+  original_language: German
+  participant_position: German_infantry_officer_and_storm_troop_leader_reworking_wartime_diaries
+  role: industrialized_combat_front_labor_material_battle_fear_endurance_and_soldier_self_under_fire
+governing_witnesses:
+  first_edition_record: https://books.google.com/books/about/In_Stahlgewittern.html?id=uqxLAQAAMAAJ
+  reading_aid_only: https://www.gutenberg.org/ebooks/34099
+textual_control: >-
+  The governing witness is the 1920 first edition. The Project Gutenberg text reproduces the third edition of 1922
+  and may assist navigation but cannot silently supply wording or interpretation to the 1920 layer.
+core_diagnosis:
+  - artillery, machine weapons, explosives, trenches, transport and repeated replacement make the soldier part of material battle
+  - the front is also bodily labor, exhaustion, waiting, fear, discipline, comradeship, injury and death rather than an administrative abstraction
+  - Jünger interprets endurance and danger through honor, will and an affirmative warrior ideal rather than pacifist condemnation
+passage_map:
+  - anchor: Die Mobilmachung and opening front chapters, first edition pages 2-33
+    supports: volunteer_expectation_entry_into_war_and_the_loss_of_initial_illusion
+  - anchor: Vom taglichen Stellungskampfe, first edition page 34 onward
+    supports: trench_labor_waiting_fatigue_discipline_and_material_conditions
+  - anchor: Guillemont and Der Somme-Ruckzug, first edition pages 48 and 68 onward
+    supports: artillery_mass_casualty_destruction_and_survival_in_material_battle
+  - anchor: Die grosse Schlacht and concluding assault chapters
+    supports: storm_troop_command_will_comradeship_injury_and_affirmative_reconstruction
+disagreement_boundary: >-
+  One decorated German officer cannot represent all combatants, and literary reconstruction is not raw diary evidence.
+  His affirmation of combat must remain in tension with casualty accounting, Indian soldier letters, civilian deprivation
+  and revolutionary rejection of the war. Later revisions and later politics may not overwrite the 1920 witness.

@@ -1,0 +1,31 @@
+source_id: SRC-HOP-WEBER-POLITICS-VOCATION-1919
+status: GOVERNING_POST_FESTUM_REFLECTIVE_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+source_class: IMMEDIATE_POST_FESTUM
+work:
+  author: Max Weber
+  title: Politik als Beruf
+  lecture_date: 1919-01-28
+  publication_year: 1919
+  publisher: Duncker & Humblot
+  original_language: German
+  temporal_distance: delivered_during_the_German_revolution_and_published_within_months
+  role: state_legitimate_violence_administrative_means_leadership_and_responsibility_after_total_war
+governing_witnesses:
+  critical_digital_edition: https://mwg-digital.badw.de/en/politik-als-beruf/
+  editorial_report: https://mwg-digital.badw.de/de/politik-als-beruf/editorischer-bericht/
+  governing_print: Duncker_und_Humblot_1919
+core_diagnosis:
+  - the modern state is defined by its successful claim to monopolize legitimate physical force within a territory
+  - political organization depends on control of administrative staffs and the material means through which rule is exercised
+  - politics conducted through force and power cannot escape responsibility for foreseeable consequences
+  - an ethic of responsibility and an ethic of conviction remain in tension rather than collapsing into one formula
+passage_map:
+  - anchor: MWG I/17, pages 158-164
+    supports: state_claim_to_legitimate_force_administrative_staff_and_material_means
+  - anchor: MWG I/17, pages 237-251
+    supports: foreseeable_consequences_conviction_responsibility_and_their_final_relation
+disagreement_boundary: >-
+  Weber's analytical definition does not legitimate every act of state violence, and his ethic of responsibility does not
+  reduce politics to expediency. His defense of responsible political leadership contests both apolitical administration
+  and revolutionary purity while leaving their conflict visible.

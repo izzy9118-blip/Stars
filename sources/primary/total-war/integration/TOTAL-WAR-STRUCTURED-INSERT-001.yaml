@@ -1,0 +1,101 @@
+integration_id: TOTAL-WAR-STRUCTURED-INSERT-001
+status: INTEGRATION_CANDIDATE_NOT_YET_APPLIED
+parent_star: STAR-HISTORY-OF-POWER-001
+narrative_candidate: sources/primary/total-war/integration/TOTAL-WAR-NARRATIVE-INSERT-001.md
+governing_map: sources/primary/total-war/maps/TOTAL-WAR-MASS-STATE-1914-1918-001.yaml
+
+fact_extension_summary: >-
+  Total-war and mass-state power emerges when belligerent governments direct inherited
+  administrative, industrial, financial, communications, military and imperial systems toward
+  sustained war, making society a field of manpower, production, subsistence, information and
+  sacrifice. The same mobilization creates bargaining power, soldiers' councils, colonial
+  communication, occupied resistance and revolutionary authorities capable of reorganizing
+  or overthrowing the states directing them.
+
+insertions:
+  - key: emergency_legality_and_material_coordination
+    period: 1914-1915
+    source_ids:
+      - SRC-HOP-DORA-1914
+      - SRC-HOP-RATHENAU-KRA-1914-1915
+      - SRC-HOP-MINISTRY-MUNITIONS-1915
+      - SRC-HOP-MUNITIONS-WAR-ACT-1915
+    boundary: >-
+      Legal authority, administrative capacity, private ownership, industrial management and
+      practical compliance remain separate relations.
+
+  - key: labor_and_manpower
+    period: 1915-1916
+    source_ids:
+      - SRC-HOP-TREASURY-AGREEMENT-1915
+      - SRC-HOP-FRANCE-DALBIEZ-1915
+      - SRC-HOP-MILITARY-SERVICE-1916
+      - SRC-HOP-GERMAN-AUXILIARY-SERVICE-1916
+    boundary: >-
+      Britain, France and Germany retain distinct settlements; compulsion does not absorb
+      bargaining, worker representation, exemptions, women workers or resistance.
+
+  - key: blockade_subsistence_finance_and_information
+    period: 1915-1918
+    source_ids:
+      - SRC-HOP-BRITISH-BLOCKADE-1915
+      - SRC-HOP-GERMAN-WAR-FOOD-OFFICE-1916
+      - SRC-HOP-BRITISH-FOOD-CONTROL-1918
+      - SRC-HOP-WAR-LOAN-1917
+      - SRC-HOP-EXCESS-PROFITS-1916
+      - SRC-HOP-CPI-1917
+    boundary: >-
+      Blockade, harvest, transport, price, distribution, borrowing, taxation and publicity
+      remain distinct mechanisms; no one mechanism explains all civilian deprivation or belief.
+
+  - key: empire_occupation_and_soldier_experience
+    period: 1914-1922
+    source_ids:
+      - SRC-HOP-BRITISH-EMPIRE-MILITARY-STATISTICS-1922
+      - SRC-HOP-INDIAN-SOLDIERS-CENSOR-LETTERS-1914-1918
+      - SRC-HOP-BELGIAN-FORCED-LABOR-1916
+      - SRC-HOP-JUNGER-STAHLGEWITTERN-1920
+    boundary: >-
+      Imperial totals, mediated colonial voices, occupation claims and one officer's literary
+      reconstruction remain non-interchangeable. Neither consent nor a universal combat experience
+      is inferred.
+
+  - key: Russian_revolution_and_separate_peace
+    period: 1917-1918
+    source_ids:
+      - SRC-HOP-PETROGRAD-SOVIET-ORDER-1-1917
+      - SRC-HOP-LENIN-STATE-REVOLUTION-1917-1918
+      - SRC-HOP-SOVIET-DECREE-PEACE-1917
+      - SRC-HOP-BREST-LITOVSK-1918
+    boundary: >-
+      Soldiers' authority, revolutionary theory, declared policy and treaty result remain distinct;
+      Order No. 1 is not the sole cause of collapse and Brest-Litovsk is not the fulfillment of
+      universal peace without annexations.
+
+  - key: German_revolution_armistice_and_postwar_judgment
+    period: 1918-1919
+    source_ids:
+      - SRC-HOP-WEBER-PARLIAMENT-GOVERNMENT-1918
+      - SRC-HOP-LUDENDORFF-WAR-MEMORIES-1919
+      - SRC-HOP-GERMAN-REVOLUTION-PROGRAM-1918
+      - SRC-HOP-COMPIEGNE-ARMISTICE-1918
+      - SRC-HOP-WEBER-POLITICS-VOCATION-1919
+      - SRC-HOP-KEYNES-ECONOMIC-CONSEQUENCES-1919
+    boundary: >-
+      High command, parliamentary reform, revolutionary government, coercive armistice, political
+      responsibility and economic reconstruction remain competing relations and judgments.
+
+application_order:
+  - Apply the certified imperial-industrial layer first.
+  - Insert this layer after imperial_industrial_power.
+  - Designate its conclusion the twelfth older force.
+  - Preserve all existing Star material; integration is additive.
+  - Do not apply until user certification.
+
+validation:
+  - Total war is not equated with total control.
+  - National paths remain distinct.
+  - Workers, soldiers, colonized persons and occupied civilians retain agency.
+  - Revolution belongs to the wartime power relation rather than an external epilogue.
+  - Weber, Lenin, Ludendorff, Keynes, Rathenau and Jünger remain in disagreement.
+  - Armistice is distinguished from final peace.

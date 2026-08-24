@@ -1,0 +1,21 @@
+source_id: SRC-HOP-GERMAN-WAR-FOOD-OFFICE-1916
+status: GOVERNING_REGULATORY_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: German Empire
+  title: War measures to secure popular nutrition and establishment of the Kriegsernaehrungsamt
+  date: 1916-05-22
+  citation: RGBl. 1916, pages 401-403, nos. 5205-5206
+  original_language: German
+  role: centralized_food_coordination_compulsory_administration_and_civilian_subsistence
+governing_witnesses:
+  official_register: https://de.wikisource.org/wiki/Deutsches_Reichsgesetzblatt_1916
+  bundesarchiv_documentary_context: https://www.bundesarchiv.de/themen-entdecken/online-entdecken/themenbeitraege/ernaehrung-im-ersten-weltkrieg/
+key_relations:
+  - wartime food supply becomes a coordinated imperial administrative responsibility
+  - the office consolidates measures already dispersed among commodity rules and federal authorities
+  - compulsory administration and rationing bring civilian subsistence within the war effort
+qualification: >-
+  Creation of the office and its legal powers do not prove adequate supply or uniform enforcement. Hunger resulted from
+  the interaction of blockade, harvests, mobilization, transport, price policy, substitution and unequal distribution,
+  none of which may be collapsed into a single cause.

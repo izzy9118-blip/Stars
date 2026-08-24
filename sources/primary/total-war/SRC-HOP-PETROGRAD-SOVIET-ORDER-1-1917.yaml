@@ -1,0 +1,21 @@
+source_id: SRC-HOP-PETROGRAD-SOVIET-ORDER-1-1917
+status: GOVERNING_REVOLUTIONARY_ORDER_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: Petrograd Soviet of Workers' and Soldiers' Deputies
+  title: Order No. 1
+  date_old_style: 1917-03-01
+  date_new_style: 1917-03-14
+  original_language: Russian
+  role: soldiers_committees_dual_authority_weapons_control_discipline_and_civil_equality
+governing_witness:
+  witness_type: CONTEMPORARY_REVOLUTIONARY_ORDER_IN_AUTHENTICATED_TRANSLATION
+  source: https://avalon.law.yale.edu/20th_century/soviet_001.asp
+key_relations:
+  - military units are ordered to elect soldiers' and sailors' committees and representatives to the Soviet
+  - Duma military orders are obeyed only when they do not contradict Soviet orders and decisions
+  - weapons pass under committee control while strict discipline is expressly retained during service
+  - soldiers receive civil and political equality outside service and protection against degrading address
+qualification: >-
+  Order No. 1 redistributes authority within the Petrograd garrison and articulates dual power; it does not alone prove
+  a uniform empire-wide collapse of discipline or establish the later consequences attributed to it by participants.

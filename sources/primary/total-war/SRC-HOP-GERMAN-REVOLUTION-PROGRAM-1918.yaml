@@ -1,0 +1,20 @@
+source_id: SRC-HOP-GERMAN-REVOLUTION-PROGRAM-1918
+status: GOVERNING_REVOLUTIONARY_GOVERNMENT_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: Council of People's Representatives
+  title: An das deutsche Volk
+  date: 1918-11-12
+  original_language: German
+  role: revolutionary_government_emergency_repeal_civil_liberties_labor_reform_and_constituent_authority
+governing_witness:
+  witness_type: ARCHIVAL_TRANSCRIPTION_OF_PUBLIC_PROCLAMATION
+  archive_reference: BArch R 43 I/1972, folio 22
+  source: https://www.1000dokumente.de/Dokumente/Volltext%3AAufruf_%E2%80%9EAn_das_deutsche_Volk%E2%80%9C_des_Rats_der_Volksbeauftragten
+key_relations:
+  - a government claiming origin in revolution repeals siege, censorship and most of the Auxiliary Service Law
+  - it announces association, expression, religious freedom, amnesty, worker protection and the eight-hour day
+  - it joins universal male and female suffrage to a constituent assembly while promising production, food and property order
+qualification: >-
+  The proclamation is a governing program issued with claimed legal force, not proof that each promise was immediately realized.
+  It demonstrates that mobilized society could reorganize the wartime state's authority rather than merely submit to it.

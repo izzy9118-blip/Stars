@@ -1,0 +1,20 @@
+source_id: SRC-HOP-BELGIAN-FORCED-LABOR-1916
+status: GOVERNING_CONTESTED_DIPLOMATIC_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  parties: Belgian Government, United States Government and German Government
+  title: Diplomatic exchange concerning deportation and compulsory labor of Belgian civilians
+  period: 1916-10_to_1916-12
+  original_languages: [English, German]
+  role: occupation_deportation_compulsory_labor_and_contested_international_legality
+governing_witnesses:
+  series: Papers Relating to the Foreign Relations of the United States, 1916, Supplement, The World War
+  US_representations_and_German_response_context: https://history.state.gov/historicaldocuments/frus1916Supp/d1142
+  formal_German_reply: https://history.state.gov/historicaldocuments/frus1916Supp/d1143
+key_disagreement:
+  belgian_and_us_position: deportation and compelled work violated humanity and the law governing occupied populations
+  german_position: unemployment justified compulsory work under the 15 May 1916 ordinance and German measures conformed to international law
+qualification: >-
+  The paired record preserves opposing official positions; the German reply is a justification by the occupying power,
+  and American transmission is not an unmediated Belgian civilian voice. The source establishes deportation and coercive
+  labor as contested occupation practices without converting either diplomatic description into a neutral total account.
