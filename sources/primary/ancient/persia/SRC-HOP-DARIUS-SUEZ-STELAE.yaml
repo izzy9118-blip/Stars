@@ -18,7 +18,7 @@ source_identity:
   evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
   secondary_character: royal self-presentation and multilingual imperial proclamation
 
- governing_witness_and_exact_edition_or_archive:
+governing_witness_and_exact_edition_or_archive:
   original_witness:
     description: monumental stelae erected along the ancient Nile-to-Red-Sea canal route
     status: MULTILINGUAL_MONUMENT_CONSTELLATION
