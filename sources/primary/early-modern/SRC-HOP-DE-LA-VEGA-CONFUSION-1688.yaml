@@ -1,0 +1,34 @@
+source_id: SRC-HOP-DE-LA-VEGA-CONFUSION-1688
+name: Joseph Penso de la Vega on Amsterdam share trading
+status: GOVERNING_WITNESS_LOCKED
+
+work:
+  author: Joseph Penso de la Vega
+  title: >-
+    Confusion de Confusiones: dialogos curiosos entre un philosopho agudo,
+    un mercador discreto, y un accionista erudito
+  year: 1688
+  place: Amsterdam
+  original_language: Spanish
+  role: stock_exchange_share_trading_speculation_information_and_financial_practice
+
+witness:
+  type: ORIGINAL_1688_SPANISH_EDITION_DIGITAL_WITNESS
+  google_books_url: https://books.google.com/books?vid=UCAL:B4360918
+  pages: 392
+  supporting_diplomatic_representation:
+    repository: DBNL
+    url: https://www.dbnl.org/tekst/vega002conf01_01/
+    basis: 1939 M.F.J. Smith edition preserving the original Spanish alongside Dutch translation
+
+use_in_history_of_power:
+  - contemporary description of the Amsterdam share market
+  - transfer and speculation in VOC shares
+  - brokers, options, forward-like bargains, pools, rumor and information
+  - distinction between ownership claims and the secondary market in those claims
+
+claim_boundary: >-
+  De la Vega describes and dramatizes market practice through dialogues. His text
+  is direct contemporary evidence for the existence and perceived operation of
+  sophisticated share trading, not a statistically representative survey of every
+  transaction on the Amsterdam exchange.
