@@ -1,0 +1,271 @@
+audit_id: ADMINISTRATIVE-NATIONAL-POWER-RETROACTIVE-SOURCE-AUDIT-001
+status: NINETEENTH_CENTURY_OPERATIONAL_CORPUS_STRONG_REFLECTIVE_AND_INDUSTRIAL_CANON_INCOMPLETE
+parent_star: STAR-HISTORY-OF-POWER-001
+method: sources/SOURCE-WITNESS-METHOD.md
+layer: administrative_and_national_power_1798_1871
+
+current_strengths:
+  operational_primary_corpus:
+    witness_count: 33
+    includes:
+      - Revolutionary conscription law 1798
+      - Constitution Year VIII
+      - prefectural and police organization
+      - Portalis / Code civil
+      - education law and statistical program
+      - Napoleonic correspondence
+      - roads, cadastre, indirect taxes and Cour des comptes
+      - Charters 1814 and 1830
+      - Vienna Final Act
+      - telegraph law 1837 and railway law 1842
+      - Constitution 1848 and abolition of slavery 1848
+      - prefectural continuity evidence
+      - Prussian Constitution 1850
+      - Italian and German unification constitutions
+      - Bismarck budget-conflict speech
+  reflective_witnesses_already_locked:
+    - Hegel, Philosophy of Right 1821
+    - Clausewitz, Vom Kriege 1832-1834
+    - Tocqueville, Democracy in America 1835/1840
+    - Tocqueville, Ancien Régime and the Revolution 1856
+  assessment: >-
+    Administrative mechanism and constitutional continuity are well documented.
+    The major weakness is the absence of enough first-class books that understood
+    industrial society, class power, nationality, representative government and the
+    revolutionary crises of 1830/1848/1851 while or just after they occurred.
+
+Napoleonic_and_Restoration_missing_reflection:
+  - source_id: SRC-HOP-LAS-CASES-MEMORIAL
+    author: Emmanuel de Las Cases
+    work: Mémorial de Sainte-Hélène
+    publication: 1823
+    class: POST_FESTUM_NAPOLEONIC_SELF_MYTH_AND_PARTICIPANT_MEDIATION
+    importance: Napoleon_revolution_empire_administration_legacy_and_self_presentation
+    caution: >-
+      Las Cases mediates Napoleon's retrospective voice and political legend; not an
+      unfiltered transcript of imperial government.
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-BENJAMIN-CONSTANT-LIBERTY
+    author: Benjamin Constant
+    works:
+      - De la liberté des Anciens comparée à celle des Modernes, 1819
+      - Principes de politique, relevant versions
+    class: CONTEMPORARY_POST_REVOLUTIONARY_LIBERAL_REFLECTION
+    importance: liberty_representation_private_independence_sovereignty_and_limits_on_state_power
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-CHATEAUBRIAND-MEMOIRES
+    author: François-René de Chateaubriand
+    work: Mémoires d'outre-tombe
+    publication: 1849-1850
+    class: PARTICIPANT_STATESMAN_DUSK_RECONSTRUCTION
+    importance: revolution_Napoleon_Restoration_monarchy_diplomacy_and_memory
+    caution: literary_self_construction
+    priority: HIGH
+  - source_id: SRC-HOP-GUIZOT-GOVERNMENT
+    author: François Guizot
+    works: selected political writings and memoirs
+    class: CONTEMPORARY_STATESMAN_REFLECTION
+    importance: representative_government_middle_class_sovereignty_administration_and_July_Monarchy
+    priority: HIGH
+
+industrial_society_missing_contemporary_books:
+  - source_id: SRC-HOP-SAINT-SIMON-INDUSTRIAL
+    author: Henri de Saint-Simon
+    works: selected industrial and political writings
+    period: 1810s-1825
+    class: CONTEMPORARY_INDUSTRIAL_SOCIAL_REFLECTION
+    importance: industrial_class_expertise_administration_production_and_post_feudal_order
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-COMTE-POSITIVE-PHILOSOPHY
+    author: Auguste Comte
+    work: Cours de philosophie positive
+    publication: 1830-1842
+    class: CONTEMPORARY_SOCIAL_SCIENCE_AND_ORDER_REFLECTION
+    importance: social_science_order_progress_expertise_and_governability
+    priority: HIGH
+  - source_id: SRC-HOP-URE-MANUFACTURES-1835
+    author: Andrew Ure
+    work: The Philosophy of Manufactures
+    year: 1835
+    class: CONTEMPORARY_FACTORY_SYSTEM_REFLECTION
+    importance: machinery_factory_discipline_management_skill_and_industrial_organization
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-ENGELS-CONDITION-1845
+    author: Friedrich Engels
+    work: Die Lage der arbeitenden Klasse in England
+    year: 1845
+    class: CONTEMPORARY_PARTICIPANT_OBSERVER_SOCIAL_DIAGNOSIS
+    importance: factory_city_class_labor_housing_health_and_industrial_power
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-MARX-CAPITAL-1867
+    author: Karl Marx
+    work: Das Kapital, Band I
+    year: 1867
+    class: CONTEMPORARY_SYSTEMATIC_CRITIQUE_OF_INDUSTRIAL_CAPITAL
+    importance: commodity_capital_factory_labor_power_machinery_accumulation_and_class_power
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-MILL-POLITICAL-ECONOMY-1848
+    author: John Stuart Mill
+    work: Principles of Political Economy
+    year: 1848
+    class: CONTEMPORARY_POLITICAL_ECONOMY
+    importance: production_distribution_property_wages_cooperation_state_and_progress
+    priority: HIGH
+
+1848_and_class_revolution_missing_reflection:
+  - source_id: SRC-HOP-COMMUNIST-MANIFESTO-1848
+    authors: [Karl Marx, Friedrich Engels]
+    work: Manifest der Kommunistischen Partei
+    year: 1848
+    class: CONTEMPORARY_REVOLUTIONARY_CLASS_ANALYSIS
+    importance: bourgeoisie_proletariat_world_market_state_class_and_revolution
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-MARX-EIGHTEENTH-BRUMAIRE-1852
+    author: Karl Marx
+    work: Der achtzehnte Brumaire des Louis Bonaparte
+    year: 1852
+    class: IMMEDIATE_POST_FESTUM_REVOLUTIONARY_RECONSTRUCTION
+    importance: class_state_bureaucracy_peasantry_representation_coup_and_Bonapartism
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-TOCQUEVILLE-RECOLLECTIONS
+    author: Alexis de Tocqueville
+    work: Souvenirs
+    written: 1850-1851
+    publication: 1893
+    class: PARTICIPANT_POST_FESTUM_1848_MEMOIR
+    importance: February_Revolution_Second_Republic_assembly_class_fear_and_state
+    caution: delayed_publication_and_private_retrospective
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-LOUIS-BLANC-ORGANISATION-TRAVAIL
+    author: Louis Blanc
+    work: Organisation du travail
+    first_publication: 1839
+    class: CONTEMPORARY_SOCIAL_REPUBLICAN_REFLECTION
+    importance: right_to_work_social_workshops_state_and_labor
+    priority: HIGH
+  - source_id: SRC-HOP-PROUDHON-PROPERTY-1840
+    author: Pierre-Joseph Proudhon
+    work: Qu'est-ce que la propriété?
+    year: 1840
+    class: CONTEMPORARY_SOCIAL_POLITICAL_CRITIQUE
+    importance: property_authority_labor_and_social_order
+    priority: HIGH
+
+representative_government_and_democracy_missing_books:
+  - source_id: SRC-HOP-MILL-LIBERTY-1859
+    author: John Stuart Mill
+    work: On Liberty
+    year: 1859
+    class: CONTEMPORARY_LIBERAL_REFLECTION
+    importance: social_coercion_majority_individuality_speech_and_limits_of_collective_power
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-MILL-REPRESENTATIVE-GOVERNMENT-1861
+    author: John Stuart Mill
+    work: Considerations on Representative Government
+    year: 1861
+    class: CONTEMPORARY_CONSTITUTIONAL_REFLECTION
+    importance: representation_participation_administration_bureaucracy_locality_and_empire
+    priority: ESSENTIAL
+
+nationalism_and_unification_missing_books:
+  - source_id: SRC-HOP-FICHTE-GERMAN-NATION
+    author: Johann Gottlieb Fichte
+    work: Reden an die deutsche Nation
+    years: 1807-1808
+    class: CONTEMPORARY_NAPOLEONIC_ERA_NATIONAL_REFLECTION
+    importance: nation_education_language_regeneration_and_foreign_domination
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-MAZZINI-DUTIES-MAN
+    author: Giuseppe Mazzini
+    work: Duties of Man and selected national writings
+    publication_period: 1840s-1860s
+    class: CONTEMPORARY_NATIONAL_REPUBLICAN_REFLECTION
+    importance: nation_duty_people_republic_Europe_and_unification
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-CAVOUR-SPEECHES-LETTERS
+    author: Camillo di Cavour
+    class: STATESMAN_CONTEMPORARY_REFLECTION
+    importance: constitutional_monarchy_diplomacy_war_economy_and_Italian_unification
+    priority: HIGH
+  - source_id: SRC-HOP-GARIBALDI-MEMOIRS
+    author: Giuseppe Garibaldi
+    work: Memoirs
+    class: PARTICIPANT_POST_FESTUM_NATIONAL_REVOLUTIONARY_ACCOUNT
+    importance: volunteers_war_nationalism_republic_monarchy_and_unification
+    priority: HIGH
+  - source_id: SRC-HOP-BISMARCK-THOUGHTS-MEMORIES
+    author: Otto von Bismarck
+    work: Gedanken und Erinnerungen
+    publication: 1898
+    class: STATESMAN_POST_FESTUM_UNIFICATION_RECONSTRUCTION
+    importance: Prussian_state_diplomacy_monarchy_parliament_war_and_unification
+    caution: self_justificatory_and_written_after_events
+    priority: ESSENTIAL
+
+war_and_military_reflection_beyond_Clausewitz:
+  - source_id: SRC-HOP-JOMINI-ART-WAR
+    author: Antoine-Henri Jomini
+    work: Précis de l'Art de la Guerre
+    year: 1838
+    class: POST_NAPOLEONIC_MILITARY_SYSTEMATIZATION
+    importance: strategy_lines_operations_logistics_and_Napoleonic_war_lessons
+    priority: HIGH
+
+current_claims_requiring_control:
+  - Napoleon_administrative_state_requires_post_festum_Napoleonic_self_understanding_beside_law_and_correspondence
+  - industrialization_cannot_be_reduced_to_rail_telegraph_and_state_statutes_without_factory_class_and_capital_reflection
+  - 1848_requires Marx_Tocqueville_Blanc_and_revolutionary voices beside constitutional texts
+  - democratic_centralization_must_be_read_against_Mill_as_well_as_Tocqueville
+  - nationalism_requires Fichte_Mazzini_and statesman sources rather than constitution alone
+  - German_and_Italian_unification_need_post_festum_Bismarck_Garibaldi_and_contemporary_Cavour controls
+
+later_critical_reconstruction_required:
+  - author: Eric Hobsbawm
+    work: The Age of Revolution 1789-1848
+    year: 1962
+    priority: HIGH
+  - author: Eric Hobsbawm
+    work: The Age of Capital 1848-1875
+    year: 1975
+    priority: HIGH
+  - author: Charles Tilly
+    work: The Contentious French
+    year: 1986
+    role: mobilization_state_and_collective_action
+    priority: HIGH
+  - author: Eugen Weber
+    work: Peasants into Frenchmen
+    year: 1976
+    role: national_integration_education_roads_language_and_state
+    priority: ESSENTIAL
+  - author: Arno Mayer
+    work: The Persistence of the Old Regime
+    year: 1981
+    role: continuity_of_elites_and_aristocratic_order_into_modern_Europe
+    priority: HIGH
+  - author: Michael Mann
+    work: The Sources of Social Power, relevant volume
+    role: military_economic_political_and_ideological_networks
+    priority: HIGH
+  - author: James C. Scott
+    work: Seeing Like a State
+    year: 1998
+    role: legibility_standardization_and_state_schemes
+    caution: later_comparative_model_not_specific_history
+    priority: HIGH
+
+narrative_gate:
+  state: NOT_SATISFIED_UNDER_REVISED_METHOD
+  reason: >-
+    The operational state corpus is strong, but the layer currently lacks the books
+    through which contemporaries and immediate successors understood industrial capitalism,
+    1848, nationalism, representative government and the social consequences of administration.
+  requirements:
+    - add Constant and Las Cases for post-Napoleonic reflection
+    - add Ure/Engels/Marx for industrial society
+    - add Marx Eighteenth Brumaire and Tocqueville Souvenirs for 1848/1851
+    - add Mill for liberty and representative administration
+    - add Fichte/Mazzini/Cavour and Bismarck/Garibaldi for nationality and unification
+    - retain Hegel/Clausewitz/Tocqueville as first-class but not exhaustive
+
+next_layer_after_completion: IMPERIAL_INDUSTRIAL_WORLD_POWER_1871_1914
