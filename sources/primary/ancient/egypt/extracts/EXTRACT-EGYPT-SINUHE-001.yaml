@@ -1,0 +1,86 @@
+extract_id: EXTRACT-EGYPT-SINUHE-001
+source_id: SRC-HOP-EGYPT-SINUHE
+status: Q0_WITNESS_GROUP_LOCKED_Q1_CRITICAL_EDITION_TARGETED_Q2_PENDING
+protocol: sources/primary/ancient/egypt/EXTRACTION-PROTOCOL-001.yaml
+
+Q0_witness_identity:
+  composition: The Tale of Sinuhe
+  original_language: Middle Egyptian
+  principal_witnesses:
+    - object: Papyrus Berlin P 3022
+      conventional_siglum: B
+      repository: Egyptian Museum and Papyrus Collection, Staatliche Museen zu Berlin
+    - object: Papyrus Berlin P 10499
+      conventional_relation: Ramesseum manuscript tradition; exact siglum and fragment concordance pending
+      repository: Egyptian Museum and Papyrus Collection, Staatliche Museen zu Berlin
+  wider_transmission: Numerous later ostraca and manuscript witnesses
+  qualification: >-
+    The text is a composite manuscript tradition. First-person narration does not
+    turn the represented speaker into a securely identified historical author.
+
+Q1_textual_control:
+  critical_edition_target:
+    author_editor: Roland Koch
+    title: Die Erzählung des Sinuhe
+    series: Bibliotheca Aegyptiaca 17
+    publication: Brussels, Fondation Égyptologique Reine Élisabeth, 1990
+    status: BIBLIOGRAPHIC_TARGET_SELECTED_COPY_AND_LINE_CROSSWALK_PENDING
+  navigation_witness:
+    repository: UCL Digital Egypt
+    url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/sinuhe.html
+    status: RETRIEVED_NAVIGATION_AND_WORKING_TRANSLATION_ONLY
+  control_rule: >-
+    Koch's original-language text, manuscript variants, and line numbering govern.
+    Online prose translations serve only to locate candidate episodes.
+
+Q2_passage_targets:
+  - target_id: SINUHE-T1
+    episode: hearing of the royal death and flight
+    purpose: control fear, involuntary movement, and the relation between private reaction and succession crisis
+    exact_lines: PENDING_KOCH_CROSSWALK
+  - target_id: SINUHE-T2
+    episode: explanation of exile and foreign success
+    purpose: identify how agency, divine causation, skill, status, and foreign incorporation coexist
+    exact_lines: PENDING_KOCH_CROSSWALK
+  - target_id: SINUHE-T3
+    episode: royal summons and pardon
+    purpose: establish the king's power to restore name, status, homeland, and future burial
+    exact_lines: PENDING_KOCH_CROSSWALK
+  - target_id: SINUHE-T4
+    episode: return, purification, palace reception, household restoration, and tomb
+    purpose: test whether the narrative resolves personal interiority through reintegration into royal and mortuary order
+    exact_lines: PENDING_KOCH_CROSSWALK
+
+Q3_translation_control:
+  governing_translation: NONE_YET
+  candidate_translation_controls:
+    - translator: R. B. Parkinson
+      work: The Tale of Sinuhe and Other Ancient Egyptian Poems
+      status: MODERN_LITERARY_TRANSLATION_TARGET_COPY_PENDING
+    - repository: UCL Digital Egypt
+      status: WORKING_NAVIGATION_TRANSLATION_ONLY
+  quotation_readiness: WORKING_TRANSLATION_ONLY
+
+Q4_star_claim_mapping:
+  relation_id: EGYPT-PA-003
+  star_claim_target: >-
+    Egyptian literary personhood can include fear, choice, exile, memory, foreign
+    achievement, and first-person reflection while resolving itself through pardon,
+    return, name, household, tomb, and royal reintegration.
+  intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+  age_of_individual_crossing: PRESERVE
+
+Q5_boundary_and_rival_test:
+  boundaries:
+    - represented interiority is literary, not a direct diary
+    - foreign success does not establish independence from Egyptian order
+    - elite burial and palace return are not universal social experience
+    - divine causation and personal agency remain together rather than being forced into one modern category
+  rival_controls:
+    - SRC-HOP-EGYPT-WENI-AUTOBIOGRAPHY
+    - SRC-HOP-EGYPT-HARKHUF-AUTOBIOGRAPHY
+    - SRC-HOP-EGYPT-HEQANAKHT-PAPYRI
+    - CTRL-HOP-EGYPT-PARKINSON-POETRY-CULTURE
+
+Q6_quotation_readiness: NOT_READY
+next_action: LOCK_KOCH_EDITION_AND_ASSIGN_B_OR_COMPOSITE_LINES_TO_T1_T4
