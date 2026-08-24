@@ -1,0 +1,101 @@
+map_id: TOTAL-WAR-MASS-STATE-1914-1918-001
+status: INITIAL_CORE_MECHANISMS_MAPPED
+parent_corpus: HOP-TOTAL-WAR-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+period: 1914-1918
+method:
+  - Total war is treated as a cross-source synthesis, not assumed from scale or duration alone.
+  - Emergency law, industrial control, labor obligations, conscription, blockade, finance and propaganda remain distinct mechanisms.
+  - Statutory authority does not prove complete administrative compliance or social penetration.
+  - Prewar institutions used in wartime remain identifiable as inherited capacities.
+claims:
+  - claim_id: TW-001
+    proposition: >-
+      Britain rapidly created a legal emergency field in which ordinary government could be supplemented by wartime regulations for defence of the realm.
+    source_id: SRC-HOP-DORA-1914
+    passage_status: GOVERNING_STATUTORY_WITNESS_LOCKED
+    qualification: Later consolidation and regulations must be acquired before describing the full DORA regime.
+
+  - claim_id: TW-002
+    proposition: >-
+      Britain created a temporary Ministry of Munitions able to absorb powers from existing departments and issue legally recognizable instruments,
+      making industrial supply a distinct wartime administrative function.
+    source_id: SRC-HOP-MINISTRY-MUNITIONS-1915
+    passage_status: VERIFIED_STATUTORY_RELATION
+
+  - claim_id: TW-003
+    proposition: >-
+      The Munitions of War Act moved labor disputes, selected factories, worker mobility and wartime profits into a special legal regime tied to munitions production.
+    source_id: SRC-HOP-MUNITIONS-WAR-ACT-1915
+    passage_status: VERIFIED_STATUTORY_RELATION
+    qualification: Controlled establishment law did not eliminate strikes, bargaining or private management.
+
+  - claim_id: TW-004
+    proposition: >-
+      British wartime manpower jurisdiction moved from voluntary enlistment toward statutory conscription,
+      legally deeming defined categories of civilian men enlisted for military service.
+    source_id: SRC-HOP-MILITARY-SERVICE-1916
+    passage_status: VERIFIED_STATUTORY_RELATION
+    qualification: January 1916 coverage was bounded and did not extend uniformly across the empire.
+
+  - claim_id: TW-005
+    proposition: >-
+      Germany extended national-service obligation beyond the armed forces into civilian war-relevant labor while simultaneously building mediation
+      and Reichstag oversight into the Auxiliary Service Law.
+    source_id: SRC-HOP-GERMAN-AUXILIARY-SERVICE-1916
+    passage_status: VERIFIED_PRIMARY_RELATION
+    qualification: Expanded compulsion coexisted with labor representation and parliamentary constraints.
+
+  - claim_id: TW-006
+    proposition: >-
+      British sea power was transformed into a long-distance economic warfare system designed to restrict commodities reaching or leaving Germany,
+      bringing neutral shipping, cargo ownership, destination and trade networks into wartime administrative control.
+    source_id: SRC-HOP-BRITISH-BLOCKADE-1915
+    passage_status: GOVERNING_ORDER_DOCUMENTARY_WITNESS_LOCKED
+    qualification: Legality was contested; operational effects require shipping and neutral-trade records.
+
+  - claim_id: TW-007
+    proposition: >-
+      War finance expanded the state's capacity to command future revenue through repeated security issuance managed by the Treasury and banking system.
+    source_id: SRC-HOP-WAR-LOAN-1917
+    passage_status: VERIFIED_STATUTORY_RELATION
+    qualification: Subscription patterns and monetary effects require prospectus and Bank of England evidence.
+
+  - claim_id: TW-008
+    proposition: >-
+      Wartime taxation converted extraordinary private business gains into a specifically measured fiscal category subject to high excess-profits duty and reporting obligations.
+    source_id: SRC-HOP-EXCESS-PROFITS-1916
+    passage_status: VERIFIED_STATUTORY_RELATION
+    qualification: Fiscal capture is not equivalent to government ownership or comprehensive price control.
+
+  - claim_id: TW-009
+    proposition: >-
+      The United States created a cabinet-linked executive information organization to coordinate authoritative public information during war,
+      making publicity and management of disclosure a recognized state function.
+    source_id: SRC-HOP-CPI-1917
+    passage_status: EXECUTIVE_ORDER_WITNESS_LOCKED
+    qualification: Effects on opinion require CPI output and audience evidence rather than inference from agency creation.
+
+cross_source_questions:
+  - >-
+    When does emergency law merely supplement existing administration, and when does it create new permanent institutional capacities?
+  - >-
+    How far can industrial production remain privately owned while labor, disputes, profits, contracts and output priorities enter public control?
+  - >-
+    Does conscription of soldiers and auxiliary service of civilians reveal one manpower system, or different legal relations organized around the same war effort?
+  - >-
+    How do blockade and war loans extend coercion beyond direct taxation—one outward through global trade routes, the other forward through future revenue?
+  - >-
+    Does wartime propaganda create opinion, coordinate information, or primarily claim authority over what may be publicly known?
+remaining_targets:
+  - consolidated DORA regulations, censorship and property-control practice
+  - Ministry of Munitions orders, factory records and labor tribunal practice
+  - German Kriegsrohstoffabteilung / raw-material allocation records
+  - British Ministry of Food, rationing and price-control witnesses
+  - blockade operational statistics and neutral-trade agreements
+  - Bank of England and Treasury war-loan prospectus/management records
+  - colonial military and labor recruitment
+  - occupation regimes in Belgium, Eastern Europe and elsewhere
+  - wartime casualty/manpower accounting
+  - Russian Revolution and collapse/reconstruction of state authority
+  - Brest-Litovsk, armistice and transition toward postwar settlement
