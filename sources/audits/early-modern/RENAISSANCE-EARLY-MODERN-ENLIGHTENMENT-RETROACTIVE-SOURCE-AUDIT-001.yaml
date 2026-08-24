@@ -1,0 +1,321 @@
+audit_id: RENAISSANCE-EARLY-MODERN-ENLIGHTENMENT-RETROACTIVE-SOURCE-AUDIT-001
+status: PRIMARY_REPAIR_STRONG_REFLECTIVE_CANON_STILL_INCOMPLETE
+parent_star: STAR-HISTORY-OF-POWER-001
+method: sources/SOURCE-WITNESS-METHOD.md
+layer: renaissance_early_modern_and_enlightenment
+
+current_strengths:
+  primary_repair:
+    witness_count: 34
+    maps: 6
+    already_locked:
+      - Machiavelli, Discorsi and Principe
+      - Luther, Temporal Authority
+      - Peace of Augsburg
+      - Calvin, Institutes IV.20
+      - Bodin, Six Books
+      - Vindiciae contra tyrannos
+      - Union of Utrecht
+      - Act of Abjuration
+      - Edict of Nantes
+      - VOC Charter
+      - Grotius, De Iure Praedae and Mare Liberum
+      - Amsterdam Wisselbank ordinance/archive
+      - Petition of Right
+      - Grand Remonstrance
+      - Charles I Answer to Nineteen Propositions
+      - Putney Debates
+      - Hobbes, Leviathan
+      - Instrument of Government
+      - Bontemantel
+      - Johan de Witt, Deductie 1654 Dutch witness
+      - Pieter de la Court, Interest van Holland 1662 Dutch witness
+      - De Witt annuity calculations
+      - Holland finance archive
+      - de la Vega, Confusion de Confusiones
+      - Bill of Rights 1689
+      - Locke, Two Treatises
+      - Bank of England Act and Charter
+      - Montesquieu, Esprit des lois
+      - Rousseau, Discours sur l'inégalité and Contrat social
+  existing_History_of_Power_reflective_witnesses:
+    - Bacon, Advancement of Learning
+    - Hume, History of England
+    - Voltaire, Essai sur les moeurs / Age of Louis XIV
+    - Condorcet, Esquisse
+  assessment: >-
+    The operational and philosophical skeleton is now strong. The remaining defect is
+    that several first-rate contemporary and post-festum works that explain the new
+    commercial, confessional, republican and civil-war orders are still absent.
+
+renaissance_statecraft_missing_reflection:
+  - source_id: SRC-HOP-GUICCIARDINI-RICORDI
+    author: Francesco Guicciardini
+    work: Ricordi
+    class: CONTEMPORARY_STATESMAN_REFLECTION
+    importance: prudence_interest_office_reputation_and_limits_of_general_rules
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-GUICCIARDINI-FLORENCE
+    author: Francesco Guicciardini
+    work: Dialogo del reggimento di Firenze
+    class: CONTEMPORARY_CONSTITUTIONAL_REFLECTION
+    importance: regime_mixed_government_elite_people_and_practical_constitutional_judgment
+    priority: HIGH
+  note: >-
+    Guicciardini's History of Italy is already present at the late-medieval boundary,
+    but these more directly political works should be separately registered.
+
+reformation_confessional_state_missing_books:
+  - source_id: SRC-HOP-LIPSIUS-POLITICA-1589
+    author: Justus Lipsius
+    work: Politicorum sive Civilis Doctrinae Libri Sex
+    class: CONTEMPORARY_STATECRAFT_REFLECTION
+    importance: prudence_obedience_religion_civil_war_army_and_reason_of_state
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-HOOKER-LAWS
+    author: Richard Hooker
+    work: Of the Laws of Ecclesiastical Polity
+    publication: 1593-1662
+    class: CONTEMPORARY_THEOLOGICAL_CONSTITUTIONAL_REFLECTION
+    importance: law_church_polity_consent_custom_and_English_authority
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-SUAREZ-LEGIBUS
+    author: Francisco Suárez
+    work: De legibus ac Deo legislatore
+    year: 1612
+    class: CONTEMPORARY_SCHOLASTIC_POLITICAL_LEGAL_REFLECTION
+    importance: law_natural_law_political_community_authority_and_sovereignty
+    priority: HIGH
+  - source_id: SRC-HOP-BELLARMINE-TEMPORAL
+    author: Robert Bellarmine
+    works: selected political/ecclesiological writings
+    class: CONTEMPORARY_CATHOLIC_REFLECTION
+    importance: papacy_temporal_power_political_authority_and_confessional_order
+    priority: HIGH
+
+Dutch_republic_missing_reflective_witnesses:
+  - source_id: SRC-HOP-SPINOZA-TTP-1670
+    author: Baruch Spinoza
+    work: Tractatus Theologico-Politicus
+    year: 1670
+    language: Latin
+    class: CONTEMPORARY_DUTCH_THEOLOGICAL_POLITICAL_REFLECTION
+    importance: scripture_religion_sovereignty_freedom_of_philosophizing_obedience_and_state_stability
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-SPINOZA-TP-1677
+    author: Baruch Spinoza
+    work: Tractatus Politicus
+    year: 1677
+    language: Latin
+    class: CONTEMPORARY_UNFINISHED_POLITICAL_REFLECTION
+    importance: power_right_monarchy_aristocracy_democracy_and_institutional_stability
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-WILLIAM-TEMPLE-UNITED-PROVINCES-1673
+    author: Sir William Temple
+    work: Observations upon the United Provinces of the Netherlands
+    year: 1673
+    class: CONTEMPORARY_EXTERNAL_DIPLOMATIC_REFLECTION
+    importance: provinces_cities_trade_religion_military_government_and_Dutch_constitution
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-VAN-DEN-ENDEN-1665
+    author: Franciscus van den Enden
+    work: Vrije Politijke Stellingen
+    year: 1665
+    class: CONTEMPORARY_RADICAL_REPUBLICAN_REFLECTION
+    importance: equality_freedom_republic_and_Dutch_radical_political_thought
+    priority: HIGH
+
+English_civil_war_and_1688_missing_contemporary_books:
+  - source_id: SRC-HOP-MILTON-TENURE-1649
+    author: John Milton
+    work: The Tenure of Kings and Magistrates
+    year: 1649
+    class: CONTEMPORARY_REVOLUTIONARY_REFLECTION
+    importance: kingship_people_resistance_regicide_and_accountability
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-HARRINGTON-OCEANA-1656
+    author: James Harrington
+    work: The Commonwealth of Oceana
+    year: 1656
+    class: CONTEMPORARY_REPUBLICAN_SYSTEMATIC_REFLECTION
+    importance: property_balance_rotation_senate_people_militia_and_republican_stability
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-FILMER-PATRIARCHA
+    author: Robert Filmer
+    work: Patriarcha
+    publication_year: 1680
+    class: MONARCHICAL_REFLECTION
+    importance: patriarchal_royal_authority_and_direct_target_of_Lockean_critique
+    priority: HIGH
+  - source_id: SRC-HOP-SIDNEY-DISCOURSES-1698
+    author: Algernon Sidney
+    work: Discourses Concerning Government
+    publication_year: 1698
+    class: REPUBLICAN_POSTHUMOUS_REFLECTION
+    importance: liberty_resistance_government_and_anti_absolute_monarchy
+    priority: HIGH
+
+English_civil_war_post_festum_dusk:
+  - source_id: SRC-HOP-HOBBES-BEHEMOTH
+    author: Thomas Hobbes
+    work: Behemoth, or The Long Parliament
+    written: circa_1668
+    first_authorized_publication: 1682
+    class: PARTICIPANT_ERA_POST_FESTUM_CIVIL_WAR_RECONSTRUCTION
+    importance: religion_universities_parliament_faction_army_and_breakdown_of_sovereignty
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-CLARENDON-REBELLION
+    author: Edward Hyde, Earl of Clarendon
+    work: History of the Rebellion and Civil Wars in England
+    publication: 1702-1704
+    class: PARTICIPANT_STATESMAN_POST_FESTUM_HISTORY
+    importance: royalist_government_parliament_personality_faction_war_and_restoration
+    caution: royalist_self_justificatory_position
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-LUDLOW-MEMOIRS
+    author: Edmund Ludlow
+    work: Memoirs
+    publication: 1698-1699
+    class: REPUBLICAN_PARTICIPANT_POST_FESTUM_ACCOUNT
+    importance: parliament_army_commonwealth_and_republican_memory
+    priority: HIGH
+  rule: >-
+    Hobbes, Clarendon and Ludlow must be read against one another and against the
+    operational civil-war corpus; none receives retrospective monopoly on causation.
+
+commercial_and_financial_revolution_missing_reflective_books:
+  - source_id: SRC-HOP-PETTY-POLITICAL-ARITHMETICK
+    author: William Petty
+    work: Political Arithmetick
+    written: circa_1676
+    publication: 1690
+    class: CONTEMPORARY_QUANTITATIVE_STATECRAFT
+    importance: population_income_trade_taxation_national_power_and_measurement
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-NORTH-DISCOURSES-TRADE-1691
+    author: Dudley North
+    work: Discourses upon Trade
+    year: 1691
+    class: CONTEMPORARY_COMMERCIAL_REFLECTION
+    importance: trade_money_interest_and_commercial_circulation
+    priority: HIGH
+  - source_id: SRC-HOP-DAVENANT-PUBLIC-REVENUES-1698
+    author: Charles Davenant
+    work: Discourses on the Public Revenues and on the Trade of England
+    year: 1698
+    class: CONTEMPORARY_FISCAL_COMMERCIAL_REFLECTION
+    importance: public_credit_tax_trade_debt_and_war_finance
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-LOCKE-MONETARY-WRITINGS
+    author: John Locke
+    works: monetary_interest_and_coinage_tracts
+    class: CONTEMPORARY_MONETARY_POLICY_REFLECTION
+    importance: coin_interest_contract_credit_and_limits_of_nominal_state_power
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-HUME-POLITICAL-DISCOURSES-1752
+    author: David Hume
+    work: Political Discourses
+    year: 1752
+    class: ENLIGHTENMENT_POLITICAL_ECONOMY_REFLECTION
+    importance: commerce_money_interest_balance_trade_public_credit_and_luxury
+    priority: ESSENTIAL
+  cross_repository_note: >-
+    STAR-MONEY-001 already develops Locke, Hume and later Smith. That work should be
+    linked with explicit provenance rather than duplicated or silently absorbed.
+
+enlightenment_missing_first_class_books:
+  - source_id: SRC-HOP-PUFENDORF-NATURE-NATIONS-1672
+    author: Samuel Pufendorf
+    work: De jure naturae et gentium
+    year: 1672
+    class: NATURAL_LAW_STATE_SYSTEM_REFLECTION
+    importance: state_obligation_natural_law_sovereignty_and_interstate_order
+    priority: HIGH
+  - source_id: SRC-HOP-VICO-NEW-SCIENCE
+    author: Giambattista Vico
+    work: Scienza Nuova
+    editions: [1725, 1730, 1744]
+    class: PHILOSOPHICAL_HISTORY
+    importance: historical_orders_language_law_custom_nations_and_recurring_social_forms
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-SMITH-WEALTH-NATIONS-1776
+    author: Adam Smith
+    work: An Inquiry into the Nature and Causes of the Wealth of Nations
+    year: 1776
+    class: CONTEMPORARY_POLITICAL_ECONOMY
+    importance: division_of_labor_commerce_stock_tax_defense_public_works_debt_and_state
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-FERGUSON-CIVIL-SOCIETY-1767
+    author: Adam Ferguson
+    work: An Essay on the History of Civil Society
+    year: 1767
+    class: PHILOSOPHICAL_SOCIAL_HISTORY
+    importance: civil_society_commerce_conflict_institutions_and_unintended_order
+    priority: HIGH
+  - source_id: SRC-HOP-BECCARIA-CRIMES-PUNISHMENTS-1764
+    author: Cesare Beccaria
+    work: Dei delitti e delle pene
+    year: 1764
+    class: ENLIGHTENMENT_PENAL_POLITICAL_REFLECTION
+    importance: punishment_law_sovereign_power_proportionality_and_public_reason
+    priority: HIGH
+
+current_HOP_claims_requiring_control:
+  - Bacon_Hume_Voltaire_Condorcet_should_not_stand_as_the_entire_Enlightenment
+  - Hume_History_and_Hume_Political_Discourses_are_distinct_projects
+  - Dutch_commercial_power_needs_Spinoza_and_Temple_beside_institutions
+  - English_civil_war_needs_Behemoth_and_Clarendon_as_dusk_witnesses
+  - fiscal_financial_revolution_needs_Petty_Davenant_and_Locke_monetary_writings
+  - Enlightenment_progress_must_be_confronted_with_Vico_Rousseau_Ferguson_and_Smith_not_presented_as_one_linear_doctrine
+
+later_critical_reconstruction_required:
+  - author: Quentin Skinner
+    work: The Foundations of Modern Political Thought
+    year: 1978
+    priority: ESSENTIAL
+  - author: J. G. A. Pocock
+    work: The Machiavellian Moment
+    year: 1975
+    priority: ESSENTIAL
+  - author: Jonathan Israel
+    work: Radical Enlightenment
+    year: 2001
+    role: Spinoza_radical_enlightenment_network_thesis
+    caution: large_interpretive_thesis_requires_rivals
+    priority: HIGH
+  - author: Richard Tuck
+    work: Natural Rights Theories / Philosophy and Government 1572-1651
+    role: natural_right_and_early_modern_state_thought
+    priority: HIGH
+  - author: Steve Pincus
+    work: 1688: The First Modern Revolution
+    year: 2009
+    caution: revisionist_thesis_to_test_against_older_accounts
+    priority: HIGH
+  - author: John Brewer
+    work: The Sinews of Power
+    year: 1989
+    role: English_fiscal_military_state
+    priority: ESSENTIAL
+  - author: Charles Tilly
+    work: Coercion, Capital, and European States
+    year: 1990
+    role: state_formation_coercion_capital_war
+    caution: macro_model_not_actor_self_description
+    priority: HIGH
+
+narrative_gate:
+  state: NOT_SATISFIED_UNDER_REVISED_METHOD
+  reason: >-
+    The operational repair is strong, but the reflective and post-festum canon is not
+    yet broad enough to interpret the new state, commercial republic, civil war,
+    public-credit system and Enlightenment without over-reliance on a small set of thinkers.
+  requirements:
+    - add Spinoza TTP/TP and Temple for Dutch power
+    - add Milton/Harrington and Hobbes Behemoth/Clarendon for English crisis
+    - add Petty/Davenant/Locke monetary writings for fiscal-financial power
+    - add Vico/Smith/Ferguson to broaden philosophical history and commercial society
+    - explicitly link STAR-MONEY and STAR-AGE-OF-INDIVIDUAL interpretations without confusing them with primary evidence
+    - test synthesis through Skinner/Pocock/Brewer and rival modern scholarship
+
+next_layer_after_completion: REVOLUTIONARY_AND_CONSTITUTIONAL
