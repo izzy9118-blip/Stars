@@ -1,0 +1,113 @@
+source_id: SRC-HOP-XENOPHON-ANABASIS
+status: GOVERNING_GREEK_TEXT_LOCKED_TARGETED_PASSAGE_EXTRACTION_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Xenophon
+work_or_document_title: Anabasis / Expedition of Cyrus
+events_described: Cyrus the Younger's expedition, battle of Cunaxa and retreat of the Greek force, 401-399 BCE
+composition_period: fourth century BCE; exact publication chronology uncertain
+original_language: Ancient Greek
+evidence_class: POST_FESTUM_DUSK_WITNESS
+witness_subclass: PARTICIPANT_HISTORICAL_AND_COMMAND_REFLECTION
+
+participant_or_observer_position: >-
+  Xenophon participated in the expedition and became one of the Greek commanders
+  after the generals were seized. His narrative combines firsthand experience,
+  self-presentation, reported speech and retrospective literary construction.
+temporal_distance_if_retrospective: written after the expedition; exact interval and stages of composition remain uncertain
+
+governing_witness_and_exact_edition_or_archive:
+  ancient_textual_state: medieval manuscript transmission; no authorial manuscript survives
+  governing_greek_edition:
+    editor: E. C. Marchant
+    title: Xenophontis Opera Omnia, volume III, Expeditio Cyri
+    publisher: Clarendon Press
+    place: Oxford
+    year: 1904
+    cts_urn: urn:cts:greekLit:tlg0032.tlg006.perseus-grc1
+    catalogue: https://catalog.perseus.tufts.edu/catalog/urn:cts:greekLit:tlg0032.tlg006
+  translation_control:
+    translator: Carleton L. Brownson
+    title: Xenophon in Seven Volumes, volumes II-III
+    years: 1921-1922
+    cts_urn: urn:cts:greekLit:tlg0032.tlg006.perseus-eng1
+  rule: >-
+    Marchant's Greek text governs navigation and quotation pending newer critical
+    consultation. Xenophon's participant position strengthens but does not make his
+    self-portrayal or reported speeches automatically complete.
+
+star_claim_target:
+  - imperial_space_routes_satraps_and_armies
+  - Persian_princely_competition_and_delegated_power
+  - Greek_military_community_inside_and_against_the_empire
+  - command_obedience_election_and_collective_survival
+intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - A participant constructed a detailed post-festum account of movement through Achaemenid imperial territory, encounters with princes, satraps, soldiers and local communities.
+  - The narrative shows Persian authority as spatially extensive but unevenly mediated through rulers, governors, armies, roads, supplies, treaties and local groups.
+  - The Greek force repeatedly debates, elects, obeys, resists and reorganizes command under conditions of danger.
+  - Individual judgment and public speech become practical military powers without dissolving discipline or collective dependence.
+
+what_the_source_cannot_establish:
+  - A neutral or complete Persian view of Cyrus the Younger, Artaxerxes II, Tissaphernes or the satrapal order.
+  - Exact speeches simply because they appear in first person or direct discourse.
+  - Uniform Achaemenid administration across every territory encountered.
+  - That the Greek force was a democratic polity in the full civic sense.
+  - That Xenophon's later political philosophy can be projected into every narrated decision.
+
+rival_or_counter_witnesses_where_known:
+  - Ctesias fragments concerning Cunaxa and the court
+  - Babylonian and Achaemenid documentary evidence
+  - Plutarch, Life of Artaxerxes
+  - Xenophon, Cyropaedia as a different genre
+  - Persian and local provincial records where extant
+
+boundary_effect: >-
+  Anabasis makes imperial space and delegated rule visible from within a moving armed
+  community, but it remains a Greek participant narrative. It adds agency, election and
+  speech without turning Persia into a backdrop or Xenophon into an omniscient observer.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - Persian king, prince and satrap
+    - elected or emergent Greek commanders
+    - armed assembly and military oath
+    - local rulers and communities
+  human_position:
+    - mercenary soldier
+    - elected commander
+    - messenger, guide and interpreter
+    - provincial subject or local ruler
+    - individual speaker inside an armed collective
+  claimed_end: survival, return, honor, pay, disciplined action and negotiated passage
+  claimed_obligations:
+    - military obedience and mutual defense
+    - oath and agreement
+    - deliberation under necessity
+  formation_mechanisms:
+    - speech and persuasion
+    - election and public judgment
+    - discipline, example and shared hardship
+  coercive_mechanisms:
+    - armed force
+    - punishment and threat
+    - control of supplies and routes
+  material_relations:
+    - pay, plunder and provisions
+    - road, river and mountain passage
+    - camp and army
+    - markets and local resources
+  knowledge_relations: survival depends upon reconnaissance, interpretation, counsel, memory and competing reports
+  freedom_relation: soldiers exercise bounded speech and choice within an armed dependency; this is not naturally independent individuality outside collective need
+  crossing_relation: PARTICIPANT_JUDGMENT_EMERGES_INSIDE_COLLECTIVE_MILITARY_POWER
+  age_of_individual_relevance: >-
+    The work discloses individual initiative and accountable command before modern
+    individual sovereignty: persons deliberate and act, but their agency is inseparable
+    from army, oath, danger, pay and shared survival.
+
+quotation_state: TARGETED_BOOKS_AND_SCENES_IDENTIFIED_EXACT_GREEK_EXTRACTION_PENDING
+star_integration_state: NOT_YET_PROPOSED
