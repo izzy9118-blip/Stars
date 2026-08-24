@@ -1,0 +1,55 @@
+source_id: SRC-HOP-HOREMHEB-EDICT
+status: MONUMENT_LOCKED_CRITICAL_TEXT_AND_PASSAGE_CROSSWALK_PENDING
+
+author_or_corporate_author: Horemheb / Egyptian royal administration
+work_or_document_title: Great Edict of Horemheb
+date_or_period: late Eighteenth Dynasty, reign of Horemheb
+original_language: Ancient Egyptian in hieroglyphic inscription
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+secondary_evidence_character: royal reflective and legitimating preamble
+
+governing_witness_and_exact_edition_or_archive:
+  monument: sandstone stela/inscription at Karnak, near the Tenth Pylon
+  governing_text_target: Wolfgang Helck continuation of Urkunden der 18. Dynastie, hieroglyphic text
+  historical_translation_aid: James Henry Breasted, Ancient Records of Egypt, volume III
+  public_domain_series_locator: https://archive.org/search?query=title%3A%28Ancient+Records+of+Egypt%29+AND+creator%3A%28Breasted%29
+  monument_status: damaged; substantial lacunae must remain visible
+
+participant_or_observer_position: royal decree presenting reform in the king's own authoritative voice
+temporal_distance_if_retrospective: contemporaneous royal inscription, but self-legitimating rather than neutral report
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - ma_at_against_isfet_in_administration
+  - delegated_office_and_royal_judgment
+  - taxation_property_punishment_and_protection
+  - distinction_between_office_and_abusive_occupant
+intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+
+what_the_source_can_establish:
+  - The royal government promulgated provisions addressing specified abuses by soldiers, tax or revenue agents, judges and officials.
+  - Protection of people and property could be stated as a royal duty enforced through appointment, oath, procedure and punishment.
+  - The decree joins administrative reform to Horemheb's claim to restore order.
+what_the_source_cannot_establish:
+  - How consistently the provisions were enforced across Egypt.
+  - That abuse disappeared or that all subjects possessed equal legal standing.
+  - Every claimed institutional innovation until the damaged Egyptian text is cross-checked clause by clause.
+
+rival_or_counter_witnesses_where_known:
+  - Eloquent Peasant
+  - Rekhmire office inscriptions
+  - taxation and labor records
+  - later royal restoration inscriptions
+boundary_effect: >-
+  Separate operative provisions from royal self-praise, and formal protection from
+  demonstrated practice. Lacunae and older translations cannot be silently repaired.
+
+age_of_individual_crossing:
+  person_power_relation: subject vulnerable to delegated officials but placed under royal protection and exaction
+  authority_demand: service, dues and obedience within an order whose agents are also answerable to the king
+  conduct_formation: law and punishment define proper office before the population
+  later_relation: OLDER_ADMINISTRATIVE_FORM_LATER_TRANSFORMED
+  prohibition: Royal protection is not equivalent to impersonal equal rights held prior to the state.
+
+quotation_state: NOT_YET_ADMITTED_PENDING_HIEROGLYPHIC_CROSSWALK
+star_integration_state: NOT_YET_PROPOSED
