@@ -1,0 +1,19 @@
+source_id: SRC-HOP-KIEL-CANAL-1886
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Empire
+  title: Gesetz betreffend die Herstellung des Nord-Ostseekanals
+  date: 1886-03-16
+  original_language: German
+  role: strategic_maritime_infrastructure_public_finance_and_military_mobility
+governing_witness:
+  witness_type: REICHSGESETZBLATT_SCAN_TRANSCRIPTION
+  citation: "RGBl. 1886, S. 58 ff."
+  discovery: https://de.wikisource.org/wiki/Kategorie:Deutsches_Reichsgesetzblatt_1886
+related_operational_texts:
+  - Allerhöchster Erlaß betreffend den Abgabentarif für den Nord-Ostsee-Kanal, 1895
+  - Gesetz betreffend den Abgabentarif für den Kaiser Wilhelm-Kanal, 1896
+qualification: >-
+  The canal is treated as state-built strategic and commercial infrastructure. Its actual
+  effects on naval movement, freight and regional development require separate operational evidence.
