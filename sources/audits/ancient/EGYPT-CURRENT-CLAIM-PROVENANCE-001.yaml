@@ -1,0 +1,193 @@
+provenance_id: EGYPT-CURRENT-CLAIM-PROVENANCE-001
+status: CANDIDATE_PROVENANCE_REVIEW
+star: STAR-HISTORY-OF-POWER-001
+layer: historical_spectrum.egyptian_power
+method: sources/SOURCE-WITNESS-METHOD.md
+
+purpose: >-
+  Test the existing Egypt synthesis before adding further sources. Claim groups
+  are classified by the strongest evidence presently identified, not by how
+  persuasive the current prose sounds.
+
+claim_groups:
+  - group_id: EGYPT-PROV-001
+    claim_family: Ptah creates through heart, tongue, naming, command, arts, and provisions
+    present_support:
+      - Shabaka Stone original object and transcript
+    strongest_evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+    current_state: STRONG_WITH_TEXTUAL_AND_RESTORATION_BOUNDARY
+    required_control:
+      - distinguish the stone's date from the older writing it claims to restore
+      - preserve damaged-text and translation limits
+
+  - group_id: EGYPT-PROV-002
+    claim_family: gods, spirits, and human kings form one Egyptian succession
+    present_support:
+      - Turin Royal Canon papyrus
+      - Kim Ryholt reconstruction
+    strongest_evidence_class: PRIMARY_WITNESS_PLUS_LATER_CRITICAL_RECONSTRUCTION
+    current_state: STRONG_BUT_EDITORIAL_LAYER_MUST_BE_SEPARATED
+    required_control:
+      - mark surviving papyrus wording separately from restored fragment order
+      - compare other king lists and Manetho without harmonizing them
+
+  - group_id: EGYPT-PROV-003
+    claim_family: departed king retains divine identity, insignia, judgment, rule, and stellar continuity
+    present_support:
+      - Pyramid Text inscriptions
+      - James P. Allen modern critical edition and translation
+    strongest_evidence_class: PRIMARY_INSCRIPTIONS_PLUS_MODERN_EDITION
+    current_state: STRONG_IF_UTTERANCE_AND_MONUMENT_SPECIFIED
+    required_control:
+      - cite individual pyramid and utterance
+      - distinguish translation and restoration from inscription
+
+  - group_id: EGYPT-PROV-004
+    claim_family: royal and official conduct is judged through hearing, restraint, justice, and responsibility
+    present_support:
+      - Teaching of Ptahhotep
+      - Teaching for King Merikare
+      - Teaching of Amenemhat I
+      - newly registered Eloquent Peasant, Loyalist Teaching, Horemheb, Rekhmire, and Weni
+    strongest_evidence_class: INDIGENOUS_REFLECTIVE_AND_DIRECT_PRIMARY_WITNESSES
+    current_state: STRONGER_AFTER_ACQUISITION_PASSAGES_PENDING
+    required_control:
+      - separate didactic norm, literary critique, decree, office ideal, and autobiographical self-presentation
+
+  - group_id: EGYPT-PROV-005
+    claim_family: Akhenaten founds sacred territory by boundary, oath, name, and royal cult
+    present_support:
+      - Boundary Stelae of Akhenaten
+    strongest_evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+    current_state: STRONG_WITH_SITE_AND_STELA_SPECIFICATION_NEEDED
+    required_control:
+      - identify stela version and passage
+      - distinguish foundation claim from later success or permanence
+
+  - group_id: EGYPT-PROV-006
+    claim_family: mortuary judgment makes the heart a witness and places conduct beyond office and wealth
+    present_support:
+      - Book of the Dead Chapter 30A
+      - wider mortuary corpus not yet fully registered
+    strongest_evidence_class: INDIGENOUS_RELIGIOUS_PRIMARY_WITNESS
+    current_state: BOUNDED_CORE_STRONG_GENERALIZATION_OPEN
+    required_control:
+      - add Coffin Text and Book of the Dead witnesses beyond one spell before broad social claims
+      - distinguish royal, elite, and later wider access
+
+  - group_id: EGYPT-PROV-007
+    claim_family: Herodotus shows priestly memory, institutional differentiation, nomos, and Greek learning from Egypt
+    present_support:
+      - Herodotus Histories Book II
+    strongest_evidence_class: ANCIENT_POST_FESTUM_EXTERNAL_HISTORICAL_WITNESS
+    current_state: VALUABLE_BUT_OVERBURDENED
+    required_control:
+      - distinguish observation, priestly report, inference, hearsay, and judgment
+      - add Egyptian counter-witnesses and later dusk historians
+      - do not treat occupational classes as a complete native census
+
+  - group_id: EGYPT-PROV-008
+    claim_family: Egyptian civilization operated as an integrated sacred science joining myth, number, natural symbol, temple, body, craft, and rule
+    present_support:
+      - R. A. Schwaller de Lubicz
+      - John Anthony West
+      - selected ancient texts and monuments not yet mapped claim by claim
+    strongest_evidence_class: LATER_MODERN_INTERPRETIVE_RECONSTRUCTION_WITH_PARTIAL_ANCIENT_INPUTS
+    current_state: OVERSTATED_IN_PRESENT_FACT_VOICE
+    required_control:
+      - decompose into separately testable ancient relations
+      - attribute remaining integrative synthesis
+      - add Assmann, Hornung, Kemp, kingship scholarship, and rival interpretations
+
+  - group_id: EGYPT-PROV-009
+    claim_family: Luxor embodies Anthropocosmos and is an initiatory text for transformation of consciousness
+    present_support:
+      - Schwaller de Lubicz
+      - John Anthony West
+    strongest_evidence_class: LATER_MODERN_INTERPRETIVE_RECONSTRUCTION
+    current_state: RECLASSIFICATION_REQUIRED
+    required_control:
+      - identify exact architectural, inscriptional, ritual, and comparative basis
+      - acquire mainstream architectural and temple studies
+      - retain as attributed interpretation unless ancient evidence establishes the exact proposition
+
+  - group_id: EGYPT-PROV-010
+    claim_family: initiation organized several meanings and produced a hierarchy of knowledge and consciousness
+    present_support:
+      - modern symbolist synthesis
+      - indirect claims about priestly access and temple restriction
+    strongest_evidence_class: INTERPRETIVE_BRIDGE_WITH_INSUFFICIENT_DIRECT_CONTROL
+    current_state: NOT_READY_FOR_FACT
+    required_control:
+      - acquire direct access, priestly, scribal, temple-library, ritual, and educational evidence
+      - distinguish restricted office or literacy from one comprehensive initiatory system
+
+  - group_id: EGYPT-PROV-011
+    claim_family: Osirian gradual renewal and Horian direct liberation are distinct paths
+    present_support:
+      - Schwaller de Lubicz and later reception
+    strongest_evidence_class: LATER_MODERN_INTERPRETIVE_RECONSTRUCTION
+    current_state: RECLASSIFICATION_OR_REMOVAL_FROM_FACT_REQUIRED
+    required_control:
+      - trace exact ancient passages and terminology
+      - test against mortuary corpora and history-of-religions scholarship
+      - preserve only as attributed modern interpretation if direct basis remains insufficient
+
+  - group_id: EGYPT-PROV-012
+    claim_family: Egypt began with inherited completeness from an older lost civilizational source
+    present_support:
+      - modern observation and speculative reconstruction
+    strongest_evidence_class: OPEN_INTERPRETIVE_QUESTION
+    current_state: MAY_REMAIN_OPEN_QUESTION_NOT_FACT
+    required_control:
+      - separate archaeological observation of early complexity from claims of lost-source transmission
+      - exclude Atlantis as fact absent independent evidence
+
+  - group_id: EGYPT-PROV-013
+    claim_family: Hatshepsut demonstrates that a woman could occupy the full office of king
+    present_support:
+      - current narrative assertion
+      - direct monuments not yet registered in the repaired corpus
+    strongest_evidence_class: DOCUMENTED_OR_TEXTUAL_FACT_TARGET
+    current_state: PRIMARY_WITNESS_ACQUISITION_REQUIRED
+    required_control:
+      - titulary, coronation, temple reliefs, obelisks, and later erasure evidence
+      - distinguish office, representation, succession politics, and later memory
+
+  - group_id: EGYPT-PROV-014
+    claim_family: palace, temple, land, craft, taxation, and Nile measurement form an administrative circuit
+    present_support:
+      - Ptahhotep and Herodotus
+      - modern contextual pages and syntheses
+      - newly registered Horemheb, Rekhmire, Weni, and strike papyrus
+    strongest_evidence_class: MIXED_PRIMARY_AND_MODERN_RECONSTRUCTION
+    current_state: PROMISING_BUT_INSTITUTIONALLY_INCOMPLETE
+    required_control:
+      - land and tax papyri
+      - temple accounts
+      - household letters
+      - survey/cadastre evidence
+      - local administration and labor archaeology
+
+age_of_individual_conformity_test:
+  conforms:
+    - Egypt is treated as an older sacred order that positions persons before private will becomes the ground of authority.
+    - Newly acquired voices show agency, interiority, petition, office, labor, and memory without calling them modern individualism.
+    - Later forms may preserve or transform Egyptian relations without making Egypt a necessary first step toward modernity.
+  risks:
+    - modern symbolist interiority could be mistaken for ancient autonomous selfhood
+    - a unified sacred-science doctrine could erase historical plurality
+    - elite mortuary and official texts could be generalized to all persons
+
+second_tranche_priorities:
+  - Hatshepsut titulary, coronation, and memorial evidence
+  - Harkhuf and additional autobiographies
+  - Heqanakht household letters
+  - Wilbour or comparable land/tax papyri
+  - temple and priestly administrative records
+  - Turin Judicial Papyrus and tomb-robbery proceedings
+  - direct foreign-community papyri, including Elephantine where chronologically appropriate
+  - mainstream Luxor temple, architecture, ritual, and access studies
+
+structured_star_revision_authorized: false
+next_action: ACQUIRE_SECOND_TRANCHE_AND_EXTRACT_FIRST_PASSAGES
