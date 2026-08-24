@@ -1,0 +1,42 @@
+source_id: SRC-HOP-CLAUSEWITZ-VOM-KRIEGE-1832
+status: GOVERNING_POSTHUMOUS_FIRST_EDITION_WITNESS_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  author: Carl von Clausewitz
+  title: Vom Kriege
+  publication_sequence: 1832-1834
+  original_language: German
+  role: war_politics_uncertainty_mass_mobilization_and_state_purpose
+
+governing_witness:
+  witness_type: DIGITIZED_POSTHUMOUS_FIRST_EDITION
+  series_title: Hinterlassene Werke des Generals Carl von Clausewitz über Krieg und Kriegführung
+  publisher: Ferdinand Dümmler
+  place: Berlin
+  volumes: "Vom Kriege, 1.-3. Theil, 1832-1834"
+  repository: ETH-Bibliothek Zürich / e-rara
+  persistent_identifier: https://doi.org/10.3931/e-rara-73563
+  collection_url: https://www.e-rara.ch/zut/content/titleinfo/20498226
+  rights: Public Domain Mark
+
+editorial_status:
+  - work published posthumously by Marie von Clausewitz
+  - Clausewitz states that the first six books remained an unfinished mass requiring revision
+  - Book VIII and the late notes require special attention to textual chronology
+
+primary_passage_targets:
+  - war as an act of force to compel the opponent to fulfill our will
+  - relation between political purpose and military means
+  - friction, uncertainty, moral forces and limited knowledge
+  - distinction between war aimed at overthrowing the opponent and limited war
+  - people's war / national mobilization where relevant
+
+witness_policy:
+  rule: >-
+    Preserve the unfinished and posthumous status of the text. Do not turn one famous
+    formulation into a complete system or assume every passage represents Clausewitz's
+    final revised position.
+
+quotation_state: TARGETED_BOOKS_AND_EDITORIAL_NOTES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED
