@@ -1,29 +1,31 @@
 corpus_id: HOP-ADMINISTRATIVE-STATE-001
 name: Administrative and National Power Primary Source Corpus
-status: NAPOLEONIC_CORE_MAPPED_RESTORATION_1815_1848_NEXT
+status: NAPOLEONIC_CORE_MAPPED_RESTORATION_1815_1848_GATHERED
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: history-of-power-primary-sources-001
 working_branch: history-of-power-administrative-state-001
 
-period_focus: "1798-1815 core administrative unit mapped; chronological continuation into 1815-1848 beginning"
+period_focus: "1798-1815 core administrative unit mapped; 1815-1848 Restoration and democratic-national-state unit gathered"
 
 purpose: >-
   Reconstruct how revolutionary sovereignty and mobilization were converted into
   durable executive, territorial, military, legal, educational, police,
   informational, infrastructural, fiscal, and accounting capacities under the
   Consulate and Empire, then determine which capacities survive Restoration and
-  how nineteenth-century thinkers understand the national and administrative state.
+  subsequent constitutional revolutions and how nineteenth-century thinkers
+  understand the national, administrative, and military state.
 
 acquisition_rules:
   - Primary legal and administrative texts govern over later descriptions.
   - Original-language official texts and archival witnesses govern where available.
   - Revolutionary institutions inherited by Napoleon are not relabeled as Napoleonic inventions.
   - Constitution, administration, police, military recruitment, law, education, statistics, infrastructure, taxation, accounting, and personal executive correspondence remain distinct evidence classes.
+  - Regime change and administrative continuity are separate relations and must be demonstrated independently.
   - A later critical correspondence edition may govern document identification only when each quoted letter retains its individual primary-document metadata.
+  - Philosophical and military-theoretical texts are attributed interpretations, not substitutes for institutional evidence.
   - Claims of centralization, bureaucracy, nationalism, modernization, or state capacity must be demonstrated through institutions and documents rather than assumed from period labels.
-  - Later theorists may interpret earlier institutions, but their retrospective accounts do not replace contemporary administrative evidence.
 
-sources:
+napoleonic_sources:
   - {source_id: SRC-HOP-CONSCRIPTION-1798, state: GOVERNING_DOCUMENTARY_WITNESS_LOCKED}
   - {source_id: SRC-HOP-CONSTITUTION-AN-VIII-1799, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-PREFECTS-28-PLUVIOSE-AN-VIII, state: GOVERNING_WITNESS_LOCKED}
@@ -40,26 +42,45 @@ sources:
   - {source_id: SRC-HOP-COUR-COMPTES-1807, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-DROITS-REUNIS-1804, state: ARCHIVAL_INSTITUTIONAL_WITNESS_LOCKED}
 
-witness_count: 15
-locked_or_registered_count: 15
+restoration_1815_1848_sources:
+  - {source_id: SRC-HOP-CHARTER-1814, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
+  - {source_id: SRC-HOP-VIENNA-FINAL-ACT-1815, state: GOVERNING_DIPLOMATIC_TEXT_LOCKED}
+  - {source_id: SRC-HOP-HEGEL-PHILOSOPHY-RIGHT-1821, state: GOVERNING_FIRST_EDITION_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-CLAUSEWITZ-VOM-KRIEGE-1832, state: GOVERNING_POSTHUMOUS_FIRST_EDITION_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-TOCQUEVILLE-DEMOCRACY-1835-1840, state: GOVERNING_PUBLICATION_SEQUENCE_LOCKED_WORKING_DIGITAL_WITNESSES_REGISTERED}
+  - {source_id: SRC-HOP-CHARTER-1830, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
+  - {source_id: SRC-HOP-CONSTITUTION-1848, state: GOVERNING_OFFICIAL_TEXT_LOCKED}
+
+witness_count: 22
+locked_or_registered_count: 22
 
 maps:
   - map_id: NAPOLEONIC-ADMINISTRATIVE-STATE-001
     path: sources/primary/nineteenth-century/maps/NAPOLEONIC-ADMINISTRATIVE-STATE-001.yaml
     state: CONDITIONALLY_SATISFIED_FOR_CORE_ADMINISTRATIVE_MECHANISMS
+  - map_id: RESTORATION-NATIONAL-STATE-1815-1848-001
+    path: sources/primary/nineteenth-century/maps/RESTORATION-NATIONAL-STATE-1815-1848-001.yaml
+    state: PASSAGE_EXTRACTION_IN_PROGRESS
 
 napoleonic_unit_remaining_controls:
   - Inspect Chaptal's 19 germinal an IX statistical circular before direct quotation.
   - Cross-walk the 25 March 1802 road letter to its original minute or critical correspondence number before direct quotation.
   - Add a quantified aggregate budget/Treasury witness only if later synthesis requires a claim about aggregate fiscal capacity rather than machinery.
 
-next_unit:
-  name: RESTORATION_NATIONAL_STATE_AND_ADMINISTRATIVE_CONTINUITY_1815_1848
-  acquisition_targets:
-    - Final Act of the Congress of Vienna and French Charter of 1814 as post-Napoleonic settlement witnesses.
-    - Hegel, Grundlinien der Philosophie des Rechts, 1820/1821 first edition.
-    - Clausewitz, Vom Kriege, 1832 first edition, with manuscript/editorial status preserved.
-    - Tocqueville, De la démocratie en Amérique, 1835/1840 first editions.
-    - Tocqueville, L'Ancien Régime et la Révolution, 1856, later retrospective witness on administrative centralization.
-    - French 1830 and 1848 constitutional witnesses where needed to test regime change against administrative continuity.
-    - Primary evidence on railways, telegraph, statistical administration, and mass mobilization only after the political-administrative unit is established.
+restoration_unit_next_controls:
+  - Extract first-edition Hegel passages on police/corporation, civil servants, estates and sovereignty.
+  - Extract Clausewitz Book I and late political-war passages with editorial-state notes.
+  - Extract first-edition Tocqueville passages from both 1835 and 1840.
+  - Acquire institution-specific evidence showing whether prefectures, Code civil, Cour des comptes, cadastre, tax collection, or other administrative machinery survives 1814, 1830 and 1848.
+  - Reach Tocqueville's 1856 Ancien Régime chronologically before using it as a retrospective centralization witness.
+
+chronological_next:
+  name: ADMINISTRATIVE_CONTINUITY_INDUSTRIAL_INFRASTRUCTURE_AND_1848_TO_UNIFICATION
+  sequence:
+    - administrative survival across 1814/1830/1848
+    - 1848 political and social claims
+    - railway and telegraph infrastructure
+    - statistical and fiscal administration
+    - national military organization
+    - 1856 Tocqueville retrospective centralization analysis
+    - movement toward Italian and German unification and Bismarck
