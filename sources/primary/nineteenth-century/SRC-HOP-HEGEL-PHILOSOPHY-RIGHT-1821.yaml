@@ -1,5 +1,5 @@
 source_id: SRC-HOP-HEGEL-PHILOSOPHY-RIGHT-1821
-status: GOVERNING_FIRST_EDITION_WITNESS_LOCKED
+status: GOVERNING_FIRST_EDITION_WITNESS_LOCKED_PASSAGES_IDENTIFIED
 parent_corpus: HOP-ADMINISTRATIVE-STATE-001
 
 work:
@@ -19,18 +19,32 @@ governing_witness:
   url: https://www.deutsche-digitale-bibliothek.de/item/MF74DVVPUCVZYAN32X6WFSOEUREFPCHN
   extent: XXVI, 355 pages
 
-primary_passage_targets:
-  - civil society as a distinct sphere of needs, work, administration of justice and police
-  - corporations and estates
-  - the universal class / civil servants
-  - constitutional monarchy and sovereignty
-  - relation of particular interests to the universal state
+passages:
+  - section: 229-230
+    issue: police and corporation extend the universal concern beyond abstract adjudication into the particular welfare and order of civil society
+    anchor: "die Bestimmung der Polizei und, in beschränkter, aber konkreter Totalität, die Korporation"
+    status: GERMAN_TEXT_IDENTIFIED_FIRST_EDITION_PAGE_CROSSWALK_PENDING
+  - section: 295
+    issue: safeguards against abuse by authorities and officials through hierarchy, responsibility, communities and corporations
+    anchors:
+      - "Hierarchie und Verantwortlichkeit"
+      - "der Gemeinden, Korporationen"
+    status: GERMAN_TEXT_IDENTIFIED_FIRST_EDITION_PAGE_CROSSWALK_PENDING
+  - section: 297
+    issue: members of government and state officials as central part of the educated middle estate, prevented from becoming an isolated aristocracy by institutions above and below
+    anchor: "Die Mitglieder der Regierung und die Staatsbeamten machen den Hauptteil des Mittelstandes aus"
+    status: GERMAN_TEXT_IDENTIFIED_FIRST_EDITION_PAGE_CROSSWALK_PENDING
+  - section: 303
+    issue: general estate devoted to government service has the universal as the purpose of its essential activity
+    anchor: "Der allgemeine, näher dem Dienst der Regierung sich widmende Stand"
+    status: GERMAN_TEXT_IDENTIFIED_FIRST_EDITION_PAGE_CROSSWALK_PENDING
 
 witness_policy:
   rule: >-
-    The 1821 German first edition governs wording and terminology. Hegel is an
-    attributed philosophical interpretation of modern ethical and political institutions;
-    he is not a documentary description of every contemporary German state.
+    The 1821 German first edition governs wording and terminology. Modern transcriptions
+    may locate sections, but direct quotation in History of Power requires page-image
+    comparison against the locked first edition. Hegel remains an attributed philosophical
+    interpretation rather than documentary proof of actual Prussian administration.
 
-quotation_state: TARGETED_SECTIONS_PENDING_EXTRACTION
-analysis_state: NOT_YET_INTEGRATED
+quotation_state: SECTION_WORDING_IDENTIFIED_IMAGE_CROSSWALK_PENDING
+analysis_state: PASSAGE_MAP_READY_WITH_WITNESS_CONTROL
