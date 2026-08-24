@@ -1,0 +1,47 @@
+source_id: SRC-HOP-PEACE-AUGSBURG-1555
+name: Peace of Augsburg
+status: GOVERNING_WITNESS_LOCKED
+
+work:
+  corporate_author: Ferdinand I acting in the name of Emperor Charles V together with the Imperial Estates
+  title_normalized: Augsburger Religionsfrieden within the Reichsabschied of Augsburg
+  date: 1555-09-25
+  original_language: German
+  role: confessional_peace_imperial_estates_territorial_jurisdiction_emigration_and_imperial_cities
+
+governing_witness:
+  witness_type: AUTHORIZED_CONTEMPORARY_1555_PRINT
+  title: >-
+    Abschiedt Der Römischen Königlichen Majestat / und gemeiner Stendt / auff dem
+    Reichßtag zu Augspurg / Anno Domini M.D.LV. auffgericht
+  printer: Franciscus Behem
+  place: Mainz
+  year: 1555
+  vd16: R 801
+  digital_edition: https://tueditions.ulb.tu-darmstadt.de/v/pa000008-0116
+  textual_basis_note: >-
+    The DDE edition uses the authorized Behem print and collates the manuscript
+    tradition. The surviving sealed original is Vienna, ÖStA HHStA, AUR 1555 IX 25.
+
+passage_anchors:
+  - section: §15
+    text: >-
+      "keinen Stand des Reichs von wegen der Augspurgischen Confession ...
+      wider sein Conscientz, Gewissen und Willen ... tringen"
+    use: protection_of_imperial_estates_of_Augsburg_confession
+  - section: §23
+    text: "Es soll auch kein Stand den andern noch desselben Unterthanen zu seiner Religion dringen"
+    use: prohibition_on_one_estate_forcing_another_estates_subjects
+  - section: §24
+    text: "mit ihren Weib und Kindern an andere Orte ziehen und sich nieder thun wolten"
+    use: protected_emigration_for_confessional_reasons
+  - section: §27
+    text: "friedlich und ruhig bey- und neben einander wohnen"
+    use: coexistence_of_both_confessions_in_specified_imperial_cities
+
+claim_boundary: >-
+  The settlement is not modern individual religious liberty. Its central legal actors
+  are Emperor/King, Imperial Estates, territories, authorities, and certain imperial
+  cities; subjects who could not remain under a territorial settlement received a
+  protected right of departure rather than a universal right to establish any public
+  confession anywhere.
