@@ -1,0 +1,57 @@
+integration_id: EARLY-MODERN-STRUCTURED-INSERT-001
+status: INTEGRATION_CANDIDATE_NOT_YET_APPLIED
+parent_star: STAR-HISTORY-OF-POWER-001
+narrative_candidate: sources/primary/early-modern/integration/EARLY-MODERN-NARRATIVE-INSERT-001.md
+
+fact_extension_summary: >-
+  Early-modern power is reconstructed through Machiavellian founding and reform;
+  Reformation jurisdiction and confessional settlement; Bodinian sovereignty;
+  Dutch confederal, corporate, maritime, municipal, securities, and public-credit
+  institutions; English civil-war claims, Hobbesian authorization, post-1688
+  constitutional limits, and funded public credit; and Montesquieu's moderation
+  together with Rousseau's distinction between popular sovereignty and government.
+
+insertions:
+  - key: renaissance_statecraft_and_machiavelli
+    period: sixteenth-century transition
+    maps: [RENAISSANCE-STATECRAFT-MACHIAVELLI-001]
+    primary_sources: [SRC-HOP-MACHIAVELLI-PRINCIPE-1532, SRC-HOP-MACHIAVELLI-DISCORSI-1531]
+    prior_interpretation: [SRC-STRAUSS-THOUGHTS-MACHIAVELLI-1958, SRC-STRAUSS-NATURAL-RIGHT-1962]
+    boundary: Primary Machiavelli and Strauss interpretation remain distinct.
+
+  - key: reformation_confessional_jurisdiction_and_sovereignty
+    period: 1523-1598
+    maps: [REFORMATION-CONFESSIONAL-SOVEREIGNTY-001]
+    primary_sources: [SRC-HOP-LUTHER-TEMPORAL-AUTHORITY-1523, SRC-HOP-PEACE-AUGSBURG-1555, SRC-HOP-CALVIN-INSTITUTES-IV-20, SRC-HOP-BODIN-REPUBLIQUE-1576, SRC-HOP-VINDICIAE-1579, SRC-HOP-EDICT-NANTES-1598]
+    boundary: Reformation is jurisdictional fracture, not a simple transfer from church to state.
+
+  - key: dutch_republican_commercial_and_financial_power
+    period: 1579-1688
+    maps: [DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001, DUTCH-FINANCIAL-POWER-001]
+    primary_sources: [SRC-HOP-UNION-UTRECHT-1579, SRC-HOP-ACT-ABJURATION-1581, SRC-HOP-VOC-CHARTER-1602, SRC-HOP-GROTIUS-DE-JURE-PRAEDAE, SRC-HOP-GROTIUS-MARE-LIBERUM-1609, SRC-HOP-WISSELBANK-ORDINANCE-1609, SRC-HOP-WISSELBANK-ARCHIVE-5077, SRC-HOP-DEWITT-DEDUCTIE-1654, SRC-HOP-DELACOURT-INTEREST-1662, SRC-HOP-DEWITT-LYFRENTEN-1671, SRC-HOP-FINANCIE-HOLLAND-30129, SRC-HOP-DE-LA-VEGA-CONFUSION-1688]
+    hard_rule: NO_ENGLISH_SUBSTITUTE_FOR_DEWITT_1654
+    boundary: Distributed institutions are not rewritten as one unitary sovereign system.
+
+  - key: english_civil_war_constitutional_settlement_and_funded_credit
+    period: 1628-1694
+    maps: [ENGLISH-CIVIL-WAR-SOVEREIGNTY-1688-CREDIT-001]
+    primary_sources: [SRC-HOP-PETITION-RIGHT-1628, SRC-HOP-GRAND-REMONSTRANCE-1641, SRC-HOP-ANSWER-NINETEEN-PROPOSITIONS-1642, SRC-HOP-PUTNEY-DEBATES-1647, SRC-HOP-HOBBES-LEVIATHAN-1651, SRC-HOP-INSTRUMENT-GOVERNMENT-1653, SRC-HOP-BILL-RIGHTS-1689, SRC-HOP-LOCKE-TWO-TREATISES-1690, SRC-HOP-BOE-ACT-1694, SRC-HOP-BOE-CHARTER-1694]
+    boundary: Preserve rival Crown, Parliament, Army, Protectorate, popular, and creditor claims.
+
+  - key: enlightenment_moderation_commerce_and_popular_sovereignty
+    period: 1748-1762
+    maps: [ENLIGHTENMENT-MONTESQUIEU-ROUSSEAU-001]
+    primary_sources: [SRC-HOP-MONTESQUIEU-ESPRIT-LOIS-1748, SRC-HOP-ROUSSEAU-DISCOURS-1755, SRC-HOP-ROUSSEAU-CONTRAT-SOCIAL-1762]
+    prior_interpretation: [SRC-STRAUSS-ROUSSEAU-1962]
+    boundary: Distribution of governmental powers and indivisible sovereignty are distinct questions.
+
+application_order:
+  - Insert the first four keys before existing early_modern_and_enlightenment_power as new sixth older force.
+  - Preserve existing Bacon-Hume-Voltaire-Condorcet content and renumber its conclusion seventh.
+  - Insert enlightenment_moderation_commerce_and_popular_sovereignty after that layer as eighth older force.
+  - Renumber existing revolutionary_and_constitutional_power conclusion ninth.
+
+validation:
+  - All detailed claims remain governed by the six map files; this file does not duplicate them.
+  - Integration is additive and must preserve existing Star keys and source records.
+  - No direct quote may be added unless its governing map authorizes witness-level use.
