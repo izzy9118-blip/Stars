@@ -1,0 +1,68 @@
+source_id: SRC-HOP-DEWITT-DEDUCTIE-1654
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  attributed_author: Johan de Witt
+  corporate_voice: Staten van Hollandt ende West-Vrieslandt
+  title: >-
+    Deductie, ofte declaratie van de Staten van Hollandt ende West-Vrieslandt;
+    behelsende een waerachtich, ende grondich bericht van de fondamenten der
+    regieringe vande vrye Vereenichde Nederlanden; ende specialick van 't recht
+    competerende de respective Staten vande gheunieerde Provincien yder apart ...
+  year: 1654
+  language: Dutch
+  historical_context: Acte van Seclusie, passed 4 May 1654
+
+use_in_history_of_power:
+  - constitutional foundations of the free United Netherlands
+  - separate rights of the respective provincial States
+  - relation between provincial sovereignty and the Union
+  - justification of the Act of Seclusion concerning the Prince of Orange
+  - republican argument against hereditary capture of public office
+  - documentary bridge between Dutch constitutional form and Johan de Witt's statesmanship
+
+governing_witness:
+  witness_type: ORIGINAL_1654_DUTCH_PRINT_DIGITAL_WITNESS
+  repository: Utrecht University Library Repository
+  handle: 20.500.14918/22745
+  url: https://dbc.library.uu.nl/handle/20.500.14918/22745
+  publisher: Weduwe ende Erfgenamen van wylen Hillebrandt Jacobsz van Wouw
+  publication_place: "'s-Gravenhage"
+  physical_shelfmark: S oct 5180
+  document_type: Book
+  access: Open Access
+  language: Dutch
+
+corroborating_witnesses:
+  - repository: Rijksmuseum
+    object_number: NG-70
+    url: https://www.rijksmuseum.nl/nl/collectie/object/Deductie-ofte-Declaratie-van-de-Staten-van-Hollandt-ende-West-Vrieslandt--4c4983c6fa6b58f9f3cb9dbebb7c233c
+    description: >-
+      1654 book with parchment binding; Rijksmuseum catalog records 198 pages
+      plus title page and identifies Johan de Witt.
+  - repository: Google Books
+    id: F80hL2_ITLEC
+    url: https://books.google.com/books?id=F80hL2_ITLEC
+    publisher: Weduwe ende Erfgenamen van wylen Hillebrandt Jacobsz van Wouw
+    year: 1654
+    pages: 198
+    original_from: National Library of the Netherlands / Utrecht University Library
+
+witness_policy:
+  governing_language: Dutch
+  english_translation_as_governing_witness: false
+  rule: >-
+    All quotations, abstractions, and institutional claims attributed to this
+    work must be checked against the Dutch governing witness. Any later English
+    rendering is a translation layer and must retain a link to the Dutch passage.
+  spelling_policy: >-
+    Preserve original spelling in direct quotation. Modernized Dutch may be
+    supplied separately for navigation but may not silently replace the witness.
+  attribution_caution: >-
+    Johan de Witt has traditionally been treated as the author/compiler of the
+    Deductie, while the document speaks in the corporate voice of the States of
+    Holland and West-Friesland. Repository claims must preserve that distinction.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED
