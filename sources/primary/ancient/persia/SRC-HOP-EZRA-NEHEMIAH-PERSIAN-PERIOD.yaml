@@ -1,0 +1,121 @@
+source_id: SRC-HOP-EZRA-NEHEMIAH-PERSIAN-PERIOD
+status: PREPARATORY_COMPOSITE_COMMUNITY_WITNESS_LOCKED_NOT_ADMITTED
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+branch: history-of-power-retroactive-source-audit-001
+preparatory_exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+
+source_identity:
+  author_or_corporate_author: composite Judean scribal and community traditions
+  work_or_document_title: Ezra-Nehemiah, with Persian-period narratives and embedded Aramaic documents
+  narrated_period: sixth to fifth centuries BCE
+  composition_and_editing: debated; final literary forms may be later than several narrated events and embedded documents
+  original_languages:
+    - Biblical Hebrew
+    - Imperial Aramaic sections in Ezra
+  evidence_class: COMPOSITE_SUBJECT_COMMUNITY_TEXTUAL_WITNESS_WITH_EMBEDDED_DOCUMENTS
+  genre_relations:
+    - community_history
+    - memoir_like_first_person_material
+    - genealogy_and_list
+    - decree_letter_and_petition_forms
+    - temple_and_law_narrative
+
+participant_or_observer_position: >-
+  A subject-community textual tradition presenting imperial authorization, local
+  officials, return, temple, genealogy, taxation, law and communal reconstitution;
+  it is not one contemporaneous author or an official Persian archive.
+temporal_distance_if_retrospective: mixed and disputed; document, memoir and editorial layers require separate dating
+
+governing_witness_and_exact_edition_or_archive:
+  principal_textual_witness:
+    tradition: Masoretic Text of Ezra-Nehemiah
+    languages: Hebrew and Aramaic
+  working_critical_edition:
+    title: Biblia Hebraica Stuttgartensia
+    editor: Karl Elliger and Wilhelm Rudolph, with later corrections
+    edition: fifth corrected edition
+    publisher: Deutsche Bibelgesellschaft
+    year: 1997
+    status: WORKING_HEBREW_ARAMAIC_CRITICAL_TEXT
+  final_critical_target:
+    title: Biblia Hebraica Quinta
+    scope: Ezra-Nehemiah fascicle when available and fully controlled for this project
+    status: EXACT_FASCICLE_AND_APPARATUS_TARGET_TO_VERIFY
+  additional_textual_controls:
+    - Septuagint Ezra traditions
+    - 1 Esdras and related textual witnesses where relevant
+    - Dead Sea and later manuscript evidence where extant
+  modern_document_authenticity_control:
+    requirement: >-
+      Each embedded decree, letter or administrative formula must be assessed
+      individually; literary inclusion does not prove archival authenticity.
+
+history_of_power_targets:
+  star_claim_target:
+    - provincial_subject_community_under_imperial_authorization
+    - temple_property_tax_exemption_and_local_office
+    - letter_decree_petition_and_travel_permission
+    - imperial_law_local_law_and_community_boundary
+    - genealogy_household_and_collective_reconstitution
+  intended_claim_class:
+    textual_representation: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    language_document_form_and_manuscript_fact: DOCUMENTED_OR_TEXTUAL_FACT
+    historical_inference: INTERPRETIVE_BRIDGE_UNTIL_CORROBORATED
+
+what_the_source_can_establish:
+  - A Judean textual tradition represented Persian rule through kings, governors, treasurers, letters, decrees, travel authorization, temple policy, taxation and local enemies or petitioners.
+  - Community reconstruction was narrated through genealogy, household, law, worship, property, office and imperial permission rather than through naturally separate individuals.
+  - Aramaic documentary forms were incorporated into the literary account and can be compared with independent Imperial Aramaic archives.
+  - Named persons such as Ezra and Nehemiah are represented as agents whose authority depends upon community role, law, office and royal authorization.
+what_the_source_cannot_establish:
+  - That every embedded Persian decree or letter is an unchanged contemporary archival document.
+  - A complete or neutral history of Persian imperial policy toward Judean communities.
+  - The experience of all subjects, provinces or religious communities.
+  - Exact chronology where literary, memoir and editorial layers remain disputed.
+  - A modern doctrine of religious liberty, citizenship or church-state separation.
+
+rival_or_counter_witnesses_where_known:
+  - Elephantine papyri
+  - Cyrus Cylinder and Babylonian evidence
+  - Arsames correspondence
+  - Persian royal inscriptions
+  - archaeological evidence from Yehud and neighboring provinces
+  - Septuagint and 1 Esdras textual traditions
+boundary_effect: >-
+  Ezra-Nehemiah adds a subject-community voice and documentary forms while preserving
+  the distinction among narrated event, embedded document, memoir, editorial theology
+  and later textual transmission.
+
+age_of_individual_crossing:
+  historically_specific_human_positions:
+    - returned_exile_or_descendant
+    - scribe
+    - governor
+    - priest
+    - household_head
+    - temple_community_member
+    - imperial_subject
+  authority_form: imperial_permission_local_office_divine_law_genealogy_and_community_discipline
+  person_power_relation: >-
+    Named persons act through offices, letters, genealogies, households, law and a
+    covenantal community whose restoration depends partly upon imperial permission;
+    individual action is neither absent nor sovereign over these relations.
+  later_relation: OLDER_SUBJECT_COMMUNITY_AND_DOCUMENTARY_MEDIATION_COEXISTS_WITH_LATER_INDIVIDUAL_FORMATION
+  prohibition: Do not translate petition, authorization or conscience-like fidelity into prepolitical individual rights.
+
+passage_control:
+  state: DOCUMENT_UNITS_AND_THEMES_TARGETED_NOT_EXTRACTED
+  targets:
+    - Aramaic correspondence and decrees in Ezra 4 through 7
+    - tax, tribute, toll and temple-exemption formulas
+    - royal authorization and travel
+    - Nehemiah's governor relation, taxation and local administration
+    - genealogy, assembly and community-boundary passages
+    - first-person memoir material separated from editorial frame
+  release_condition: >-
+    Establish Hebrew-Aramaic textual units, apparatus variants, literary setting,
+    document-authenticity scholarship and independent Aramaic comparanda before
+    historical claims or direct quotation are admitted.
+
+star_integration_state: NOT_ADMITTED_PREPARATORY_ONLY
