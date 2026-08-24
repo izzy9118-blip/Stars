@@ -1,0 +1,60 @@
+source_id: SRC-HOP-KEMP-ANATOMY-EGYPT-1989
+status: GOVERNING_FIRST_EDITION_METADATA_LOCKED_REVIEW_EXTRACTION_PENDING
+
+author_or_corporate_author: Barry J. Kemp
+work_or_document_title: Ancient Egypt
+author_subtitle: Anatomy of a Civilization
+date_or_period:
+  publication_year: 1989
+  ancient_periods_discussed: broad pharaonic history with institutional and archaeological case studies
+original_language: English
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+
+governing_witness_and_exact_edition_or_archive:
+  edition: first edition
+  publisher: Routledge
+  place: London and New York
+  year: 1989
+  extent: viii, 356 pages
+  isbn: 0-415-01281-3
+  later_edition_record: https://www.routledge.com/Ancient-Egypt-Anatomy-of-a-Civilization/Kemp/p/book/9780415827263
+  note: Later expanded editions may aid comparison but do not replace the 1989 historical position of the first edition.
+
+participant_or_observer_position: archaeologist and Egyptologist reconstructing state, society, economy and material culture
+temporal_distance_if_retrospective: millennia after the primary evidence
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - palace_bureaucracy_land_labor_and_provider_state
+  - material_and_institutional_structure_beneath_royal_self_representation
+  - ordinary_population_and_administrative_legibility
+intended_claim_class: WITNESS_METADATA
+secondary_integration_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - A major archaeological and institutional reconstruction of Egyptian society, bureaucracy, economy and settlement.
+  - Material controls on claims derived chiefly from royal and elite inscriptions.
+  - Questions about how state provision, administration and production operated in practice.
+what_the_source_cannot_establish:
+  - Ancient self-understanding without returning to ancient witnesses.
+  - One unchanging bureaucratic or economic system across three millennia.
+  - Symbolic, theological or initiatory claims not independently evidenced.
+
+rival_or_counter_witnesses_where_known:
+  - Henri Frankfort, Kingship and the Gods
+  - Jan Assmann, Ma'at
+  - administrative papyri, settlement archaeology and labor records
+  - royal and autobiographical inscriptions
+boundary_effect: >-
+  Kemp provides a material and institutional counterweight to elite theological
+  synthesis. Archaeological reconstruction remains modern and period-bounded.
+
+age_of_individual_crossing:
+  person_power_relation: worker, household member, official and resident situated within provisioning, record, labor and settlement systems
+  authority_demand: production, tax, service and participation in administered communities as reconstructed from material evidence
+  conduct_formation: institutions organize daily life without presupposing an autonomous private individual
+  later_relation: PRESERVE_AND_TRANSFORM_IN_LATER_ADMINISTRATIVE_POWER
+  prohibition: Do not derive modern economic man, bureaucracy or citizenship directly from Egyptian material organization.
+
+quotation_state: CRITICAL_ARGUMENT_NOT_YET_EXTRACTED
+star_integration_state: CONTROL_SOURCE_ONLY_NOT_YET_PROPOSED
