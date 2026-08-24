@@ -1,0 +1,74 @@
+corpus_id: HOP-PERSIA-PRELIMINARY-001
+name: Persia Preliminary Source Records
+status: PRE_ACQUISITION_HOLD_PENDING_EGYPT_OWNER_CERTIFICATION
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+branch: history-of-power-retroactive-source-audit-001
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+persia_audit: sources/audits/ancient/PERSIA-RETROACTIVE-SOURCE-AUDIT-001.yaml
+
+purpose: >-
+  Preserve the Persia source records already present on the branch while preventing
+  their existence from being treated as active acquisition, admitted evidence,
+  completed passage work, or authorization to move beyond the uncertified Egypt layer.
+
+origin_and_status:
+  discovery: >-
+    A branch comparison performed while closing the Egypt package revealed fourteen
+    Persia source records already present without a Persia corpus manifest.
+  disposition: >-
+    The records are retained as preliminary discovery and witness-planning artifacts.
+    They are not deleted, rewritten into Egypt, or counted as an active chronological layer.
+  no_drift_rule: >-
+    No Persia passage extraction, claim map, structured-Star integration proposal,
+    narrative prose, certification or movement to Greece may proceed under this manifest.
+
+preliminary_records:
+  direct_and_operational_targets:
+    - {source_id: SRC-HOP-CYRUS-CYLINDER, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+    - {source_id: SRC-HOP-BEHISTUN, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+    - {source_id: SRC-HOP-DARIUS-DNA-DNB, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+    - {source_id: SRC-HOP-PERSEPOLIS-FORTIFICATION, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+    - {source_id: SRC-HOP-ARSAMES-LETTERS, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+    - {source_id: SRC-HOP-ELEPHANTINE-PAPYRI, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+    - {source_id: SRC-HOP-UDJAHORRESNET, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+    - {source_id: SRC-HOP-NABONIDUS-CHRONICLE, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+  ancient_reflective_and_counter_witness_targets:
+    - {source_id: SRC-HOP-AESCHYLUS-PERSIANS, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+    - {source_id: SRC-HOP-XENOPHON-ANABASIS, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+    - {source_id: SRC-HOP-XENOPHON-CYROPAEDIA, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+  later_critical_controls:
+    - {source_id: SRC-HOP-HALLOCK-PFT-1969, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+    - {source_id: SRC-HOP-KUHRT-PERSIAN-EMPIRE, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+    - {source_id: SRC-HOP-BRIANT-EMPIRE-PERSE, state: PRELIMINARY_DISCOVERY_RECORD_NOT_ADMITTED}
+
+current_counts:
+  files_present: 14
+  active_acquisition_records: 0
+  admitted_star_evidence: 0
+  passage_sets: 0
+  claim_maps: 0
+  integration_proposals: 0
+
+preliminary_quality_finding: >-
+  The sampled records already contain History of Power targets, evidence classes,
+  counter-witness limits and Age-of-the-Individual crossings. Their structure is
+  promising, but exact witness metadata, edition controls, source selection and
+  passage priorities must be re-audited when the Persia phase formally opens.
+
+release_conditions:
+  - Owner certifies EGYPT-REPAIR-CERTIFICATION-001.
+  - Egypt correction is safely applied or explicitly adopted as the governing pending correction under a stated exception.
+  - Owner or governing workflow authorizes formal movement to Persia.
+  - Persia audit is read again before any preliminary record is promoted.
+  - A Persia corpus manifest is amended from PRE_ACQUISITION_HOLD to ACQUISITION_IN_PROGRESS through an explicit commit.
+
+prohibited_inferences:
+  - File existence does not equal source acquisition.
+  - Metadata locking does not equal passage verification.
+  - A royal inscription does not become neutral imperial history.
+  - A preliminary Age crossing does not establish causal descent toward modern individuality.
+  - These records do not satisfy the Persia narrative gate.
+
+next_action: HOLD_POSITION_AT_EGYPT_PENDING_OWNER_CERTIFICATION
