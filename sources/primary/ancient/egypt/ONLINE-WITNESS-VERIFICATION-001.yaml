@@ -1,0 +1,41 @@
+verification_id: EGYPT-ONLINE-WITNESS-VERIFICATION-001
+verification_date: 2026-08-24
+status: INITIAL_LOCATORS_HTTP_RETRIEVED
+
+verified_locators:
+  - source_id: SRC-HOP-EGYPT-NEFERTI
+    url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/neferti.html
+    role: working transcription and translation layer
+  - source_id: SRC-HOP-EGYPT-ELOQUENT-PEASANT
+    url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/peasant.html
+    role: working transcription and translation layer
+  - source_id: SRC-HOP-EGYPT-SINUHE
+    url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/sinuhe.html
+    role: working transcription and translation layer
+  - source_id: SRC-HOP-EGYPT-IPUWER
+    url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/ipuwer.html
+    role: working transcription and translation layer
+  - source_id: SRC-HOP-EGYPT-DEIR-EL-MEDINA-STRIKE
+    url: https://collezioni.museoegizio.it/en-GB/material/Cat_1880
+    role: museum object record
+  - source_id: SRC-HOP-EGYPT-WENI-AUTOBIOGRAPHY
+    url: https://archive.org/details/ancientrecordsof01brea
+    role: public-domain early translation control, not underlying primary witness
+  - source_id: SRC-HOP-EGYPT-REKHMIRE-VIZIER
+    url: https://archive.org/details/ancientrecordsof02brea
+    role: public-domain early translation control, not underlying primary witness
+  - source_id: SRC-HOP-EGYPT-HOREMHEB-EDICT
+    url: https://archive.org/details/ancientrecordsof03brea
+    role: public-domain early translation control, not underlying primary witness
+
+verification_limit: >-
+  Successful retrieval establishes locator availability only. It does not certify
+  translation accuracy, exact manuscript/monument correspondence, completeness,
+  edition quality, or quotation readiness.
+
+next_verification:
+  - exact museum manuscript records for Berlin papyri and Hermitage 1116B
+  - TT100 facsimile publication and plate crosswalk
+  - Leiden I 344 object images and Gardiner critical edition
+  - Greek critical witnesses for Diodorus, Strabo, and Plutarch
+  - fragment-level transmission witnesses for Manetho
