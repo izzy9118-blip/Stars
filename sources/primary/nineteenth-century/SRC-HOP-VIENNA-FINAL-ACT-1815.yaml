@@ -1,0 +1,34 @@
+source_id: SRC-HOP-VIENNA-FINAL-ACT-1815
+status: GOVERNING_DIPLOMATIC_TEXT_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: Congress of Vienna powers
+  title: Acte final du Congrès de Vienne
+  date: 1815-06-09
+  original_language: French
+  role: post_napoleonic_european_settlement_territorial_reconstruction_confederation_and_navigation
+
+governing_witness:
+  witness_type: DIPLOMATIC_TEXT_TRANSCRIPTION
+  repository: Digithèque MJP / Université de Perpignan
+  url: https://mjp.univ-perp.fr/traites/1815vienne.htm
+  language: French
+
+structure:
+  - Poland and Saxony settlements
+  - German Confederation
+  - Kingdom of the Netherlands
+  - Swiss settlement
+  - Italian territorial arrangements
+  - river navigation
+  - final incorporation of associated treaties and declarations
+
+witness_policy:
+  rule: >-
+    The Final Act governs claims about the diplomatic-territorial settlement of 1815.
+    It should not be redescribed as restoration of the pre-1789 order: the settlement
+    reorganizes territories and confederations after the revolutionary-Napoleonic wars.
+
+quotation_state: TARGETED_ARTICLES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED

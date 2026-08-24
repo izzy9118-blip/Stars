@@ -1,0 +1,33 @@
+source_id: SRC-HOP-CONSTITUTION-AN-VIII-1799
+status: GOVERNING_WITNESS_LOCKED
+parent_unit: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: French Republic
+  title: Constitution du 22 frimaire an VIII
+  date: 1799-12-13
+  original_language: French
+  role: consular_executive_appointment_legislation_and_state_structure
+
+governing_witness:
+  witness_type: OFFICIAL_CONSTITUTIONAL_TEXT_WITH_ARCHIVAL_REFERENCE
+  repository: Presidency of the French Republic / Archives nationales
+  url: https://www.elysee.fr/la-presidence/la-constitution-du-22-frimaire-an-viii-13-decembre-1799
+  archival_reference: AE/I/29/4
+  corroboration:
+    repository: Legifrance
+    url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000571354
+    version: INITIALE
+
+passage_targets:
+  - article: 39
+    issue: government entrusted to three consuls for ten-year renewable terms
+  - article: 41
+    issue: First Consul appointment and removal powers across Council of State, ministers, diplomacy, army, local administration, and judiciary
+  - article: 42
+    issue: consultative voice of second and third consuls and sufficiency of First Consul decision
+  - proclamation: 24_frimaire_an_VIII
+    issue: claim that strong and stable institutions complete the Revolution
+
+quotation_state: INITIAL_PASSAGES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED

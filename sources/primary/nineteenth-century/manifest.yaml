@@ -1,0 +1,79 @@
+corpus_id: HOP-ADMINISTRATIVE-STATE-001
+name: Administrative and National Power Primary Source Corpus
+status: ADMINISTRATIVE_NATIONAL_POWER_INTEGRATION_CANDIDATE_THROUGH_1871
+parent_star: STAR-HISTORY-OF-POWER-001
+base_branch: history-of-power-primary-sources-001
+working_branch: history-of-power-administrative-state-001
+
+period_focus: "1798-1871: revolutionary/Napoleonic administration, Restoration and democratic continuity, communications/transport, republican expansion, and national unification"
+
+purpose: >-
+  Reconstruct how revolutionary sovereignty and mobilization were converted into durable
+  executive, territorial, military, legal, educational, police, informational,
+  infrastructural, fiscal, and accounting capacities; determine how those capacities
+  survive constitutional regime change; and follow their fusion with democratic claims,
+  industrial communications, national military organization, and national unification.
+
+integration:
+  narrative_candidate: sources/primary/nineteenth-century/integration/ADMINISTRATIVE-NATIONAL-NARRATIVE-INSERT-001.md
+  structured_candidate: sources/primary/nineteenth-century/integration/ADMINISTRATIVE-NATIONAL-STRUCTURED-INSERT-001.yaml
+  state: READY_FOR_USER_REVIEW_NOT_YET_APPLIED
+
+acquisition_rules:
+  - Primary legal and administrative texts govern over later descriptions.
+  - Original-language official texts and archival witnesses govern where available.
+  - Revolutionary institutions inherited by Napoleon are not relabeled as Napoleonic inventions.
+  - Regime change and administrative continuity are separate relations and must be demonstrated independently.
+  - Constitution, administration, police, military recruitment, law, education, statistics, infrastructure, taxation, accounting, communications, and personal executive correspondence remain distinct evidence classes.
+  - Philosophical and military-theoretical texts are attributed interpretations, not substitutes for institutional evidence.
+  - Later retrospective texts such as Tocqueville 1856 are primary evidence for the author's interpretation, not automatically for the earlier institutions described.
+  - Communications and transport are political capacities only where their legal, financial, or administrative organization is documented.
+  - National unification is not presumed to require one institutional form; Italian and German routes remain distinct.
+  - Claims of centralization, bureaucracy, nationalism, modernization, or state capacity must be demonstrated through institutions and documents rather than assumed from period labels.
+
+source_groups:
+  napoleonic_1798_1815: 15
+  restoration_and_1848_1814_1848: 10
+  post_1848_and_tocqueville_1848_1856: 2
+  national_unification_1848_1871: 6
+  revolutionary_class_and_commune_1848_1871: 4
+
+witness_count: 37
+locked_or_registered_count: 37
+
+maps:
+  - {map_id: NAPOLEONIC-ADMINISTRATIVE-STATE-001, path: sources/primary/nineteenth-century/maps/NAPOLEONIC-ADMINISTRATIVE-STATE-001.yaml, state: CONDITIONALLY_SATISFIED_FOR_CORE_ADMINISTRATIVE_MECHANISMS}
+  - {map_id: RESTORATION-NATIONAL-STATE-1815-1848-001, path: sources/primary/nineteenth-century/maps/RESTORATION-NATIONAL-STATE-1815-1848-001.yaml, state: PASSAGE_EXTRACTION_IN_PROGRESS}
+  - {map_id: ADMINISTRATIVE-CONTINUITY-1814-1848-001, path: sources/primary/nineteenth-century/maps/ADMINISTRATIVE-CONTINUITY-1814-1848-001.yaml, state: CORE_RELATION_VERIFIED}
+  - {map_id: NATIONAL-UNIFICATION-1850-1871-001, path: sources/primary/nineteenth-century/maps/NATIONAL-UNIFICATION-1850-1871-001.yaml, state: PASSAGE_EXTRACTION_IN_PROGRESS}
+  - {map_id: REVOLUTION-CLASS-COMMUNE-1848-1871-001, path: sources/primary/nineteenth-century/maps/REVOLUTION-CLASS-COMMUNE-1848-1871-001.yaml, state: CORE_RELATIONS_VERIFIED}
+
+core_relations_now_documented:
+  - Revolutionary mass military obligation can be inherited by later executive regimes.
+  - Prefectural, legal, fiscal and territorial administration can survive changes among Empire, Restoration monarchy, July Monarchy and democratic republic.
+  - State legibility expands through statistics and cadastre; fiscal capacity through staffed collection and accounting/audit.
+  - Telegraph law and railway planning make rapid information and transport part of public jurisdiction and national-scale planning.
+  - Republican rights can be implemented through inherited administrative machinery, including emancipation across colonial possessions.
+  - Tocqueville retrospectively identifies important roots of administrative centralization in the Old Regime rather than treating it as an invention of 1789 or Napoleon.
+  - Italian national unification carries forward an existing dynastic-constitutional state form; German unification builds superior federal law and common administrative-military jurisdictions across member states.
+  - The revolutions of 1848 open rival constitutional, national and class routes rather than one uniform revolutionary program.
+  - The Paris Commune proposes autonomous associated communes and recallable office as an alternative to inherited centralized administration; Marx's interpretation of that experiment remains distinct from the Commune's own declaration.
+
+remaining_controls:
+  - First-edition image crosswalk for direct Hegel, Clausewitz, and Tocqueville 1835/1840 quotations.
+  - Original text of Chaptal 1801 statistical circular before direct quotation.
+  - Institution-specific continuity tests beyond prefectures if required by final synthesis.
+  - Prussian budget/military constitutional passages and post-1861 Italian administrative integration evidence.
+  - Practice-level German evidence for military, taxation, railways or telegraph only where constitutional jurisdiction alone is insufficient.
+
+chronological_next:
+  name: IMPERIAL_INDUSTRIAL_WORLD_POWER_1871_1914
+  targets:
+    - mass industrial production, steel, coal and armaments
+    - national railway and telegraph systems at mature scale
+    - modern corporations, banks and securities finance
+    - Bismarckian social insurance and state-society integration
+    - imperial/colonial administration and global communications
+    - modern navies, strategic rail mobilization and general staffs
+    - oil, electricity and new industrial infrastructures
+    - great-power alliance systems and the approach to 1914

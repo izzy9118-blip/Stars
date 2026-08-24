@@ -1,0 +1,39 @@
+source_id: SRC-HOP-PORTALIS-DISCOURS-1801
+status: DOCUMENTARY_TEXT_WITNESS_LOCKED
+parent_unit: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  authors:
+    - Jean-Étienne-Marie Portalis
+    - François Denis Tronchet
+    - Félix-Julien-Jean Bigot de Préameneu
+    - Jacques de Maleville
+  title: Discours préliminaire sur le projet de Code civil
+  date: 1801-01-21
+  revolutionary_date: 1 pluviôse an IX
+  original_language: French
+  role: codification_legislative_method_general_law_and_post_revolutionary_legal_order
+
+governing_witness:
+  witness_type: LATER_FACSIMILE_DOCUMENTARY_REPRODUCTION_OF_PRIMARY_TEXT
+  repository: Criminocorpus
+  url: https://criminocorpus.org/fr/ref/25/16552/
+  reproduction_note: Fac-similé de l'édition Paris: Joubert, 1844
+  supporting_text:
+    repository: Les Classiques des sciences sociales, UQAC
+    url: https://classiques.uqam.ca/collection_documents/portalis/discours_1er_code_civil/discours.html
+
+extraction_targets:
+  - limits of legislation and distinction between general law and detailed administration
+  - relation of codification to revolutionary legal change
+  - continuity, custom, equity, and judicial interpretation within a unified code
+  - property, family, civil status, and social order
+
+witness_policy:
+  rule: >-
+    The speech is treated as the commission's own explanation of the projected code,
+    not as a neutral description of how the Code later functioned. A contemporary
+    1801 print should replace the 1844 facsimile if a stable digitization is located.
+
+quotation_state: EXTRACTION_PENDING
+analysis_state: NOT_YET_INTEGRATED

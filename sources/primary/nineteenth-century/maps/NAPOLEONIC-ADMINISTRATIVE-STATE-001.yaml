@@ -1,0 +1,275 @@
+map_id: NAPOLEONIC-ADMINISTRATIVE-STATE-001
+status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+
+method:
+  - The Napoleonic state is not treated as a wholly new creation; Revolutionary inheritances are identified explicitly.
+  - Legal authorization, administrative organization, actual practice, and Napoleon's personal commands are distinct evidence classes.
+  - Centralization means identifiable transfers or concentrations of appointment, reporting, execution, legal, military, police, fiscal, accounting, educational, or infrastructural power; it is not used as a free-standing label.
+  - State knowledge is not inferred from later statistical institutions when a contemporary reporting program can be located.
+  - The Code civil is examined both as territorial/legal standardization and as a structure of private hierarchy; equality before uniform law does not imply equality within every civil relation.
+  - Assessment, collection, accounting, and audit are treated as distinct fiscal mechanisms.
+
+claims:
+  - claim_id: NAP-ADM-001
+    proposition: >-
+      The Constitution of Year VIII concentrated appointment and executive decision
+      in the First Consul while retaining formally differentiated constitutional bodies.
+    source_id: SRC-HOP-CONSTITUTION-AN-VIII-1799
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    locations: [Article 39, Article 41, Article 42]
+    original_language: French
+    anchors:
+      - "Le gouvernement est confié à trois consuls"
+      - "Le Premier consul ... nomme et révoque à volonté"
+      - "la décision du Premier consul suffit"
+    qualification: >-
+      The constitution retains councils and legislative institutions. The claim is
+      concentration of executive appointment and decision, not disappearance of every other body.
+
+  - claim_id: NAP-ADM-002
+    proposition: >-
+      The law of 28 pluviôse Year VIII made the prefect the single departmental
+      administrator, creating a territorial chain through prefects, subprefects,
+      and municipal authorities linked to the central executive.
+    source_id: SRC-HOP-PREFECTS-28-PLUVIOSE-AN-VIII
+    passage_status: VERIFIED_OFFICIAL_CORE_ARTICLE
+    location: departmental administration, Article 3
+    original_language: French
+    anchor: "Le préfet sera chargé seul de l'administration."
+    qualification: >-
+      Department, commune, and council prehistories must remain visible; the law
+      reorganizes territorial administration rather than inventing territorial government.
+
+  - claim_id: NAP-ADM-003
+    proposition: >-
+      Parisian police power was placed in an office corresponding directly with
+      ministers and combining movement control, public order, regulation, cult
+      surveillance, subordinate agents, and administrative execution.
+    source_id: SRC-HOP-PREFECTURE-POLICE-1800
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    locations: [Article 1, Article 2, Article 3, Article 17]
+    original_language: French
+    anchors:
+      - "sous l'autorité immédiate des ministres"
+      - "il correspondra directement avec eux"
+      - "Il délivrera les passeports"
+      - "Il surveillera les lieux où on se réunit pour l'exercice des cultes"
+    qualification: >-
+      The Paris police prefecture is not automatically a model for every department.
+      Its exceptional capital-city jurisdiction must remain explicit.
+
+  - claim_id: NAP-ADM-004
+    proposition: >-
+      Permanent national military obligation entered the Napoleonic order through a
+      Revolutionary law that defined every Frenchman as owing military defense to the patrie.
+    source_id: SRC-HOP-CONSCRIPTION-1798
+    passage_status: VERIFIED_DOCUMENTARY_ARTICLE_I
+    location: Article 1
+    original_language: French
+    anchor: "Tout Français est soldat et se doit à la défense de la patrie."
+    qualification: >-
+      This is a Directory law of 1798. Its importance for Napoleon lies in inheritance,
+      administration, and enlargement, not authorship.
+
+  - claim_id: NAP-ADM-005
+    proposition: >-
+      The 1802 education law created state-funded lycées, subjected secondary education
+      to government authorization and prefectural inspection, and made schooling an
+      administratively organized relation among municipalities, families, and the state.
+    source_id: SRC-HOP-INSTRUCTION-11-FLOREAL-X
+    passage_status: VERIFIED_DOCUMENTARY_TEXT
+    locations: [Article 1, Article 8, Article 9, Article 12]
+    original_language: French
+    anchors:
+      - "entretenus aux frais du Trésor public"
+      - "surveillance et l'inspection particulière des préfets"
+      - "Il sera établi des Lycées"
+    qualification: >-
+      The law creates a layered system rather than a total state monopoly: primary,
+      municipal/private secondary, lycée, and special schools remain differentiated.
+
+  - claim_id: NAP-ADM-006
+    proposition: >-
+      The 1804 Code civil made one official civil code govern property, status,
+      family, inheritance, and obligations while preserving marked hierarchy within
+      the household alongside strong protection of private property.
+    source_id: SRC-HOP-CODE-CIVIL-1804
+    passage_status: VERIFIED_ORIGINAL_EDITION_TRANSCRIPTION
+    locations: [Article 213, Article 544, Article 545]
+    original_language: French
+    anchors:
+      - "Le mari doit protection à sa femme, la femme obéissance à son mari"
+      - "La propriété est le droit de jouir et disposer"
+    qualification: >-
+      Uniformity of civil law must not be confused with social equality. The code
+      standardizes legal relations while giving unequal rights and duties in some relations.
+
+  - claim_id: NAP-ADM-007
+    proposition: >-
+      In 1804 the republic's government was constitutionally entrusted to a hereditary
+      Emperor, and constitutional, civil, judicial, and military officeholders were
+      tied to the imperial order through formal oaths and promulgation channels.
+    source_id: SRC-HOP-SENATUS-CONSULTE-AN-XII-1804
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    locations: [Article 1, Article 3, Article 56, Article 140]
+    original_language: French
+    anchors:
+      - "Le Gouvernement de la République est confié à un Empereur"
+      - "Je jure obéissance aux constitutions de l'Empire et fidélité à l'Empereur"
+    qualification: >-
+      The text deliberately retains republican and constitutional vocabulary while
+      establishing hereditary imperial dignity; neither term should erase the other.
+
+  - claim_id: NAP-ADM-008
+    proposition: >-
+      The Interior Ministry organized a bureau of statistics and ordered prefectural
+      inquiries intended to produce comparable knowledge about population, agriculture,
+      industry, commerce, wealth, and resources across the departmental territory.
+    source_id: SRC-HOP-CHAPTAL-STATISTICS-1801
+    passage_status: ARCHIVAL_PROGRAM_VERIFIED_EXACT_CIRCULAR_TEXT_PENDING
+    location: Archives nationales, statistical subseries F/20; circular of 19 germinal an IX reported in F/20/136 tradition
+    qualification: >-
+      The existence and administrative organization of the statistical program are
+      verified from the Archives nationales finding aid. No direct quotation from the
+      19 germinal circular is admitted until the original or contemporary printed text is inspected.
+
+  - claim_id: NAP-ADM-009
+    proposition: >-
+      Napoleon personally used ministerial correspondence to request named intelligence,
+      surveillance, arrest, mapped infrastructure information, earmarked public-works funds,
+      and reports, connecting the formal administrative hierarchy to case-specific commands.
+    source_ids:
+      - SRC-HOP-NAPOLEON-ADMIN-LETTERS
+      - SRC-HOP-NAPOLEON-CORRESPONDENCE
+    passage_status: TWO_PRIMARY_MINUTES_VERIFIED_ROUTE_LETTER_PROVENANCE_PENDING
+    verified_documents:
+      - CG5-10048, 13 May 1805 to Fouché, Archives nationales AF IV 866
+      - CG6-12216, 1 June 1806 to Fouché, Archives nationales AF IV 869
+    working_document:
+      - 25 March 1802 to Chaptal concerning roads, earmarked funds, route map and Canal de Saint-Quentin report
+    qualification: >-
+      The evidence establishes personal intervention in selected administrative matters.
+      It does not prove that Napoleon personally directed every routine act of administration.
+
+  - claim_id: NAP-ADM-010
+    proposition: >-
+      The 1811 road decree classified the Empire's major roads, assigned jurisdiction
+      and financial responsibility, and distributed enforcement among engineers,
+      prefectural authorities, mayors, police, and gendarmerie.
+    source_id: SRC-HOP-ROUTES-DECREE-1811
+    passage_status: VERIFIED_BULLETIN_DES_LOIS_DOCUMENTARY_WITNESS
+    location: Bulletin des Lois, 4e série, vol. XVI, no 418, texte 7644
+    original_language: French
+    anchor: "Toutes les routes de notre Empire sont divisées en routes impériales et routes départementales."
+    qualification: >-
+      Classification and maintenance jurisdiction do not by themselves establish road quality,
+      transport speed, or actual completion of every projected work.
+
+  - claim_id: NAP-ADM-011
+    proposition: >-
+      The cadastral system made landed property administratively legible through
+      delimitation, parcel measurement, classification, valuation, owner identification,
+      matrices, plans, and mutation records tied to land-tax assessment.
+    source_id: SRC-HOP-CADASTRE-RECUEIL-1811
+    passage_status: VERIFIED_CONTEMPORARY_ADMINISTRATIVE_COMPILATION
+    location: Recueil méthodique, Imprimerie impériale, 1811
+    original_language: French
+    extraction_scope:
+      - parcel measurement and plans
+      - classification by land use and quality
+      - taxable-product valuation
+      - ownership and cadastral matrices
+      - mutation and tax-roll records
+    qualification: >-
+      Cadastre makes property more legible to administration; it does not make every
+      property boundary or valuation uncontested or perfectly accurate.
+
+  - claim_id: NAP-ADM-012
+    proposition: >-
+      The 1807 Cour des comptes created a permanent judicial machinery for national
+      public accounting, requiring public accountants to submit accounts and judging
+      Treasury, departmental, military, maritime, indirect-tax, and local public funds.
+    source_id: SRC-HOP-COUR-COMPTES-1807
+    passage_status: VERIFIED_OFFICIAL_LEGISLATIVE_TEXT
+    locations: [Article 1, Article 11, Article 12, Article 13]
+    original_language: French
+    anchors:
+      - "Les fonctions de la comptabilité nationale seront exercées par une Cour des comptes."
+      - "Les comptables des deniers publics ... seront tenus de fournir et déposer leurs comptes"
+    qualification: >-
+      Judicial accounting is a capacity for review and enforcement; it is not evidence
+      that imperial finances were free from executive influence, arrears, or irregularity.
+
+  - claim_id: NAP-ADM-013
+    proposition: >-
+      The Régie des droits réunis re-established a staffed territorial machinery for
+      indirect taxation, with departmental directors, inspectors, controllers and
+      collection agents transmitting revenues through receivers-general to the Treasury.
+    source_id: SRC-HOP-DROITS-REUNIS-1804
+    passage_status: INSTITUTIONAL_AND_ARCHIVAL_RELATIONS_VERIFIED
+    location: law of 5 ventôse an XII and surviving Seine departmental accounting registers, 1804-1813
+    original_language: French
+    qualification: >-
+      Institutional reach does not establish collection efficiency or consent. The
+      duties were politically contentious and must not be redescribed as neutral administration.
+
+mechanism_chain:
+  political_authorization:
+    sources: [SRC-HOP-CONSTITUTION-AN-VIII-1799, SRC-HOP-SENATUS-CONSULTE-AN-XII-1804]
+  territorial_execution:
+    sources: [SRC-HOP-PREFECTS-28-PLUVIOSE-AN-VIII, SRC-HOP-PREFECTURE-POLICE-1800]
+  military_mobilization:
+    sources: [SRC-HOP-CONSCRIPTION-1798]
+  legal_standardization:
+    sources: [SRC-HOP-CODE-CIVIL-1804, SRC-HOP-PORTALIS-DISCOURS-1801]
+  formation:
+    sources: [SRC-HOP-INSTRUCTION-11-FLOREAL-X]
+  informational_legibility:
+    sources: [SRC-HOP-CHAPTAL-STATISTICS-1801, SRC-HOP-CADASTRE-RECUEIL-1811]
+  physical_infrastructure:
+    sources: [SRC-HOP-ROUTES-DECREE-1811, SRC-HOP-NAPOLEON-ADMIN-LETTERS]
+  revenue_collection:
+    sources: [SRC-HOP-DROITS-REUNIS-1804, SRC-HOP-CADASTRE-RECUEIL-1811]
+  accounting_and_audit:
+    sources: [SRC-HOP-COUR-COMPTES-1807]
+  personal_executive_direction:
+    sources: [SRC-HOP-NAPOLEON-ADMIN-LETTERS, SRC-HOP-NAPOLEON-CORRESPONDENCE]
+
+cross_source_questions:
+  - >-
+    How did a revolution claiming popular sovereignty produce an executive able to appoint
+    large portions of the administrative, diplomatic, military, and judicial apparatus?
+  - >-
+    Which capacities were revolutionary inheritances and which were Consular or Imperial reorganizations?
+  - >-
+    Did the prefectural chain strengthen the state by replacing local political initiative,
+    or by making local information and execution more reliably available to the center?
+  - >-
+    How did legal uniformity coexist with differentiated household, property, fiscal, and administrative hierarchies?
+  - >-
+    How did conscription, schools, police, statistics, cadastre, roads, taxation, accounting, and law make the population and territory simultaneously bearers of sovereignty, resources to mobilize, objects to know, and fields to administer?
+  - >-
+    Which capacities depended upon Napoleon personally, and which were institutional enough to survive his fall?
+
+narrative_gate:
+  state: CONDITIONALLY_SATISFIED_FOR_CORE_ADMINISTRATIVE_MECHANISMS
+  satisfied:
+    - executive appointment and decision
+    - prefectural territorial administration
+    - police authority
+    - revolutionary conscription inherited by the regime
+    - state-organized secondary education
+    - civil-law standardization
+    - imperial constitutional settlement
+    - road classification and public-works direction
+    - property legibility through cadastre
+    - indirect-tax collection machinery
+    - centralized public-accounting review
+    - two archival-minuted examples of personal police direction
+  remaining_controls:
+    - inspect the original or contemporary printed Chaptal statistical circular before direct quotation
+    - cross-walk the 25 March 1802 Chaptal road letter to its original minute or critical correspondence number before direct quotation
+    - acquire one quantified Treasury/budget witness only if the narrative requires claims about aggregate fiscal capacity rather than administrative machinery
+    - preserve revolutionary origins of conscription and earlier antecedents of prefectural, statistical, road, cadastral, and accounting practices

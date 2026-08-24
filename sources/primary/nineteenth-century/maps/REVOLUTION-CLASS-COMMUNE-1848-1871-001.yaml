@@ -1,0 +1,96 @@
+map_id: REVOLUTION-CLASS-COMMUNE-1848-1871-001
+status: CORE_RELATIONS_VERIFIED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+
+method:
+  - Constitutional nation, democratic republic, class revolution and federated commune remain rival political answers.
+  - Marx and Engels are attributed interpreters and political actors; their texts do not substitute for institutional records.
+  - The Commune's official program is distinguished from measures actually implemented and from Marx's later interpretation.
+  - The revolutions of 1848 are not treated as one centrally directed European event or one uniform social coalition.
+  - Revolutionary defeat does not make the rejected constitutional or communal forms historically meaningless.
+
+claims:
+  - claim_id: REVCLASS-001
+    proposition: >-
+      The French Constitution of 1848 joined universal male suffrage and a directly
+      elected presidency to explicit continuation of existing laws, regulations and
+      authorities, demonstrating democratic refoundation together with administrative continuity.
+    source_id: SRC-HOP-CONSTITUTION-1848
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    locations: [Article 1, Article 18, Article 24, Article 25, Article 46, Article 112, Article 113]
+
+  - claim_id: REVCLASS-002
+    proposition: >-
+      The Second Republic extended republican emancipation into the colonies by abolishing
+      slavery, assigning execution to state officials and providing colonial representation,
+      while leaving colonial rule itself in place.
+    source_id: SRC-HOP-ABOLITION-SLAVERY-1848
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    qualification: Emancipation from slavery and emancipation from colonial rule are distinct.
+
+  - claim_id: REVCLASS-003
+    proposition: >-
+      The Frankfurt National Assembly attempted to join German national unity, constitutional
+      rights, representative authorization, surviving member states and a hereditary imperial
+      head, but decisive monarchical governments denied the assembly power to make that order effective.
+    source_id: SRC-HOP-PAULSKIRCHE-CONSTITUTION-1849
+    passage_status: ORIGINAL_DOCUMENT_AND_OFFICIAL_PRINT_CONTEXT_LOCKED
+    qualification: >-
+      The failed Paulskirche route must remain distinct from the Prussian-federal
+      constitutional settlement constructed in 1867 and 1871.
+
+  - claim_id: REVCLASS-004
+    proposition: >-
+      Marx and Engels interpreted the same revolutionary period through class conflict,
+      denied that juridical equality had reconciled bourgeois and proletarian interests,
+      and made acquisition of political power by the proletariat a stage in transforming
+      the property relations on which class society rested.
+    source_id: SRC-HOP-MANIFEST-KOMMUNISTISCHEN-PARTEI-1848
+    passage_status: FIRST_EDITION_FACSIMILE_AVAILABLE
+    qualification: >-
+      The Manifest states a political teaching; it is not proof that the participants
+      or constitutional programs of 1848 all possessed the class identity it assigns them.
+
+  - claim_id: REVCLASS-005
+    proposition: >-
+      The Commune's official declaration proposed a republic of autonomous, associated
+      communes with control over local budget, taxation, services, police and education,
+      together with elected, responsible and recallable officials and continuing citizen participation.
+    source_id: SRC-HOP-COMMUNE-DECLARATION-1871
+    passage_status: VERIFIED_OFFICIAL_POSTER
+    qualification: >-
+      The declaration governs the program, not the full extent of implementation during siege and civil war.
+
+  - claim_id: REVCLASS-006
+    proposition: >-
+      Marx interpreted the Commune as evidence that working-class emancipation could not
+      be achieved merely by taking possession of the inherited bureaucratic-military state
+      and described its elected, recallable and working institutions as an alternative political form.
+    source_id: SRC-HOP-MARX-CIVIL-WAR-FRANCE-1871
+    passage_status: CONTEMPORARY_ATTRIBUTED_INTERPRETATION
+    qualification: >-
+      Marx's interpretation remains distinct from the Commune's own constitutional self-description.
+
+analytical_synthesis:
+  proposition: >-
+    Between 1848 and 1871 national, democratic, class and communal claims competed to
+    determine what popular sovereignty would mean institutionally. The victorious national
+    administrative state was one outcome of that conflict, not the automatic realization
+    of a single revolutionary principle.
+  status: CROSS_SOURCE_SYNTHESIS
+
+cross_source_questions:
+  - Can universal suffrage govern through inherited administration without being governed by it?
+  - Does national unity require a central executive, a federal constitution or an association of autonomous communes?
+  - Can juridical equality overcome class dependence without transforming property and production?
+  - Does destruction of an inherited state machinery liberate political power or remove capacities needed for common action?
+
+narrative_gate:
+  state: SATISFIED_FOR_BOUNDED_SYNTHESIS_WITHOUT_UNVERIFIED_DIRECT_QUOTATION
+  satisfied:
+    - French Constitution of 1848 and abolition decree locked through official sources
+    - Communist Manifesto first-edition facsimile witness locked
+    - Paulskirche Constitution original-document context locked
+    - Commune official declaration poster and journal series locked
+    - Marx Civil War in France contemporary edition locked as attributed interpretation

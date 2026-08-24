@@ -1,0 +1,45 @@
+source_id: SRC-HOP-TOCQUEVILLE-ANCIEN-REGIME-1856
+status: GOVERNING_FIRST_EDITION_WITNESS_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  author: Alexis de Tocqueville
+  title: L'Ancien Régime et la Révolution
+  year: 1856
+  original_language: French
+  role: retrospective_analysis_of_administrative_centralization_old_regime_revolution_and_continuity
+
+governing_witness:
+  witness_type: DIGITIZED_1856_FIRST_EDITION
+  publisher: Michel Lévy frères
+  place: Paris
+  year: 1856
+  physical_description: XXI-456 pages, in-8
+  repository: Bibliothèque nationale de France / Gallica
+  catalogue_record: https://catalogue.bnf.fr/ark:/12148/cb31476101q
+  digital_status: Gallica digital copy linked from BnF record
+
+bibliographic_control:
+  - BnF separately catalogs a second edition also published in 1856
+  - this record governs through the unnumbered 1856 first-edition notice, not the separately designated 2e édition
+
+primary_passage_targets:
+  - Book II, chapter 2: administrative centralization as institution of the Old Regime rather than creation of Revolution or Empire
+  - following chapter: modern administrative tutelage as Old Regime institution
+  - administrative justice and protection of officials
+  - intendants, subdelegates, councils and central direction
+  - later chapter on an administrative revolution preceding the political revolution
+
+core_chapter_titles:
+  - "Que la centralisation administrative est une institution de l'ancien régime"
+  - "Comment ce qu'on appelle aujourd'hui la tutelle administrative est une institution de l'ancien régime"
+
+witness_policy:
+  rule: >-
+    Tocqueville writes retrospectively in 1856. His account is primary evidence for his
+    mature interpretation of centralization and continuity, not contemporaneous documentary
+    proof of eighteenth-century administration. Historical claims he makes about the Old
+    Regime must be checked against the underlying archival/institutional evidence if adopted as fact.
+
+quotation_state: TARGETED_CHAPTERS_IDENTIFIED_FIRST_EDITION_PAGE_EXTRACTION_PENDING
+analysis_state: RETROSPECTIVE_INTERPRETIVE_WITNESS_READY

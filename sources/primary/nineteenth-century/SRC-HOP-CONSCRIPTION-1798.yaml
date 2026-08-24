@@ -1,0 +1,33 @@
+source_id: SRC-HOP-CONSCRIPTION-1798
+status: GOVERNING_DOCUMENTARY_WITNESS_LOCKED
+parent_unit: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: French Republic
+  conventional_title: Loi Jourdan-Delbrel
+  date: 1798-09-05
+  revolutionary_date: 19 fructidor an VI
+  original_language: French
+  role: permanent_mass_military_obligation_and_national_mobilization
+
+governing_witness:
+  witness_type: OFFICIAL_PARLIAMENTARY_HISTORICAL_PUBLICATION
+  repository: Assemblée nationale
+  url: https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/loi-du-19-fructidor-an-vi-instituant-la-conscription-et-le-service-militaire-obligatoire
+  documentary_note: >-
+    This law belongs to the Directory, not the Consulate. It is included because
+    the Napoleonic state inherited, administered, and expanded a permanent system
+    of national military recruitment rather than inventing mass conscription from zero.
+
+primary_anchor:
+  article: 1
+  text: "Tout Français est soldat et se doit à la défense de la patrie."
+
+passage_targets:
+  - age classes and inscription on communal registers
+  - voluntary army and conscription-based auxiliary army
+  - conditions for calling conscripts to personal service
+  - duration and organization of obligation
+
+quotation_state: ARTICLE_I_VERIFIED
+analysis_state: NOT_YET_INTEGRATED

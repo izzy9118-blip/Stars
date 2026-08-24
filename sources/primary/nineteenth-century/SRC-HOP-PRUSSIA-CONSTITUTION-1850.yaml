@@ -1,0 +1,34 @@
+source_id: SRC-HOP-PRUSSIA-CONSTITUTION-1850
+status: GOVERNING_CONTEMPORARY_PRINT_WITNESS_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: Kingdom of Prussia
+  title: Verfassungs-Urkunde für den Preußischen Staat
+  date: 1850-01-31
+  original_language: German
+  role: prussian_constitution_monarchy_parliament_budget_army_and_administration
+
+governing_witness:
+  witness_type: CONTEMPORARY_PRINT_DIGITIZATION
+  title: Die Verfassungs-Urkunde für den Preussischen Staat, vom 31. Januar 1850
+  repository: Internet Archive / Wikimedia Commons
+  url: https://commons.wikimedia.org/wiki/File:Die_verfassungs-urkunde_f%C3%BCr_den_Preussischen_Staat,_vom_31._Januar_1850_..._(IA_dieverfassungsu00kingoog).pdf
+  language: German
+  extent: 296 scan pages
+
+primary_passage_targets:
+  - rights of Prussians
+  - legislative relation of King and chambers
+  - royal executive, appointment and military powers
+  - budget and taxation provisions including Article 99
+  - ministerial responsibility
+
+witness_policy:
+  rule: >-
+    Use the 1850 constitutional text to define the formal field in which the later
+    Prussian budget and army conflict occurs. Subsequent practice and Bismarck's
+    interpretation must remain separate evidence classes.
+
+quotation_state: TARGETED_ARTICLES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED

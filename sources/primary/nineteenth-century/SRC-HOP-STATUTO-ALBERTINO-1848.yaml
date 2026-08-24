@@ -1,0 +1,30 @@
+source_id: SRC-HOP-STATUTO-ALBERTINO-1848
+status: GOVERNING_OFFICIAL_TEXT_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+work:
+  corporate_author: Kingdom of Sardinia / Carlo Alberto
+  title: Statuto fondamentale della Monarchia di Savoia
+  conventional_title: Statuto Albertino
+  date: 1848-03-04
+  original_language: Italian
+  role: piedmontese_constitutional_monarchy_later_carried_into_unified_italy
+witness:
+  official_source: Presidenza della Repubblica / Quirinale facsimile
+  facsimile: https://commons.wikimedia.org/wiki/File:Statuto_Albertino.pdf
+  parliamentary_reproduction: https://legislature.camera.it/_dati/costituente/documenti/ministerocostituente/p2_Vol1_3.pdf
+  diplomatic_transcription: https://it.wikisource.org/wiki/Italia,_Regno_-_Statuto_albertino
+key_provisions:
+  - representative monarchical government and hereditary throne
+  - bicameral parliament
+  - royal executive and military authority
+  - civil rights and legal equality under statute
+continuity_problem: >-
+  The Statuto begins as the constitution of the Kingdom of Sardinia and later becomes
+  the constitutional framework of the Kingdom of Italy, making unification partly an
+  enlargement of an existing state and legal form rather than construction from zero.
+witness_policy: >-
+  Preserve the Sardinian origin of the document. Its later Italian operation is a
+  historical continuity relation requiring post-1861 evidence, not something contained
+  in the 1848 text itself.
+quotation_state: CORE_ARTICLES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED

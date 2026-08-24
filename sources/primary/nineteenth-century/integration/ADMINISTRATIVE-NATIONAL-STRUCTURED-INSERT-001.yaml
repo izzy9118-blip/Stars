@@ -1,0 +1,121 @@
+integration_id: ADMINISTRATIVE-NATIONAL-STRUCTURED-INSERT-001
+status: INTEGRATION_CANDIDATE_NOT_YET_APPLIED
+parent_star: STAR-HISTORY-OF-POWER-001
+narrative_candidate: sources/primary/nineteenth-century/integration/ADMINISTRATIVE-NATIONAL-NARRATIVE-INSERT-001.md
+
+fact_extension_summary: >-
+  Administrative and national power emerges when Rousseauian popular sovereignty,
+  Kantian autonomy, Hegelian institutional freedom and Marxian class criticism enter
+  the historical field created by revolution and war; Napoleonic executive, territorial,
+  legal, military, educational, police, informational, fiscal and infrastructural machinery
+  survives later changes of regime; 1848 opens rival democratic, constitutional, national
+  and class routes; Italian and German unification join national claims to inherited states;
+  and the Paris Commune proposes autonomous associated communes as an alternative to the
+  centralized bureaucratic-military state.
+
+insertions:
+  - key: intellectual_transformation_of_freedom
+    period: late eighteenth through nineteenth centuries
+    prior_interpretation:
+      - SRC-STRAUSS-ROUSSEAU-1962
+      - SRC-STRAUSS-KANT-1967
+      - SRC-STRAUSS-HEGEL-1965
+      - SRC-STRAUSS-MARX-1960
+      - SRC-STRAUSS-NATURAL-RIGHT-1962
+    primary_sources:
+      - SRC-HOP-HEGEL-PHILOSOPHY-RIGHT-1821
+      - SRC-HOP-MANIFEST-KOMMUNISTISCHEN-PARTEI-1848
+    boundary: >-
+      Rousseau, Kant, Hegel and Marx transform the meaning and location of freedom
+      without teaching one doctrine or authorizing one institutional form.
+
+  - key: napoleonic_administrative_state
+    period: 1798-1815
+    maps: [NAPOLEONIC-ADMINISTRATIVE-STATE-001]
+    primary_sources:
+      - SRC-HOP-CONSCRIPTION-1798
+      - SRC-HOP-CONSTITUTION-AN-VIII-1799
+      - SRC-HOP-PREFECTS-28-PLUVIOSE-AN-VIII
+      - SRC-HOP-PREFECTURE-POLICE-1800
+      - SRC-HOP-INSTRUCTION-11-FLOREAL-X
+      - SRC-HOP-CODE-CIVIL-1804
+      - SRC-HOP-SENATUS-CONSULTE-AN-XII-1804
+      - SRC-HOP-CHAPTAL-STATISTICS-1801
+      - SRC-HOP-CADASTRE-RECUEIL-1811
+      - SRC-HOP-DROITS-REUNIS-1804
+      - SRC-HOP-COUR-COMPTES-1807
+      - SRC-HOP-ROUTES-DECREE-1811
+      - SRC-HOP-NAPOLEON-ADMIN-LETTERS
+      - SRC-HOP-NAPOLEON-CORRESPONDENCE
+    boundary: >-
+      Revolutionary inheritances and Napoleonic reorganizations remain distinct;
+      formal authorization, administrative structure and personal executive intervention
+      are not collapsed into one claim of total control.
+
+  - key: restoration_regime_change_and_administrative_continuity
+    period: 1814-1848
+    maps: [ADMINISTRATIVE-CONTINUITY-1814-1848-001, RESTORATION-NATIONAL-STATE-1815-1848-001]
+    primary_sources:
+      - SRC-HOP-CHARTER-1814
+      - SRC-HOP-VIENNA-FINAL-ACT-1815
+      - SRC-HOP-CHARTER-1830
+      - SRC-HOP-CONSTITUTION-1848
+      - SRC-HOP-PREFECTURAL-CONTINUITY-1814-1848
+      - SRC-HOP-TELEGRAPH-LAW-1837
+      - SRC-HOP-RAILWAY-LAW-1842
+      - SRC-HOP-CLAUSEWITZ-VOM-KRIEGE-1832
+      - SRC-HOP-TOCQUEVILLE-DEMOCRACY-1835-1840
+      - SRC-HOP-TOCQUEVILLE-ANCIEN-REGIME-1856
+    boundary: >-
+      Administrative continuity is not political neutrality, identical powers,
+      continuous personnel or proof that every inherited institution survived unchanged.
+
+  - key: revolution_class_and_constitutional_nation
+    period: 1848-1850
+    maps: [REVOLUTION-CLASS-COMMUNE-1848-1871-001, NATIONAL-UNIFICATION-1850-1871-001]
+    primary_sources:
+      - SRC-HOP-CONSTITUTION-1848
+      - SRC-HOP-ABOLITION-SLAVERY-1848
+      - SRC-HOP-STATUTO-ALBERTINO-1848
+      - SRC-HOP-MANIFEST-KOMMUNISTISCHEN-PARTEI-1848
+      - SRC-HOP-PAULSKIRCHE-CONSTITUTION-1849
+      - SRC-HOP-PRUSSIA-CONSTITUTION-1850
+    boundary: >-
+      The revolutions of 1848 are a connected European field, not one movement,
+      one social subject or one program. Constitutional rights and class criticism
+      remain rival judgments rather than mutually exclusive evidence classes.
+
+  - key: national_unification
+    period: 1850-1871
+    maps: [NATIONAL-UNIFICATION-1850-1871-001]
+    primary_sources:
+      - SRC-HOP-BISMARCK-BUDGET-SPEECH-1862
+      - SRC-HOP-ITALY-PROCLAMATION-1861
+      - SRC-HOP-NORTH-GERMAN-CONSTITUTION-1867
+      - SRC-HOP-GERMAN-EMPIRE-CONSTITUTION-1871
+    boundary: >-
+      Italian enlargement of an existing dynastic-constitutional state and German
+      Prussian-led federal unification remain different mechanisms. National unity
+      does not establish administrative or social homogeneity.
+
+  - key: paris_commune_alternative
+    period: 1871
+    maps: [REVOLUTION-CLASS-COMMUNE-1848-1871-001]
+    primary_sources:
+      - SRC-HOP-COMMUNE-DECLARATION-1871
+      - SRC-HOP-MARX-CIVIL-WAR-FRANCE-1871
+    boundary: >-
+      The Commune's official constitutional program, its enacted measures, its
+      heterogeneous political currents and Marx's interpretation remain separate.
+
+application_order:
+  - Apply the completed early-modern renumbering plan first.
+  - Insert this layer after revolutionary_and_constitutional_power.
+  - Designate its conclusion the tenth older force.
+  - Preserve all existing Star material; integration is additive.
+
+validation:
+  - Philosophical claims retain prior Straussian provenance in structured evidence.
+  - Institutional claims remain governed by the five nineteenth-century maps.
+  - No direct quotation is necessary for narrative application.
+  - Constitutional nation, centralized administration, class revolution and federated commune remain live alternatives.

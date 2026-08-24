@@ -1,0 +1,37 @@
+source_id: SRC-HOP-MARX-CIVIL-WAR-FRANCE-1871
+status: CONTEMPORARY_EDITION_FACSIMILE_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  author: Karl Marx
+  corporate_author: General Council of the International Working-Men's Association
+  title: "The Civil War in France: Address of the General Council of the International Working-Men's Association"
+  publication_year: 1871
+  original_language: English
+  role: attributed_marxian_interpretation_of_commune_state_and_working_class_power
+
+governing_witness:
+  witness_type: DIGITIZED_SECOND_EDITION_1871
+  publisher: Edward Truelove
+  place: London
+  url: https://commons.wikimedia.org/wiki/File:Karl_Marx_-_The_Civil_War_in_France_(1871,_2ed.).pdf
+
+bibliographic_corroboration:
+  repository: University of Pennsylvania Online Books Page
+  url: https://onlinebooks.library.upenn.edu/webbin/who/International%20Workingmen%27s%20Association
+
+passages:
+  - issue: the Commune interpreted as a working rather than merely parliamentary body
+  - issue: elected and recallable communal officials
+  - issue: replacement of the standing army by the armed people
+  - issue: the working class cannot simply take possession of the existing state machinery for its own purposes
+  - issue: the Commune interpreted as the political form of working-class emancipation
+
+witness_policy:
+  rule: >-
+    Marx's address is a contemporary partisan interpretation written for the International.
+    Its judgments about the meaning of the Commune remain attributable to Marx and do not
+    replace the Commune's own laws, declarations, proceedings or institutional record.
+
+quotation_state: CONTEMPORARY_SECOND_EDITION_AVAILABLE
+analysis_state: READY_FOR_ATTRIBUTED_SYNTHESIS

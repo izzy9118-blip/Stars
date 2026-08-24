@@ -1,0 +1,34 @@
+source_id: SRC-HOP-NAPOLEON-CORRESPONDENCE
+status: PRIMARY_CORRESPONDENCE_CORPUS_LOCKED
+parent_unit: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  author: Napoleon Bonaparte / Napoleon I
+  title: Correspondance générale de Napoléon Bonaparte
+  period: 1784-1821
+  original_language: French
+  role: executive_orders_administration_war_police_finance_information_and_personal_command
+
+governing_witness:
+  witness_type: MODERN_CRITICAL_CORRESPONDENCE_EDITION_WITH_DOCUMENT_LEVEL_PRIMARY_BASE
+  institution: Fondation Napoléon
+  platform: Napoleonica les archives
+  project_page: https://fondationnapoleon.org/activites-et-services/histoire/la-correspondance-de-napoleon/
+  public_access_state: FREE_ONLINE
+  corpus_note: >-
+    The complete fifteen-volume correspondence was online by January 2024 and is
+    supplemented by additional documents located after print publication. The edition
+    reports more than 40,600 letters; a substantial portion is established from signed
+    outgoing originals. Each quotation must retain its individual document identifier,
+    date, addressee, and editorial witness note.
+
+extraction_targets:
+  - instructions to prefects and ministers concerning reporting, administration, and local order
+  - correspondence with Fouché and police officials on surveillance and political information
+  - orders concerning conscription, troop replacement, and military logistics
+  - correspondence on roads, public works, finance, taxation, and provisioning
+  - instructions on education, appointments, and administrative personnel
+  - statements distinguishing policy made at the center from execution through local officials
+
+quotation_state: CORPUS_LOCKED_DOCUMENT_EXTRACTION_PENDING
+analysis_state: NOT_YET_INTEGRATED

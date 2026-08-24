@@ -1,0 +1,33 @@
+source_id: SRC-HOP-PREFECTURE-POLICE-1800
+status: GOVERNING_WITNESS_LOCKED
+parent_unit: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: French Republic
+  title: Arrêté du 12 messidor an VIII qui détermine les fonctions du préfet de police à Paris
+  date: 1800-07-01
+  original_language: French
+  role: police_surveillance_passports_public_order_cults_agents_and_direct_ministerial_correspondence
+
+governing_witness:
+  witness_type: OFFICIAL_LEGAL_TEXT
+  repository: Legifrance
+  url: https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070309
+  bulletin_reference: "Bulletin des Lois, série, bulletin 33, no. 214"
+
+primary_anchors:
+  - article: 1
+    text: >-
+      Le préfet de police exercera ses fonctions ... sous l'autorité immédiate des ministres;
+      il correspondra directement avec eux pour les objets qui dépendent de leurs départements respectifs.
+  - article: 2
+    issue: power to republish police laws and regulations and issue ordinances for their execution
+  - article: 3
+    issue: passports and control of movement into and from Paris
+  - article: 17
+    issue: declarations and constitutional fidelity of ministers of religion; surveillance of places of worship
+  - articles: 35-39
+    issue: subordinate agents and requisition of administrative personnel
+
+quotation_state: CORE_PASSAGES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED

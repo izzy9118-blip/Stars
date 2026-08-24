@@ -1,0 +1,29 @@
+source_id: SRC-HOP-NORTH-GERMAN-CONSTITUTION-1867
+status: GOVERNING_OFFICIAL_TEXT_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+work:
+  corporate_author: North German Confederation
+  title: Verfassung des Norddeutschen Bundes
+  date: 1867-07-26
+  original_language: German
+  role: federal_unification_common_law_customs_currency_transport_telegraph_military_and_citizenship
+witness:
+  publication: Bundesgesetzblatt des Norddeutschen Bundes
+  year: 1867
+  number: 1
+  pages: 1-23
+  transcription: https://de.wikisource.org/wiki/Verfassung_des_Norddeutschen_Bundes
+  facsimile: https://commons.wikimedia.org/wiki/File:Die_verfassung_des_Norddeutschen_bundes,_wie_sie_aus_der_schlussberathung_des_Reichstages_am_16._april_1867_hervorgegangen,_mit_dem_entwurfe_unter_angabe_der_betreffended_amendements_(IA_dieverfassungde00goog).pdf
+key_provisions:
+  - federal laws take precedence over state laws
+  - common federal citizenship/Indigenat
+  - federal jurisdiction over customs, commerce, money, banking, railways, roads, waterways, post and telegraph
+  - common military affairs and navy
+  - Bundesrat and Reichstag share federal legislation
+  - universal military duty organized at federal scale
+witness_policy: >-
+  Treat the Confederation as a federal construction combining member states with
+  superior federal law and common administrative-military jurisdictions; do not describe
+  it as a simple unitary Prussian annexation.
+quotation_state: CORE_ARTICLES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED

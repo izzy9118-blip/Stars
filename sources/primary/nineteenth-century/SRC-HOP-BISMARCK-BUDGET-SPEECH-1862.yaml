@@ -1,0 +1,24 @@
+source_id: SRC-HOP-BISMARCK-BUDGET-SPEECH-1862
+status: SPEECH_TEXT_LOCKED_WITH_EDITORIAL_PROVENANCE
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+work:
+  author: Otto von Bismarck
+  title: Rede in der Budget-Kommission des Preußischen Abgeordnetenhauses
+  date: 1862-09-30
+  original_language: German
+  role: prussian_budget_conflict_army_constitution_and_unification
+witness:
+  working_text: https://www.bismarck-biografie.de/quellen/politische-kommunikation/591-rede-in-der-budget-kommission-30-09-1862
+  corroboration: https://germanhistorydocs.org/de/vom-vormaerz-bis-zur-preussischen-vorherrschaft-1815-1866/auszug-aus-bismarcks-blut-und-eisen-rede-1862
+  historical_edition: "Otto von Bismarck, Reden 1847-1869, ed. Wilhelm Schüßler, Gesammelte Werke, 1924-35"
+issues:
+  - Article 99 and parliamentary budget rights
+  - army enlargement and military service
+  - conflict among Crown, ministry and representative chamber
+  - Prussian power and German national question
+anchor: "Nicht durch Reden und Majoritätsbeschlüsse ... sondern durch Eisen und Blut."
+witness_policy: >-
+  Preserve the later editorial transmission of the speech. The famous phrase may not
+  replace Bismarck's larger constitutional and budget argument.
+quotation_state: CORE_TEXT_IDENTIFIED_EDITORIAL_PROVENANCE_RETAINED
+analysis_state: NOT_YET_INTEGRATED
