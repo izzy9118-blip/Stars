@@ -1,0 +1,42 @@
+source_id: SRC-HOP-ACT-ABJURATION-1581
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  corporate_author: Staten-Generaal
+  title_original: >-
+    Placcaert vande Staten generael vande gheunieerde Nederlanden, byden welcken,
+    midts den redenen in't langhe in't selfde begrepen, men verclaert den coninck
+    van Spaegnien vervallen vande overheyt ende heerschappije van dese voors. Nederlanden ...
+  conventional_title: Plakkaat van Verlatinghe / Act of Abjuration
+  date: 1581-07-26
+  language: Dutch
+  role: deposition_tyranny_and_dissolution_of_allegiance
+
+governing_witness:
+  witness_type: 1581_DUTCH_PRINT_FACSIMILE
+  imprint:
+    place: Leiden
+    printer: Charles Silvius
+    year: 1581
+  source_repository: Utrecht University Library digitization
+  mirrored_facsimile: https://commons.wikimedia.org/wiki/File:Plakkaat_van_Verlatinghe,_Leiden,_1581.pdf
+  pages: 12
+  rights: Public domain
+
+supporting_transcription:
+  repository: Leiden University Dutch Revolt source collection
+  url: https://dutchrevolt.library.universiteitleiden.nl/nederlands/bronnen/dutch_bronnen_1581-07-26-ned/
+  basis: >-
+    A.S. de Blecourt and N. Japikse, eds., Klein plakkaatboek van Nederland
+    (1919), no. XXII, pp. 137-144, based on one of the oldest 1581 Charles Silvius prints.
+
+translation_policy:
+  governing_language: Dutch
+  english_translation_as_governing_witness: false
+  rule: >-
+    English translations may be used for navigation and comparison, but direct
+    quotation and close abstraction must remain traceable to the 1581 Dutch print.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED
