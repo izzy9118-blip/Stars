@@ -1,0 +1,37 @@
+source_id: SRC-HOP-INSTRUCTION-11-FLOREAL-X
+status: GOVERNING_DOCUMENTARY_WITNESS_LOCKED
+parent_unit: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: French Republic
+  title: Loi générale sur l'instruction publique
+  date: 1802-05-01
+  revolutionary_date: 11 floréal an X
+  original_language: French
+  role: state_organized_secondary_education_lycees_inspection_and_civic_formation
+
+governing_witness:
+  witness_type: OFFICIAL_EDUCATION_MINISTRY_TEXT
+  repository: Ministère de l'Éducation nationale
+  url: https://www.education.gouv.fr/loi-generale-sur-l-instruction-publique-du-1er-mai-1802-11-floreal-x-1646
+  corroboration:
+    repository: Persée / Institut national de recherche pédagogique
+    url: https://www.persee.fr/doc/inrp_0000-0000_2007_ant_22_1_8483
+
+primary_anchors:
+  - article: 1
+    text: "Dans des Lycées et des Écoles spéciales entretenus aux frais du Trésor public."
+  - article: 8
+    issue: government authorization and prefectural inspection of secondary schools
+  - article: 9
+    text: "Il sera établi des Lycées pour l'enseignement des lettres et des sciences."
+  - article: 12
+    issue: pupils placed in lycées by government as well as competitive and private entrants
+
+passage_targets:
+  - curriculum including rhetoric, logic, morals, mathematics, and physical sciences
+  - military exercises and study masters
+  - government appointment and organization of lycée personnel
+
+quotation_state: CORE_PASSAGES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED
