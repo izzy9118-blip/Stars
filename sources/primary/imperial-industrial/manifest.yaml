@@ -1,6 +1,6 @@
 corpus_id: HOP-IMPERIAL-INDUSTRIAL-001
 name: Imperial-Industrial World Power Primary Source Corpus
-status: INITIAL_WITNESSES_GATHERING
+status: INITIAL_SYSTEMS_MAPPED
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: history-of-power-administrative-state-001
 working_branch: history-of-power-imperial-industrial-001
@@ -12,20 +12,46 @@ purpose: >-
   systems into imperial-industrial great-power capacity.
 acquisition_rules:
   - Primary statutes, treaties, corporate agreements, technical conventions, and first-edition strategic texts govern.
-  - Industrial concentration, finance, imperialism, navalism, and alliance are distinct evidence classes.
+  - Industrial concentration, finance, imperialism, navalism, alliance and communications remain distinct evidence classes until synthesis.
   - State and private corporate power are not presumed identical merely because they cooperate.
   - International communications are treated through treaty and technical regimes, not as a generic technology effect.
   - Social insurance is treated as administration of industrial society, not reduced to benevolence or repression.
-  - Colonial texts must preserve the distinction between metropolitan legal claims and actual colonial practice.
+  - Colonial texts preserve the distinction between metropolitan legal claims and actual colonial practice.
   - Strategic writings such as Mahan are attributed interpretations, not automatic explanations of state policy.
+  - Secret diplomatic treaties governed through later documentary publication retain that witness limitation.
   - No claim that the period inevitably leads to 1914 is admitted merely from chronology.
-initial_targets:
-  - Reichsbank and national monetary coordination
-  - modern stock corporations and trusts
-  - German social insurance
-  - Berlin Conference colonial order
-  - strategic canal and fleet legislation
-  - Mahan and sea-power theory
-  - international telegraph/radiotelegraph conventions
-  - alliance treaties and military conventions
-  - oil, electricity, steel and armaments where primary institutional witnesses can be locked
+sources:
+  - {source_id: SRC-HOP-INTL-TELEGRAPH-1865, state: GOVERNING_CONVENTION_WITNESS_LOCKED_ANTECEDENT}
+  - {source_id: SRC-HOP-REICHSBANK-1875, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-DUAL-ALLIANCE-1879, state: DIPLOMATIC_TREATY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-BISMARCK-SOCIAL-MESSAGE-1881, state: GOVERNING_PARLIAMENTARY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-STANDARD-OIL-TRUST-1882, state: PRIMARY_AGREEMENT_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-TRIPLE-ALLIANCE-1882, state: DIPLOMATIC_TEXT_LOCKED_THROUGH_DOCUMENTARY_EDITION}
+  - {source_id: SRC-HOP-HEALTH-INSURANCE-1883, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-ACCIDENT-INSURANCE-1884, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-GERMAN-CORPORATION-LAW-1884, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-BERLIN-CONFERENCE-1885, state: GOVERNING_TREATY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-KIEL-CANAL-1886, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-GERMAN-COLONIAL-LAW-1886, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-OLD-AGE-INSURANCE-1889, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-MAHAN-SEA-POWER-1890, state: GOVERNING_FIRST_EDITION_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-SHERMAN-ACT-1890, state: GOVERNING_ENROLLED_ACT_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-FRANCO-RUSSIAN-CONVENTION-1892, state: DIPLOMATIC_MILITARY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-GERMAN-FLEET-LAW-1898, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-GERMAN-FLEET-LAW-1900, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-ENTENTE-CORDIALE-1904, state: DIPLOMATIC_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-RADIOTELEGRAPH-1906, state: GOVERNING_CONVENTION_WITNESS_LOCKED}
+witness_count: 20
+locked_or_registered_count: 20
+maps:
+  - map_id: IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001
+    path: sources/primary/imperial-industrial/maps/IMPERIAL-INDUSTRIAL-WORLD-POWER-1871-1914-001.yaml
+    state: PASSAGE_EXTRACTION_IN_PROGRESS
+next_targets:
+  - steel, coal and armaments production through company, procurement and industrial-statistics witnesses
+  - electricity and oil infrastructure through primary corporate/regulatory witnesses
+  - colony-specific practice, labor and coercion evidence beyond metropolitan statutes
+  - general-staff mobilization, railway-war planning and Schlieffen-era documents
+  - naval policy memoranda tying fleet legislation to strategic objectives
+  - operational cable and wireless network evidence
+  - later alliance and crisis documents only as chronology approaches 1914
