@@ -5,6 +5,7 @@ intended_parent_star: STAR-HISTORY-OF-POWER-001
 method:
   - Industrial, financial, social, colonial, naval, communications and alliance powers remain distinct until cross-source synthesis.
   - Similar scale does not imply common ownership: state agencies, corporations, banks, associations and international unions may coordinate without becoming one institution.
+  - Official statistics measure categorized capacity and may not be used as evidence of political intention by themselves.
   - 1914 is not treated as an inevitable consequence of every development below.
 claims:
   - claim_id: IIP-001
@@ -88,6 +89,38 @@ claims:
     passage_status: DIPLOMATIC_TEXTS_LOCKED
     qualification: These agreements are not interchangeable and do not by themselves prove automatic bloc war in 1914.
 
+  - claim_id: IIP-010
+    proposition: >-
+      Electric supply entered a legal field of licenses, local authorities, public purposes and private purposes,
+      showing a new infrastructure whose technical operation required political authorization and territorial franchises.
+    source_id: SRC-HOP-ELECTRIC-LIGHTING-ACT-1882
+    passage_status: GOVERNING_STATUTORY_WITNESS_LOCKED
+    qualification: The statute governs organization and authorization, not actual generating capacity or electrification rates.
+
+  - claim_id: IIP-011
+    proposition: >-
+      German general-staff planning joined mass conscription, reserve formations, railways, fortresses,
+      occupation zones and supply into an operational design whose success depended upon synchronized movement across national borders.
+    source_id: SRC-HOP-SCHLIEFFEN-MEMORANDUM-1905
+    passage_status: PRIMARY_MILITARY_TEXT_LOCKED
+    qualification: The memorandum's textual history and later Moltke changes must remain distinct from August 1914 operations.
+
+  - claim_id: IIP-012
+    proposition: >-
+      Colonial power cannot be reconstructed from metropolitan treaties and jurisdiction statutes alone:
+      in German Southwest Africa, field command could issue expulsion and lethal-force orders against a colonized population.
+    source_id: SRC-HOP-TROTHA-HERERO-ORDER-1904
+    passage_status: VERIFIED_ARCHIVAL_ORDER
+    qualification: The order is specific to the Herero war, was later rescinded, and must be situated within the broader campaign and colonial administration.
+
+  - claim_id: IIP-013
+    proposition: >-
+      By 1913 the German state systematically measured industrial, mining, transport, commercial, financial
+      and social-insurance capacity in a recurring statistical yearbook, making national productive power quantitatively legible.
+    source_id: SRC-HOP-GERMAN-STATISTICAL-YEARBOOK-1913
+    passage_status: OFFICIAL_STATISTICAL_WITNESS_LOCKED_EXTRACTION_PENDING
+    qualification: Exact coal, iron, steel, railway, shipping and corporate series require unit- and boundary-controlled extraction before numerical claims are admitted.
+
 cross_source_questions:
   - >-
     Does the industrial state become stronger by directly owning productive institutions, by regulating
@@ -98,13 +131,17 @@ cross_source_questions:
   - >-
     How can the same period internationalize telegraph and wireless standards while dividing strategic security into secret and conditional alliances?
   - >-
-    When canal, bank, fleet, corporation and colonial jurisdiction are all governed by long-horizon legal structures,
+    When canal, bank, fleet, corporation, electric franchise, statistical office and colonial jurisdiction are all governed by long-horizon organizations,
     does power shift from episodic command toward permanent organizational capacity?
+  - >-
+    How do railway timetables and mobilization plans convert industrial transport infrastructure into military strategy without making civilian railways merely military institutions?
+  - >-
+    What is the relationship between metropolitan legal ordering of empire and coercive colonial practice on the ground?
 remaining_targets:
-  - steel, coal and armaments production through company, state procurement or industrial statistics witnesses
-  - electricity and oil infrastructure through primary corporate/regulatory witnesses
-  - practice-level colonial administration and coercion beyond metropolitan legal claims
-  - Schlieffen/general-staff mobilization documents and railway-war planning
-  - naval policy documents tying fleet legislation to strategic objectives
-  - operational international cable/wireless network evidence
-  - alliance-system documents closer to 1914 and July-crisis decision records only when chronology reaches them
+  - extract controlled coal, iron, steel, railway, shipping and corporate series from the 1913 official yearbook
+  - acquire firm- or procurement-level steel and armaments witnesses where they add something not visible in national statistics and fleet law
+  - extract first-edition Mahan passages and policy-level naval memoranda
+  - acquire operational cable/wireless network evidence beyond treaty rules
+  - deepen colony-specific administration, labor and economic extraction beyond the 1904 military order
+  - acquire general-staff railway mobilization regulations beyond Schlieffen if necessary
+  - alliance-system documents closer to 1914 and July-crisis decisions only when chronology reaches them
