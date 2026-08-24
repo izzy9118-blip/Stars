@@ -1,0 +1,190 @@
+audit_id: ROME-RETROACTIVE-SOURCE-AUDIT-001
+status: ROME_LAYER_RICH_BUT_ANNALISTIC_AND_PRINCIPATE_GAPS_REMAIN
+parent_star: STAR-HISTORY-OF-POWER-001
+method: sources/SOURCE-WITNESS-METHOD.md
+layer: roman_power
+
+current_strengths:
+  witnesses_already_present:
+    - Livy, Ab Urbe Condita Books I-V
+    - Livy, Books XXI-XXX on Hannibalic War
+    - Cicero, Republic and Laws
+    - Cicero, Letters
+    - Appian, Roman History
+    - Suetonius, Twelve Caesars
+    - Tacitus, Annals
+    - Tacitus, Histories
+  assessment: >-
+    The current layer already contains multiple temporal and political perspectives:
+    Augustan annalistic memory, late-Republican statesman reflection, imperial biography,
+    Greek post-festum synthesis, and senatorial imperial history.
+
+major_defect_1_early_republic_source_distance:
+  finding: >-
+    Kingship, early consulship, secessions, tribunate, decemvirate and many exemplary
+    narratives are preserved principally through much later annalistic writers.
+    Livy must remain evidence for Roman historical memory and Augustan-era reconstruction,
+    not be silently treated as a contemporary transcript of sixth- and fifth-century BCE events.
+  required_controls:
+    - Twelve Tables fragments with transmission chain explicitly registered
+    - archaic/early Republican inscriptions and archaeology where available
+    - Polybius used where his account reaches institutions and constitutional structure
+    - competing Dionysius of Halicarnassus traditions where relevant
+  claims_requiring_caution:
+    - exact_regal_institutional_foundations
+    - speeches_assigned_to_early_republican_actors
+    - Cincinnatus_and_other_exempla_as_literal_documented_biography
+    - clean_constitutional_sequence_from_monarchy_to_balanced_republic
+
+major_defect_2_missing_first_class_republican_reflection:
+  essential_additions:
+    - source_id: SRC-HOP-POLYBIUS-ROME
+      author: Polybius
+      work: Histories, especially Book VI
+      witness_class: CONTEMPORARY_EXTERNAL_PARTICIPANT_ANALYSIS
+      importance: >-
+        Mixed constitution, consuls, Senate, people, military organization, discipline,
+        religion and the explanation of Roman expansion from a Greek statesman held in Rome.
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-SALLUST
+      author: Sallust
+      works: [Bellum Catilinae, Bellum Iugurthinum]
+      witness_class: CONTEMPORARY_LATE_REPUBLICAN_REFLECTION
+      importance: corruption_ambition_empire_elite_competition_army_and_moral_change
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-CAESAR-COMMENTARIES
+      author: Julius Caesar
+      works: [Bellum Gallicum, Bellum Civile]
+      witness_class: PARTICIPANT_COMMANDER_SELF_NARRATION
+      importance: >-
+        Provincial conquest, allied and subject peoples, military command, logistics,
+        political justification and the commander's own construction of civil war.
+      caution: strategic_self_presentation_not_neutral_record
+      priority: ESSENTIAL
+
+major_defect_3_missing_principate_own_words_and_law:
+  essential_additions:
+    - source_id: SRC-HOP-AUGUSTUS-RES-GESTAE
+      author: Augustus
+      work: Res Gestae Divi Augusti
+      witness_class: PARTICIPANT_RULER_POST_FESTUM_SELF_ACCOUNT
+      importance: >-
+        Augustus's own retrospective presentation of offices, powers, honors, military
+        settlement, benefaction, provinces, diplomacy, expenditure and restoration.
+      caution: monumental_self_justification
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-LYON-TABLET-CLAUDIUS
+      author: Claudius
+      work: Lyon Tablet / speech on admission of Gauls to Senate
+      witness_class: IMPERIAL_SPEECH_EPIGRAPHIC_WITNESS
+      importance: >-
+        Direct comparison between Claudius's inscribed speech and Tacitus's literary
+        version; incorporation, provincial elites and Roman identity.
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-LEX-IMPERIO-VESPASIANI
+      work: Lex de imperio Vespasiani
+      date: 69/70 CE
+      witness_class: EPIGRAPHIC_CONSTITUTIONAL_LEGAL_WITNESS
+      importance: >-
+        Formal legal articulation of powers and precedents attached to Vespasian after
+        civil war; indispensable counterweight to narrative accounts of military accession.
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-SENECA-CLEMENTIA
+      author: Seneca
+      work: De Clementia
+      period: Nero
+      witness_class: CONTEMPORARY_PHILOSOPHICAL_PRINCIPATE_REFLECTION
+      importance: prince_clemency_monarchy_self_restraint_and_ruler_subject_relation
+      priority: HIGH
+
+major_defect_4_missing_subject_and_post_festum_perspectives:
+  additions:
+    - source_id: SRC-HOP-JOSEPHUS-JEWISH-WAR
+      author: Flavius Josephus
+      work: Jewish War
+      witness_class: PARTICIPANT_CONQUERED_ELITE_AND_FLAVIAN_CLIENT_REFLECTION
+      importance: >-
+        Roman provincial war, siege, rebellion, imperial army, Vespasian/Titus and the
+        experience of Roman power from a Judean participant who later wrote under Flavian patronage.
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-CASSIUS-DIO-ROME
+      author: Cassius Dio
+      work: Roman History
+      witness_class: LATE_POST_FESTUM_SENATORIAL_SYNTHESIS
+      importance: republican_collapse_Augustan_settlement_monarchy_and_later_constitutional_memory
+      priority: HIGH
+    - source_id: SRC-HOP-PLUTARCH-ROMAN-LIVES
+      author: Plutarch
+      works: [Fabius, Marcellus, Cato_Major, Caesar, Cato_Minor, Brutus, Antony]
+      witness_class: LATE_BIOGRAPHICAL_REFLECTION
+      importance: character_leadership_memory_and_moral_political_comparison
+      priority: MEDIUM
+
+major_defect_5_missing_operational_archive:
+  high_priority_additions:
+    - Roman_treaties_and_colonial_or_municipal_law_where_surviving
+    - military_diplomas_and_citizenship_grants_for_imperial_incorporation
+    - census_epigraphy_and_tax_documents_where_claims_depend_on_administrative_scale
+    - coinage_and_inscriptions_for_Augustan_titles_and_public_communication
+    - senatus_consulta_where_the_literary_record_can_be_checked
+
+current_claims_requiring_reclassification:
+  - early_Republic_sequence_should_be_labeled_Livian_annalistic_reconstruction_where_direct_evidence_is_absent
+  - Cicero_mixed_constitution_is_late_Republican_philosophical_reconstruction_not_a_neutral_summary_of_all_Roman_history
+  - Tacitus_mixed_constitution_brevity_is_Tacitean_judgment
+  - Appian_king_in_fact_description_is_post_festum_analysis
+  - Suetonius_household_and_character_material_requires_biographical_source_caution
+  - Augustan_restoration_claim_must_be_compared_directly_with_Res_Gestae_and_legal_epigraphic_evidence
+
+later_critical_reconstruction_required:
+  - author: Ronald Syme
+    work: The Roman Revolution
+    year: 1939
+    role: elite_networks_proscription_triumviral_power_and_Augustan_regime
+    priority: ESSENTIAL
+  - author: P. A. Brunt
+    work: Italian Manpower 225 B.C.-A.D. 14
+    year: 1971
+    role: manpower_citizenship_army_demography_and_expansion
+    priority: HIGH
+  - author: Erich S. Gruen
+    work: The Last Generation of the Roman Republic
+    year: 1974
+    role: rival_reconstruction_of_late_Republican_institutions_and_breakdown
+    priority: ESSENTIAL
+  - author: Claude Nicolet
+    work: Le métier de citoyen dans la Rome républicaine / The World of the Citizen in Republican Rome
+    role: census_citizenship_property_service_and_public_order
+    priority: HIGH
+  - author: Fergus Millar
+    work: The Emperor in the Roman World
+    year: 1977
+    role: emperor_petition_administration_provinces_and_actual_principate_practice
+    priority: ESSENTIAL
+  - author: Andrew Lintott
+    work: The Constitution of the Roman Republic
+    year: 1999
+    role: institutional_and_legal_reconstruction
+    priority: ESSENTIAL
+  - author: Greg Woolf
+    work: Becoming Roman
+    year: 1998
+    role: provincial_incorporation_culture_and_empire
+    priority: HIGH
+
+narrative_gate:
+  state: NOT_SATISFIED_UNDER_REVISED_METHOD
+  requirements:
+    - add Polybius, Sallust and Caesar
+    - add Res Gestae, Lyon Tablet and lex de imperio Vespasiani
+    - add Josephus as a provincial/subject participant perspective
+    - mark early Republican narratives by evidentiary distance
+    - test late-Republic and Augustan synthesis against Syme and Gruen as rival reconstructions
+    - add Millar/Lintott for institutional control
+
+next_layer_after_completion: POST_IMPERIAL_AND_MEDIEVAL
