@@ -1,0 +1,15 @@
+source_id: SRC-HOP-TRIPLE-ALLIANCE-1882
+status: DIPLOMATIC_TEXT_LOCKED_THROUGH_DOCUMENTARY_EDITION
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  parties: [German Empire, Austria-Hungary, Kingdom of Italy]
+  title: Triple Alliance
+  date: 1882-05-20
+  role: conditional_mutual_aid_benevolent_neutrality_and_consultation
+governing_witness:
+  witness_type: DOCUMENTARY_DIPLOMATIC_EDITION
+  publication: "Alfred F. Pribram, The Secret Treaties of Austria-Hungary, vol. 1, English ed., Harvard University Press, 1920"
+  online_scan: https://mek.oszk.hu/07100/07162/pdf/secret01pribuoft.pdf
+qualification: >-
+  The treaty was secret and is presently governed through a later documentary publication.
+  Exact original-language archival witnesses should supersede this record if acquired.
