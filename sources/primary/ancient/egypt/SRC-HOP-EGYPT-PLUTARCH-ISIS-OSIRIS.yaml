@@ -1,0 +1,68 @@
+source_id: SRC-HOP-EGYPT-PLUTARCH-ISIS-OSIRIS
+status: WORK_AND_TEXTUAL_TRADITION_REGISTERED_PASSAGE_EXTRACTION_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Plutarch of Chaeronea
+work_or_document_title: De Iside et Osiride / On Isis and Osiris
+collection: Moralia
+original_language: Greek
+date_or_period: Late first to early second century CE
+
+evidence_class: POST_FESTUM_DUSK_WITNESS_EXTERNAL_PHILOSOPHICAL_AND_RELIGIOUS_INTERPRETER
+participant_or_observer_position: Greek Platonist, priest at Delphi, and interpreter of Egyptian religious traditions in the Roman imperial period
+temporal_distance_if_retrospective: Many centuries to millennia after the formation of traditions and texts he interprets
+
+governing_witness_and_exact_edition_or_archive:
+  ancient_textual_state: Survives through medieval Greek manuscript transmission, not an autograph
+  Greek_critical_text_target:
+    edition_tradition: Teubner or equivalent modern critical Greek edition
+    status: EXACT_EDITION_SECTION_AND_VARIANT_CROSSWALK_PENDING
+  supporting_public_text_target:
+    repository: Perseus Digital Library or equivalent public-domain edition
+    status: LOCATOR_TO_BE_LOCKED
+  translation_rule: No modern English translation governs over the Greek witness
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Egyptian sacred narratives acquire new meanings when interpreted philosophically across Greek, Egyptian, and Roman religious worlds.
+  - Later symbolic or metaphysical explanation must be separated from earlier Egyptian self-witness and temple practice.
+intended_claim_class:
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - WITNESS_METADATA
+  - INTERPRETIVE_BRIDGE
+
+what_the_source_can_establish:
+  - A first-class ancient philosophical interpretation of Isis, Osiris, Typhon, ritual, symbol, divine names, and religious plurality.
+  - How Egyptian traditions were received, compared, moralized, and metaphysically reconstructed in the Roman imperial age.
+  - A dusk perspective capable of articulating relations that isolated ritual or monumental witnesses do not state in one place.
+what_the_source_cannot_establish:
+  - The original meaning of Old, Middle, or New Kingdom texts merely by retrospective philosophical interpretation.
+  - A secret initiatory doctrine uniformly held by Egyptian priests across time.
+  - That Plutarch's Platonic categories are direct translations of native Egyptian concepts.
+
+rival_or_counter_witnesses_where_known:
+  - Pyramid Texts, Coffin Texts, and Book of the Dead witnesses
+  - temple inscriptions and ritual papyri
+  - SRC-HOP-EGYPT-DIODORUS-I
+  - SRC-HOP-EGYPT-STRABO-XVII
+  - modern philological and history-of-religions scholarship
+
+boundary_effect: >-
+  Plutarch may illuminate ancient reception and philosophical reconstruction but
+  may not be used to naturalize modern symbolist claims as direct pharaonic fact.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - historical_spectrum.discovery_of_nature_and_socratic_turn
+  authority_bearer: Sacred tradition interpreted through priesthood, philosophy, ritual, and comparative theology
+  human_position: Reflective religious-philosophical reader seeking intelligibility across inherited cults
+  demanded_conduct: Piety and philosophical interpretation as Plutarch attributes them; no universal Egyptian demand is inferred
+  formative_technique: Myth interpretation, analogy, etymology, ritual explanation, philosophical synthesis, and moral exemplum
+  crossing_relation: TRANSFORM
+  non_teleology_rule: >-
+    Philosophical interiorization and interpretation alter the reception of sacred
+    order without proving a linear passage from Egyptian religion to modern selfhood.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
