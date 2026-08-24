@@ -1,0 +1,97 @@
+passage_set_id: EGY-ELOQUENT-PEASANT-PASSAGES-001
+status: INITIAL_PRIMARY_ANCHOR_AND_NARRATIVE_RELATION_MAPPED
+source_id: SRC-HOP-ELOQUENT-PEASANT
+star_layer_target: egyptian_power
+text_basis:
+  manuscripts:
+    - Berlin 3023
+    - Berlin 3025
+    - Berlin 10499
+    - British Museum ESA 10274
+  complete_text_relation: the four late Middle Kingdom papyri together preserve the composition
+  summary_and_anchor_control: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/midegsummaries.html
+  translation_control_target: Miriam Lichtheim, Ancient Egyptian Literature, volume I, against critical Egyptian text
+  policy: >-
+    English formulations below are project paraphrases. The one short Egyptian
+    anchor must be cross-walked to a critical edition before final quotation.
+
+passages_and_relations:
+  - passage_id: EGY-PEASANT-001
+    location: opening narrative relation
+    project_paraphrase: >-
+      Khuninpu, a marginal inhabitant of the Wadi Natrun, is robbed by the servant
+      of a high official while carrying goods toward the Nile Valley market.
+    supports:
+      - vulnerability_to_delegated_official_power
+      - property_trade_and_social_marginality
+    claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    boundary: A literary narrative is not a case-file proving ordinary frequency.
+
+  - passage_id: EGY-PEASANT-002
+    location: petition sequence before Rensi
+    project_paraphrase: >-
+      The victim responds through repeated speech directed to a higher official,
+      making hearing and eloquence instruments for judging office.
+    supports:
+      - petition_as_internal_path_of_redress
+      - speech_as_power_without_independent_coercion
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: Petition depends upon access to hierarchy; it is not autonomous jurisdiction.
+
+  - passage_id: EGY-PEASANT-003
+    location: culmination of nine petitions
+    short_anchor: "nn sf n wsf / nn xnms n sX mAat / nn hrw nfr n awn ib"
+    project_paraphrase: >-
+      The petition condemns inactivity, deafness to ma'at and greed as relations
+      that destroy continuity, fellowship and shared festivity.
+    supports:
+      - ma_at_as_standard_addressed_to_office
+      - moral_judgment_from_below
+      - greed_and_failed_hearing_as_corruptions_of_power
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: Ma'at is invoked from within the order, not derived from pre-political individual right.
+
+  - passage_id: EGY-PEASANT-004
+    location: king's response to reports of the petitioner's eloquence
+    project_paraphrase: >-
+      The king orders the petitioner detained so that further speeches can be
+      produced, while provisions are sent to his household without his knowledge.
+    supports:
+      - royal_curiosity_as_power_over_the_petitioner
+      - provision_and_coercion_joined_in_one_act
+      - epistemic_asymmetry_between_center_and_subject
+    claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    boundary: The king cannot be reduced either to just protector or arbitrary tyrant alone.
+
+  - passage_id: EGY-PEASANT-005
+    location: fragmentary conclusion
+    project_paraphrase: >-
+      The surviving end points toward dispossession of the abusive servant and
+      transfer of goods to Khuninpu after the petitions are read before official and king.
+    supports:
+      - adjudication_and_reversal_of_abusive_delegated_power
+      - property_restoration_through_royal_hierarchy
+    claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    boundary: The ending is fragmentary and cannot support a complete procedural reconstruction.
+
+cross_passage_synthesis:
+  proposition: >-
+    The composition gives a marginal person a powerful voice capable of exposing
+    delegated abuse by appeal to ma'at, yet makes the success and suffering of that
+    voice dependent upon officials and king. It therefore joins agency, criticism,
+    coercion, provision and hierarchy rather than offering either passive subjecthood
+    or modern independent right.
+  claim_class: ANALYTICAL_SYNTHESIS
+  state: CANDIDATE_NOT_YET_ADMITTED_TO_STAR
+
+age_of_individual_finding: >-
+  Khuninpu has a distinct voice, property, household, suffering and moral judgment.
+  These are not absent before modern individualism. What is absent is the claim that
+  his private will or naturally prior rights constitute the order. His appeal becomes
+  politically effective through ma'at and the hierarchy he judges.
+
+remaining_controls:
+  - Lock the governing Egyptian critical edition and line-level manuscript crosswalk.
+  - Compare Lichtheim and Parkinson translations.
+  - Preserve the contested social meaning of sxty rather than relying uncritically on "peasant."
+  - Preserve the fragmentary state of the conclusion.
