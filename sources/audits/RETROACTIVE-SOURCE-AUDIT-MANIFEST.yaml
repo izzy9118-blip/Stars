@@ -1,0 +1,52 @@
+audit_program: HISTORY-OF-POWER-RETROACTIVE-SOURCE-AUDIT
+status: IN_PROGRESS
+branch: history-of-power-retroactive-source-audit-001
+method: sources/SOURCE-WITNESS-METHOD.md
+
+purpose: >-
+  Re-audit every History of Power layer from the beginning under the expanded
+  witness method. Each layer must distinguish operational/direct evidence,
+  contemporary reflection, post-festum/dusk reflection, and later critical
+  reconstruction before its narrative gate can be treated as satisfied.
+
+sequence:
+  - order: 1
+    layer: EGYPT
+    audit: sources/audits/ancient/EGYPT-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_REBALANCING_REQUIRED
+    next_action: ACQUIRE_AND_RECLASSIFY
+  - order: 2
+    layer: PERSIA
+    status: NEXT_TO_AUDIT
+  - order: 3
+    layer: GREECE
+    status: PENDING
+  - order: 4
+    layer: ROME
+    status: PENDING
+  - order: 5
+    layer: POST_IMPERIAL_AND_MEDIEVAL
+    status: PENDING
+  - order: 6
+    layer: RENAISSANCE_EARLY_MODERN_AND_ENLIGHTENMENT
+    status: PENDING_RETROACTIVE_CHECK_AFTER_PRIMARY_REPAIR
+  - order: 7
+    layer: REVOLUTIONARY_AND_CONSTITUTIONAL
+    status: PENDING
+  - order: 8
+    layer: ADMINISTRATIVE_AND_NATIONAL_POWER_1798_1871
+    status: PENDING_REFLECTIVE_REAUDIT
+  - order: 9
+    layer: IMPERIAL_INDUSTRIAL_WORLD_POWER_1871_1914
+    status: REFLECTIVE_REAUDIT_ALREADY_INITIATED
+  - order: 10
+    layer: TOTAL_WAR_AND_MASS_STATE_1914_1918
+    status: REFLECTIVE_REAUDIT_ALREADY_INITIATED
+
+completion_rule: >-
+  A layer is not marked AUDIT_COMPLETE merely because sources are named. The audit
+  must identify current evidentiary strengths, missing witness classes, misclassified
+  sources, claims whose provenance is too weak for their current status, first-class
+  additions, and a concrete narrative-gate decision.
+
+current_position: EGYPT_COMPLETE_PERSIA_NEXT
