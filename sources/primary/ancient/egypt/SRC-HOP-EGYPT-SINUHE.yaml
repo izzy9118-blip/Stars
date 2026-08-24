@@ -1,0 +1,72 @@
+source_id: SRC-HOP-EGYPT-SINUHE
+status: MANUSCRIPT_COMPLEX_REGISTERED_PASSAGE_EXTRACTION_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Anonymous Egyptian literary composition
+work_or_document_title: The Tale of Sinuhe
+original_language: Middle Egyptian
+date_or_period:
+  represented_events: Transition from Amenemhat I to Senusret I
+  composition_context: Twelfth Dynasty / Middle Kingdom
+  transmission: Multiple manuscript and ostracon witnesses extending into later periods
+
+evidence_class: CONTEMPORARY_REFLECTIVE_WITNESS_WITH_MULTIPLE_COPY_TRANSMISSION
+participant_or_observer_position: First-person literary voice of an elite court-connected Egyptian in flight, foreign service, and return
+temporal_distance_if_retrospective: >-
+  The represented first-person recollection is literary. Composition context,
+  narrated life, and each surviving copy must remain distinct.
+
+governing_witness_and_exact_edition_or_archive:
+  principal_manuscripts:
+    repository: Egyptian Museum and Papyrus Collection, Staatliche Museen zu Berlin
+    witnesses:
+      - Papyrus Berlin P 3022
+      - Papyrus Berlin P 10499
+    status: PRINCIPAL_MANUSCRIPTS_IDENTIFIED_COLUMN_AND_VARIANT_CROSSWALK_PENDING
+  supporting_online_transcription:
+    repository: UCL Digital Egypt
+    url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/sinuhe.html
+    status: NAVIGATION_AND_WORKING_TRANSLATION_WITNESS
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Royal succession, fear, exile, foreign incorporation, pardon, return, and Egyptian burial reveal the person's dependence upon king, land, name, and mortuary order.
+  - Egyptian identity is represented as recoverable through reintegration into the royal and funerary order rather than through autonomous self-foundation.
+intended_claim_class:
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - A major Egyptian literary reflection on fear, loyalty, exile, foreign success, royal mercy, return, bodily transformation, tomb, and remembrance.
+  - The coexistence of considerable personal agency with an encompassing royal and mortuary order.
+  - A native representation of foreign life that does not dissolve the authority of Egyptian belonging.
+what_the_source_cannot_establish:
+  - That Sinuhe was a historical official or that every episode records actual court events.
+  - That foreign societies are accurately described in all particulars.
+  - That all Egyptians experienced identity, exile, or burial in the elite terms of the work.
+
+rival_or_counter_witnesses_where_known:
+  - elite autobiographical inscriptions including SRC-HOP-EGYPT-WENI-AUTOBIOGRAPHY
+  - royal decrees and tomb biographies
+  - non-elite petitions and labor records including SRC-HOP-EGYPT-ELOQUENT-PEASANT and SRC-HOP-EGYPT-DEIR-EL-MEDINA-STRIKE
+
+boundary_effect: >-
+  The source permits analysis of personhood inside royal order but does not make
+  elite literary interiority equivalent to the modern sovereign self.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - forms_of_authority.sacred_authority
+  authority_bearer: King, homeland, name, tomb, and mortuary order
+  human_position: Court-dependent person capable of decision and achievement yet incomplete in exile from the encompassing order
+  demanded_conduct: Loyalty, acknowledgment of royal mercy, return, and reintegration
+  formative_technique: First-person recollection, exemplary biography, pardon, bodily purification, tomb, and memorial inscription
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    The text may disclose inward fear and personal decision without becoming a
+    stage in an inevitable rise of individualism. Its governing resolution is
+    restoration to king, land, family, name, and burial.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
