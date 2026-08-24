@@ -1,25 +1,26 @@
 corpus_id: HOP-EARLY-MODERN-PRIMARY-001
 name: Early-Modern Primary Source Repair Corpus
-status: INITIAL_WITNESS_CORPUS_LOCKED
+status: DUTCH_CONSTITUTIONAL_COMMERCIAL_AND_FINANCIAL_WITNESSES_MAPPED
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: star-history-of-power-001
 working_branch: history-of-power-primary-sources-001
 
 purpose: >-
-  Lock the primary witnesses needed to repair the missing transition from the
-  post-imperial and medieval History of Power layer into Reformation jurisdiction,
-  sovereignty, Dutch republican-commercial power, English constitutional conflict,
-  and funded public credit before narrative integration begins.
+  Lock and map the primary witnesses needed to repair the missing transition from
+  the post-imperial and medieval History of Power layer into Reformation jurisdiction,
+  sovereignty, Dutch republican-commercial-financial power, English constitutional
+  conflict, and funded public credit before narrative integration begins.
 
 acquisition_rules:
   - Primary texts govern over secondary summaries.
   - Original-language contemporary witnesses govern wherever a usable witness is available.
   - Translations are subordinate reading witnesses unless explicitly designated otherwise.
-  - Scan, manuscript, transcription, translation, and later edition are distinct witnesses.
+  - Scan, manuscript, transcription, translation, later legal reproduction, and later edition are distinct witnesses.
   - Exact edition, language, repository, locator, and translator where relevant are fixed before quotation use.
   - Source-specific witness records govern over discovery-stage notes.
   - No quotation enters STAR-HISTORY-OF-POWER-001 until checked against its governing witness.
   - Modern copyrighted editions may be linked and cited but are not copied wholesale into the repository.
+  - Cross-source syntheses must remain distinguishable from propositions stated by individual witnesses.
 
 sources:
   - source_id: SRC-HOP-LUTHER-TEMPORAL-AUTHORITY-1523
@@ -70,6 +71,18 @@ sources:
     record: sources/primary/early-modern/SRC-HOP-GROTIUS-MARE-LIBERUM-1609.yaml
     witness: "1609 Latin first-edition diplomatic representation, DBNL"
 
+  - source_id: SRC-HOP-WISSELBANK-ORDINANCE-1609
+    role: amsterdam_municipal_payment_bank_coin_and_exchange_order
+    state: DOCUMENTARY_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-WISSELBANK-ORDINANCE-1609.yaml
+    witness: "31 January 1609 ordinance reproduced in Noordkerk, Handvesten (1748), pp. 673-674"
+
+  - source_id: SRC-HOP-WISSELBANK-ARCHIVE-5077
+    role: operational_accounts_ledgers_and_internal_governance
+    state: ARCHIVAL_SERIES_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-WISSELBANK-ARCHIVE-5077.yaml
+    witness: "Stadsarchief Amsterdam, Archief van de Wisselbank 5077, 1609-1822"
+
   - source_id: SRC-HOP-PETITION-RIGHT-1628
     role: taxation_imprisonment_prerogative_and_subject_right
     state: GOVERNING_WITNESS_LOCKED
@@ -88,6 +101,12 @@ sources:
     record: sources/primary/early-modern/SRC-HOP-HOBBES-LEVIATHAN-1651.yaml
     witness: "1651 English first edition, first issue ('Head' edition)"
 
+  - source_id: SRC-HOP-BONTEMANTEL-AMSTERDAM-GOVERNMENT-1653-1672
+    role: contemporary_municipal_governance_wisselbank_treasury_and_credit_practice
+    state: PRIMARY_MEMOIR_TRANSCRIPTION_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-BONTEMANTEL-AMSTERDAM-GOVERNMENT-1653-1672.yaml
+    witness: "Hans Bontemantel contemporary notes, ed. G.W. Kernkamp 1897, DBNL transcription"
+
   - source_id: SRC-HOP-DEWITT-DEDUCTIE-1654
     role: dutch_republican_constitution_provincial_sovereignty_and_act_of_seclusion
     state: GOVERNING_WITNESS_LOCKED
@@ -100,6 +119,18 @@ sources:
     state: GOVERNING_WITNESS_LOCKED
     record: sources/primary/early-modern/SRC-HOP-DELACOURT-INTEREST-1662.yaml
     witness: "1662 Dutch first edition represented diplomatically by DBNL from Leiden UB 1159 E 15"
+
+  - source_id: SRC-HOP-DEWITT-LYFRENTEN-1671
+    role: public_debt_annuity_pricing_probability_and_state_records
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-DEWITT-LYFRENTEN-1671.yaml
+    witness: "1671 Dutch print, 's-Gravenhage: Jacobus Scheltus"
+
+  - source_id: SRC-HOP-DE-LA-VEGA-CONFUSION-1688
+    role: amsterdam_share_trading_speculation_credit_information_and_bank_settlement
+    state: GOVERNING_WITNESS_LOCKED
+    record: sources/primary/early-modern/SRC-HOP-DE-LA-VEGA-CONFUSION-1688.yaml
+    witness: "1688 Spanish first edition, Amsterdam"
 
   - source_id: SRC-HOP-BILL-RIGHTS-1689
     role: crown_parliament_taxation_army_elections_petition_privilege_and_succession
@@ -119,8 +150,16 @@ sources:
     record: sources/primary/early-modern/SRC-HOP-BOE-CHARTER-1694.yaml
     witness: "Official Bank of England text of Charter dated 27 July 1694"
 
-witness_count: 16
-locked_count: 16
+witness_count: 21
+locked_count: 21
+
+maps:
+  - map_id: DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001
+    path: sources/primary/early-modern/maps/DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001.yaml
+    status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
+  - map_id: DUTCH-FINANCIAL-POWER-001
+    path: sources/primary/early-modern/maps/DUTCH-FINANCIAL-POWER-001.yaml
+    status: PASSAGE_EXTRACTION_IN_PROGRESS
 
 repair_sequence:
   - reformation_and_confessional_jurisdiction
@@ -128,6 +167,7 @@ repair_sequence:
   - dutch_revolt_and_confederal_foundation
   - chartered_corporate_power_and_maritime_law
   - de_witt_de_la_court_and_dutch_republican_interest
+  - amsterdam_payment_securities_and_holland_public_credit
   - english_civil_war_and_hobbesian_sovereignty
   - 1688_and_constitutional_monarchy
   - funded_public_credit_and_fiscal_military_power
@@ -140,13 +180,11 @@ next_phase:
     - Where a translation is used for working English, retain the corresponding original passage.
     - Keep contradictory or competing primary claims separate.
     - Do not integrate prose into the narrative until each production unit has a passage-to-claim map.
-  first_unit:
-    name: DUTCH_CONSTITUTIONAL_AND_COMMERCIAL_POWER
-    sources:
-      - SRC-HOP-UNION-UTRECHT-1579
-      - SRC-HOP-ACT-ABJURATION-1581
-      - SRC-HOP-VOC-CHARTER-1602
-      - SRC-HOP-GROTIUS-DE-JURE-PRAEDAE
-      - SRC-HOP-GROTIUS-MARE-LIBERUM-1609
-      - SRC-HOP-DEWITT-DEDUCTIE-1654
-      - SRC-HOP-DELACOURT-INTEREST-1662
+  dutch_unit:
+    constitutional_commercial_map: sources/primary/early-modern/maps/DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001.yaml
+    financial_map: sources/primary/early-modern/maps/DUTCH-FINANCIAL-POWER-001.yaml
+    narrative_gate:
+      - final image-level comparison of any De Witt 1654 wording intended for direct quotation
+      - preserve later-transcription status of VOC charter article numbering unless original diplomatic text is obtained
+      - preserve Grotius manuscript textual-state information
+      - cross-check any quantitative claim about Wisselbank or provincial debt against accounting records
