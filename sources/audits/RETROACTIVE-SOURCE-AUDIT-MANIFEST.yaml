@@ -1,16 +1,21 @@
 audit_program: HISTORY-OF-POWER-RETROACTIVE-SOURCE-AUDIT
-status: FIRST_FULL_PASS_COMPLETE_STAR_CONFORMITY_BOUND
+status: FIRST_FULL_PASS_COMPLETE_DUAL_CONFORMITY_BOUND
 branch: history-of-power-retroactive-source-audit-001
 method: sources/SOURCE-WITNESS-METHOD.md
-conformity_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+history_of_power_conformity_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment_contract: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+age_of_individual_conformity_review: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-CONFORMITY-REVIEW-001.yaml
 sole_semantic_authority: stars/STAR-HISTORY-OF-POWER-001.yaml
+companion_thesis_star: stars/STAR-AGE-OF-INDIVIDUAL-001.yaml
 
 purpose: >-
   Re-audit every History of Power layer from the beginning under the expanded
-  witness method while remaining subordinate to the native individual-Star
-  architecture. Each layer must distinguish operational/direct evidence,
-  contemporary reflection, post-festum/dusk reflection, and later critical
-  reconstruction before any Star-native integration proposal can be treated as ready.
+  witness method while remaining subordinate to both the native History of Power
+  Star architecture and the bounded Age of the Individual thesis. Each layer must
+  distinguish operational/direct evidence, contemporary reflection, post-festum/dusk
+  reflection, and later critical reconstruction; reconstruct its historical form on
+  its own terms; and then complete a non-teleological person-power crosswalk before
+  any Star-native integration proposal can be treated as ready.
 
 scaffold_status:
   rule: >-
@@ -23,73 +28,101 @@ scaffold_status:
     fact, scope, shape, claim_policy, historical_spectrum, boundaries, evidence,
     conceptual_chain, or navigational questions as appropriate.
 
+companion_star_alignment:
+  principle: >-
+    History of Power is the counter-genealogy of the older forces that the Age of
+    the Individual later encounters. It must not become a universal history of
+    powerful states, empires, technologies or wars.
+  required_second_stage: >-
+    After own-source reconstruction, every layer must identify the historically
+    specific human position, form of authority, person-power relation, and bounded
+    crossing relation to the Age thesis.
+  permitted_crossings:
+    - PRESERVES
+    - DISPLACES
+    - APPROPRIATES
+    - COEXISTS_WITH
+    - TRANSFORMS
+    - NO_DIRECT_CROSSING_YET
+  anti_teleology: >-
+    The Age of the Individual is not the hidden end of ancient, medieval, or early
+    modern history. The crossing analysis comes only after the older form has been
+    reconstructed in its own categories.
+
 sequence:
   - order: 1
     layer: EGYPT
     audit: sources/audits/ancient/EGYPT-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REBALANCING_REQUIRED
-    next_action: ACQUIRE_AND_RECLASSIFY_UNDER_STAR_CONFORMITY_CONTRACT
+    next_action: ACQUIRE_AND_RECLASSIFY_UNDER_DUAL_CONFORMITY_GATE
   - order: 2
     layer: PERSIA
     audit: sources/audits/ancient/PERSIA-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REBALANCING_REQUIRED
-    next_action: ACQUIRE_OWN_ARCHIVE_AND_REATTRIBUTION_UNDER_STAR_CONFORMITY_CONTRACT
+    next_action: ACQUIRE_OWN_ARCHIVE_AND_REATTRIBUTION_UNDER_DUAL_CONFORMITY_GATE
   - order: 3
     layer: GREECE
     audit: sources/audits/ancient/GREECE-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_AND_EPIGRAPHIC_EXPANSION_REQUIRED
-    next_action: ACQUIRE_AND_LINK_UNDER_STAR_CONFORMITY_CONTRACT
+    next_action: ACQUIRE_AND_LINK_UNDER_DUAL_CONFORMITY_GATE
   - order: 4
     layer: ROME
     audit: sources/audits/ancient/ROME-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_ANNALISTIC_AND_PRINCIPATE_CONTROLS_REQUIRED
-    next_action: ACQUIRE_AND_RECLASSIFY_UNDER_STAR_CONFORMITY_CONTRACT
+    next_action: ACQUIRE_AND_RECLASSIFY_UNDER_DUAL_CONFORMITY_GATE
   - order: 5
     layer: POST_IMPERIAL_AND_MEDIEVAL
     audit: sources/audits/medieval/POST-IMPERIAL-MEDIEVAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_INSTITUTIONAL_AND_REFLECTIVE_EXPANSION_REQUIRED
-    next_action: ACQUIRE_LAW_CHARTERS_AND_MAJOR_BOOKS_UNDER_STAR_CONFORMITY_CONTRACT
+    next_action: ACQUIRE_LAW_CHARTERS_AND_MAJOR_BOOKS_UNDER_DUAL_CONFORMITY_GATE
   - order: 6
     layer: RENAISSANCE_EARLY_MODERN_AND_ENLIGHTENMENT
     audit: sources/audits/early-modern/RENAISSANCE-EARLY-MODERN-ENLIGHTENMENT-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_CANON_EXPANSION_REQUIRED
-    next_action: ACQUIRE_MAJOR_BOOKS_AND_DUSK_WITNESSES_UNDER_STAR_CONFORMITY_CONTRACT
+    next_action: ACQUIRE_MAJOR_BOOKS_AND_DUSK_WITNESSES_UNDER_DUAL_CONFORMITY_GATE
   - order: 7
     layer: REVOLUTIONARY_AND_CONSTITUTIONAL
     audit: sources/audits/revolutionary/REVOLUTIONARY-CONSTITUTIONAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_CONSTITUENT_DISSENT_AND_DUSK_EXPANSION_REQUIRED
-    next_action: ACQUIRE_CONSTITUENT_ARCHIVE_AND_RIVAL_REFLECTION_UNDER_STAR_CONFORMITY_CONTRACT
+    next_action: ACQUIRE_CONSTITUENT_ARCHIVE_AND_RIVAL_REFLECTION_UNDER_DUAL_CONFORMITY_GATE
   - order: 8
     layer: ADMINISTRATIVE_AND_NATIONAL_POWER_1798_1871
     audit: sources/audits/nineteenth-century/ADMINISTRATIVE-NATIONAL-POWER-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_AND_INDUSTRIAL_CANON_EXPANSION_REQUIRED
-    next_action: ACQUIRE_INDUSTRIAL_1848_NATIONAL_BOOKS_UNDER_STAR_CONFORMITY_CONTRACT
+    next_action: ACQUIRE_INDUSTRIAL_1848_NATIONAL_BOOKS_UNDER_DUAL_CONFORMITY_GATE
   - order: 9
     layer: IMPERIAL_INDUSTRIAL_WORLD_POWER_1871_1914
     audit: sources/audits/imperial-industrial/IMPERIAL-INDUSTRIAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_RIVAL_REFLECTIVE_CANON_EXPANSION_REQUIRED
-    next_action: ACQUIRE_RIVAL_IMPERIAL_CORPORATE_COLONIAL_AND_JAPANESE_BOOKS_UNDER_STAR_CONFORMITY_CONTRACT
+    next_action: ACQUIRE_RIVAL_IMPERIAL_CORPORATE_COLONIAL_AND_JAPANESE_BOOKS_UNDER_DUAL_CONFORMITY_GATE
   - order: 10
     layer: TOTAL_WAR_AND_MASS_STATE_1914_1918
     audit: sources/audits/total-war/TOTAL-WAR-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_SOCIAL_AND_OPERATIONAL_EXPANSION_REQUIRED
-    next_action: ACQUIRE_WAR_ECONOMY_REVOLUTION_FRONT_PROPAGANDA_AND_COLONIAL_WITNESSES_UNDER_STAR_CONFORMITY_CONTRACT
+    next_action: ACQUIRE_WAR_ECONOMY_REVOLUTION_FRONT_PROPAGANDA_AND_COLONIAL_WITNESSES_UNDER_DUAL_CONFORMITY_GATE
 
 completion_rule: >-
   A layer is not ready merely because sources are named or a working map is complete.
   The audit must identify current evidentiary strengths, missing witness classes,
   misclassified sources, claims whose provenance is too weak for their current
   status, first-class additions, and a concrete Star-native integration proposal.
-  Only STAR-HISTORY-OF-POWER-001 can finally carry the admitted claim structure.
+  It must then complete the Age-of-the-Individual person-power crosswalk without
+  projecting later individualism backward. Only STAR-HISTORY-OF-POWER-001 can finally
+  carry the admitted claim structure.
 
 acquisition_admission_rule: >-
-  Every newly acquired source must identify its Star layer target, Star claim target,
-  intended native claim class, what it can establish, what it cannot establish,
-  its boundary effect, and rival or counter-witnesses where known. Prestige or
-  canonical status alone is not grounds for acquisition.
+  Every newly acquired source must identify its History of Power layer target,
+  History of Power claim or boundary target, intended native claim class, what it can
+  establish, what it cannot establish, its boundary effect, and rival/counter-witnesses.
+  It must also identify the historically specific human position, authority form,
+  person-power relation, Age crossing relation, and why the source is material to the
+  bounded older-forces thesis. Prestige, geopolitical importance or canonical status
+  alone are not grounds for acquisition.
 
 program_findings:
   - No existing layer passes the revised narrative gate unchanged.
+  - The native History of Power architecture and Age of the Individual thesis are structurally aligned.
+  - The principal new risk is universal-history and state-capacity drift rather than a contradiction between the Stars.
   - Ancient layers require the sharpest separation between primary witness, ancient post-festum reflection and modern critical reconstruction.
   - Egypt contains modern interpretive claims currently too close to FACT-level voice and requires immediate reclassification.
   - Persia is structurally overdependent on Herodotus and requires a Persian/Babylonian/Aramaic/provincial archive.
@@ -98,8 +131,16 @@ program_findings:
   - Medieval history needs law, charters, canon law and major political books beside chronicles.
   - Early-modern operational repair is strong but major contemporary and post-festum books remain absent.
   - Revolutionary history needs constituent texts, dissenting American voices, French revolutionary self-understanding and participant dusk histories.
-  - Nineteenth-century administration needs industrial, class, liberal and nationalist reflective books.
-  - Imperial-industrial history needs rival theories of empire, corporate criticism, subject-side colonial reflection and Japanese self-understanding.
-  - Total-war history needs organizer, revolutionary, soldier, propaganda, colonial and post-festum voices beside emergency statutes.
+  - Nineteenth-century administration needs industrial, class, liberal and nationalist reflective books and explicit person-power crosswalks.
+  - Imperial-industrial history needs rival theories of empire, corporate criticism, subject-side colonial reflection, Japanese self-understanding, and selection control against mere great-power chronology.
+  - Total-war history needs organizer, revolutionary, soldier, propaganda, colonial and post-festum voices beside emergency statutes, with persons tracked as soldiers, workers, taxpayers, borrowers, rationed civilians and publics.
 
-current_position: STAR_CONFORMITY_BOUND_ACQUISITION_MAY_RESTART_AT_EGYPT_ONLY_UNDER_CONTRACT
+acquisition_hold:
+  state: RELEASED_ONLY_UNDER_DUAL_CONFORMITY_GATE
+  next_layer: EGYPT
+  rule: >-
+    Egypt acquisition may restart only using source records that satisfy both the
+    History of Power Star-native target fields and the Age-of-the-Individual
+    person-power alignment fields.
+
+current_position: DUAL_CONFORMITY_BOUND_ACQUISITION_MAY_RESTART_AT_EGYPT
