@@ -1,15 +1,16 @@
 corpus_id: HOP-EARLY-MODERN-PRIMARY-001
 name: Early-Modern Primary Source Repair Corpus
-status: CORE_EARLY_MODERN_BRIDGES_MAPPED
+status: EUROPEAN_CORE_REPAIR_INTEGRATION_READY
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: star-history-of-power-001
 working_branch: history-of-power-primary-sources-001
 
 purpose: >-
-  Lock and map the primary witnesses needed to repair the missing transition from
-  the post-imperial and medieval History of Power layer into Reformation jurisdiction,
-  sovereignty, Dutch republican-commercial-financial power, English constitutional
-  conflict, and funded public credit before narrative integration begins.
+  Lock and map the primary witnesses needed to repair the missing European-Atlantic
+  transition from Renaissance statecraft through Reformation jurisdiction, sovereignty,
+  Dutch republican-commercial-financial power, English constitutional conflict and
+  funded public credit, and Enlightenment moderation and popular sovereignty before
+  narrative integration begins.
 
 acquisition_rules:
   - Primary texts govern over secondary summaries.
@@ -21,6 +22,7 @@ acquisition_rules:
   - No quotation enters STAR-HISTORY-OF-POWER-001 until checked against its governing witness.
   - Modern copyrighted editions may be linked and cited but are not copied wholesale into the repository.
   - Cross-source syntheses must remain distinguishable from propositions stated by individual witnesses.
+  - Prior Stars interpretations are reusable only with explicit provenance and may not replace primary witnesses.
 
 source_registry_note: >-
   The individual source records in this directory are authoritative for witness
@@ -28,6 +30,8 @@ source_registry_note: >-
   status rather than duplicating every source-specific field.
 
 sources:
+  - {source_id: SRC-HOP-MACHIAVELLI-DISCORSI-1531, state: GOVERNING_WITNESSES_LOCKED}
+  - {source_id: SRC-HOP-MACHIAVELLI-PRINCIPE-1532, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-LUTHER-TEMPORAL-AUTHORITY-1523, state: GOVERNING_WITNESS_LOCKED_PASSAGES_EXTRACTED}
   - {source_id: SRC-HOP-PEACE-AUGSBURG-1555, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-CALVIN-INSTITUTES-IV-20, state: GOVERNING_WITNESS_LOCKED_PASSAGES_EXTRACTED}
@@ -57,23 +61,20 @@ sources:
   - {source_id: SRC-HOP-LOCKE-TWO-TREATISES-1690, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-BOE-ACT-1694, state: GOVERNING_WITNESS_LOCKED}
   - {source_id: SRC-HOP-BOE-CHARTER-1694, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-MONTESQUIEU-ESPRIT-LOIS-1748, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-ROUSSEAU-DISCOURS-1755, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-ROUSSEAU-CONTRAT-SOCIAL-1762, state: GOVERNING_WITNESS_LOCKED}
 
-witness_count: 29
-locked_count: 29
+witness_count: 34
+locked_count: 34
 
 maps:
-  - map_id: REFORMATION-CONFESSIONAL-SOVEREIGNTY-001
-    path: sources/primary/early-modern/maps/REFORMATION-CONFESSIONAL-SOVEREIGNTY-001.yaml
-    status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
-  - map_id: DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001
-    path: sources/primary/early-modern/maps/DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001.yaml
-    status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
-  - map_id: DUTCH-FINANCIAL-POWER-001
-    path: sources/primary/early-modern/maps/DUTCH-FINANCIAL-POWER-001.yaml
-    status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
-  - map_id: ENGLISH-CIVIL-WAR-SOVEREIGNTY-1688-CREDIT-001
-    path: sources/primary/early-modern/maps/ENGLISH-CIVIL-WAR-SOVEREIGNTY-1688-CREDIT-001.yaml
-    status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
+  - {map_id: RENAISSANCE-STATECRAFT-MACHIAVELLI-001, path: sources/primary/early-modern/maps/RENAISSANCE-STATECRAFT-MACHIAVELLI-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
+  - {map_id: REFORMATION-CONFESSIONAL-SOVEREIGNTY-001, path: sources/primary/early-modern/maps/REFORMATION-CONFESSIONAL-SOVEREIGNTY-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
+  - {map_id: DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001, path: sources/primary/early-modern/maps/DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
+  - {map_id: DUTCH-FINANCIAL-POWER-001, path: sources/primary/early-modern/maps/DUTCH-FINANCIAL-POWER-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
+  - {map_id: ENGLISH-CIVIL-WAR-SOVEREIGNTY-1688-CREDIT-001, path: sources/primary/early-modern/maps/ENGLISH-CIVIL-WAR-SOVEREIGNTY-1688-CREDIT-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
+  - {map_id: ENLIGHTENMENT-MONTESQUIEU-ROUSSEAU-001, path: sources/primary/early-modern/maps/ENLIGHTENMENT-MONTESQUIEU-ROUSSEAU-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
 
 repair_sequence:
   - renaissance_statecraft_and_machiavelli
@@ -89,15 +90,19 @@ repair_sequence:
   - enlightenment_institutional_moderation_and_popular_sovereignty
 
 production_state:
+  renaissance_machiavelli_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
   reformation_bodin_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
   dutch_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
   english_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
-  next_unit: RENAISSANCE_STATECRAFT_AND_MACHIAVELLI
-  following_unit: ENLIGHTENMENT_MONTESQUIEU_AND_ROUSSEAU
+  enlightenment_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
+  european_core_repair: READY_FOR_CONTROLLED_NARRATIVE_AND_STRUCTURED_STAR_INTEGRATION
 
-remaining_global_controls:
-  - Do not integrate prose until every missing chronological bridge selected for this repair has its own passage-to-claim map.
-  - Preserve De Witt 1654 Dutch edition as governing witness.
+integration_controls:
+  - Preserve current History of Power material; integration is additive and connective rather than a restart.
+  - Insert Machiavelli before the Reformation/Bodin/Dutch/English sequence and before the existing Bacon-centered layer.
+  - Preserve existing Bacon, Hume, Voltaire, Condorcet, Franklin, Federalist, Burke, Morris, and Talleyrand material unless a direct contradiction requires an explicit correction.
+  - Link existing STAR-AGE-OF-INDIVIDUAL-001 interpretations by source ID where reused; do not paraphrase them as primary evidence.
+  - Maintain separate narrative roles for historical institutions, actors' self-understanding, philosophical teaching, and later interpretation.
+  - Preserve De Witt 1654 Dutch edition as the governing witness.
   - Preserve manuscript/transcription distinctions for VOC, Grotius, 1642 Answer, Wisselbank, and legal settlements.
-  - Reuse existing Stars interpretations only with explicit provenance; primary texts and prior interpretations are different evidence classes.
   - Non-European early-modern imperial comparisons remain a separate expansion unit and are not silently folded into this European-Atlantic repair.
