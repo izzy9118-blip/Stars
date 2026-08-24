@@ -1,71 +1,92 @@
 audit_program: HISTORY-OF-POWER-RETROACTIVE-SOURCE-AUDIT
-status: FIRST_FULL_PASS_COMPLETE
+status: FIRST_FULL_PASS_COMPLETE_STAR_CONFORMITY_BOUND
 branch: history-of-power-retroactive-source-audit-001
 method: sources/SOURCE-WITNESS-METHOD.md
+conformity_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+sole_semantic_authority: stars/STAR-HISTORY-OF-POWER-001.yaml
 
 purpose: >-
   Re-audit every History of Power layer from the beginning under the expanded
-  witness method. Each layer must distinguish operational/direct evidence,
+  witness method while remaining subordinate to the native individual-Star
+  architecture. Each layer must distinguish operational/direct evidence,
   contemporary reflection, post-festum/dusk reflection, and later critical
-  reconstruction before its narrative gate can be treated as satisfied.
+  reconstruction before any Star-native integration proposal can be treated as ready.
+
+scaffold_status:
+  rule: >-
+    Every corpus, map, audit, manifest, production state, witness count, or
+    narrative-gate label under sources/ is procedural research scaffolding only.
+    None is a second Star, none independently certifies a History of Power layer,
+    and none supersedes STAR-HISTORY-OF-POWER-001.
+  star_native_return: >-
+    Findings become admissible only when mapped back into the individual Star's
+    fact, scope, shape, claim_policy, historical_spectrum, boundaries, evidence,
+    conceptual_chain, or navigational questions as appropriate.
 
 sequence:
   - order: 1
     layer: EGYPT
     audit: sources/audits/ancient/EGYPT-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REBALANCING_REQUIRED
-    next_action: ACQUIRE_AND_RECLASSIFY
+    next_action: ACQUIRE_AND_RECLASSIFY_UNDER_STAR_CONFORMITY_CONTRACT
   - order: 2
     layer: PERSIA
     audit: sources/audits/ancient/PERSIA-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REBALANCING_REQUIRED
-    next_action: ACQUIRE_OWN_ARCHIVE_AND_REATTRIBUTION
+    next_action: ACQUIRE_OWN_ARCHIVE_AND_REATTRIBUTION_UNDER_STAR_CONFORMITY_CONTRACT
   - order: 3
     layer: GREECE
     audit: sources/audits/ancient/GREECE-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_AND_EPIGRAPHIC_EXPANSION_REQUIRED
-    next_action: ACQUIRE_AND_LINK
+    next_action: ACQUIRE_AND_LINK_UNDER_STAR_CONFORMITY_CONTRACT
   - order: 4
     layer: ROME
     audit: sources/audits/ancient/ROME-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_ANNALISTIC_AND_PRINCIPATE_CONTROLS_REQUIRED
-    next_action: ACQUIRE_AND_RECLASSIFY
+    next_action: ACQUIRE_AND_RECLASSIFY_UNDER_STAR_CONFORMITY_CONTRACT
   - order: 5
     layer: POST_IMPERIAL_AND_MEDIEVAL
     audit: sources/audits/medieval/POST-IMPERIAL-MEDIEVAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_INSTITUTIONAL_AND_REFLECTIVE_EXPANSION_REQUIRED
-    next_action: ACQUIRE_LAW_CHARTERS_AND_MAJOR_BOOKS
+    next_action: ACQUIRE_LAW_CHARTERS_AND_MAJOR_BOOKS_UNDER_STAR_CONFORMITY_CONTRACT
   - order: 6
     layer: RENAISSANCE_EARLY_MODERN_AND_ENLIGHTENMENT
     audit: sources/audits/early-modern/RENAISSANCE-EARLY-MODERN-ENLIGHTENMENT-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_CANON_EXPANSION_REQUIRED
-    next_action: ACQUIRE_MAJOR_BOOKS_AND_DUSK_WITNESSES
+    next_action: ACQUIRE_MAJOR_BOOKS_AND_DUSK_WITNESSES_UNDER_STAR_CONFORMITY_CONTRACT
   - order: 7
     layer: REVOLUTIONARY_AND_CONSTITUTIONAL
     audit: sources/audits/revolutionary/REVOLUTIONARY-CONSTITUTIONAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_CONSTITUENT_DISSENT_AND_DUSK_EXPANSION_REQUIRED
-    next_action: ACQUIRE_CONSTITUENT_ARCHIVE_AND_RIVAL_REFLECTION
+    next_action: ACQUIRE_CONSTITUENT_ARCHIVE_AND_RIVAL_REFLECTION_UNDER_STAR_CONFORMITY_CONTRACT
   - order: 8
     layer: ADMINISTRATIVE_AND_NATIONAL_POWER_1798_1871
     audit: sources/audits/nineteenth-century/ADMINISTRATIVE-NATIONAL-POWER-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_AND_INDUSTRIAL_CANON_EXPANSION_REQUIRED
-    next_action: ACQUIRE_INDUSTRIAL_1848_NATIONAL_BOOKS
+    next_action: ACQUIRE_INDUSTRIAL_1848_NATIONAL_BOOKS_UNDER_STAR_CONFORMITY_CONTRACT
   - order: 9
     layer: IMPERIAL_INDUSTRIAL_WORLD_POWER_1871_1914
     audit: sources/audits/imperial-industrial/IMPERIAL-INDUSTRIAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_RIVAL_REFLECTIVE_CANON_EXPANSION_REQUIRED
-    next_action: ACQUIRE_RIVAL_IMPERIAL_CORPORATE_COLONIAL_AND_JAPANESE_BOOKS
+    next_action: ACQUIRE_RIVAL_IMPERIAL_CORPORATE_COLONIAL_AND_JAPANESE_BOOKS_UNDER_STAR_CONFORMITY_CONTRACT
   - order: 10
     layer: TOTAL_WAR_AND_MASS_STATE_1914_1918
     audit: sources/audits/total-war/TOTAL-WAR-RETROACTIVE-SOURCE-AUDIT-001.yaml
     status: AUDIT_COMPLETE_REFLECTIVE_SOCIAL_AND_OPERATIONAL_EXPANSION_REQUIRED
-    next_action: ACQUIRE_WAR_ECONOMY_REVOLUTION_FRONT_PROPAGANDA_AND_COLONIAL_WITNESSES
+    next_action: ACQUIRE_WAR_ECONOMY_REVOLUTION_FRONT_PROPAGANDA_AND_COLONIAL_WITNESSES_UNDER_STAR_CONFORMITY_CONTRACT
 
 completion_rule: >-
-  A layer is not marked AUDIT_COMPLETE merely because sources are named. The audit
-  must identify current evidentiary strengths, missing witness classes, misclassified
-  sources, claims whose provenance is too weak for their current status, first-class
-  additions, and a concrete narrative-gate decision.
+  A layer is not ready merely because sources are named or a working map is complete.
+  The audit must identify current evidentiary strengths, missing witness classes,
+  misclassified sources, claims whose provenance is too weak for their current
+  status, first-class additions, and a concrete Star-native integration proposal.
+  Only STAR-HISTORY-OF-POWER-001 can finally carry the admitted claim structure.
+
+acquisition_admission_rule: >-
+  Every newly acquired source must identify its Star layer target, Star claim target,
+  intended native claim class, what it can establish, what it cannot establish,
+  its boundary effect, and rival or counter-witnesses where known. Prestige or
+  canonical status alone is not grounds for acquisition.
 
 program_findings:
   - No existing layer passes the revised narrative gate unchanged.
@@ -81,4 +102,4 @@ program_findings:
   - Imperial-industrial history needs rival theories of empire, corporate criticism, subject-side colonial reflection and Japanese self-understanding.
   - Total-war history needs organizer, revolutionary, soldier, propaganda, colonial and post-festum voices beside emergency statutes.
 
-current_position: FIRST_PASS_COMPLETE_ACQUISITION_SHOULD_RESTART_AT_EGYPT
+current_position: STAR_CONFORMITY_BOUND_ACQUISITION_MAY_RESTART_AT_EGYPT_ONLY_UNDER_CONTRACT
