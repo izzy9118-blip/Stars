@@ -1,0 +1,95 @@
+extract_id: EXTRACT-EGYPT-REKHMIRE-VIZIER-001
+source_id: SRC-HOP-EGYPT-REKHMIRE-VIZIER
+status: Q0_MONUMENT_LOCKED_Q1_FACSIMILE_LOCATED_Q2_PENDING
+protocol: sources/primary/ancient/egypt/EXTRACTION-PROTOCOL-001.yaml
+
+Q0_witness_identity:
+  document_group:
+    - Installation of the Vizier
+    - Duties of the Vizier
+  original_language: Egyptian monumental inscription
+  original_monument:
+    site: Theban Tomb 100 (TT100), Sheikh Abd el-Qurna
+    owner: Rekhmire
+    date: Eighteenth Dynasty, reigns of Thutmose III and Amenhotep II
+  qualification: >-
+    The tomb program is both an institutional witness and an elite funerary
+    self-presentation. Texts preserved there may transmit older administrative traditions.
+
+Q1_textual_control:
+  facsimile_edition:
+    authors: Norman de Garis Davies and Nina de Garis Davies
+    title: The Tomb of Rekh-mi-Rē at Thebes, Volumes I and II
+    series: Publications of the Metropolitan Museum of Art Egyptian Expedition
+    year: 1943
+    repository: Metropolitan Museum of Art Publications
+    url: https://www.metmuseum.org/art/metpublications/The_Tomb_of_Rekh_mi_Re_at_Thebes_Volumes_I_and_II
+    status: RETRIEVED_PLATE_PAGE_AND_TEXT_CROSSWALK_PENDING
+  hieroglyphic_text_control:
+    edition_target: Urkunden der 18. Dynastie, Rekhmire sections; exact editor, volume, and page concordance pending
+    status: TO_LOCK
+  early_translation_control:
+    author_editor: James Henry Breasted
+    title: Ancient Records of Egypt, Volume II
+    url: https://archive.org/details/ancientrecordsof02brea
+    status: NAVIGATION_TRANSLATION_NOT_GOVERNING
+  control_rule: >-
+    Exact TT100 wall, scene, register, facsimile plate, and hieroglyphic text must
+    be attached to each passage. Tomb-program coherence cannot substitute for location.
+
+Q2_passage_targets:
+  - target_id: REKHMIRE-T1
+    text: Installation of the Vizier
+    topic: difficulty, burden, or gravity of the office
+    purpose: distinguish office from private honor and show the standard placed above the holder
+    exact_location: PENDING_TT100_PLATE_AND_URKUNDEN_CROSSWALK
+  - target_id: REKHMIRE-T2
+    text: Installation of the Vizier
+    topic: impartiality, avoidance of favoritism, anger, or partial judgment
+    purpose: control the claim that personal appetite is subordinated to office
+    exact_location: PENDING_TT100_PLATE_AND_URKUNDEN_CROSSWALK
+  - target_id: REKHMIRE-T3
+    text: Duties of the Vizier
+    topic: petition access, hearing, records, or opening of the hall
+    purpose: identify the institutional path by which subjects reach delegated royal judgment
+    exact_location: PENDING_TT100_PLATE_AND_URKUNDEN_CROSSWALK
+  - target_id: REKHMIRE-T4
+    text: Duties of the Vizier
+    topic: land, taxation, reports, local officials, treasury, or archives
+    purpose: ground the administrative circuit in an office witness rather than general synthesis
+    exact_location: PENDING_TT100_PLATE_AND_URKUNDEN_CROSSWALK
+
+Q3_translation_control:
+  governing_translation: NONE_YET
+  candidate_controls:
+    - Davies publication translations and commentary, if supplied for exact sections
+    - a modern Egyptological translation tied to Urkunden line numbers
+  quotation_readiness: ORIGINAL_CONTROLLED_TRANSLATION_PENDING
+
+Q4_star_claim_mapping:
+  relation_id: EGYPT-PA-004
+  star_claim_target: >-
+    High office is represented as a durable jurisdiction joining hearing, record,
+    impartiality, reporting, land, treasury, and subordinate administration, while
+    the named holder gains identity through disciplined service.
+  intended_claim_class:
+    - DOCUMENTED_OR_TEXTUAL_FACT
+    - ATTRIBUTED_TEACHING_OR_JUDGMENT
+    - ANALYTICAL_SYNTHESIS
+  age_of_individual_crossing: PRESERVE
+
+Q5_boundary_and_rival_test:
+  boundaries:
+    - funerary self-presentation is not neutral manual
+    - office ideal is not evidence of consistent practice
+    - Rekhmire's version may preserve older traditions
+    - petition access does not establish equal legal standing
+  rival_controls:
+    - SRC-HOP-EGYPT-HOREMHEB-EDICT
+    - SRC-HOP-EGYPT-ELOQUENT-PEASANT
+    - administrative papyri and local court records
+    - CTRL-HOP-EGYPT-KINGSHIP-OCONNOR-SILVERMAN
+    - CTRL-HOP-EGYPT-KEMP-ANATOMY
+
+Q6_quotation_readiness: NOT_READY
+next_action: ASSIGN_DAVIES_PLATES_AND_HIEROGLYPHIC_LINES_TO_T1_T4
