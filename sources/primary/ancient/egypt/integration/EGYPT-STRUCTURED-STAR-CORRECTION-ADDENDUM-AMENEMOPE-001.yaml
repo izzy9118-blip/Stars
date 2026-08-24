@@ -1,0 +1,85 @@
+addendum_id: EGYPT-STRUCTURED-STAR-CORRECTION-ADDENDUM-AMENEMOPE-001
+status: READY_FOR_CONTROLLED_REVIEW_NOT_APPLIED
+parent_proposal: sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-CORRECTION-PROPOSAL-001.yaml
+parent_star: STAR-HISTORY-OF-POWER-001
+star_path: stars/STAR-HISTORY-OF-POWER-001.yaml
+source_id: SRC-HOP-AMENEMOPE
+
+reason_for_addendum: >-
+  The original Egypt correction proposal properly restored loyal subjecthood,
+  labor, petition and office, but it did not yet include the Instruction of
+  Amenemope. Amenemope supplies a distinct indigenous relation: inward moral
+  self-command in speech, passion, property, measurement and treatment of
+  vulnerable persons without making the individual the prior source of authority.
+
+admission_test:
+  history_of_power_fit: PASS
+  age_of_individual_fit: PASS
+  canonical_prestige_alone: NOT_USED
+  demonstrated_deficit: >-
+    Without Amenemope, the repaired layer could still imply that Egyptian inward
+    formation appears mainly as royal loyalty or petition against office. The source
+    adds disciplined moral agency operating across household, economic and official life.
+
+structured_star_changes_proposed:
+  historical_spectrum:
+    target_node: subject_labor_petition_and_office
+    add_relations:
+      - inherited wisdom directed into heart, speech and temper
+      - disciplined or silent conduct opposed to heated and grasping conduct
+      - land boundary, measure, wealth and vulnerable persons as morally bounded relations
+      - inward self-command operating within deity, ma'at, household and office
+    boundary: >-
+      Do not redescribe this interiority as autonomous conscience, natural right or
+      self-created identity. Do not infer administrative enforcement from wisdom instruction.
+
+  conceptual_chain:
+    target: egyptian_power.sequence
+    proposed_addition_after_hearing_speech_and_office:
+      - inward reception of wisdom and restraint of tongue, temper and acquisition
+    governing_principle_effect: >-
+      Clarify that Egyptian power forms persons not only through royal command,
+      office and ritual but through cultivated self-command within inherited order.
+
+  person_authority_crossing:
+    add_person_types:
+      - instructed_son_and_learner
+      - disciplined_scribe_or_office_holder
+      - moral_agent_in_property_and_exchange_relations
+    add_relation: >-
+      The person acts from an inwardly formed heart without becoming the author of
+      the moral order that forms him.
+
+  boundaries:
+    add:
+      - Absence of modern individuality does not imply absence of inwardness, conscience-like reflection, agency or self-command.
+      - Moral instruction concerning poor persons and boundaries does not establish equal legal status or enforcement.
+      - Any relation to Proverbs belongs to a separate textual-transmission inquiry and does not govern the Egyptian power claim.
+
+  evidence:
+    add:
+      - source_id: SRC-HOP-AMENEMOPE
+        evidence_class: CONTEMPORARY_REFLECTIVE_WITNESS_WITH_LATER_MANUSCRIPT_TRANSMISSION
+        governing_witness: British Museum Papyrus EA 10474 with Laisney 2007 critical control
+        claim_role: attributed teaching on inward formation and morally bounded material relations
+
+claim_class_controls:
+  - proposition: Amenemope directs teaching into the learner's interior and speech.
+    class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - proposition: Amenemope joins moral character to boundary, measure, property and vulnerable persons.
+    class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - proposition: Egyptian order could operate through cultivated character as well as external command.
+    class: ANALYTICAL_SYNTHESIS
+  - proposition: This is an early modern autonomous individual.
+    class: PROHIBITED
+
+supporting_scaffold:
+  source_record: sources/primary/ancient/egypt/SRC-HOP-AMENEMOPE.yaml
+  passage_targets: sources/primary/ancient/egypt/passages/EGY-AMENEMOPE-PASSAGE-TARGETS-001.yaml
+  person_authority_map: sources/primary/ancient/egypt/maps/EGYPT-AMENEMOPE-PERSON-AUTHORITY-001.yaml
+
+application_rule: >-
+  Apply this addendum only together with the main Egypt structured-Star correction.
+  Exact direct quotations remain withheld until manuscript/critical-edition crosswalk;
+  the bounded attributed relations may be incorporated without quotation if their
+  evidentiary status and transmission limits remain explicit.
