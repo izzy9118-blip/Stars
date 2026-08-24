@@ -1,0 +1,114 @@
+source_id: SRC-HOP-CYRUS-CYLINDER
+status: GOVERNING_ARTIFACT_AND_TEXTUAL_WITNESS_LOCKED_PASSAGE_EXTRACTION_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Cyrus II through Babylonian royal scribal production
+work_or_document_title: Cyrus Cylinder
+production_date: after the conquest of Babylon in 539 BCE
+original_language: Babylonian Akkadian in cuneiform
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+witness_subclass: ROYAL_IMPERIAL_INSCRIPTION_IN_CONQUERED_TRADITION
+
+participant_or_observer_position: >-
+  A royal foundation inscription composed after conquest in the conventional
+  theological and scribal idiom of Babylon. Cyrus speaks through a Babylonian
+  legitimating form; the text is neither neutral chronicle nor transparent Iranian autobiography.
+temporal_distance_if_retrospective: contemporary with the initial Persian settlement in Babylon
+
+governing_witness_and_exact_edition_or_archive:
+  principal_artifact:
+    repository: British Museum
+    museum_number: 90920
+    registration_number: 1880,0617.1941
+    production_place: Babylon
+    material: fired clay cylinder
+    state: incomplete
+    catalogue: https://www.britishmuseum.org/collection/object/W_1880-0617-1941
+  joined_fragment:
+    repository: Yale Babylonian Collection
+    number: NBC 2504
+    relation: restores portions of lines 36-45 through a cast joined to the cylinder
+  duplicate_fragment:
+    repository: British Museum
+    registration_number: 1881,0830.656
+    relation: duplicates lines 1-2 and 42-45
+  critical_text_controls:
+    - F. H. Weissbach, Die Keilinschriften der Achämeniden, 1911
+    - Hanspeter Schaudig, Die Inschriften Nabonids von Babylon und Kyros' des Großen, 2001
+    - Irving Finkel, The Cyrus Cylinder, 2013
+  rule: >-
+    The artifact and Akkadian text govern. Modern political uses and translations
+    remain separate reception evidence.
+
+star_claim_target:
+  - conquest_and_local_legitimation
+  - imperial_rule_through_restoration_of_cults_and_communities
+  - tribute_building_and_babylonian_kingship
+  - difference_between_Persian_rule_and_one_uniform_Persian_nomos
+intended_claim_class: SELF_WITNESS
+
+what_the_source_can_establish:
+  - Cyrus's regime commissioned a Babylonian royal account of conquest and legitimate kingship.
+  - The text presents Marduk as selecting Cyrus and represents entry into Babylon, cult restoration, return of divine images and displaced populations, tribute and building work.
+  - Persian imperial rule could adopt the political theology and royal idiom of a conquered center rather than impose one undifferentiated Persian vocabulary.
+
+what_the_source_cannot_establish:
+  - That Babylon was entered without violence simply because the inscription says so.
+  - That every displaced population was returned or every cult restored.
+  - A universal empire-wide policy from one Babylonian foundation deposit.
+  - That the cylinder is a charter of modern human or individual rights.
+  - Cyrus's Iranian religious self-understanding beyond this Babylonian presentation.
+
+rival_or_counter_witnesses_where_known:
+  - SRC-HOP-NABONIDUS-CHRONICLE
+  - Babylonian administrative and business archives
+  - Herodotus, Histories book I
+  - biblical Ezra and Second Isaiah as separately positioned subject-community receptions
+  - later Greek and Iranian Cyrus traditions
+
+boundary_effect: >-
+  The cylinder replaces the simple contrast between Persian conqueror and passive
+  subjects with a relation of conquest, local legitimation, cult restoration and
+  tribute. It also blocks the modern rights-charter reading and any inference that
+  local religious restoration equals political equality.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - Cyrus as Babylonian king under Marduk
+    - local gods, temples and royal scribal tradition
+  human_position:
+    - inhabitants of conquered Babylon
+    - displaced cult communities
+    - tributary peoples and temple personnel
+  claimed_end: peace, restored cult, legitimate kingship and ordered urban life
+  claimed_obligations:
+    - acceptance of royal rule
+    - tribute and service
+    - participation in restored cultic and civic order
+  formation_mechanisms:
+    - royal inscription
+    - temple restoration
+    - return of images and populations
+    - Babylonian political theology
+  coercive_mechanisms:
+    - conquest
+    - tribute
+    - royal command
+  material_relations:
+    - city wall and foundation deposit
+    - temple property and offerings
+    - displaced persons and cult images
+    - tribute
+  knowledge_relations: the king controls the public account of conquest through an inherited local scribal form
+  freedom_relation: communities may regain cult and place within imperial rule; no antecedent individual right is stated
+  crossing_relation: PRESERVES_LOCAL_IDENTITIES_INSIDE_IMPERIAL_SUBJECTION
+  age_of_individual_relevance: >-
+    The source shows an empire governing differentiated communities by restoring
+    inherited forms rather than addressing naturally separate individuals whose
+    private rights precede conquest.
+
+quotation_state: NOT_YET_EXTRACTED_AGAINST_AKKADIAN_CRITICAL_TEXT
+star_integration_state: NOT_YET_PROPOSED
