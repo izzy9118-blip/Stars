@@ -1,0 +1,172 @@
+passage_set_id: EGY-HOREMHEB-EDICT-PASSAGES-001
+status: ORIGINAL_WITNESS_AND_CRITICAL_LOCATORS_LOCKED_SELECTED_RELATIONS_CONTROLLED
+source_id: SRC-HOP-HOREMHEB-EDICT
+star_layer_target: egyptian_power
+
+witness_basis:
+  monument:
+    description: sandstone decree stela at Karnak, court of the Tenth Pylon
+    archive: CFEETK KIU 5085
+    archive_record: https://www.cfeetk.cnrs.fr/archives/?n=165905
+    discovery: Maspero excavations, 1882
+    condition: >-
+      The upper left portion of the principal face is lost; detached fragments and
+      an Abydos duplicate preserve additional material. Lacunae remain operative
+      constraints rather than invitations to reconstruct freely.
+  hieroglyphic_text:
+    edition: Wolfgang Helck, Urkunden der 18. Dynastie
+    locator: Urk. IV, 2140-2162
+    status: GOVERNING_PRINTED_HIEROGLYPHIC_TEXT_TARGET
+  principal_critical_edition:
+    author: Jean-Marie Kruchten
+    title: Le décret d'Horemheb: traduction, commentaire épigraphique, philologique et institutionnel
+    publisher: Éditions de l'Université de Bruxelles
+    year: 1981
+    extent: x, 252 pages and twelve plates
+    status: GOVERNING_CRITICAL_CONTROL
+  later_translation_controls:
+    - author: William J. Murnane
+      title: Texts from the Amarna Period in Egypt
+      year: 1995
+      pages: 235-240
+    - author: Milen Milanov
+      title: The Great Decree of Horemheb from Karnak - translation and commentary
+      journal: Journal of Egyptological Studies VII
+      year: 2025
+      pages: 44-70
+      status: LATER_TRANSLITERATION_AND_TRANSLATION_CONTROL_NOT_PRIMARY
+  historical_translation_aid:
+    author: James Henry Breasted
+    title: Ancient Records of Egypt, volume III: The Nineteenth Dynasty
+    year: 1906
+    sections: opening Horemheb material and decree sections 50-67
+    status: HISTORICAL_TRANSLATION_AID_NOT_GOVERNING
+
+passages_and_relations:
+  - passage_id: EGY-HOREMHEB-001
+    location: Urk. IV 2140-2144, royal preamble
+    passage_status: SHORT_ORIGINAL_ANCHORS_CONTROLLED
+    original_language: Ancient Egyptian
+    short_anchors:
+      - "SA.n.f hp.w Hr ir.t mAat"
+      - "xsf Adw"
+      - "Dr isft ... grg"
+    project_paraphrase: >-
+      The royal preamble presents Horemheb as establishing rules, doing ma'at,
+      driving off violence, removing isfet and falsehood, and seeking what is useful
+      for the whole land after deliberation with his heart.
+    supports:
+      - royal_reform_as_claimed_restoration_of_maat
+      - heart_deliberation_and_effective_royal_command
+      - distinction_between_legitimating_preamble_and_operational_provisions
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      This is the decree's royal self-presentation. It establishes the reforming
+      claim and vocabulary, not independent proof that the whole land was disordered
+      or that the measures achieved their stated end.
+    age_of_individual_crossing:
+      relation: OLDER_ADMINISTRATIVE_FORM_LATER_TRANSFORMED
+      finding: >-
+        The ruler's inward deliberation is ordered toward restoration of a public
+        and cosmic standard rather than private self-expression.
+
+  - passage_id: EGY-HOREMHEB-002
+    location: operative decree beginning around Urk. IV 2144; Breasted sections 50 onward
+    passage_status: OPERATIVE_RELATION_CONTROLLED_WORDING_REMAINS_EDITION_DEPENDENT
+    project_paraphrase: >-
+      The decree identifies specified seizures by royal or military agents—including
+      interference with boats, dues, goods, hides and labor—and attaches sanctions
+      to the offending official rather than treating service to Pharaoh as an unlimited
+      license for private appropriation.
+    supports:
+      - specific_abuse_of_delegated_office
+      - private_or_non_state_property_inside_royal_order
+      - legal_sanction_against_agents_of_the_crown
+      - distinction_between_due_service_and_official_plunder
+    intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    qualification: >-
+      The damaged provisions differ in preservation and restoration. This map admits
+      the relation—specified abuse plus stated sanction—not every reconstructed object,
+      penalty or official title as equally certain.
+    age_of_individual_crossing:
+      relation: PRESERVES_AND_TRANSFORMS
+      finding: >-
+        A person may possess goods, craft and labor vulnerable to official seizure,
+        yet protection comes through royal law rather than a right prior to kingship.
+
+  - passage_id: EGY-HOREMHEB-003
+    location: command formulas including Urk. IV 2144,7-9; 2149,5-6; 2151,10-11; 2153,15-16
+    passage_status: FORMULA_LOCATORS_CONTROLLED
+    project_paraphrase: >-
+      Repeated royal-command formulas convert the king's stated judgment into
+      written provisions directed at identified abuses.
+    supports:
+      - royal_speech_as_formal_administrative_command
+      - decree_as_written_instrument
+      - office_accountability_through_named_rules
+    intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    qualification: >-
+      The decree is not a complete Egyptian law code, and modern legal categories
+      such as legislation, codification or separation of powers remain analytical aids.
+
+  - passage_id: EGY-HOREMHEB-004
+    location: right-hand/judicial section; Urk. IV later portion within 2157-2161, exact clause crosswalk retained in Kruchten
+    passage_status: JUDICIAL_RELATIONS_CONTROLLED_EXACT_QUOTATION_WITHHELD
+    project_paraphrase: >-
+      The decree represents the king as appointing judicial staffs in the major
+      southern and northern centers, giving them written regulations, warning
+      against association and rewards that corrupt judgment, and providing for local
+      bodies composed from priests and civic officials.
+    supports:
+      - royal_appointment_of_judicial_personnel
+      - regional_and_local_adjudicative_bodies
+      - written_rules_and_anti_bribery_norm
+      - justice_as_administration_without_modern_separation_of_powers
+    intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    qualification: >-
+      The damaged text does not justify describing two modern supreme courts, a
+      complete appeal hierarchy, or institutionally independent judges. Judicial,
+      fiscal, priestly and administrative offices remain interwoven.
+    age_of_individual_crossing:
+      relation: PRESERVES_AND_TRANSFORMS
+      finding: >-
+        The governed person may seek judgment through offices whose bearers are
+        themselves bound by royal rules, but authority still descends from the king.
+
+  - passage_id: EGY-HOREMHEB-005
+    location: conclusion and royal provision/audience material, Urk. IV 2160-2162
+    passage_status: RELATION_CONTROLLED_FRAGMENTARY_WORDING_WITHHELD
+    project_paraphrase: >-
+      The surviving conclusion joins commands against oppression to appointment,
+      audience, remuneration or provision, public recognition and praise of the king.
+    supports:
+      - anti_corruption_and_material_support_of_office
+      - royal_visibility_and_distribution
+      - reform_as_legitimation
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      Provision for officials may be related to integrity, patronage and royal
+      display at once; the text does not isolate one modern anti-corruption rationale.
+
+cross_passage_synthesis:
+  proposition: >-
+    Horemheb's decree presents royal authority as both the source of exaction and
+    the power capable of restraining abusive agents. It names property, labor,
+    officials, judicial bodies, written rules and punishment within a hierarchy whose
+    standard is ma'at and whose formal summit remains the king.
+  claim_class: ANALYTICAL_SYNTHESIS
+  state: CANDIDATE_FOR_STRUCTURED_STAR_AFTER_FINAL_CLAUSE_TABLE
+
+boundaries:
+  - Promulgation does not demonstrate consistent enforcement.
+  - The decree's self-legitimating restoration narrative is distinct from its operative clauses.
+  - Severe penalties are stated legal sanctions; frequency of application requires case evidence.
+  - Protection of goods and labor is not a modern theory of equal pre-political rights.
+  - Courts and administration are not separated into modern constitutional branches.
+  - The damaged monument and editorial restorations remain visible in all quotation-sensitive claims.
+
+remaining_controls:
+  - Build a clause-by-clause table against Kruchten's plates and Urk. IV lineation before direct quotation enters the Star.
+  - Mark every restored sign or supplied phrase used in an eventual quotation.
+  - Compare Murnane and Milanov against Kruchten where translations materially diverge.
+  - Add practice-level petitions, tax records or court proceedings before making enforcement claims.
