@@ -1,0 +1,31 @@
+corpus_id: HOP-TOTAL-WAR-001
+name: Total War and the Mass State Primary Source Corpus
+status: INITIAL_WITNESSES_GATHERING
+parent_star: STAR-HISTORY-OF-POWER-001
+base_branch: history-of-power-imperial-industrial-001
+working_branch: history-of-power-total-war-001
+period_focus: "1914-1918"
+purpose: >-
+  Reconstruct how wartime governments converted prewar administrative, industrial,
+  financial, communications and military capacities into emergency rule, controlled
+  production, labor mobilization, blockade, mass borrowing, taxation, propaganda,
+  conscription, occupation and revolutionary transformation.
+acquisition_rules:
+  - Wartime emergency statutes, orders, administrative acts, budgets, financial instruments and dated executive records govern.
+  - Prewar capacities inherited by wartime states remain identified as inheritances rather than wartime inventions.
+  - Emergency legal authorization, administrative practice, propaganda, industrial allocation, finance and military operations remain distinct evidence classes.
+  - Total war is an analytical synthesis to be demonstrated, not a label that licenses assuming total state control.
+  - Belligerent propaganda and official wartime documentary publications are attributed and not treated as neutral descriptions.
+  - Civilian, colonial and occupied populations must enter through primary evidence rather than being reduced to state plans.
+initial_targets:
+  - emergency powers and censorship
+  - munitions administration and controlled establishments
+  - civilian labor compulsion and conscription
+  - blockade and neutral trade controls
+  - war loans, excess-profits taxation and central-bank finance
+  - propaganda and public-information agencies
+  - food/raw-material control and rationing
+  - colonial troop and labor mobilization
+  - occupation administration
+  - Russian Revolution and wartime state collapse
+  - armistice and transition to postwar settlement
