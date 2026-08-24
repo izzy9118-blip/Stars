@@ -1,0 +1,109 @@
+source_id: SRC-HOP-CTESIAS-PERSICA
+status: PREPARATORY_FRAGMENT_TRANSMISSION_DOSSIER_LOCKED_NOT_ADMITTED
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+branch: history-of-power-retroactive-source-audit-001
+preparatory_exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+
+source_identity:
+  author_or_corporate_author: Ctesias of Cnidus
+  work_or_document_title: Persica
+  date_or_period: late fifth to early fourth century BCE
+  original_language: Ancient Greek
+  evidence_class: POST_FESTUM_DUSK_WITNESS
+  transmission_state: ORIGINAL_WORK_LOST_FRAGMENTARY_AND_EPITOMIZED
+
+participant_or_observer_position: >-
+  Greek physician who presents himself as having served at the Achaemenid court and
+  as possessing access to Persian affairs; his claimed position is itself part of the
+  witness and requires source-critical control.
+temporal_distance_if_retrospective: >-
+  Near-contemporary for parts of the reign of Artaxerxes II, substantially retrospective
+  for earlier Assyrian, Median and Persian history, and surviving only through later transmitters.
+
+governing_witness_and_exact_edition_or_archive:
+  principal_transmission:
+    - transmitter: Photius
+      work: Bibliotheca, codex 72
+      form: epitome of Ctesias
+      date: ninth century CE
+    - transmitter: Diodorus Siculus
+      form: passages drawing upon or related to Ctesian tradition
+    - transmitter: Nicolaus of Damascus and other fragmentary witnesses
+      form: quoted or derivative fragments
+  governing_critical_edition:
+    editor: Dominique Lenfant
+    title: Ctésias de Cnide. La Perse. L'Inde. Autres fragments
+    series: Collection des Universités de France, Série grecque
+    publisher: Les Belles Lettres
+    place: Paris
+    year: 2004
+    isbn: 9782251005089
+    extent: CXCIII + 400 pages
+    status: GOVERNING_FRAGMENT_ORDER_GREEK_TEXT_FRENCH_TRANSLATION_AND_COMMENTARY
+  public_navigation:
+    description: English rendering of Photius codex 72
+    url: https://www.tertullian.org/fathers/photius_03bibliotheca.htm#72
+    status: READING_AID_NOT_GOVERNING
+
+history_of_power_targets:
+  star_claim_target:
+    - rival_Greek_accounts_of_Persian_kingship_and_court
+    - court_access_information_and_narrative_authority
+    - succession_household_women_eunuchs_officials_and_intrigue
+    - distinction_between_Persian_self_witness_and_Greek_court_story
+  intended_claim_class:
+    surviving_fragment_or_epitome_content: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    transmission_fact: WITNESS_METADATA
+    cross_witness_comparison: ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - A court-connected Greek author offered an account of Persian and earlier imperial history that often differed from Herodotus.
+  - Later antiquity transmitted Ctesias as a claimed insider and rival authority on the Persian court.
+  - The surviving tradition makes palace access, household actors, succession and personal relationships central to its image of power.
+  - Disagreement between Ctesias, Herodotus, Xenophon and royal records is itself evidence about ancient knowledge of Persia.
+what_the_source_cannot_establish:
+  - The lost wording, structure or complete argument of the original Persica.
+  - That Photius's epitome preserves Ctesias without compression, selection or reinterpretation.
+  - The factual accuracy of court stories merely because Ctesias claimed insider access.
+  - Persian self-understanding without corroboration from Persian, Babylonian, Elamite, Aramaic or Egyptian sources.
+
+rival_or_counter_witnesses_where_known:
+  - Herodotus Histories
+  - Xenophon Anabasis and Cyropaedia
+  - Aeschylus Persians
+  - Behistun, DNa/DNb and other royal inscriptions
+  - Babylonian chronicles and administrative archives
+  - Plutarch Artaxerxes
+boundary_effect: >-
+  Ctesias broadens ancient reflection beyond Herodotus while making transmission and
+  claimed court access explicit. He is not promoted into a transparent Persian archive.
+
+age_of_individual_crossing:
+  historically_specific_human_positions:
+    - court_physician
+    - royal_family_member
+    - eunuch_or_household_official
+    - commander
+    - claimant_or_rival
+  authority_form: dynastic_court_household_access_and_retrospective_narration
+  person_power_relation: >-
+    Individuals matter through proximity, service, kinship, bodily access, loyalty and
+    intrigue inside the royal household; their private position gains public effect
+    because court access mediates imperial command.
+  later_relation: ANCIENT_BIOGRAPHICAL_AND_COURTLY_RECEPTION_OF_IMPERIAL_POWER
+  prohibition: Do not treat vivid individual agency as modern personal autonomy or the court narrative as neutral institutional history.
+
+passage_control:
+  state: TRANSMITTER_AND_FRAGMENT_TARGETS_IDENTIFIED_NOT_EXTRACTED
+  targets:
+    - Photius's description of Ctesias's court position and claimed sources
+    - succession and Artaxerxes II material
+    - household and court actors
+    - explicit contradictions of Herodotus
+    - fragment-by-fragment transmitter identification
+  release_condition: >-
+    Use Lenfant's fragment numbering and transmitter apparatus, recording whether each
+    passage is quotation, paraphrase, epitome or derivative testimony before admission.
+
+star_integration_state: NOT_ADMITTED_PREPARATORY_ONLY
