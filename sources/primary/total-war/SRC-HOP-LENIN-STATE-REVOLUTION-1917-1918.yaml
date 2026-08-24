@@ -1,0 +1,34 @@
+source_id: SRC-HOP-LENIN-STATE-REVOLUTION-1917-1918
+status: GOVERNING_REVOLUTIONARY_REFLECTIVE_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+source_class: CONTEMPORARY_REFLECTIVE
+work:
+  author: V. I. Lenin
+  title: The State and Revolution
+  written: 1917-08_to_1917-09
+  first_publication: 1918
+  original_language: Russian
+  participant_position: Bolshevik_leader_writing_between_the_February_and_October_revolutions
+  role: class_state_armed_force_revolution_commune_and_transition_to_proletarian_power
+governing_witnesses:
+  archival_text: https://lenin.public-archives.com/en/L2605en.html
+  collected_works_control: https://www.marxists.org/archive/lenin/works/cw/pdf/lenin-cw-vol-25.pdf
+  first_edition_note: first_published_in_1918_second_edition_1919_added_a_section_to_chapter_II
+core_diagnosis:
+  - the imperialist war accelerates the fusion Lenin calls state-monopoly capitalism and turns advanced states into coercive wartime orders for workers
+  - the state is treated as an organ of class antagonism resting on special bodies of armed men, prisons and administrative machinery
+  - proletarian revolution must break rather than merely occupy the inherited bourgeois state apparatus
+  - the Commune supplies the model for replacing standing army and separated officialdom with armed and recallable popular institutions
+passage_map:
+  - anchor: preface to the first edition
+    supports: imperialist_war_state_monopoly_capitalism_and_revolutionary_urgency
+  - anchor: chapter I, sections 1-3
+    supports: class_antagonism_special_bodies_of_armed_men_and_state_coercion
+  - anchor: chapter III, sections 1-5
+    supports: breaking_the_inherited_state_machine_and_the_Commune_model
+  - anchor: chapter V, sections 2-4
+    supports: transition_from_capitalism_and_the_problem_of_the_withering_state
+disagreement_boundary: >-
+  Lenin's program is not Weber's sociology of unavoidable modern bureaucracy and responsible leadership. The text states
+  a revolutionary theory written before Bolshevik rule; later Soviet administrative practice cannot be read back into it
+  as either its simple fulfillment or refutation without separate evidence.

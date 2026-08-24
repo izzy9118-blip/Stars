@@ -1,0 +1,22 @@
+source_id: SRC-HOP-TREASURY-AGREEMENT-1915
+status: GOVERNING_LABOR_AGREEMENT_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  parties: British Government and representatives of organized labor
+  title: Treasury Agreement as to Trade-Union Rules Affecting Restriction of Output
+  conference_dates: 1915-03-17_to_1915-03-19
+  original_language: English
+  role: negotiated_labor_mobilization_arbitration_dilution_women_workers_and_restoration_pledges
+governing_witness:
+  witness_type: CONTEMPORARY_AGREEMENT_REPRINTED_IN_OFFICIAL_US_LABOR_REPORT
+  source: United States Bureau of Labor Statistics, Bulletin 221, Hours, Fatigue, and Health in British Munition Factories
+  pages: 118-124
+  facsimile: https://www.govinfo.gov/content/pkg/SERIALSET-07281_00_00-002-0062-0000/pdf/SERIALSET-07281_00_00-002-0062-0000.pdf
+key_relations:
+  - unions accepted wartime suspension of specified restrictive customs and settlement of disputes without stoppage
+  - arbitration retained equal labor representation in one of the prescribed forms
+  - dilution by semiskilled and female labor was tied to wage protections and postwar restoration pledges
+  - government control preserved existing industrial management rather than installing direct military command in every works
+qualification: >-
+  The agreement records a negotiated wartime settlement, not unanimous worker consent or the elimination of strikes.
+  Its promises, enforcement and later conflicts require practice-level evidence distinct from the agreed text.

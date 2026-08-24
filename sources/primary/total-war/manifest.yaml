@@ -1,55 +1,84 @@
 corpus_id: HOP-TOTAL-WAR-001
 name: Total War and the Mass State Primary Source Corpus
-status: INITIAL_CORE_MECHANISMS_MAPPED
+status: INTEGRATED_DRAFT_READY_FOR_REVIEW
 parent_star: STAR-HISTORY-OF-POWER-001
 base_branch: history-of-power-imperial-industrial-001
 working_branch: history-of-power-total-war-001
-period_focus: "1914-1918"
+period_focus: 1914-1918_with_immediate_post_festum_witnesses_to_1922
 purpose: >-
-  Reconstruct how wartime governments converted prewar administrative, industrial,
-  financial, communications and military capacities into emergency rule, controlled
-  production, labor mobilization, blockade, mass borrowing, taxation, propaganda,
-  conscription, occupation and revolutionary transformation.
+  Reconstruct how belligerent states converted prewar administrative, industrial, financial,
+  communications, imperial and military capacities into systems for directing manpower,
+  production, subsistence, information and sacrifice, and how the persons organized through
+  those systems bargained with, resisted, divided and finally reorganized the authorities
+  directing them.
 acquisition_rules:
-  - Wartime emergency statutes, orders, administrative acts, budgets, financial instruments and dated executive records govern.
-  - Prewar capacities inherited by wartime states remain identified as inheritances rather than wartime inventions.
-  - Emergency legal authorization, administrative practice, propaganda, industrial allocation, finance and military operations remain distinct evidence classes.
-  - Total war is an analytical synthesis to be demonstrated, not a label that licenses assuming total state control.
-  - Belligerent propaganda and official wartime documentary publications are attributed and not treated as neutral descriptions.
-  - Civilian, colonial and occupied populations must enter through primary evidence rather than being reduced to state plans.
+  - Wartime statutes, orders, agreements, budgets, administrative records, treaties and dated executive acts govern institutional claims.
+  - Contemporary reflective and immediate post-festum witnesses interpret mechanisms but do not replace operational evidence.
+  - Total war is a cross-source synthesis, not a license to assume total state control.
+  - Britain, France, Germany, Russia, the United States, colonies and occupied territories retain distinct institutional paths.
+  - Belligerent propaganda, memoir and official postwar accounting remain attributed and bounded.
+  - Civilian, worker, colonial, occupied and soldier agency remains visible rather than being absorbed into state plans.
+  - Revolution is treated as a transformation of authority produced within wartime society, not as an external epilogue.
 sources:
-  - {source_id: SRC-HOP-DORA-1914, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-BRITISH-BLOCKADE-1915, state: GOVERNING_ORDER_DOCUMENTARY_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-MINISTRY-MUNITIONS-1915, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-MUNITIONS-WAR-ACT-1915, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-MILITARY-SERVICE-1916, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-GERMAN-AUXILIARY-SERVICE-1916, state: GOVERNING_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-EXCESS-PROFITS-1916, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-CPI-1917, state: GOVERNING_EXECUTIVE_ORDER_WITNESS_LOCKED}
-  - {source_id: SRC-HOP-WAR-LOAN-1917, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
-witness_count: 9
-locked_or_registered_count: 9
+  - {source_id: SRC-HOP-DORA-1914, class: operational, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-RATHENAU-KRA-1914-1915, class: operational_and_reflective, state: GOVERNING_PARTICIPANT_AND_ARCHIVAL_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-BRITISH-BLOCKADE-1915, class: operational, state: GOVERNING_ORDER_DOCUMENTARY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-MINISTRY-MUNITIONS-1915, class: operational, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-MUNITIONS-WAR-ACT-1915, class: operational, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-TREASURY-AGREEMENT-1915, class: operational, state: GOVERNING_LABOR_AGREEMENT_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-FRANCE-DALBIEZ-1915, class: operational, state: GOVERNING_FRENCH_STATUTORY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-MILITARY-SERVICE-1916, class: operational, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-GERMAN-AUXILIARY-SERVICE-1916, class: operational, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-GERMAN-WAR-FOOD-OFFICE-1916, class: operational, state: GOVERNING_REGULATORY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-BELGIAN-FORCED-LABOR-1916, class: contested_operational, state: GOVERNING_CONTESTED_DIPLOMATIC_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-EXCESS-PROFITS-1916, class: operational, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-CPI-1917, class: operational, state: GOVERNING_EXECUTIVE_ORDER_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-WAR-LOAN-1917, class: operational, state: GOVERNING_STATUTORY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-PETROGRAD-SOVIET-ORDER-1-1917, class: revolutionary_operational, state: GOVERNING_REVOLUTIONARY_ORDER_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-SOVIET-DECREE-PEACE-1917, class: revolutionary_operational, state: GOVERNING_REVOLUTIONARY_POLICY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-LENIN-STATE-REVOLUTION-1917-1918, class: contemporary_reflective, state: GOVERNING_REVOLUTIONARY_REFLECTIVE_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-BREST-LITOVSK-1918, class: operational, state: GOVERNING_TREATY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-BRITISH-FOOD-CONTROL-1918, class: operational, state: GOVERNING_OFFICIAL_MANUAL_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-WEBER-PARLIAMENT-GOVERNMENT-1918, class: contemporary_reflective, state: GOVERNING_CONTEMPORARY_REFLECTIVE_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-GERMAN-REVOLUTION-PROGRAM-1918, class: revolutionary_operational, state: GOVERNING_REVOLUTIONARY_GOVERNMENT_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-COMPIEGNE-ARMISTICE-1918, class: operational, state: GOVERNING_ARMISTICE_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-WEBER-POLITICS-VOCATION-1919, class: immediate_post_festum, state: GOVERNING_POST_FESTUM_REFLECTIVE_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-KEYNES-ECONOMIC-CONSEQUENCES-1919, class: immediate_post_festum, state: GOVERNING_PARTICIPANT_POST_FESTUM_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-LUDENDORFF-WAR-MEMORIES-1919, class: immediate_post_festum, state: GOVERNING_SENIOR_COMMAND_POST_FESTUM_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-JUNGER-STAHLGEWITTERN-1920, class: immediate_post_festum, state: GOVERNING_FRONT_POST_FESTUM_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-BRITISH-EMPIRE-MILITARY-STATISTICS-1922, class: operational_postwar_accounting, state: GOVERNING_OFFICIAL_POSTWAR_ACCOUNTING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-INDIAN-SOLDIERS-CENSOR-LETTERS-1914-1918, class: mediated_participant_voice, state: GOVERNING_MEDIATED_SOLDIER_VOICE_WITNESS_LOCKED}
+witness_count: 28
+locked_or_registered_count: 28
 maps:
   - map_id: TOTAL-WAR-MASS-STATE-1914-1918-001
     path: sources/primary/total-war/maps/TOTAL-WAR-MASS-STATE-1914-1918-001.yaml
-    state: INITIAL_CORE_MECHANISMS_MAPPED
+    state: INTEGRATED_DRAFT_READY_FOR_REVIEW
+integration:
+  path: sources/primary/total-war/integration/TOTAL-WAR-NARRATIVE-INSERT-001.md
+  structured_path: sources/primary/total-war/integration/TOTAL-WAR-STRUCTURED-INSERT-001.yaml
+  state: INTEGRATION_CANDIDATE_NOT_YET_APPLIED
 core_relations_now_documented:
   - emergency law enlarges regulatory capacity beyond ordinary peacetime administration
-  - munitions supply becomes a specialized ministry and legal regime reaching labor relations and controlled establishments
-  - military conscription and civilian auxiliary service widen state jurisdiction over manpower
-  - blockade turns maritime command into regulation of enemy and neutral trade networks
-  - war borrowing converts future revenue into current military resources through repeated securities issues
-  - excess-profits taxation converts extraordinary business gains into a measured wartime fiscal category
-  - public information and propaganda become explicit executive-administrative functions
-next_targets:
-  - consolidated DORA regulations, censorship and property-control practice
-  - Ministry of Munitions orders, factory records and labor tribunal practice
-  - German Kriegsrohstoffabteilung / raw-material allocation records
-  - British Ministry of Food, rationing and price-control witnesses
-  - blockade operational statistics and neutral-trade agreements
-  - Bank of England and Treasury war-loan prospectus/management records
-  - colonial military and labor recruitment
-  - occupation administration
-  - wartime casualty/manpower accounting
-  - Russian Revolution and state collapse/reconstruction
-  - Brest-Litovsk, armistice and transition toward postwar settlement
+  - scarcity is made administratively legible and raw materials are allocated through state-private organizations
+  - industrial labor is mobilized through compulsion, bargaining, arbitration, dilution and restoration promises
+  - Britain, France and Germany develop different manpower and production settlements
+  - blockade and domestic food administration join naval power to civilian subsistence without becoming one cause
+  - borrowing, taxation and publicity extend command through future revenue, accounts and mass communication
+  - imperial manpower joins metropolitan command to colonial soldiers while censorship converts their correspondence into intelligence
+  - occupation converts civilian labor into a coercive resource under openly contested claims of legality
+  - industrial combat consumes bodies and reshapes soldier experience beyond the administrative categories counting them
+  - soldiers' and workers' organization redistributes authority within armies, factories and states
+  - revolutionary governments repudiate wartime institutions while retaining the problem of production, subsistence and organized force
+  - separate peace and armistice dismantle wartime systems through coercive legal settlements rather than a simple return to 1914
+  - Weber, Lenin, Keynes, Ludendorff and Jünger preserve incompatible interpretations of state, command, economy, responsibility and war experience
+review_boundaries:
+  - No statute or administrative chart is treated as proof of complete obedience or penetration.
+  - No one national arrangement is projected across all belligerents.
+  - Blockade is not made the sole cause of Central European hunger.
+  - Official imperial statistics do not absorb colonial experience or consent.
+  - The German occupying power's legal defense is not accepted as neutral description.
+  - Order No. 1 is not made the single cause of Russian military collapse.
+  - Ludendorff's allocation of blame is preserved as a participant claim, not adopted as verdict.
+  - Jünger's first-edition witness is not overwritten by later revisions.
+  - Revolution and armistice terminate particular authorities and institutions without dissolving administration, coercion or economic interdependence.

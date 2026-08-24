@@ -1,0 +1,20 @@
+source_id: SRC-HOP-BRITISH-EMPIRE-MILITARY-STATISTICS-1922
+status: GOVERNING_OFFICIAL_POSTWAR_ACCOUNTING_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: British War Office
+  title: Statistics of the Military Effort of the British Empire During the Great War, 1914-1920
+  publication_year: 1922
+  publisher: H.M. Stationery Office
+  original_language: English
+  role: imperial_manpower_theaters_casualties_transport_and_military_accounting
+governing_witness:
+  witness_type: OFFICIAL_POSTWAR_STATISTICAL_COMPILATION
+  catalogue_and_facsimile: https://wellcomecollection.org/works/r7ynvjg7
+  archive_identifier: statisticsofmili00grea
+key_relations:
+  - the war effort is officially counted across the United Kingdom, Dominions, India and colonies rather than as a metropolitan force alone
+  - manpower, theaters, casualties and services are rendered into an imperial statistical system after the war
+qualification: >-
+  The compilation is an indispensable state accounting witness, not a transparent measure of consent, motive or experience.
+  Its categories reproduce the imperial administration's hierarchy and must be read beside colonial and soldier voices.

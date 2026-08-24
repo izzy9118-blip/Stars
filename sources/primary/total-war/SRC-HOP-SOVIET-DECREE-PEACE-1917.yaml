@@ -1,0 +1,21 @@
+source_id: SRC-HOP-SOVIET-DECREE-PEACE-1917
+status: GOVERNING_REVOLUTIONARY_POLICY_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: Second All-Russian Congress of Soviets / Council of People's Commissars
+  principal_author: V. I. Lenin
+  title: Decree on Peace
+  date_old_style: 1917-10-26
+  date_new_style: 1917-11-08
+  original_language: Russian
+  role: revolutionary_legitimacy_open_diplomacy_armistice_and_exit_from_imperial_war
+governing_witnesses:
+  document_scan: https://commons.wikimedia.org/wiki/File:Dekret_o_mire.png
+  text_and_documentary_context: https://www.1000dokumente.de/Dokumente/Dekret_%C3%BCber_den_Frieden
+key_relations:
+  - the new government grounds authority in workers', soldiers' and peasants' soviets
+  - it proposes an immediate armistice and peace without annexations or indemnities
+  - it repudiates secret diplomacy and promises publication of prior secret treaties
+qualification: >-
+  The decree states a revolutionary program and claim to legitimacy. It did not compel a general peace;
+  its relation to the separate and coercive Treaty of Brest-Litovsk must remain visible.

@@ -1,0 +1,20 @@
+source_id: SRC-HOP-INDIAN-SOLDIERS-CENSOR-LETTERS-1914-1918
+status: GOVERNING_MEDIATED_SOLDIER_VOICE_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  authors: Indian soldiers serving in Europe and military mail censors
+  title: Reports of the Censor of Indian Mails in France
+  period: 1914-1918
+  archive_reference: IOR/L/MIL/5/825-828
+  original_languages: multiple_Indian_languages_with_contemporary_English_translations
+  role: colonial_soldier_experience_family_communication_morale_and_imperial_surveillance
+governing_witnesses:
+  british_library_catalogue: https://searcharchives.bl.uk/catalog/038-000340714
+  selected_transcribed_extracts: https://nfknowledge.org/wp-content/uploads/2024/06/Transcribed-extracts-from-the-Reports-of-the-Censor-of-Indian-Mail-1914-1918.pdf
+key_relations:
+  - imperial manpower consisted of persons who interpreted war through family, village, religious, material and military worlds
+  - postal communication joined the front to colonial society while censorship made private expression an intelligence object
+  - reports selected letters for command purposes, so the archive records both soldier speech and the surveillance apparatus reading it
+qualification: >-
+  The surviving passages are selected, translated and censored; they are neither statistically representative nor unmediated.
+  They nevertheless prevent official imperial totals from substituting for the voices and relationships those totals classify.

@@ -1,101 +1,177 @@
 map_id: TOTAL-WAR-MASS-STATE-1914-1918-001
-status: INITIAL_CORE_MECHANISMS_MAPPED
+status: INTEGRATED_DRAFT_READY_FOR_REVIEW
 parent_corpus: HOP-TOTAL-WAR-001
 intended_parent_star: STAR-HISTORY-OF-POWER-001
-period: 1914-1918
+period: 1914-1918_with_immediate_post_festum_reflection
+governing_concept: >-
+  Total-war power is the contested conversion of entire societies into fields of manpower,
+  production, subsistence, information and sacrifice, together with the reverse movement by
+  which the human beings organized through those fields bargain with, resist, divide and
+  reorganize the states that direct them.
 method:
-  - Total war is treated as a cross-source synthesis, not assumed from scale or duration alone.
-  - Emergency law, industrial control, labor obligations, conscription, blockade, finance and propaganda remain distinct mechanisms.
-  - Statutory authority does not prove complete administrative compliance or social penetration.
-  - Prewar institutions used in wartime remain identifiable as inherited capacities.
+  - Total war is demonstrated across distinct mechanisms rather than inferred from scale alone.
+  - Authority, ownership, management, bargaining, coercion, compliance and experience remain separate relations.
+  - National, imperial, colonial and occupied paths remain distinct.
+  - Operational, contemporary reflective and immediate post-festum witnesses are coequal but non-interchangeable evidence classes.
+
 claims:
   - claim_id: TW-001
-    proposition: >-
-      Britain rapidly created a legal emergency field in which ordinary government could be supplemented by wartime regulations for defence of the realm.
-    source_id: SRC-HOP-DORA-1914
-    passage_status: GOVERNING_STATUTORY_WITNESS_LOCKED
-    qualification: Later consolidation and regulations must be acquired before describing the full DORA regime.
+    proposition: Britain rapidly created a legal emergency field supplementing ordinary government with wartime regulation.
+    source_ids: [SRC-HOP-DORA-1914]
+    qualification: Later regulations enlarged and altered DORA; emergency authorization does not prove complete enforcement.
 
   - claim_id: TW-002
-    proposition: >-
-      Britain created a temporary Ministry of Munitions able to absorb powers from existing departments and issue legally recognizable instruments,
-      making industrial supply a distinct wartime administrative function.
-    source_id: SRC-HOP-MINISTRY-MUNITIONS-1915
-    passage_status: VERIFIED_STATUTORY_RELATION
+    proposition: Germany treated strategic raw-material scarcity as an inventory, requisition and allocation problem coordinated through military authority, experts and private industry.
+    source_ids: [SRC-HOP-RATHENAU-KRA-1914-1915]
+    qualification: State-private coordination was neither full public ownership nor a complete planned economy.
 
   - claim_id: TW-003
-    proposition: >-
-      The Munitions of War Act moved labor disputes, selected factories, worker mobility and wartime profits into a special legal regime tied to munitions production.
-    source_id: SRC-HOP-MUNITIONS-WAR-ACT-1915
-    passage_status: VERIFIED_STATUTORY_RELATION
-    qualification: Controlled establishment law did not eliminate strikes, bargaining or private management.
+    proposition: Britain created a special ministry and legal regime reaching munitions contracts, controlled establishments, labor disputes, worker mobility and wartime profits.
+    source_ids: [SRC-HOP-MINISTRY-MUNITIONS-1915, SRC-HOP-MUNITIONS-WAR-ACT-1915]
+    qualification: Private management, bargaining, strikes and resistance continued.
 
   - claim_id: TW-004
-    proposition: >-
-      British wartime manpower jurisdiction moved from voluntary enlistment toward statutory conscription,
-      legally deeming defined categories of civilian men enlisted for military service.
-    source_id: SRC-HOP-MILITARY-SERVICE-1916
-    passage_status: VERIFIED_STATUTORY_RELATION
-    qualification: January 1916 coverage was bounded and did not extend uniformly across the empire.
+    proposition: British labor mobilization rested partly on a negotiated suspension of union customs, arbitration, dilution and a promise that wartime changes would not permanently extinguish prewar positions and rules.
+    source_ids: [SRC-HOP-TREASURY-AGREEMENT-1915]
+    qualification: The agreement did not establish unanimous consent or settle later conflicts.
 
   - claim_id: TW-005
-    proposition: >-
-      Germany extended national-service obligation beyond the armed forces into civilian war-relevant labor while simultaneously building mediation
-      and Reichstag oversight into the Auxiliary Service Law.
-    source_id: SRC-HOP-GERMAN-AUXILIARY-SERVICE-1916
-    passage_status: VERIFIED_PRIMARY_RELATION
-    qualification: Expanded compulsion coexisted with labor representation and parliamentary constraints.
+    proposition: France used statutory review to allocate mobilized men among the front, administration and defense industry, including employer-worker commission participation in specified retention decisions.
+    source_ids: [SRC-HOP-FRANCE-DALBIEZ-1915]
+    qualification: The French path may not be described as a copy of British or German organization.
 
   - claim_id: TW-006
-    proposition: >-
-      British sea power was transformed into a long-distance economic warfare system designed to restrict commodities reaching or leaving Germany,
-      bringing neutral shipping, cargo ownership, destination and trade networks into wartime administrative control.
-    source_id: SRC-HOP-BRITISH-BLOCKADE-1915
-    passage_status: GOVERNING_ORDER_DOCUMENTARY_WITNESS_LOCKED
-    qualification: Legality was contested; operational effects require shipping and neutral-trade records.
+    proposition: British conscription and German Auxiliary Service widened state jurisdiction over military and civilian manpower through different legal settlements.
+    source_ids: [SRC-HOP-MILITARY-SERVICE-1916, SRC-HOP-GERMAN-AUXILIARY-SERVICE-1916]
+    qualification: Coverage, exemptions, worker representation and parliamentary controls prevent either law from meaning universal command.
 
   - claim_id: TW-007
-    proposition: >-
-      War finance expanded the state's capacity to command future revenue through repeated security issuance managed by the Treasury and banking system.
-    source_id: SRC-HOP-WAR-LOAN-1917
-    passage_status: VERIFIED_STATUTORY_RELATION
-    qualification: Subscription patterns and monetary effects require prospectus and Bank of England evidence.
+    proposition: British sea power became a long-distance economic-warfare system regulating enemy and neutral trade networks.
+    source_ids: [SRC-HOP-BRITISH-BLOCKADE-1915]
+    qualification: Legality and neutral rights were contested, and blockade effects require separate trade and subsistence evidence.
 
   - claim_id: TW-008
-    proposition: >-
-      Wartime taxation converted extraordinary private business gains into a specifically measured fiscal category subject to high excess-profits duty and reporting obligations.
-    source_id: SRC-HOP-EXCESS-PROFITS-1916
-    passage_status: VERIFIED_STATUTORY_RELATION
-    qualification: Fiscal capture is not equivalent to government ownership or comprehensive price control.
+    proposition: Germany and Britain built different food administrations that joined requisition, prices, rationing, local distribution and household access to the war effort.
+    source_ids: [SRC-HOP-GERMAN-WAR-FOOD-OFFICE-1916, SRC-HOP-BRITISH-FOOD-CONTROL-1918]
+    qualification: Hunger and nutrition cannot be inferred from institutional creation or attributed to one cause.
 
   - claim_id: TW-009
-    proposition: >-
-      The United States created a cabinet-linked executive information organization to coordinate authoritative public information during war,
-      making publicity and management of disclosure a recognized state function.
-    source_id: SRC-HOP-CPI-1917
-    passage_status: EXECUTIVE_ORDER_WITNESS_LOCKED
-    qualification: Effects on opinion require CPI output and audience evidence rather than inference from agency creation.
+    proposition: War finance converted future revenue and extraordinary private gains into present military resources through mass securities and excess-profits accounting.
+    source_ids: [SRC-HOP-WAR-LOAN-1917, SRC-HOP-EXCESS-PROFITS-1916]
+    qualification: Borrowing and taxation did not abolish private property or establish general price control.
 
-cross_source_questions:
-  - >-
-    When does emergency law merely supplement existing administration, and when does it create new permanent institutional capacities?
-  - >-
-    How far can industrial production remain privately owned while labor, disputes, profits, contracts and output priorities enter public control?
-  - >-
-    Does conscription of soldiers and auxiliary service of civilians reveal one manpower system, or different legal relations organized around the same war effort?
-  - >-
-    How do blockade and war loans extend coercion beyond direct taxation—one outward through global trade routes, the other forward through future revenue?
-  - >-
-    Does wartime propaganda create opinion, coordinate information, or primarily claim authority over what may be publicly known?
-remaining_targets:
-  - consolidated DORA regulations, censorship and property-control practice
-  - Ministry of Munitions orders, factory records and labor tribunal practice
-  - German Kriegsrohstoffabteilung / raw-material allocation records
-  - British Ministry of Food, rationing and price-control witnesses
-  - blockade operational statistics and neutral-trade agreements
-  - Bank of England and Treasury war-loan prospectus/management records
-  - colonial military and labor recruitment
-  - occupation regimes in Belgium, Eastern Europe and elsewhere
-  - wartime casualty/manpower accounting
-  - Russian Revolution and collapse/reconstruction of state authority
-  - Brest-Litovsk, armistice and transition toward postwar settlement
+  - claim_id: TW-010
+    proposition: The United States made coordination of authoritative information and publicity an explicit executive function after entering the war.
+    source_ids: [SRC-HOP-CPI-1917]
+    qualification: Agency creation does not by itself measure audience belief or propaganda effect.
+
+  - claim_id: TW-011
+    proposition: British official accounting organized the war effort as imperial manpower, theaters, transport, services and casualties rather than as a metropolitan force alone.
+    source_ids: [SRC-HOP-BRITISH-EMPIRE-MILITARY-STATISTICS-1922]
+    qualification: Official categories reproduce imperial hierarchy and do not measure colonial consent.
+
+  - claim_id: TW-012
+    proposition: Indian soldiers' correspondence joined the European front to families and communities under empire while military censorship converted private communication into intelligence about morale and opinion.
+    source_ids: [SRC-HOP-INDIAN-SOLDIERS-CENSOR-LETTERS-1914-1918]
+    qualification: Surviving extracts are selected, translated and censored rather than representative or unmediated.
+
+  - claim_id: TW-013
+    proposition: German occupation made Belgian civilian labor a coercively allocated resource and produced a direct conflict over humanity, occupation law and the occupier's claimed right to compel work.
+    source_ids: [SRC-HOP-BELGIAN-FORCED-LABOR-1916]
+    qualification: German defense and Belgian-American protest remain opposed official positions, not interchangeable neutral reports.
+
+  - claim_id: TW-014
+    proposition: Industrial combat made the soldier simultaneously a trained agent, laboring body, replaceable military unit and object of material destruction.
+    source_ids: [SRC-HOP-JUNGER-STAHLGEWITTERN-1920, SRC-HOP-BRITISH-EMPIRE-MILITARY-STATISTICS-1922, SRC-HOP-INDIAN-SOLDIERS-CENSOR-LETTERS-1914-1918]
+    qualification: Jünger's affirmative officer's memoir, official statistics and mediated Indian letters preserve different experiences and judgments.
+
+  - claim_id: TW-015
+    proposition: Petrograd Soviet Order No. 1 redistributed military authority through elected committees, Soviet priority in political action and committee control of weapons while expressly preserving discipline on duty.
+    source_ids: [SRC-HOP-PETROGRAD-SOVIET-ORDER-1-1917]
+    qualification: The order does not alone explain empire-wide military collapse.
+
+  - claim_id: TW-016
+    proposition: Lenin interpreted wartime state concentration as the class-bound coercive apparatus that revolution must break and replace with armed, recallable popular institutions.
+    source_ids: [SRC-HOP-LENIN-STATE-REVOLUTION-1917-1918]
+    qualification: The 1917 theory and later Soviet administrative practice require separate treatment.
+
+  - claim_id: TW-017
+    proposition: The Decree on Peace transformed war weariness into a revolutionary claim to state legitimacy through open diplomacy, immediate armistice and peace without annexations or indemnities.
+    source_ids: [SRC-HOP-SOVIET-DECREE-PEACE-1917]
+    qualification: It proposed but did not compel a universal peace.
+
+  - claim_id: TW-018
+    proposition: Brest-Litovsk ended Russia's war through an asymmetrical separate treaty imposing demobilization, territorial loss, occupation and economic reordering.
+    source_ids: [SRC-HOP-BREST-LITOVSK-1918]
+    qualification: The treaty contradicted the universal terms proclaimed in the Decree on Peace and was later annulled.
+
+  - claim_id: TW-019
+    proposition: Weber diagnosed modern bureaucracy as unavoidable in daily administration yet politically dangerous when expertise and secrecy escaped parliamentary control and responsible leadership.
+    source_ids: [SRC-HOP-WEBER-PARLIAMENT-GOVERNMENT-1918]
+    qualification: Weber sought control and political selection, not abolition of administration.
+
+  - claim_id: TW-020
+    proposition: Ludendorff's memoir records high command's attempt to join operations, manpower, industry, transport and home-front morale while redirecting responsibility for defeat toward civilian and revolutionary society.
+    source_ids: [SRC-HOP-LUDENDORFF-WAR-MEMORIES-1919]
+    qualification: The allocation of blame is a self-justifying participant claim and not the map's verdict.
+
+  - claim_id: TW-021
+    proposition: The German revolutionary government repealed siege, censorship and most auxiliary-service compulsion while joining civil liberty, labor reform and universal suffrage to promises of production, food and public order.
+    source_ids: [SRC-HOP-GERMAN-REVOLUTION-PROGRAM-1918]
+    qualification: A proclaimed program does not prove immediate realization.
+
+  - claim_id: TW-022
+    proposition: The armistice dismantled Germany's capacity to continue war through withdrawal, occupation, surrender of material and transport, annulment of Brest-Litovsk and continuation of the blockade.
+    source_ids: [SRC-HOP-COMPIEGNE-ARMISTICE-1918]
+    qualification: It ceased hostilities under coercive conditions but was not yet a general peace treaty.
+
+  - claim_id: TW-023
+    proposition: Keynes understood the war and settlement through the destruction of a materially interdependent European order whose food, production, transport, credit and confidence could not be reconstructed by national punishment alone.
+    source_ids: [SRC-HOP-KEYNES-ECONOMIC-CONSEQUENCES-1919]
+    qualification: His estimates and judgments remain those of a participant critic of the settlement.
+
+  - claim_id: TW-024
+    proposition: Weber's postwar account defined the modern state through its successful territorial claim to legitimate physical force and tied politics to control of administrative means and responsibility for consequences.
+    source_ids: [SRC-HOP-WEBER-POLITICS-VOCATION-1919]
+    qualification: The definition does not confer moral legitimacy on each use of force or dissolve the tension between conviction and responsibility.
+
+disagreement_map:
+  administration:
+    Weber: specialized bureaucracy is unavoidable and must be subjected to public accountability and political leadership
+    Lenin: the inherited class state and its separated apparatus must be broken and replaced
+    Ludendorff: national survival requires coordination under command, while civilian politics bears much of the blame for failure
+  economy:
+    Rathenau: scarcity calls for expert state-private organization of materials
+    Lenin: wartime concentration exposes class rule and the transition toward state-monopoly capitalism
+    Keynes: economic interdependence and subsistence impose limits upon victorious national punishment
+  soldier_and_war:
+    official_statistics: soldiers and casualties become comparable administrative categories across an empire
+    Indian_letters: soldiers remain embedded in colonial, familial, religious and material relationships under censorship
+    Jünger: industrial battle is interpreted through bodily ordeal, discipline, comradeship, will and honor
+  termination:
+    Soviet_decree: revolutionary legitimacy promises universal peace without annexation
+    Brest_Litovsk: military weakness produces a coercive separate peace and territorial loss
+    German_revolution: wartime emergency institutions are repealed while production and public order remain governing problems
+    Compiegne: victorious military power terminates combat by disarming and occupying the defeated state before final peace
+
+sequence:
+  - inherited_prewar_capacity
+  - emergency_legality
+  - raw_material_and_industrial_coordination
+  - negotiated_and_compulsory_manpower
+  - blockade_food_finance_and_information
+  - empire_occupation_and_surveillance
+  - industrial_combat_and_mass_sacrifice
+  - soldier_worker_and_revolutionary_reorganization
+  - separate_peace_revolutionary_government_and_armistice
+  - postwar_conflict_over_state_economy_command_and_responsibility
+
+non_absorption_rules:
+  - Law does not absorb administrative practice.
+  - State coordination does not absorb private ownership or management.
+  - Compulsion does not absorb bargaining, resistance or worker organization.
+  - Metropolitan totals do not absorb colonial persons.
+  - Occupier justification does not absorb occupied judgment.
+  - Command memoir does not absorb civilian, worker or revolutionary responsibility.
+  - One soldier memoir does not absorb the plurality of combat experience.
+  - Revolution does not abolish the continuing problems of force, administration, production and subsistence.

@@ -1,0 +1,33 @@
+source_id: SRC-HOP-LUDENDORFF-WAR-MEMORIES-1919
+status: GOVERNING_SENIOR_COMMAND_POST_FESTUM_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+source_class: IMMEDIATE_POST_FESTUM
+work:
+  author: Erich Ludendorff
+  title: Meine Kriegserinnerungen 1914-1918
+  year: 1919
+  publisher: E. S. Mittler und Sohn
+  original_language: German
+  participant_position: First_Quartermaster_General_and_central_member_of_the_Third_Supreme_Army_Command
+  role: high_command_strategy_manpower_war_economy_home_front_politics_and_defeat
+governing_witness:
+  witness_type: FIRST_EDITION_FACSIMILE
+  source: https://commons.wikimedia.org/wiki/File:Meine_kriegserinnerungen%2C_1914-1918._Mit_zahlreichen_skizzen_und_planen_%28IA_meinekriegserinn00lude%29.pdf
+  archive_identifier: meinekriegserinn00lude
+core_diagnosis:
+  - senior command understood operations, manpower, industrial output, transport, morale and home-front politics as interdependent conditions of war
+  - the memoir records command's effort to extend military priorities through the state and economy
+  - its account of defeat shifts responsibility toward civilian leadership, parties and home-front disintegration
+passage_map:
+  - anchor: Mein Denken und Handeln, especially Heer und Heimat, pages 1-18
+    supports: army_home_front_interdependence_total_mobilization_propaganda_and_command_claims
+  - anchor: Die Grundlage der weiteren Kriegfuhrung und das Kriegsinstrument, pages 258-318
+    supports: Auxiliary_Service_Hindenburg_Program_raw_materials_food_press_and_home_front
+  - anchor: Die Schlacht in Flandern und der Zusammenbruch Russlands, pages 379-429
+    supports: Russian_collapse_Brest_Litovsk_and_the_relation_between_front_and_politics
+  - anchor: concluding account of the 1918 campaign and defeat
+    supports: self_justifying_allocation_of_responsibility_for_collapse
+disagreement_boundary: >-
+  The memoir is a self-justifying intervention by a defeated commander, not a neutral explanation of collapse.
+  Its accusations require confrontation with parliamentary, worker, revolutionary and administrative witnesses;
+  later stab-in-the-back politics are not adopted as the Star's causal verdict.

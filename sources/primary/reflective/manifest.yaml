@@ -1,6 +1,6 @@
 corpus_id: HOP-REFLECTIVE-WITNESSES-001
 name: First-Class Contemporary and Post-Festum Witnesses
-status: ACQUISITION_TARGETS_REGISTERED
+status: PARTIALLY_LOCKED_WITH_OPEN_TARGETS
 parent_star: STAR-HISTORY-OF-POWER-001
 method: sources/SOURCE-WITNESS-METHOD.md
 
@@ -13,7 +13,7 @@ late_imperial_industrial_1871_1914:
   contemporary_reflective:
     - source_id: SRC-HOP-HOBSON-IMPERIALISM-1902
       author: J. A. Hobson
-      work: Imperialism: A Study
+      work: "Imperialism: A Study"
       year: 1902
       original_language: English
       role: contemporary_diagnosis_of_imperialism_finance_markets_colonial_expansion_and_state_policy
@@ -66,13 +66,14 @@ late_imperial_industrial_1871_1914:
 
 first_world_war_1914_1918:
   contemporary_reflective:
-    - source_id: SRC-HOP-RATHENAU-KRA-WRITINGS-1914-1915
+    - source_id: SRC-HOP-RATHENAU-KRA-1914-1915
       author: Walther Rathenau
       work: Kriegsrohstoffabteilung reports, memoranda, correspondence and reflections
       period: 1914-1915
       original_language: German
       role: participant_reflection_on_raw_material_allocation_industry_state_coordination_and_war_economy
-      state: TO_ACQUIRE_FROM_RATHENAU_GESAMTAUSGABE_AND_ARCHIVAL_WITNESSES
+      state: GOVERNING_PARTICIPANT_AND_ARCHIVAL_WITNESS_LOCKED
+      record: sources/primary/total-war/SRC-HOP-RATHENAU-KRA-1914-1915.yaml
 
     - source_id: SRC-HOP-NAUMANN-MITTELEUROPA-1915
       author: Friedrich Naumann
@@ -88,10 +89,21 @@ first_world_war_1914_1918:
       year: 1918
       original_language: German
       role: wartime_diagnosis_of_bureaucracy_parliament_leadership_and_the_German_state
-      state: TO_ACQUIRE
+      state: GOVERNING_CONTEMPORARY_REFLECTIVE_WITNESS_LOCKED
+      record: sources/primary/total-war/SRC-HOP-WEBER-PARLIAMENT-GOVERNMENT-1918.yaml
+
+    - source_id: SRC-HOP-LENIN-STATE-REVOLUTION-1917-1918
+      author: V. I. Lenin
+      work: The State and Revolution
+      written: 1917
+      publication_year: 1918
+      original_language: Russian
+      role: class_state_armed_force_revolution_and_replacement_of_the_inherited_apparatus
+      state: GOVERNING_REVOLUTIONARY_REFLECTIVE_WITNESS_LOCKED
+      record: sources/primary/total-war/SRC-HOP-LENIN-STATE-REVOLUTION-1917-1918.yaml
 
   immediate_post_festum:
-    - source_id: SRC-HOP-WEBER-POLITIK-BERUF-1919
+    - source_id: SRC-HOP-WEBER-POLITICS-VOCATION-1919
       author: Max Weber
       work: Politik als Beruf
       lecture_date: 1919-01-28
@@ -99,7 +111,9 @@ first_world_war_1914_1918:
       original_language: German
       role: postwar_reflection_on_state_legitimate_violence_leadership_responsibility_and_political_vocation
       governing_witness_target: Duncker_und_Humblot_1919
-      online_witness: https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp98165
+      online_witness: https://mwg-digital.badw.de/en/politik-als-beruf/
+      state: GOVERNING_POST_FESTUM_REFLECTIVE_WITNESS_LOCKED
+      record: sources/primary/total-war/SRC-HOP-WEBER-POLITICS-VOCATION-1919.yaml
 
     - source_id: SRC-HOP-KEYNES-ECONOMIC-CONSEQUENCES-1919
       author: John Maynard Keynes
@@ -107,7 +121,8 @@ first_world_war_1914_1918:
       year: 1919
       original_language: English
       role: participant_post_festum_analysis_of_war_finance_reparations_European_interdependence_and_peace_settlement
-      state: TO_ACQUIRE_FIRST_EDITION
+      state: GOVERNING_PARTICIPANT_POST_FESTUM_WITNESS_LOCKED
+      record: sources/primary/total-war/SRC-HOP-KEYNES-ECONOMIC-CONSEQUENCES-1919.yaml
 
     - source_id: SRC-HOP-LUDENDORFF-WAR-MEMORIES-1919
       author: Erich Ludendorff
@@ -115,7 +130,8 @@ first_world_war_1914_1918:
       year: 1919
       original_language: German
       role: senior_military_participant_post_festum_account_of_command_mobilization_home_front_and_war_management
-      state: TO_ACQUIRE_FIRST_EDITION
+      state: GOVERNING_SENIOR_COMMAND_POST_FESTUM_WITNESS_LOCKED
+      record: sources/primary/total-war/SRC-HOP-LUDENDORFF-WAR-MEMORIES-1919.yaml
 
     - source_id: SRC-HOP-JUNGER-STAHLGEWITTERN-1920
       author: Ernst Jünger
@@ -125,7 +141,8 @@ first_world_war_1914_1918:
       role: participant_post_festum_reconstruction_of_front_experience_industrialized_combat_and_soldier_subjectivity
       governing_witness_target: first_edition_1920
       textual_caution: heavily_revised_in_later_editions_use_first_edition_only_for_this_layer
-      state: TO_ACQUIRE
+      state: GOVERNING_FRONT_POST_FESTUM_WITNESS_LOCKED
+      record: sources/primary/total-war/SRC-HOP-JUNGER-STAHLGEWITTERN-1920.yaml
 
     - source_id: SRC-HOP-HINDENBURG-AUS-MEINEM-LEBEN-1920
       author: Paul von Hindenburg

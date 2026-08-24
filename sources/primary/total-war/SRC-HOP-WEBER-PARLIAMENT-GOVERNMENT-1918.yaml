@@ -1,0 +1,32 @@
+source_id: SRC-HOP-WEBER-PARLIAMENT-GOVERNMENT-1918
+status: GOVERNING_CONTEMPORARY_REFLECTIVE_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+source_class: CONTEMPORARY_REFLECTIVE
+work:
+  author: Max Weber
+  title: Parlament und Regierung im neugeordneten Deutschland. Zur politischen Kritik des Beamtentums und Parteiwesens
+  year: 1918
+  publisher: Duncker & Humblot
+  original_language: German
+  participant_position: public_intellectual_and_advocate_of_parliamentary_reform_in_wartime_Germany
+  role: bureaucracy_expertise_secrecy_parliamentary_control_leadership_and_wartime_failure
+governing_witness:
+  witness_type: FIRST_EDITION_FACSIMILE
+  catalogue_and_scan: https://www.digitale-sammlungen.de/en/details/bsb11125529
+  bibliographic_control: MWG I/15, pages 432-596
+core_diagnosis:
+  - modern daily rule necessarily lies largely in the hands of trained officials and specialized administration
+  - bureaucratic expertise and official secrecy create an enduring asymmetry against rulers and parliaments lacking independent knowledge
+  - parliament is defended as a place for public accountability, political selection and leadership, not as a substitute for administration
+  - wartime German command and political failure expose the danger of bureaucratic and military power without responsible political direction
+passage_map:
+  - anchor: section II, Beamtenherrschaft und politisches Fuhrertum
+    supports: bureaucracy_expertise_and_the_distinction_between_official_and_political_leadership
+  - anchor: section III, Verwaltungsoffentlichkeit und Auslese der politischen Fuhrer
+    supports: parliamentary_inquiry_public_accountability_and_leader_selection
+  - anchor: section IV, Die Beamtenherrschaft in der auswartigen Politik
+    supports: foreign_policy_and_wartime_consequences_of_uncontrolled_official_rule
+disagreement_boundary: >-
+  Weber does not identify bureaucracy with total state omnipotence or call for its abolition. His remedy of parliamentary
+  control and leader selection differs from Lenin's project of breaking the inherited state apparatus and from Ludendorff's
+  retrospective defense of high command.
