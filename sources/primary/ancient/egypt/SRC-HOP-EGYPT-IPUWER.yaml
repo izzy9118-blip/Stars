@@ -1,0 +1,74 @@
+source_id: SRC-HOP-EGYPT-IPUWER
+status: GOVERNING_PAPYRUS_IDENTIFIED_CRITICAL_TEXT_AND_PASSAGE_EXTRACTION_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Anonymous Egyptian literary composition; Ipuwer is the represented speaker
+work_or_document_title: The Admonitions of Ipuwer
+principal_witness: Papyrus Leiden I 344 recto
+original_language: Middle Egyptian
+date_or_period:
+  surviving_copy: New Kingdom, commonly assigned to the Nineteenth Dynasty
+  composition_date: Disputed; proposals range across earlier and later Middle Egyptian literary contexts
+  narrated_crisis: Not securely identifiable with one historical event
+
+evidence_class: NATIVE_REFLECTIVE_WITNESS_WITH_LATE_COPY_AND_DISPUTED_COMPOSITION_DATE
+participant_or_observer_position: Literary speaker describing inversion, deprivation, violence, administrative failure, and cosmic-social disorder
+temporal_distance_if_retrospective: Indeterminate because composition date and historical referent are disputed
+
+governing_witness_and_exact_edition_or_archive:
+  physical_witness:
+    repository: Rijksmuseum van Oudheden, Leiden
+    inventory: Papyrus Leiden I 344 recto
+    status: GOVERNING_OBJECT_IDENTIFIED_IMAGE_AND_COLUMN_CROSSWALK_PENDING
+  early_critical_edition:
+    editor: Alan H. Gardiner
+    title: The Admonitions of an Egyptian Sage from a Hieratic Papyrus in Leiden
+    year: 1909
+    evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+    status: PUBLIC_DOMAIN_CRITICAL_CONTROL_TO_BE_LOCKED
+  supporting_online_transcription:
+    repository: UCL Digital Egypt
+    url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/ipuwer.html
+    status: NAVIGATION_WITNESS_URL_TO_VERIFY_BEFORE_QUOTATION
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Egyptian reflection represents social and political breakdown as inversion of differentiated order, insecurity of persons, failed provision, and impaired authority.
+  - The text supplies a counter-witness to idealized royal and administrative order without proving one specific collapse narrative.
+intended_claim_class:
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - WITNESS_METADATA
+  - INTERPRETIVE_BRIDGE
+
+what_the_source_can_establish:
+  - A native literary vocabulary for disorder, inversion, deprivation, fear, failed administration, and contested authority.
+  - That Egyptian political imagination included severe criticism or lament concerning the breakdown of ordered relations.
+what_the_source_cannot_establish:
+  - An eyewitness account of the First Intermediate Period, the Exodus, or any single identified catastrophe.
+  - A secure composition date derived solely from the date of the surviving papyrus.
+  - The prevalence of the conditions described across all Egypt.
+
+rival_or_counter_witnesses_where_known:
+  - SRC-HOP-EGYPT-NEFERTI
+  - Teaching for King Merikare
+  - royal restoration inscriptions
+  - administrative records from candidate historical periods
+
+boundary_effect: >-
+  The work may challenge an overly harmonious account of Egyptian order, but its
+  genre and chronology prohibit using it as direct event evidence without
+  independent corroboration.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: Contested or failing royal-administrative and sacred order
+  human_position: Vulnerable inhabitant whose livelihood, status, security, and expectations disintegrate when encompassing order fails
+  demanded_conduct: The text does not yield one stable prescriptive program; lament and admonition address failed authority
+  formative_technique: Lament, inversion, rhetorical catalogue, and admonitory speech
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    Breakdown does not create the modern autonomous individual. It reveals how
+    exposed persons remain when inherited institutions and meanings cease to hold.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED
