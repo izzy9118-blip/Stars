@@ -1,0 +1,179 @@
+map_id: ENLIGHTENMENT-MONTESQUIEU-ROUSSEAU-001
+status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+
+method:
+  - Montesquieu's distribution of governmental powers is not equated mechanically with Rousseau's question of where sovereignty resides.
+  - Rousseau's conjectural genealogy of inequality is not treated as literal documentary history.
+  - The existing Strauss Rousseau layer in STAR-AGE-OF-INDIVIDUAL-001 remains separate from Rousseau's own primary texts.
+  - Commerce, moderation, sovereignty, law, and government are mapped through their distinct textual contexts.
+
+claims:
+  - claim_id: ENL-PWR-001
+    proposition: >-
+      Montesquieu locates political liberty in moderated government rather than in the
+      mere absence of power: power must be institutionally arranged so that power can
+      stop power from being abused.
+    source_id: SRC-HOP-MONTESQUIEU-ESPRIT-LOIS-1748
+    passage_status: VERIFIED_FIRST_EDITION_TEXTUAL_TRADITION
+    location: Book XI, chapter IV
+    original_language: French
+    anchor: "pour qu'on ne puisse abuser du pouvoir, il faut que, par la disposition des choses, le pouvoir arrête le pouvoir"
+    qualification: >-
+      Montesquieu does not simply prescribe three hermetically isolated branches. His
+      account concerns moderation through an arrangement of powers, capacities, and checks.
+
+  - claim_id: ENL-PWR-002
+    proposition: >-
+      Montesquieu distinguishes legislative, executive, and judging powers and argues
+      that liberty is lost when the same person or body unites powers in ways that allow
+      lawmaking, execution, and judgment to become instruments of the same will.
+    source_id: SRC-HOP-MONTESQUIEU-ESPRIT-LOIS-1748
+    passage_status: VERIFIED_FIRST_EDITION_TEXTUAL_TRADITION
+    location: Book XI, chapter VI
+    original_language: French
+    anchors:
+      - "Il y a dans chaque État trois sortes de pouvoirs"
+      - "Lorsque dans la même personne ... la puissance législative est réunie à la puissance exécutrice, il n'y a point de liberté"
+      - "Il n'y a point encore de liberté si la puissance de juger n'est pas séparée"
+    qualification: >-
+      The celebrated chapter is explicitly framed as an account of the constitution of
+      England. Its broader use must preserve the distinction between Montesquieu's model
+      and the actual English institutions reconstructed in the separate 1628-1694 map.
+
+  - claim_id: ENL-PWR-003
+    proposition: >-
+      Montesquieu treats commerce as a social power that can soften prejudices and create
+      mutual dependence among nations, while warning that commercial spirit can also
+      alter or erode forms of moral generosity.
+    source_id: SRC-HOP-MONTESQUIEU-ESPRIT-LOIS-1748
+    passage_status: VERIFIED_FIRST_EDITION_TEXTUAL_TRADITION
+    locations: Book XX, chapters I-II
+    original_language: French
+    anchors:
+      - "Le commerce guérit des préjugés destructeurs"
+      - "L'effet naturel du commerce est de porter à la paix"
+      - "Deux nations qui négocient ensemble se rendent réciproquement dépendantes"
+    qualification: >-
+      This is not a claim that commerce always produces peace. Montesquieu immediately
+      preserves tensions between commercial exactness, softened manners, and other virtues.
+
+  - claim_id: ENL-PWR-004
+    proposition: >-
+      Rousseau reconstructs the growth of inequality through property, comparison, public
+      esteem, and laws that can stabilize advantages created before political society.
+    source_id: SRC-HOP-ROUSSEAU-DISCOURS-1755
+    passage_status: VERIFIED_FIRST_EDITION_TEXTUAL_TRADITION
+    location: Second part
+    original_language: French
+    anchors:
+      - "Le premier qui ayant enclos un terrain, s'avisa de dire, Ceci est à moi"
+      - "Chacun commença à regarder les autres et à vouloir être regardé soi-même"
+      - "Telle fut ou dut être l'origine de la société et des lois"
+    qualification: >-
+      Rousseau marks this as conjectural reconstruction. It is a philosophical account
+      of how dependence and inequality could arise, not a documentary chronology.
+
+  - claim_id: ENL-PWR-005
+    proposition: >-
+      The Social Contract asks how individuals can combine their forces into a political
+      body without simply exchanging natural independence for subjection to another person.
+    source_id: SRC-HOP-ROUSSEAU-CONTRAT-SOCIAL-1762
+    passage_status: VERIFIED_1762_FIRST_EDITION_TEXTUAL_TRADITION
+    location: Book I, chapter VI
+    original_language: French
+    anchors:
+      - "Trouver une forme d'association qui défende et protège de toute la force commune la personne et les biens de chaque associé"
+      - "chacun s'unissant à tous n'obéisse pourtant qu'à lui-même et reste aussi libre qu'auparavant"
+      - "Chacun de nous met en commun sa personne et toute sa puissance sous la suprême direction de la volonté générale"
+    qualification: >-
+      Rousseau's solution is not merely aggregation of private wills. The act forms a
+      collective political body whose general will becomes the principle of sovereignty.
+
+  - claim_id: ENL-PWR-006
+    proposition: >-
+      Rousseau makes sovereignty inalienable and indivisible because sovereignty is the
+      exercise of the general will; a delegated executive power or magistracy is therefore
+      not itself a divided piece of sovereignty.
+    source_id: SRC-HOP-ROUSSEAU-CONTRAT-SOCIAL-1762
+    passage_status: VERIFIED_1762_FIRST_EDITION_TEXTUAL_TRADITION
+    locations: Book II, chapters I-II
+    original_language: French
+    anchors:
+      - "la souveraineté, n'étant que l'exercice de la volonté générale, ne peut jamais s'aliéner"
+      - "la souveraineté est indivisible"
+      - "la volonté est générale, ou elle ne l'est pas"
+    qualification: >-
+      Rousseau explicitly criticizes political writers who mistake legislative,
+      executive, tax, war, and judicial functions for pieces of sovereignty. This does
+      not mean he abolishes governmental differentiation.
+
+  - claim_id: ENL-PWR-007
+    proposition: >-
+      Rousseau sharply separates sovereign legislation from executive government: the
+      government is an intermediary charged with executing laws and maintaining liberty,
+      not the sovereign itself.
+    source_id: SRC-HOP-ROUSSEAU-CONTRAT-SOCIAL-1762
+    passage_status: VERIFIED_1762_TEXTUAL_TRADITION
+    location: Book III, chapter I
+    original_language: French
+    anchors:
+      - "Qu'est-ce donc que le Gouvernement? Un corps intermédiaire établi entre les sujets et le Souverain"
+      - "chargé de l'exécution des lois"
+      - "le gouvernement, confondu mal à propos avec le souverain, dont il n'est que le ministre"
+    qualification: >-
+      The conceptual distinction allows government to take democratic, aristocratic, or
+      monarchical form without transferring the ultimate sovereignty of the people to its magistrates.
+
+  - claim_id: ENL-PWR-008
+    proposition: >-
+      Montesquieu and Rousseau therefore pose different but overlapping problems of
+      concentrated power: Montesquieu asks how governmental powers can be arranged so
+      that none can easily abuse the others; Rousseau asks how the sovereign will can
+      remain genuinely general while executive government remains only its commissioned agent.
+    source_ids:
+      - SRC-HOP-MONTESQUIEU-ESPRIT-LOIS-1748
+      - SRC-HOP-ROUSSEAU-CONTRAT-SOCIAL-1762
+    passage_status: ANALYTICAL_SYNTHESIS_FROM_PRIMARY_TEXTS
+    qualification: >-
+      The two theories are not fused. Montesquieu's constitutional moderation and
+      Rousseau's popular sovereignty remain distinct answers that will enter the later
+      revolutionary and constitutional layer in different ways.
+
+existing_repository_interpretation:
+  star: STAR-AGE-OF-INDIVIDUAL-001
+  rousseau_layer: autonomy_history_and_revolution
+  evidence: [SRC-STRAUSS-ROUSSEAU-1962]
+  rule: >-
+    The Strauss-based claim that Rousseau transforms freedom through amour-propre,
+    inequality and general will may be reused only with explicit provenance. The
+    primary 1755 and 1762 texts remain the governing witnesses for Rousseau's own words.
+
+cross_source_questions:
+  - >-
+    How does Montesquieu's moderated constitution reinterpret the English settlement
+    reconstructed from Petition of Right through the Bank of England, and where does
+    his model idealize or transform that history?
+  - >-
+    How does Montesquieu's account of commerce as mutual dependence compare with the
+    actual Dutch system of VOC power, maritime conflict, public credit, and securities trading?
+  - >-
+    How can Rousseau call sovereignty indivisible while still distinguishing legislature,
+    government, magistracy, and execution, and how does that differ from Hobbes's artificial sovereign?
+  - >-
+    Does Rousseau's critique of property and dependence undermine the commercial liberty
+    defended by De la Court and Locke, or does it expose a different dimension of power within it?
+
+narrative_gate:
+  satisfied:
+    - Montesquieu 1748 first edition locked
+    - Book XI moderation and distribution-of-powers passages mapped
+    - Book XX commerce and mutual-dependence passages mapped
+    - Rousseau 1755 first edition locked with conjectural-history boundary explicit
+    - Rousseau 1762 first edition locked
+    - social pact, general will, indivisible sovereignty, and government/sovreign distinction mapped
+    - existing Strauss Rousseau interpretation linked without absorption
+  remaining:
+    - Direct quotations should be image-checked against the e-rara first editions before final narrative insertion.
+    - Do not represent Montesquieu as advocating total branch isolation or Rousseau as identifying executive government with the sovereign people.

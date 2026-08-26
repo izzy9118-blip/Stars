@@ -1,0 +1,83 @@
+source_id: SRC-HOP-EGYPT-MANETHO-FRAGMENTS
+status: TRANSMISSION_COMPLEX_REGISTERED_FRAGMENT_CONTROL_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Manetho of Sebennytos, conventionally identified as an Egyptian priest writing in Greek
+work_or_document_title: Aegyptiaca / History of Egypt
+original_language: Greek
+date_or_period: Early Ptolemaic period, conventionally third century BCE
+
+evidence_class: POST_FESTUM_DUSK_WITNESS_WITH_FRAGMENTARY_SECONDARY_TRANSMISSION
+participant_or_observer_position: Later Egyptian priestly-historical synthesis produced within Ptolemaic rule
+temporal_distance_if_retrospective: Centuries to millennia after most pharaonic periods discussed
+
+governing_witness_and_exact_edition_or_archive:
+  lost_work_rule: No autograph or continuous ancient manuscript survives
+  principal_transmission_channels:
+    - author: Flavius Josephus
+      work: Contra Apionem, Book I
+      date: Late first century CE
+      relation: Polemical quotation and paraphrase of Manetho
+    - author: Sextus Julius Africanus
+      work: Chronography
+      date: Early third century CE
+      relation: Dynastic epitome surviving through later chronographers
+    - author: Eusebius of Caesarea
+      work: Chronicle
+      date: Early fourth century CE
+      relation: Dynastic epitome surviving in Armenian and later Greek transmission
+    - author: George Syncellus
+      work: Ecloga Chronographica
+      date: Around 800 CE
+      relation: Preserves and compares Africanus and Eusebius
+  modern_critical_control:
+    editor_translator: W. G. Waddell
+    title: Manetho
+    series: Loeb Classical Library 350
+    year: 1940
+    evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+    status: FRAGMENT_NUMBERING_CONTROL_TARGET_NOT_GOVERNING_ANCIENT_WITNESS
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Egyptian priestly memory later organized kings and dynasties into a historical succession transmissible within a Greek-writing imperial world.
+  - Post-festum classification of rule must remain separate from the Royal Canon and from contemporary monumental self-description.
+intended_claim_class:
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - WITNESS_METADATA
+  - INTERPRETIVE_BRIDGE
+
+what_the_source_can_establish:
+  - That a Ptolemaic-era work attributed to an Egyptian priest organized and narrated Egypt's earlier rulers for a Greek-reading context.
+  - The later history of dynastic classification and priestly-historical mediation, when tied to individually controlled fragments.
+  - A native-adjacent dusk perspective distinct from both pharaonic inscriptions and later Greek travelers.
+what_the_source_cannot_establish:
+  - The exact wording of a lost continuous original where only paraphrase or epitome survives.
+  - That every transmitted fragment derives from Manetho without corruption, interpolation, or polemical alteration.
+  - Direct evidence for institutions or events centuries earlier merely because Manetho narrates them.
+
+rival_or_counter_witnesses_where_known:
+  - Turin Royal Canon
+  - Abydos, Saqqara, and Karnak king lists
+  - Babylonian and Egyptian contemporary inscriptions where periods overlap
+  - SRC-HOP-EGYPT-DIODORUS-I
+  - SRC-HOP-EGYPT-STRABO-XVII
+
+boundary_effect: >-
+  Manetho may enter only fragment by fragment, with transmitting author and
+  textual distance attached. The reconstructed dynastic system cannot be voiced
+  as an unbroken Egyptian archive.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: Priestly historical memory operating within Ptolemaic kingship and Greek literary culture
+  human_position: Later reader or subject receiving Egyptian rule as classified dynastic succession
+  demanded_conduct: No single conduct claim is admitted from the fragmentary work as a whole
+  formative_technique: Dynasty, list, chronography, priestly authority, quotation, and imperial translation
+  crossing_relation: NO_DIRECT_CROSSING_YET
+  non_teleology_rule: >-
+    The value of Manetho here is historical memory and classification, not a claim
+    that dynastic historiography itself produces the modern individual.
+
+quotation_state: NO_QUOTATION_AUTHORIZED_UNTIL_TRANSMITTING_WITNESS_IS_SPECIFIED
+structured_star_integration_state: NOT_AUTHORIZED

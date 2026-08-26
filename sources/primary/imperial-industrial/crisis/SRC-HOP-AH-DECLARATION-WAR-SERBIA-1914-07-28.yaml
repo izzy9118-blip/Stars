@@ -1,0 +1,14 @@
+source_id: SRC-HOP-AH-DECLARATION-WAR-SERBIA-1914-07-28
+status: FORMAL_WAR_NOTE_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Austro-Hungarian Ministry of Foreign Affairs
+  title: Declaration of War on Serbia
+  date: 1914-07-28
+  role: transition_from_ultimatum_failure_to_formal_war
+governing_witness:
+  witness_type: WWI_DOCUMENT_ARCHIVE_TRANSCRIPTION
+  index: https://www.gwpda.org/1914.html
+qualification: >-
+  The declaration formalizes the bilateral state of war after Austria-Hungary judged Serbia's reply insufficient.
+  It does not itself resolve whether peaceful alternatives remained politically available or explain later great-power escalation.

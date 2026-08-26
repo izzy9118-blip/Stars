@@ -1,0 +1,60 @@
+source_id: SRC-HOP-BODIN-REPUBLIQUE-1576
+status: GOVERNING_WITNESS_LOCKED_PASSAGES_EXTRACTED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  author: Jean Bodin
+  title: Les six livres de la République
+  year: 1576
+  original_language: French
+  role: sovereignty_commonwealth_office_law_and_forms_of_regime
+
+governing_witness:
+  witness_type: DIGITIZED_1576_FRENCH_FIRST_EDITION
+  repository: Bibliothèque nationale de France / Gallica
+  imprint: "Paris: Jacques du Puy, 1576"
+  public_domain_facsimile: https://fr.wikisource.org/wiki/Fichier:Bodin_-_Les_Six_Livres_de_la_R%C3%A9publique,_1576.djvu
+  source_of_facsimile: Bibliothèque nationale de France
+  rights: Public domain
+
+supporting_transcription:
+  repository: Wikisource
+  chapter: Book I, chapter VIII, De la souveraineté
+  url: https://fr.wikisource.org/wiki/Les_Six_Livres_de_la_R%C3%A9publique/19
+  status: DIPLOMATIC_READING_AID_TIED_TO_1576_FACSIMILE
+
+passage_anchors:
+  - issue: definition
+    location: Book I, chapter VIII, 1576 pp. 125ff
+    text: "La souveraineté est la puissance absoluë & perpetuelle d'une Republique"
+    use: definition_of_sovereignty
+  - issue: perpetuity_vs_delegated_office
+    location: Book I, chapter VIII
+    text: >-
+      "I'ay dit que ceste puissance est perpetuelle ... ils ne sont que depositaires,
+      & gardes de cette puissance"
+    use: temporary_absolute_delegates_are_not_sovereigns
+  - issue: divine_and_natural_law
+    location: Book I, chapter VIII
+    text: >-
+      "quant aux loix divines & naturelles, tous les Princes de la terre y sont sugets"
+    use: sovereign_prince_not_above_divine_and_natural_law
+  - issue: human_law_and_sovereign_command
+    location: Book I, chapter VIII
+    use: sovereign_not_bound_by_his_own_positive_laws_in_same_way_as_subjects
+
+claim_boundary: >-
+  'Absolute' must not be translated into simple lawlessness. Bodin sharply distinguishes
+  sovereignty from temporary delegated office and subjects sovereign princes to divine
+  and natural law, while denying that ordinary positive law stands over the sovereign in
+  the same way that it stands over subjects. These relations must remain separate.
+
+witness_policy:
+  governing_language: French
+  rule: >-
+    The 1576 French first edition governs terminology and quotations, especially
+    souveraineté, absoluë, and perpetuelle. Later French modernizations and Knolles's
+    1606 English translation are subordinate witnesses.
+
+quotation_state: EXTRACTED
+analysis_state: MAPPED_NOT_YET_INTEGRATED

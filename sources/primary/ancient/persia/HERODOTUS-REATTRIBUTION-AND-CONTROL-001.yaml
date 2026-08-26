@@ -1,0 +1,256 @@
+control_id: HERODOTUS-REATTRIBUTION-AND-CONTROL-001
+status: BINDING_FOR_PERSIAN_LAYER_REPAIR
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+principal_witness: Herodotus, Histories books I and III-IX
+
+purpose: >-
+  Preserve Herodotus as a first-class post-festum Greek historical thinker while
+  preventing his narrative, speeches and ethnography from becoming unmarked Persian
+  self-description. Each current Persian proposition is assigned an evidentiary voice,
+  independent test and Star disposition.
+
+governing_rule: >-
+  'Herodotus reports', 'Herodotus presents', and 'the Herodotean narrative argues'
+  are materially different from 'Persia was'. Where no independent source is yet
+  available, the Herodotean relation may remain important but must remain attributed.
+
+current_claim_controls:
+  - current_claim: Cyrus frees the Persians from Median slavery and makes the former slaves rulers of others.
+    source_location: Histories 1.125-130 and related Cyrus sequence
+    correct_voice: HERODOTEAN_FOUNDING_NARRATIVE
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - Cyrus Cylinder for Babylonian royal legitimation, not Persian liberation
+      - Median and early Persian archaeological and textual evidence
+      - later Xenophontic Cyrus traditions
+    disposition: RETAIN_REATTRIBUTED
+    boundary: >-
+      The freedom/slavery reversal is one of Herodotus's governing political relations;
+      it is not presently an Old Persian self-description of imperial foundation.
+
+  - current_claim: Persian nomos forms rule through sacrifice, martial education, truthfulness, household discipline, rank, deliberation, reciprocity and adoption of foreign practices.
+    source_location: Histories 1.131-140 and dispersed ethnographic passages
+    correct_voice: HERODOTEAN_ETHNOGRAPHIC_RECONSTRUCTION
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - DNb for royal virtue and truth
+      - Persepolis administrative archives for household, rank and service relations
+      - Iranian religious and funerary evidence by period
+    disposition: DECOMPOSE_AND_REATTRIBUTED
+    boundary: >-
+      Herodotus's Persian customs are not one timeless Persian constitution. Each
+      practice requires genre, date and independent control.
+
+  - current_claim: Cambyses inherited peoples as slaves and turned Persian law into private appetite.
+    source_location: Histories book III
+    correct_voice: HERODOTEAN_TYRANNICAL_CAMBYSES_NARRATIVE
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - Udjahorresnet
+      - Egyptian Apis burial and royal monuments
+      - Babylonian records
+    disposition: RETAIN_AS_HERODOTEAN_JUDGMENT_ADD_COUNTER_WITNESSES
+    boundary: >-
+      The language of inherited slaves and madness is Herodotus's political-moral
+      framing. Persian conquest and coercion remain real questions but cannot be
+      established solely through this characterization.
+
+  - current_claim: The seven conspirators debate democracy, oligarchy and monarchy as possible Persian regimes.
+    source_location: Histories 3.80-88
+    correct_voice: HERODOTEAN_CONSTITUTIONAL_DEBATE_SET_IN_PERSIA
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - Behistun for Darius's own accession and legitimacy claim
+      - Babylonian revolt records
+      - later Greek discussion of the debate
+    disposition: RETAIN_AS_FIRST_CLASS_HERODOTEAN_POLITICAL_REFLECTION
+    boundary: >-
+      Do not call it a securely documented Persian council transcript or Persian
+      constitutional self-understanding. Its placement in Persia remains historically
+      meaningful even where exact historicity is disputed.
+
+  - current_claim: Otanes and descendants retain freedom from ruling and being ruled beyond their law and consent.
+    source_location: Histories 3.83-84
+    correct_voice: HERODOTEAN_NARRATIVE_OF_EXCEPTIONAL_STATUS
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - Achaemenid elite and kinship evidence
+      - royal inscriptional and administrative evidence for privileged houses
+    disposition: RETAIN_REATTRIBUTED_PENDING_CONTROL
+    boundary: >-
+      Exceptional elite privilege is not individual liberty in the modern sense and
+      does not establish a general Persian consent doctrine.
+
+  - current_claim: Darius turns conquest into calculable administration through satrapies, tribute, roads, couriers, governors, garrisons and treasuries.
+    source_location: Histories books III and V-VI
+    correct_voice: CROSS_SOURCE_ANALYTICAL_SYNTHESIS
+    intended_claim_class: ANALYTICAL_SYNTHESIS
+    independent_controls:
+      - Behistun
+      - DNa/DNb
+      - Persepolis Fortification Archive
+      - Arsames letters
+      - Elephantine papyri
+      - Babylonian archives
+    disposition: RETAIN_REBUILD_FROM_MULTIARCHIVAL_RELATIONS
+    boundary: >-
+      Herodotus remains evidence for satrapy, tribute and roads, but routine archives
+      must govern mechanisms and regional variation.
+
+  - current_claim: Cyrus was remembered as father, Cambyses as master and Darius as retailer.
+    source_location: Histories 3.89
+    correct_voice: HERODOTEAN_REPORTED_PERSIAN_CHARACTERIZATION
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - royal self-inscriptions of Cyrus and Darius
+      - Babylonian, Egyptian and provincial receptions
+    disposition: RETAIN_AS_REPORTED_MEMORY_NOT_FACTUAL_SUMMARY
+    boundary: >-
+      The triad is an exceptionally revealing judgment reported by Herodotus, not a
+      complete empirical classification of the three reigns.
+
+  - current_claim: Scythian mobility defeats an empire organized to seize cities, fields, roads and fixed populations.
+    source_location: Histories book IV
+    correct_voice: ANALYTICAL_READING_OF_HERODOTEAN_CAMPAIGN
+    intended_claim_class: ANALYTICAL_SYNTHESIS
+    independent_controls:
+      - archaeology and geography of Scythian/Persian interaction
+      - Achaemenid campaign and frontier evidence
+    disposition: RETAIN_AS_BOUNDED_ANALYTICAL_SYNTHESIS
+    boundary: >-
+      Mobility is a strategic limit in this campaign, not a universal law that mobile
+      peoples defeat territorial states.
+
+  - current_claim: Ionian tyrants preserve Darius's bridge because their own offices depend on Persian power.
+    source_location: Histories 4.136-142
+    correct_voice: HERODOTEAN_NARRATIVE_OF_DEPENDENT_LOCAL_RULE
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - Ionian epigraphy and archaeology
+      - satrapal and local political evidence
+    disposition: RETAIN_REATTRIBUTED
+    boundary: >-
+      The episode illuminates dependence of local rulers without proving that every
+      imperial intermediary was merely a client tyrant.
+
+  - current_claim: Equality before law makes Ionians and Athenians fight more effectively because they act for themselves.
+    source_location: Histories 5.37 and 5.78
+    correct_voice: HERODOTEAN_CAUSAL_POLITICAL_JUDGMENT
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - Greek institutional and military evidence
+      - comparison with other free and unfree forces
+    disposition: RETAIN_AS_HERODOTEAN_ANALYSIS_NOT_DEMONSTRATED_GENERAL_LAW
+    boundary: >-
+      This belongs partly to the Greek layer and may not be used as transparent proof
+      of Persian slave psychology or democratic military superiority in all cases.
+
+  - current_claim: Xerxes inherits expansion as ancestral necessity and is compelled by honor, vengeance, court pressure, omen and dream.
+    source_location: Histories book VII
+    correct_voice: HERODOTEAN_DRAMATIC_CAUSAL_NARRATIVE
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - Xerxes royal inscriptions
+      - Aeschylus, Persians
+      - campaign logistics and diplomatic evidence
+    disposition: RETAIN_AS_HERODOTEAN_RECONSTRUCTION_ADD_RIVAL_VOICES
+    boundary: >-
+      Dreams and speeches are literary-historical devices as well as claimed causes;
+      they cannot independently establish Xerxes's private deliberation.
+
+  - current_claim: Persian territory is to end only at the sky and all lands are to become one.
+    source_location: Histories 7.8
+    correct_voice: SPEECH_ASSIGNED_TO_XERXES_BY_HERODOTUS
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - Achaemenid universal-kingship inscriptions
+      - DNa imperial catalogue
+    disposition: RETAIN_ONLY_WITH_EXPLICIT_SPEECH_ATTRIBUTION
+    boundary: >-
+      Compare Herodotus's universalizing speech with royal inscriptional claims without
+      declaring the formulations identical.
+
+  - current_claim: Persian imperial coordination includes canal, bridge, depot, fleet, army, catalogue and tribute.
+    source_location: Histories books VII-IX
+    correct_voice: DOCUMENTED_HERODOTEAN_RELATIONS_PLUS_ANALYTICAL_SYNTHESIS
+    intended_claim_class: ANALYTICAL_SYNTHESIS
+    independent_controls:
+      - archaeology of canal, bridges and depots where available
+      - administrative archives and royal inscriptions
+      - Aeschylus for near-contemporary reflective reception
+    disposition: RETAIN_WITH_MECHANISM_BY_MECHANISM_EVIDENCE
+    boundary: >-
+      Material coordination is not reduced to one ruler's will and requires source-specific control.
+
+  - current_claim: Xerxes treats natural boundaries as disobedient subjects and subjects as bodies available to royal purpose.
+    source_location: Histories 7.35 and 7.38-39
+    correct_voice: HERODOTEAN_DRAMATIZATION_OF_DESPOTIC_MASTERY
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - Achaemenid royal language of subjects, lands and nature
+      - comparative Greek political rhetoric
+    disposition: RETAIN_REATTRIBUTED
+    boundary: >-
+      The Hellespont punishment and Pythius episode are central to Herodotus's inquiry
+      into mastery, but cannot alone define ordinary Persian legal practice.
+
+  - current_claim: Demaratus reveals that Spartans are free because law is their master while Persians obey a human master.
+    source_location: Histories 7.101-104
+    correct_voice: HERODOTEAN_GREEK_PERSIAN_POLITICAL_CONTRAST
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - Spartan institutions and Persian royal/subject evidence
+      - Aeschylus's political vocabulary
+    disposition: RETAIN_AS_HERODOTEAN_ANALYSIS
+    boundary: >-
+      Do not convert the contrast into a complete sociology of either people or erase
+      status exclusions within Sparta and differentiated agency within Persia.
+
+  - current_claim: Hierarchy, fear, flattery and reward corrupt information reaching Xerxes at Salamis.
+    source_location: Histories book VIII
+    correct_voice: ANALYTICAL_READING_OF_HERODOTEAN_NARRATIVE
+    intended_claim_class: ANALYTICAL_SYNTHESIS
+    independent_controls:
+      - royal and administrative communication evidence
+      - comparative court and military reporting
+    disposition: RETAIN_AS_BOUNDED_EPISTEMIC_PROBLEM
+    boundary: >-
+      The episode shows a possible information failure under hierarchy; it is not proof
+      that Achaemenid administration generally lacked reliable reporting.
+
+  - current_claim: Cyrus's warning that soft lands produce soft men explains the contradiction between Persian freedom, fertile wealth and imperial rule.
+    source_location: Histories 9.122
+    correct_voice: HERODOTEAN_FINAL_POLITICAL_TEACHING
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    independent_controls:
+      - other Cyrus traditions
+      - archaeology and social history of Persian elites
+    disposition: RETAIN_AS_HERODOTEAN_CULMINATING_JUDGMENT
+    boundary: >-
+      Do not call this the historical Cyrus's verified last lesson or a deterministic
+      law connecting land, luxury and political character.
+
+star_repair_effect:
+  retain_Herodotus_as:
+    - first_class_post_festum_Greek_historian
+    - source_of_connected_narrative_and_political_questions
+    - witness_to_Greek_understanding_of_Persian_power
+    - counterpoint_to_royal_and_provincial_archives
+  prohibit_Herodotus_as:
+    - sole_voice_of_Persian_nomos
+    - transparent_transcript_of_royal_councils_and_speeches
+    - sufficient_proof_of_empire_wide_administrative_practice
+    - neutral_judge_of_Cambyses_or_Xerxes
+
+age_of_individual_conformity_effect: >-
+  Reattribution preserves Herodotus's inquiry into freedom, mastery, law, counsel and
+  character while preventing the Age of the Individual thesis from depending on a false
+  contrast between free Greek persons and passive Persian slaves. The reconstructed
+  Persian layer now contains differentiated persons and communities whose agency remains
+  embedded in royal, imperial, household, military, cultic and documentary forms.
+
+application_rule: >-
+  This table governs the future Persian structured-Star correction. Narrative wording
+  is revised only after each retained claim has a native Star home and its independent
+  evidence or attributed status is explicit.

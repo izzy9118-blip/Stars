@@ -1,0 +1,72 @@
+source_id: SRC-HOP-EGYPT-HEQANAKHT-PAPYRI
+status: GOVERNING_DOCUMENT_GROUP_IDENTIFIED_EDITION_AND_LETTER_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Heqanakht and associated household scribal hands
+work_or_document_title: The Heqanakht Papyri
+original_language: Middle Egyptian
+date_or_period: Early Twelfth Dynasty, commonly placed in the reign of Senusret I
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS_AND_PRIVATE_CORRESPONDENCE
+participant_or_observer_position: Landholder and funerary priest communicating instructions, accounts, allocations, grievances, and household management to family and dependents
+temporal_distance_if_retrospective: Contemporary letters and accounts; archaeological deposition and later editorial reconstruction remain separate
+
+governing_witness_and_exact_edition_or_archive:
+  original_documents:
+    repository: Metropolitan Museum of Art, New York
+    discovery_context: Metropolitan Museum Egyptian Expedition, Theban Tomb 516 at Deir el-Bahri
+    accession_group: 22.3.517 through related Heqanakht papyrus accessions
+    status: DOCUMENT_GROUP_IDENTIFIED_EXACT_ACCESSION_BY_LETTER_AND_ACCOUNT_PENDING
+  critical_edition:
+    author_editor: James P. Allen
+    title: The Heqanakht Papyri
+    publisher: Metropolitan Museum of Art
+    year: 2002
+    evidence_class: MODERN_CRITICAL_EDITION_AND_TRANSLATION_OF_PRIMARY_WITNESSES
+    candidate_url: https://www.metmuseum.org/art/metpublications/The_Heqanakht_Papyri
+    status: LOCATOR_AND_PAGE_CROSSWALK_TO_VERIFY
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Household, estate, land, grain, wages, funerary obligation, kinship, and delegated supervision form a field of authority below royal office.
+  - Personal letters reveal conflict, calculation, affection, command, and dependence within an unequal household economy.
+intended_claim_class:
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - SELF_WITNESS
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - The instructions, accounts, allocations, complaints, and relationships preserved in one Middle Kingdom household-estate archive.
+  - How household authority operates through writing, grain, work assignments, land, kinship, dependents, and absent supervision.
+  - A non-monumental first-person voice in which practical calculation and family conflict coexist with inherited offices and obligations.
+what_the_source_cannot_establish:
+  - The normal structure of every Egyptian household or estate.
+  - Free contractual equality among household members and workers.
+  - A modern private sphere independent of temple, land, status, and state institutions.
+
+rival_or_counter_witnesses_where_known:
+  - other Middle Kingdom letters and accounts
+  - settlement archaeology and household studies
+  - SRC-HOP-EGYPT-LOYALIST-TEACHING
+  - administrative and labor records from later periods
+
+boundary_effect: >-
+  The papyri correct the elite-monumental bias of the current corpus while
+  remaining one exceptional household archive with its own conflicts and status relations.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.household_ancestral_order
+    - forms_of_authority.household_authority
+  authority_bearer: Household head, landholder, funerary office, scribal instruction, and control of grain and work
+  human_position: Kin, dependent, worker, steward, or absent master embedded in material and familial obligations
+  demanded_conduct: Work, accounting, obedience, provision, household loyalty, and performance of assigned responsibilities
+  formative_technique: Letter, account, ration, wage, rebuke, delegation, kinship, and estate supervision
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    Intimate correspondence and personal calculation do not create the modern
+    private individual; they reveal personhood inside household, property, status,
+    and funerary relations.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

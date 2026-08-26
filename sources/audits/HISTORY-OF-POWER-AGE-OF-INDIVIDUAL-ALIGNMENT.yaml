@@ -1,0 +1,132 @@
+alignment_id: HOP-AOI-ALIGNMENT-001
+status: GOVERNING_ALIGNMENT_CONTRACT
+history_of_power_star: STAR-HISTORY-OF-POWER-001
+thesis_star: STAR-AGE-OF-INDIVIDUAL-001
+
+thesis_anchor:
+  age_of_individual_problem: >-
+    The Age of the Individual reconstructs how individual feeling, desire, identity,
+    self-expression, choice and inner life became increasingly central objects of
+    politics, commerce and administration, and asks what happened when those hopes,
+    dreams and uncertainties met much older forces of power.
+  governing_historical_rule: >-
+    Older forms of authority were not simply abolished. They persisted, collided,
+    were appropriated, were displaced, coexisted with newer forms, and changed
+    institutional form.
+  exclusion: >-
+    Neither Star is authorized to become a universal history of every civilization,
+    institution, empire, doctrine or technology.
+
+relationship_between_stars:
+  age_of_individual: >-
+    A bounded longue-duree genealogy of the historical formation of the
+    self-governing and psychologically legible individual and the changing relation
+    between that individual and religious, political, economic, scientific and
+    administrative authority.
+  history_of_power: >-
+    The institutional and civilizational counter-genealogy of the older forces of
+    power which precede, condition, confront, form, mobilize, classify, protect,
+    discipline, measure, release, or are transformed by the developing individual.
+  non_absorption_rule: >-
+    History of Power does not become a subchapter of Age of the Individual, and Age
+    of the Individual does not become the hidden telos of History of Power. Each
+    historical form of power must first be reconstructed in its own categories and
+    evidentiary world. Crossing relations are established only after that independent
+    reconstruction.
+
+alignment_with_existing_age_rules:
+  - Chronological succession does not establish causal descent.
+  - Preservation, displacement, appropriation, coexistence and transformation are distinct relations.
+  - Intellectual teaching, institutional practice, popular reception and later use remain distinct.
+  - Similar concepts in different periods are not presumed identical.
+  - Power must be mapped through identifiable authorities, regimes, laws, institutions, property relations, practices and techniques; it is not an invisible substance.
+  - Desire, choice, judgment and freedom remain distinct.
+  - No thinker, institution, text, regime or civilization exhausts either Star.
+
+history_of_power_inclusion_test:
+  rule: >-
+    A new History of Power unit must satisfy the civilizational/institutional evidence
+    test and also show why the form belongs to the bounded older-forces problem. Mere
+    geopolitical importance is not sufficient.
+  questions:
+    - What identifiable form of authority or organized capacity is being reconstructed?
+    - How did that form understand its own legitimate end and bearer of authority?
+    - What kind of human being did it address or produce: worshipper, kin member, subject, citizen, believer, rights-bearer, proprietor, worker, soldier, debtor, consumer, voter, administrated population, or another historically specific category?
+    - What did it claim from persons: worship, obedience, military service, tax, labor, belief, property, conformity, participation, information, choice, or self-government?
+    - By what means did it form conduct: ritual, law, education, office, discipline, property, market, welfare, police, statistics, propaganda, media, or another evidenced technique?
+    - What did freedom, duty, justice, personhood or membership mean inside this order, if those categories existed there?
+    - Which parts of the form persisted, collided with, or were transformed by later forms relevant to the Age of the Individual?
+    - Is the proposed inclusion necessary to understand that historical relation, or is it merely another important state, war, ruler or civilization?
+
+required_person_power_crosswalk:
+  purpose: >-
+    Every audited or newly acquired chronological layer must contain a bounded
+    person-power crosswalk after its own-source reconstruction and before narrative
+    integration.
+  fields:
+    authority_bearer: Who or what is authorized to rule, judge, command, define or administer?
+    human_position: How is the human being principally situated in the order?
+    claimed_end: What end does the authority state for itself?
+    claimed_obligations: What does the order demand from persons or groups?
+    formation_mechanisms: How are character, conduct, loyalty, identity or preference formed?
+    coercive_mechanisms: What identifiable coercive capacities exist?
+    material_relations: How do land, property, labor, tax, credit, consumption or production enter?
+    knowledge_relations: What does authority know or attempt to know about persons and populations?
+    freedom_relation: What historical form of freedom, exemption, right, participation, self-rule or non-domination is present or absent?
+    crossing_relation: One or more of PRESERVES, DISPLACES, APPROPRIATES, COEXISTS_WITH, TRANSFORMS, or NO_DIRECT_CROSSING_YET.
+    evidence_class: DIRECT_OPERATIONAL, CONTEMPORARY_REFLECTIVE, POST_FESTUM, LATER_CRITICAL_RECONSTRUCTION, or bounded combination.
+    claim_status: DOCUMENTED_FACT, ATTRIBUTED_TEACHING, ANALYTICAL_SYNTHESIS, or INTERPRETIVE_BRIDGE.
+
+anti_teleology_rules:
+  - Ancient Egypt is not important because it was secretly becoming modern; it is important because it discloses a radically different relation between person, cosmos, office and sacred order that later individuality contrasts with.
+  - Persia is not a failed nation-state; reconstruct imperial household, subjecthood, provincial rule and law in Persian and other contemporary categories first.
+  - The polis is not an immature liberal society; citizenship can precede and form the person rather than protect a pre-political individual.
+  - Medieval plurality is not merely incomplete sovereignty; divine, dynastic, ecclesiastical, corporate and local authorities possess their own claims and jurisdictions.
+  - Early-modern natural right is not treated as one inevitable liberal doctrine; Grotius, Hobbes, Spinoza and Locke remain distinct.
+  - Revolutionary popular sovereignty does not by itself produce the modern psychologically legible individual.
+  - Bureaucracy, industry, empire and total war matter only through evidenced changes in organized power and the position of persons within it, not because scale alone constitutes historical advancement.
+  - Twentieth-century administration of desire must not be projected backward into older administrative or religious forms merely because both shape conduct.
+
+selection_consequences:
+  include_when_material:
+    - forms of sacred, household, civic, imperial, legal, ecclesiastical, sovereign, commercial, administrative, industrial and informational authority that materially change the historical position of persons
+    - institutions that preserve an older authority inside a newer order
+    - rival forms that expose alternatives to the line reconstructed in Age of the Individual
+    - non-European cases when they test, constrain, interact with, or expose the limits of a claimed transformation
+  do_not_include_merely_because:
+    - a state was militarily powerful
+    - an empire controlled large territory
+    - a thinker was famous
+    - a technology was important
+    - an event was dramatic
+    - a civilization existed during the same dates
+
+layer_alignment_examples:
+  egypt:
+    core_relation: sacred_cosmic_and_royal_order_preceding_private_individual_will
+  persia:
+    core_relation: imperial_subjecthood_household_of_the_king_and_plural_peoples_under_one_center
+  greece:
+    core_relation: polis_and_regime_forming_the_citizen_and_philosophical_judgment_of_ancestral_authority
+  rome:
+    core_relation: portable_citizenship_law_imperium_incorporation_and_principate
+  post_imperial_medieval:
+    core_relation: plural_overlapping_authorities_divine_law_corporate_status_and_jurisdiction
+  early_modern:
+    core_relation: constructed_sovereignty_natural_right_property_conscience_and_the_separate_person
+  revolutionary_constitutional:
+    core_relation: constituent_people_citizen_rights_association_and_designed_government
+  administrative_national:
+    core_relation: citizen_and_population_as_legal_administrative_military_statistical_and_educational_objects
+  imperial_industrial:
+    core_relation: worker_insured_person_corporate_subject_colonial_subject_and_mass_national_member
+  total_war:
+    core_relation: person_as_soldier_worker_taxpayer_borrower_propaganda_public_and_mobilized_population
+
+narrative_gate_addition:
+  rule: >-
+    No History of Power layer may cross its narrative gate unless its own evidentiary
+    reconstruction is sound AND its person-power crosswalk has been completed without
+    teleology. If no material relation to the bounded older-forces problem can be shown,
+    the material belongs in another Star or remains contextual rather than being absorbed
+    into History of Power.

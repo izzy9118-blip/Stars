@@ -1,0 +1,23 @@
+source_id: SRC-HOP-INDIAN-TELEGRAPH-ACT-1885
+status: GOVERNING_STATUTORY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Government of India under British rule
+  title: Indian Telegraph Act, 1885
+  date: 1885
+  original_language: English
+  role: colonial_communications_monopoly_licensing_interception_and_line_placement
+governing_witness:
+  witness_type: OFFICIAL_INDIA_CODE_PDF
+  repository: India Code
+  url: https://www.indiacode.nic.in/bitstream/123456789/13115/1/indiantelegraphact_1885.pdf
+key_passages:
+  - section: 4
+    proposition: Government holds an exclusive privilege over telegraphs and may grant licenses.
+  - section: 5
+    proposition: Government may take possession of licensed telegraphs and order interception under statutory conditions.
+  - section: 6
+    proposition: Telegraph lines may be established on railway-company land.
+qualification: >-
+  The Act demonstrates communications as colonial governmental jurisdiction and infrastructure.
+  Later amendments in the current consolidated text must not be mistaken for the 1885 original provisions.

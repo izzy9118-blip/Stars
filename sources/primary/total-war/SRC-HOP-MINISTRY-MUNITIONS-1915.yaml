@@ -1,0 +1,20 @@
+source_id: SRC-HOP-MINISTRY-MUNITIONS-1915
+status: GOVERNING_STATUTORY_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: Parliament of the United Kingdom
+  title: Ministry of Munitions Act 1915
+  date: 1915
+  citation: "5 & 6 Geo. 5 c. 51"
+  original_language: English
+  role: creation_of_wartime_industrial_ministry_transfer_of_powers_and_executive_instruments
+governing_witness:
+  witness_type: OFFICIAL_UK_STATUTE_PDF
+  url: https://www.legislation.gov.uk/ukpga/Geo5/5-6/51/pdfs/ukpga_19150051_en.pdf
+key_relations:
+  - creates a Minister and Ministry of Munitions
+  - permits transfer of relevant powers and duties from other departments
+  - gives ministerial orders and instruments formal evidentiary force
+  - makes the ministry temporary in law, scheduled to end after the war
+qualification: >-
+  Creation of the ministry establishes a wartime administrative center; actual control over firms, labor, materials and output requires the Munitions of War Acts and ministry records.

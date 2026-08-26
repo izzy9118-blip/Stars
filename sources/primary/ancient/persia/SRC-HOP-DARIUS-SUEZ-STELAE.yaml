@@ -1,0 +1,111 @@
+source_id: SRC-HOP-DARIUS-SUEZ-STELAE
+status: PREPARATORY_WITNESS_CONSTELLATION_LOCKED_NOT_ADMITTED
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+branch: history-of-power-retroactive-source-audit-001
+preparatory_exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+
+source_identity:
+  author_or_corporate_author: Darius I / Achaemenid royal inscriptional administration
+  work_or_document_title: Darius Suez canal stelae and inscriptions
+  conventional_sigla: [DZa, DZb, DZc, DZd]
+  date_or_period: reign of Darius I, late sixth to early fifth century BCE
+  original_languages:
+    - Old Persian
+    - Elamite
+    - Babylonian
+    - Egyptian hieroglyphic
+  evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+  secondary_character: royal self-presentation and multilingual imperial proclamation
+
+governing_witness_and_exact_edition_or_archive:
+  original_witness:
+    description: monumental stelae erected along the ancient Nile-to-Red-Sea canal route
+    status: MULTILINGUAL_MONUMENT_CONSTELLATION
+    control_note: >-
+      Individual findspots, surviving fragments, museum inventories and language
+      combinations must be recorded separately before passage extraction.
+  old_persian_critical_target:
+    editor: Rüdiger Schmitt
+    work: Die altpersischen Inschriften der Achaimeniden
+    place_and_publisher: Wiesbaden, Reichert
+    year: 2009
+    status: GOVERNING_OLD_PERSIAN_CRITICAL_EDITION_TARGET_EXACT_PAGES_TO_VERIFY
+  later_comparative_control:
+    editor: Rüdiger Schmitt
+    work: The Old Persian Inscriptions of Naqsh-i Rustam and Persepolis
+    note: not a substitute for the Suez-specific critical dossier
+  public_navigation:
+    - description: DZc transcription, translation and commentary
+      url: https://www.livius.org/sources/content/achaemenid-royal-inscriptions/dzc/
+      status: NAVIGATION_AND_READING_AID_NOT_GOVERNING
+    - description: AELAW Darius Suez inscription object/text overview
+      url: https://aelaw.univie.ac.at/inscription/184
+      status: EPIGRAPHIC_NAVIGATION_AND_METADATA_AID
+
+participant_or_observer_position: royal inscription speaking from the imperial center in the king's name
+temporal_distance_if_retrospective: contemporaneous royal monument; self-legitimating and selective rather than neutral report
+
+history_of_power_targets:
+  star_claim_target:
+    - royal_command_and_multilingual_imperial_address
+    - conquest_and_incorporation_of_Egypt
+    - infrastructure_as_imperial_connection
+    - sea_river_trade_mobility_and_territorial_coordination
+    - royal_achievement_and_material_administration
+  intended_claim_class:
+    inscriptional_claim: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    monument_language_and_presence: DOCUMENTED_OR_TEXTUAL_FACT
+    infrastructure_relation: ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - Darius's government represented the canal as a royal work joining Egypt to the Red Sea.
+  - Royal command was issued through multiple imperial languages and Egyptian monumental form.
+  - The inscription joins conquest, territorial possession, engineering and maritime movement in one royal claim.
+  - Egypt could be represented simultaneously as a conquered land, a governed province and a site of imperial infrastructure.
+what_the_source_cannot_establish:
+  - The full construction history, labor force, cost, traffic volume or economic effects of the canal.
+  - That the project was completed exactly as the inscription claims without archaeological and administrative corroboration.
+  - Consent or equal standing among the peoples named or governed.
+  - A uniform translation relation among all language versions before item-by-item crosswalk.
+
+rival_or_counter_witnesses_where_known:
+  - Herodotus on Darius and Egyptian administration
+  - Egyptian canal traditions and archaeological surveys
+  - Udjahorresnet statue inscription
+  - Darius DNa/DNb and Behistun
+  - later Ptolemaic and Roman canal evidence
+boundary_effect: >-
+  The stelae add royal infrastructure and multilingual proclamation to the Persia
+  layer without turning royal achievement language into an independently verified
+  administrative history of the canal.
+
+age_of_individual_crossing:
+  historically_specific_human_positions:
+    - royal_subject
+    - provincial_official
+    - laborer_or_craft_worker
+    - merchant_or_traveler
+    - member_of_a_multilingual_imperial_population
+  authority_form: royal_conquest_command_monument_and_infrastructure
+  person_power_relation: >-
+    Persons and communities are connected, moved, taxed, represented and made
+    governable through an imperial work ordered from above; the inscription does
+    not begin from their separate will.
+  authority_demand: labor_service_obedience_and_use_of_an_imperially_ordered_route
+  later_relation: OLDER_INFRASTRUCTURAL_ADMINISTRATION_LATER_TRANSFORMED
+  prohibition: Do not redescribe imperial connectivity as modern mobility rights, citizenship or voluntary integration.
+
+passage_control:
+  state: TARGETS_IDENTIFIED_NOT_EXTRACTED
+  targets:
+    - royal_identity_and_Ahura_Mazda_authorization
+    - conquest_of_Egypt
+    - royal_order_to_dig_the_canal
+    - relation_between_Nile_Egypt_and_the_sea
+    - comparison_among_Old_Persian_Elamite_Babylonian_and_Egyptian_versions
+  release_condition: >-
+    Lock each surviving stela and language version, establish exact Schmitt page and
+    line references, then record textual divergence before direct quotation.
+
+star_integration_state: NOT_ADMITTED_PREPARATORY_ONLY

@@ -1,0 +1,59 @@
+source_id: SRC-HOP-FRANKFORT-KINGSHIP-GODS-1948
+status: GOVERNING_FIRST_EDITION_METADATA_LOCKED_REVIEW_EXTRACTION_PENDING
+
+author_or_corporate_author: Henri Frankfort
+work_or_document_title: Kingship and the Gods
+author_subtitle: A Study of Ancient Near Eastern Religion as the Integration of Society and Nature
+date_or_period:
+  publication_year: 1948
+  ancient_periods_discussed: ancient Egypt and Mesopotamia across multiple periods
+original_language: English
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+
+governing_witness_and_exact_edition_or_archive:
+  edition: first edition
+  publisher: University of Chicago Press
+  place: Chicago
+  year: 1948
+  bibliographic_record: https://books.google.com/books/about/Kingship_and_the_Gods.html?id=bIp6wwEACAAJ
+  publisher_record: https://press.uchicago.edu/ucp/books/book/distributed/K/bo25705599.html
+  note: Later reprints and added prefaces do not supersede the 1948 argument for historical-position analysis.
+
+participant_or_observer_position: twentieth-century archaeologist and comparative historian of ancient religion
+temporal_distance_if_retrospective: millennia after the institutions reconstructed
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - royal_principle_and_divine_kingship
+  - relation_of_society_nature_and_kingship
+  - boundary_between_Egyptian_and_Mesopotamian_forms_of_power
+intended_claim_class: WITNESS_METADATA
+secondary_integration_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - A major twentieth-century comparative reconstruction of Egyptian kingship as integrating society and nature.
+  - Historically influential scholarly distinctions between Egyptian and Mesopotamian conceptions of kingship.
+  - Questions and comparisons to test against Egyptian primary witnesses.
+what_the_source_cannot_establish:
+  - Egyptian self-description merely because its synthesis is learned or influential.
+  - One timeless Egyptian political theology valid without period, region or genre controls.
+  - The divinity of every historical king in exactly the same sense across all evidence.
+
+rival_or_counter_witnesses_where_known:
+  - Erik Hornung, Der Eine und die Vielen
+  - Jan Assmann, Ma'at
+  - Barry Kemp, Ancient Egypt: Anatomy of a Civilization
+  - indigenous royal, mortuary, administrative and wisdom texts
+boundary_effect: >-
+  Frankfort remains an indispensable modern reconstruction, but the comparative
+  thesis must remain attributed and broken down against period-specific Egyptian evidence.
+
+age_of_individual_crossing:
+  person_power_relation: modern reconstruction of a sacred order in which king, society and nature precede private individual will
+  authority_demand: none directly; the work interprets ancient authority
+  conduct_formation: helps define the older form against which the later separate individual becomes intelligible
+  later_relation: NO_DIRECT_CROSSING_YET
+  prohibition: Do not make Frankfort's synthesis the voice of ancient subjects.
+
+quotation_state: CRITICAL_ARGUMENT_NOT_YET_EXTRACTED
+star_integration_state: CONTROL_SOURCE_ONLY_NOT_YET_PROPOSED

@@ -1,0 +1,20 @@
+source_id: SRC-HOP-GERMAN-AUXILIARY-SERVICE-1916
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: German Empire
+  title: Gesetz über den vaterländischen Hilfsdienst
+  date: 1916-12-05
+  original_language: German
+  role: civilian_labor_obligation_war_economy_employer_worker_committees_and_reichstag_oversight
+governing_witness:
+  witness_type: REICHSGESETZBLATT_DOCUMENTARY_TEXT
+  citation: "RGBl. 1916, S. 1333"
+  supporting_translation: https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/auxiliary-service-law-december-1916.pdf
+key_relations:
+  - civilian male labor outside military service is subjected to national auxiliary-service obligations in war-relevant activities
+  - law includes implementation and dispute machinery rather than pure military command
+  - Reichstag committee receives information and consultative rights over major regulations
+qualification: >-
+  The law expands state reach into civilian labor but also institutionalizes worker/employer mediation and parliamentary involvement.
+  It should not be described as complete military ownership of the German economy.

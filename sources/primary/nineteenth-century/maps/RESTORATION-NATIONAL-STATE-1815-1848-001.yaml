@@ -1,0 +1,196 @@
+map_id: RESTORATION-NATIONAL-STATE-1815-1848-001
+status: PASSAGE_EXTRACTION_IN_PROGRESS
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+
+method:
+  - Regime change and administrative continuity are distinct relations.
+  - Constitutional self-description, diplomatic settlement, philosophical interpretation, military theory, observed democratic practice, and infrastructural law remain separate evidence classes.
+  - Restoration is not treated as simple return to the pre-1789 order.
+  - National sovereignty, dynastic legitimacy, constitutional monarchy, and democratic sovereignty may coexist or conflict without being collapsed into a single linear doctrine.
+  - Hegel, Clausewitz, and Tocqueville are attributed thinkers; their texts do not substitute for institutional records.
+  - Communications and transport are treated as political capacities only where law, finance, jurisdiction, or administrative practice makes that relation demonstrable.
+
+claims:
+  - claim_id: REST-001
+    proposition: >-
+      The Charter of 1814 restored hereditary monarchy while retaining a constitutional
+      order that recognized civil equality, property, taxation through law, representative
+      chambers, and an executive monarchy shaped by the revolutionary and imperial past.
+    source_id: SRC-HOP-CHARTER-1814
+    passage_status: OFFICIAL_TEXT_TARGETED_PASSAGES_IDENTIFIED
+    original_language: French
+    extraction_targets:
+      - preamble on royal authority and constitutional concession
+      - equality before law and public charges
+      - security of property including property called national
+      - royal executive and appointment powers
+      - legislative and taxation relation with the chambers
+    qualification: >-
+      The Charter's survival of civil settlements does not by itself prove survival of
+      every Napoleonic administrative institution.
+
+  - claim_id: REST-002
+    proposition: >-
+      The Final Act of Vienna reconstructed the European political field through negotiated
+      territorial, dynastic, confederal, and international arrangements rather than simply
+      restoring every pre-Revolutionary jurisdiction.
+    source_id: SRC-HOP-VIENNA-FINAL-ACT-1815
+    passage_status: DIPLOMATIC_TEXT_LOCATED
+    original_language: French
+    extraction_targets:
+      - German Confederation
+      - Kingdom of the Netherlands
+      - Swiss settlement
+      - Italian territorial arrangements
+      - international river navigation
+    qualification: >-
+      The settlement was conservative in important aims but institutionally creative in
+      several territorial and confederal arrangements.
+
+  - claim_id: REST-003
+    proposition: >-
+      Hegel distinguishes family, civil society, and state, treating modern political order
+      as an articulated whole in which particular interests, corporations, administration,
+      civil servants, estates, and sovereignty mediate between private and universal ends.
+    source_id: SRC-HOP-HEGEL-PHILOSOPHY-RIGHT-1821
+    passage_status: FIRST_EDITION_EXTRACTION_PENDING
+    original_language: German
+    extraction_targets:
+      - police and corporation in civil society
+      - the universal class and civil servants
+      - estates and representation
+      - constitutional monarchy and sovereignty
+    qualification: >-
+      Hegel's account is philosophical and normative; it is not a census of actual Prussian institutions.
+
+  - claim_id: REST-004
+    proposition: >-
+      Clausewitz treats war as force directed toward political purposes, while uncertainty,
+      friction, moral forces, and the changing political object prevent military power from
+      becoming a mechanically autonomous instrument.
+    source_id: SRC-HOP-CLAUSEWITZ-VOM-KRIEGE-1832
+    passage_status: FIRST_EDITION_EXTRACTION_PENDING
+    original_language: German
+    extraction_targets:
+      - Book I definition of war
+      - relation of political object and military aim
+      - friction and uncertainty
+      - late distinction between overthrow and limited political aims
+      - people's war where relevant
+    qualification: >-
+      The work is posthumous and incompletely revised. Textual chronology must remain visible.
+
+  - claim_id: REST-005
+    proposition: >-
+      Tocqueville's American comparison identifies local self-government and voluntary
+      association as powers capable of limiting administrative dependence, while his later
+      democratic analysis warns that equality can coexist with an immense tutelary central power.
+    source_id: SRC-HOP-TOCQUEVILLE-DEMOCRACY-1835-1840
+    passage_status: FIRST_EDITION_EXTRACTION_PENDING
+    original_language: French
+    extraction_targets:
+      1835:
+        - township and local liberty
+        - political association
+        - sovereignty of the people
+        - majority power
+      1840:
+        - individualism and association
+        - equality and administrative centralization
+        - democratic tutelage / new despotism
+    qualification: >-
+      Preserve the distinct 1835 and 1840 publication moments; later formulations may not be projected backward.
+
+  - claim_id: REST-006
+    proposition: >-
+      The 1830 Charter altered the monarchical settlement after revolution while expressly
+      requiring laws on the annual army contingent, National Guard, elected departmental and
+      municipal institutions, public instruction, and other structures connecting representation
+      to territorial administration.
+    source_id: SRC-HOP-CHARTER-1830
+    passage_status: OFFICIAL_TEXT_TARGETED_PASSAGES_IDENTIFIED
+    original_language: French
+    location: especially Article 69 and related royal/legislative articles
+    qualification: >-
+      The Charter establishes constitutional requirements; implementation must be traced through separate laws.
+
+  - claim_id: REST-007
+    proposition: >-
+      The Constitution of 1848 re-founded sovereignty in the universality of French citizens,
+      established direct universal male suffrage and a directly elected President, yet expressly
+      continued existing laws, regulations, and authorities until legally changed.
+    source_id: SRC-HOP-CONSTITUTION-1848
+    passage_status: VERIFIED_OFFICIAL_TEXT
+    original_language: French
+    locations: [Article 1, Article 18, Article 19, Article 24, Article 25, Article 43, Article 46, Article 112, Article 113]
+    qualification: >-
+      Constitutional continuity clauses show that legal-administrative machinery can survive
+      a change in sovereignty, but they do not identify which institutions remain unchanged in practice.
+
+  - claim_id: REST-008
+    proposition: >-
+      The 1837 telegraph law placed rapid long-distance signaling under a legal authorization
+      regime, converting the government's prior practical control of telegraphy into statutory
+      power to punish unauthorized transmission and destroy unauthorized signaling apparatus.
+    source_id: SRC-HOP-TELEGRAPH-LAW-1837
+    passage_status: VERIFIED_CONTEMPORARY_LEGAL_TEXT
+    original_language: French
+    location: Article unique; Moniteur universel no 127, 7 May 1837, p. 1099
+    anchor: "Quiconque transmettra, sans autorisation, des signaux d'un lieu à un autre"
+    qualification: >-
+      'Monopoly' is an analytical shorthand for the authorization regime and governmental use;
+      the exact legal text should govern description.
+
+  - claim_id: REST-009
+    proposition: >-
+      The railway law of 1842 defined a national system of trunk lines and deliberately
+      combined central state planning and Treasury finance with departmental and communal
+      contributions and private concessionary operation.
+    source_id: SRC-HOP-RAILWAY-LAW-1842
+    passage_status: VERIFIED_OFFICIAL_LEGISLATIVE_TEXT
+    original_language: French
+    locations: [Article 1, Article 2, Article 3, Article 6, Article 9, Article 18, Article 19]
+    anchors:
+      - "Il sera établi un système de chemins de fer"
+      - "par le concours De l'Etat, Des départements traversés et des communes intéressées ; De l'industrie privée"
+    qualification: >-
+      The law creates a mixed public-local-private architecture. It must not be described
+      either as purely nationalized construction or as laissez-faire private rail development.
+
+cross_source_questions:
+  - >-
+    How much of the state created or reorganized under the Revolution and Napoleon survived the restoration of monarchy?
+  - >-
+    Can constitutional regimes change radically while prefectures, codes, fiscal records, courts, roads, and administrative routines persist?
+  - >-
+    Does Hegel provide a philosophical account of the differentiated modern state that helps explain why administration can survive changes in dynastic or electoral title?
+  - >-
+    How did the Napoleonic mobilization of society alter Clausewitz's understanding of the relation between political purpose and war?
+  - >-
+    Why does Tocqueville treat local association and decentralization as political powers precisely when democratic equality encourages administrative concentration?
+  - >-
+    Does 1848 reveal a new problem: popular sovereignty can replace monarchy at the constitutional summit while inheriting much of the same administrative machinery below it?
+  - >-
+    What changes when the state can transmit information rapidly across distance and plan a transport network at national scale?
+  - >-
+    Do telegraph and railway administration deepen centralization, or do their mixed institutional forms create new dependencies on engineers, local government, creditors, and companies?
+
+narrative_gate:
+  state: OPEN
+  satisfied:
+    - Charter of 1814 locked
+    - Congress of Vienna Final Act locked
+    - Hegel 1821 first edition locked
+    - Clausewitz posthumous first edition locked with editorial caveat
+    - Tocqueville 1835/1840 publication sequence locked
+    - Charter of 1830 locked
+    - 1837 telegraph law locked
+    - 1842 railway law locked
+    - Constitution of 1848 locked
+  remaining:
+    - Extract first-edition Hegel passages on police/corporation, civil servants, estates and sovereignty.
+    - Extract Clausewitz Book I and late political-war passages with editorial-state notes.
+    - Extract first-edition Tocqueville passages from both 1835 and 1840.
+    - Add institution-specific continuity evidence for prefectures, Code civil, Cour des comptes, cadastre or tax administration across 1814/1830/1848.
+    - Acquire Tocqueville's 1856 Ancien Régime only after reaching that date; use it as a later retrospective witness on centralization, not as contemporaneous evidence for 1815.

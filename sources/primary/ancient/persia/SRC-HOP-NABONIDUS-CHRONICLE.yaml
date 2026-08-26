@@ -1,0 +1,102 @@
+source_id: SRC-HOP-NABONIDUS-CHRONICLE
+status: GOVERNING_TABLET_AND_CRITICAL_CHRONICLE_IDENTITY_LOCKED_PASSAGE_EXTRACTION_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: anonymous Babylonian chronicle tradition
+work_or_document_title: Nabonidus Chronicle
+modern_designations:
+  - Babylonian Chronicle 7
+  - ABC 7
+  - BM 35382
+historical_period_described: reign of Nabonidus through the early reign of Cyrus
+tablet_copy_date: probably third to second century BCE
+original_language: Babylonian Akkadian in cuneiform
+evidence_class: POST_FESTUM_DUSK_WITNESS
+witness_subclass: BABYLONIAN_CHRONICLE_COPY_PRESERVING_EARLIER_ANNALISTIC_TRADITION
+
+participant_or_observer_position: >-
+  Anonymous Babylonian chronographic record organized by regnal years. The surviving
+  tablet is a later copy and is not a contemporary eyewitness artifact, even where it
+  may preserve earlier annalistic entries.
+temporal_distance_if_retrospective: several centuries between principal events and surviving copy
+
+governing_witness_and_exact_edition_or_archive:
+  artifact:
+    repository: British Museum
+    museum_number: 35382
+    registration_number: Sp. II 964
+    material: clay tablet
+    probable_copy_date: third to second century BCE
+    findspot: Babylon
+    catalogue: https://www.britishmuseum.org/collection/object/W_Sp-II-964
+  critical_editions:
+    - Sidney Smith, Babylonian Historical Texts, 1924, pages 98-123 and plates XI-XIV
+    - A. K. Grayson, Assyrian and Babylonian Chronicles, 1975, Chronicle 7
+  rule: >-
+    The surviving tablet and controlled Akkadian edition govern. Its later-copy status
+    and broken sections remain visible in every claim.
+
+star_claim_target:
+  - conquest_of_Babylon_and_transition_to_Cyrus
+  - Babylonian_ritual_and_chronographic_memory
+  - counter_witness_to_Cyrus_royal_self_presentation
+  - distinction_between_event_sequence_and_royal_legitimation
+intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - A Babylonian chronicle tradition preserved a dated sequence concerning Nabonidus, Cyrus and the transition of rule.
+  - The chronicle supplies a non-Cyrus royal narrative against which the cylinder's claims can be tested.
+  - Babylonian political order is represented through regnal chronology, cultic observance, city and military event rather than through one Persian imperial self-description.
+
+what_the_source_cannot_establish:
+  - Eyewitness certainty for every entry.
+  - The complete motives of Cyrus, Nabonidus, Babylonian elites or inhabitants.
+  - That silence or damage in the tablet proves an event did not occur.
+  - A neutral account free from Babylonian scribal selection and later copying.
+
+rival_or_counter_witnesses_where_known:
+  - SRC-HOP-CYRUS-CYLINDER
+  - Babylonian business and temple archives
+  - Herodotus, Histories book I
+  - later Berossus fragments
+
+boundary_effect: >-
+  The chronicle prevents Cyrus's foundation inscription from becoming the sole account
+  of 539 BCE while also preventing the later copy from being mistaken for a contemporary
+  diary. Event sequence, cultic perspective and royal legitimation remain separate.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - king and regnal order
+    - Babylonian temple calendar and scribal chronicle
+  human_position:
+    - city inhabitants
+    - soldiers
+    - temple communities
+    - subjects undergoing dynastic transition
+  claimed_end: ordered memory of reign, ritual continuity and political transition
+  claimed_obligations: not systematically prescribed; subjects appear through events and civic-cultic order
+  formation_mechanisms:
+    - calendrical chronology
+    - temple-centered memory
+    - scribal preservation
+  coercive_mechanisms:
+    - military conquest
+    - dynastic replacement
+  material_relations:
+    - city
+    - temple festival
+    - army
+    - kingship
+  knowledge_relations: political change becomes knowable through a later Babylonian annalistic sequence
+  freedom_relation: no autonomous individual claim; persons appear within city, cult, army and reign
+  crossing_relation: TRANSFORMS_EVENT_INTO_POST_FESTUM_PUBLIC_MEMORY
+  age_of_individual_relevance: >-
+    The source shows persons embedded in collective civic, cultic and regnal time,
+    while later historical record makes the change of rulers available to judgment.
+
+quotation_state: NOT_YET_EXTRACTED_AGAINST_GRAYSON_AND_TABLET
+star_integration_state: NOT_YET_PROPOSED

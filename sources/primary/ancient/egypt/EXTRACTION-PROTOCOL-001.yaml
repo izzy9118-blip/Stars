@@ -1,0 +1,90 @@
+protocol_id: EGYPT-EXTRACTION-PROTOCOL-001
+status: BINDING_FOR_EGYPT_PASSAGE_WORK
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+history_of_power_star: STAR-HISTORY-OF-POWER-001
+alignment_star: STAR-AGE-OF-INDIVIDUAL-001
+
+purpose: >-
+  Prevent online translations, modern summaries, reconstructed text, and ancient
+  witness from being collapsed during passage extraction.
+
+extraction_levels:
+  Q0_WITNESS_IDENTITY:
+    required:
+      - physical object, monument, manuscript group, or ancient transmission witness
+      - repository, site, accession, inventory, or manuscript siglum
+      - date of surviving witness
+      - relation between surviving witness and composition or narrated event
+  Q1_TEXTUAL_CONTROL:
+    required:
+      - governing original-language critical edition or facsimile
+      - editor, publication, volume, page or plate
+      - manuscript variants, lacunae, restorations, and uncertain readings where material
+      - distinction between one object and a composite text reconstructed from several witnesses
+  Q2_PASSAGE_LOCATION:
+    required:
+      - original-language line, column, spell, scene, register, section, fragment, or document number
+      - stable crosswalk to facsimile or critical edition
+      - beginning and ending words in original language where feasible
+  Q3_TRANSLATION_CONTROL:
+    required:
+      - named translator and edition
+      - translation date
+      - whether wording is literal, literary, modernized, or reconstructed
+      - any project working translation separately identified
+    rule: >-
+      An online English rendering may aid navigation but cannot become the
+      governing quotation without Q0-Q2 control.
+  Q4_STAR_CLAIM_MAPPING:
+    required:
+      - History of Power layer and claim target
+      - native claim class
+      - Age of Individual authority bearer, human position, demanded conduct,
+        formative technique, and crossing relation
+      - proposition no broader than the passage supports
+  Q5_BOUNDARY_AND_RIVAL_TEST:
+    required:
+      - what the passage cannot establish
+      - genre, office, status, geography, chronology, and transmission limits
+      - rival or counter-witnesses
+      - implementation evidence where the passage is normative or self-legitimating
+  Q6_QUOTATION_READINESS:
+    values:
+      - NOT_READY
+      - WORKING_TRANSLATION_ONLY
+      - ORIGINAL_CONTROLLED_TRANSLATION_PENDING
+      - QUOTE_READY_WITH_BOUNDARY
+    rule: >-
+      QUOTE_READY_WITH_BOUNDARY requires Q0-Q5 completion. It authorizes use only
+      for the bounded mapped claim, not for the source or layer generally.
+
+special_controls:
+  literary_text:
+    - represented speaker is not automatically the historical author
+    - fictional setting, composition date, and surviving-copy date remain separate
+    - literary voice is evidence for represented judgment, not direct census or procedure
+  monumental_text:
+    - identify exact monument, scene, register, line, and restoration
+    - royal or official self-presentation is not implementation evidence
+  administrative_papyrus:
+    - identify document, recto/verso, column, entry, hand, and compilation relation
+    - recorded category is not automatically lived social identity
+  ancient_post_festum:
+    - identify temporal distance and access to earlier records
+    - identify quotation, paraphrase, epitome, or later manuscript transmission
+    - later whole-view does not replace earlier self-witness
+  modern_critical_control:
+    - never counted as primary witness
+    - underlying ancient evidence cited separately
+    - scholarly disagreement preserved
+
+quote_storage_rule: >-
+  Extended copyrighted modern translations are not stored. The repository may
+  store short quotation anchors necessary for control, original-language text in
+  the public domain, bibliographic location, and a bounded project paraphrase or
+  working translation.
+
+integration_rule: >-
+  Passage extraction does not itself revise STAR-HISTORY-OF-POWER-001. A set of
+  quote-ready passages must first produce a Star-native claim correction or
+  addition, after which structured-Star revision precedes narrative revision.

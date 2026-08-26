@@ -1,0 +1,30 @@
+source_id: SRC-HOP-PETITION-RIGHT-1628
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  corporate_author: Parliament of England
+  title: Petition of Right
+  royal_assent: 1628-06-07
+  citation: "3 Cha. 1 c. 1"
+  language: English
+  role: taxation_imprisonment_martial_law_quartering_prerogative_and_subject_right
+
+governing_witness:
+  witness_type: ENACTED_STATUTE_TRANSCRIPTION
+  repository: legislation.gov.uk
+  url: https://www.legislation.gov.uk/aep/Cha1/3/1/contents/enacted
+  language: English
+
+historical_text_corroboration:
+  repository: British History Online / Statutes of the Realm
+  url: https://www.british-history.ac.uk/statutes-realm/vol5/pp23-24
+
+witness_policy:
+  rule: >-
+    Claims about the constitutional conflict between Charles I and Parliament must
+    distinguish the Petition's own enacted language from later constitutional
+    interpretations of its significance.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED

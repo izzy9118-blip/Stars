@@ -1,0 +1,167 @@
+reclassification_id: MODERN-EGYPT-INTERPRETATIONS-001
+status: BINDING_FOR_EGYPT_REPAIR
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: egyptian_power
+method: sources/SOURCE-WITNESS-METHOD.md
+
+purpose: >-
+  Separate modern interpretive reconstructions from ancient Egyptian self-witness,
+  preserve useful hypotheses as attributed claims, and prevent controversial modern
+  propositions from remaining in unqualified FACT-level History of Power prose.
+
+category_correction:
+  prohibited_current_label: authoritative_syntheses
+  reason: >-
+    The label merges modern scholarship, comparative interpretation, speculative
+    reconstruction and primary Egyptian evidence into one hierarchy of authority.
+  replacement_classes:
+    - LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+    - LATER_MODERN_INTERPRETIVE_RECONSTRUCTION
+    - LATER_DERIVATIVE_CONTROVERSIAL_INTERPRETATION
+  rule: >-
+    Modern works may control evidence, supply interpretations or open questions,
+    but no modern work speaks in the voice of ancient Egypt merely because the
+    project finds its thesis powerful.
+
+works:
+  - author: R. A. Schwaller de Lubicz
+    title: Sacred Science - The King of Pharaonic Theocracy
+    former_role: authoritative_synthesis
+    new_evidence_class: LATER_MODERN_INTERPRETIVE_RECONSTRUCTION
+    disposition: RETAIN_AS_ATTRIBUTED_INTERPRETATION_ONLY
+    what_may_be_retained:
+      - an attributed interpretation of sacred kingship and symbolic integration
+      - questions concerning crown, temple, royal principle and ritual form
+    what_may_not_be_inferred_without_independent_evidence:
+      - one hidden systematic sacred science governing all Egyptian institutions
+      - the Horian and Osirian paths as native, comprehensive social divisions
+      - formal initiatory access to multiple fixed levels of meaning
+    rival_controls:
+      - SRC-HOP-FRANKFORT-KINGSHIP-GODS-1948
+      - SRC-HOP-HORNUNG-ONE-MANY-1971
+      - SRC-HOP-KEMP-ANATOMY-EGYPT-1989
+      - SRC-HOP-ASSMANN-MAAT-1990
+
+  - author: R. A. Schwaller de Lubicz
+    title: The Egyptian Miracle - An Introduction to the Wisdom of the Temple
+    former_role: authoritative_synthesis
+    new_evidence_class: LATER_MODERN_INTERPRETIVE_RECONSTRUCTION
+    disposition: RETAIN_AS_ATTRIBUTED_INTERPRETATION_ONLY
+    what_may_be_retained:
+      - an attributed symbolic reading of temple, number, natural form and heart
+      - a research question concerning the relation of architecture, ritual and anthropology at Luxor
+    what_may_not_be_inferred_without_independent_evidence:
+      - Luxor as Anthropocosmos or Temple of Man in ancient Egyptian self-description
+      - intelligence of the heart as one systematized Egyptian epistemology
+      - every architectural proportion as deliberately encoding one complete doctrine
+    rival_controls:
+      - archaeological publication of Luxor
+      - temple inscriptions and ritual texts
+      - specialist architectural and metrological studies
+      - SRC-HOP-HORNUNG-ONE-MANY-1971
+      - SRC-HOP-KEMP-ANATOMY-EGYPT-1989
+
+  - author: John Anthony West
+    title: Serpent in the Sky - The High Wisdom of Ancient Egypt
+    former_role: authoritative_synthesis
+    new_evidence_class: LATER_DERIVATIVE_CONTROVERSIAL_INTERPRETATION
+    disposition: QUARANTINE_FROM_FACT_LEVEL_SYNTHESIS
+    what_may_be_retained:
+      - historiographic evidence for modern symbolist and alternative-Egyptology reception
+      - clearly labeled hypotheses requiring independent examination
+    what_may_not_be_inferred_without_independent_evidence:
+      - Egyptian civilization as a legacy from Atlantis or another named lost civilization
+      - Sphinx weathering as settled proof of an earlier unknown civilization
+      - the true age of Egyptian sacred science
+      - Schwaller's symbolic claims as established through repetition
+    boundary: >-
+      The existence of an open question about early chronology does not license one
+      controversial answer to appear as the Star's factual premise.
+
+  - author: W. M. Flinders Petrie
+    title: The Religion of Ancient Egypt
+    former_role: authoritative_synthesis
+    new_evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+    historiographic_subclass: EARLY_EGYPTOLOGICAL_SYNTHESIS
+    disposition: RETAIN_WITH_HISTORIOGRAPHIC_CAUTION
+    what_may_be_retained:
+      - early Egyptological organization of gods, rites, priesthood, ethics and afterlife
+      - access to observations and materials that can be traced independently
+    what_may_not_be_inferred_without_independent_evidence:
+      - that early twentieth-century categories remain current scholarly consensus
+      - that Petrie's synthesis is an ancient Egyptian account
+    rival_controls:
+      - SRC-HOP-HORNUNG-ONE-MANY-1971
+      - SRC-HOP-LICHTHEIM-AEL-1973-1980
+      - SRC-HOP-ASSMANN-MAAT-1990
+      - later archaeological and philological scholarship
+
+claim_dispositions:
+  - claim: sacred_science_as_Egyptian_self_description
+    current_risk: HIGH
+    disposition: RECLASSIFY_AS_ANALYTICAL_SYNTHESIS_OR_ATTRIBUTED_MODERN_INTERPRETATION
+    required_support:
+      - specify primary relations among creation, kingship, ritual, measure, office and judgment
+      - show that the phrase is project terminology unless an ancient lexical equivalent is established
+
+  - claim: Luxor_as_Anthropocosmos_or_Temple_of_Man
+    current_risk: HIGH
+    disposition: ATTRIBUTED_INTERPRETIVE_BRIDGE_ONLY
+    required_support:
+      - Luxor architectural and inscriptional corpus
+      - competing specialist interpretations
+      - explicit distinction between ancient monument and modern reading
+
+  - claim: formal_initiatory_hierarchy_governing_multiple_levels_of_meaning
+    current_risk: HIGH
+    disposition: NOT_ADMITTED_PENDING_DIRECT_EVIDENCE
+    required_support:
+      - access restrictions, priestly grades, ritual instructions and education evidence
+      - no inference from symbolic complexity alone
+
+  - claim: intelligence_of_the_heart_as_systematic_Egyptian_epistemology
+    current_risk: MEDIUM_HIGH
+    disposition: DECOMPOSE_INTO_PRIMARY_TEXTUAL_RELATIONS
+    required_support:
+      - Shabaka heart-and-tongue language
+      - wisdom-text uses of heart, hearing and knowledge
+      - genre and period separation
+    boundary: >-
+      Multiple uses of heart do not by themselves constitute one systematic epistemology.
+
+  - claim: distinct_Osirian_and_Horian_paths
+    current_risk: HIGH
+    disposition: ATTRIBUTED_TO_SCHWALLER_ONLY_PENDING_PRIMARY_CONTROL
+    required_support:
+      - ancient Egyptian terminology and texts demonstrating the distinction as a lived or taught structure
+      - competing Egyptological evaluation
+
+  - claim: Egyptian_civilization_as_legacy_from_older_unknown_civilization
+    current_risk: VERY_HIGH
+    disposition: OPEN_RESEARCH_QUESTION_NOT_FACT
+    required_support:
+      - archaeological, chronological and transmission evidence independent of West
+    boundary: >-
+      Completeness in the surviving record does not prove transmission from a specific lost civilization.
+
+  - claim: Sphinx_weathering_or_Atlantis_as_evidence_for_true_age
+    current_risk: VERY_HIGH
+    disposition: EXCLUDED_FROM_CURRENT_HISTORY_OF_POWER_FACT
+    note: >-
+      May be pursued in a separately controlled research inquiry, but cannot govern
+      the present Egyptian power layer without a substantial independent evidence case.
+
+age_of_individual_conformity_effect:
+  finding: >-
+    Reclassification protects the Age of the Individual thesis from resting on a
+    modern invented contrast. The older Egyptian form must be demonstrated from
+    Egyptian and controlled ancient evidence before it can serve as the sacred order
+    that later forms of individuality preserve, contest or transform.
+  prohibition: >-
+    Do not construct the modern individual by opposing it to an Egyptian totality
+    whose unity is principally supplied by a twentieth-century interpreter.
+
+structured_star_rule:
+  - No claim disposition changes the structured Star automatically.
+  - A later Star-native correction package must identify exact fact, historical_spectrum, evidence and boundary edits.
+  - Narrative language is revised only after the structured correction is accepted.

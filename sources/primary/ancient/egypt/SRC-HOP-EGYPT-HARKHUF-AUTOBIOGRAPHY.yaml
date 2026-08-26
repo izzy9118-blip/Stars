@@ -1,0 +1,67 @@
+source_id: SRC-HOP-EGYPT-HARKHUF-AUTOBIOGRAPHY
+status: GOVERNING_TOMB_INSCRIPTION_IDENTIFIED_LINE_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Harkhuf / funerary scribal authority responsible for his autobiographical inscriptions
+work_or_document_title: Autobiography of Harkhuf
+original_language: Old Egyptian
+date_or_period: Sixth Dynasty, reigns of Merenre and Pepi II
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS_AND_ELITE_SELF_WITNESS
+participant_or_observer_position: Provincial governor and expedition leader memorializing royal missions, frontier travel, exchange, command, and royal favor
+temporal_distance_if_retrospective: Near-contemporary career review within Harkhuf's tomb program
+
+governing_witness_and_exact_edition_or_archive:
+  original_monument:
+    site: Qubbet el-Hawa, Aswan
+    tomb: Tomb 34n of Harkhuf
+    status: GOVERNING_INSCRIPTION_IDENTIFIED_EXACT_WALL_LINE_AND_PHOTOGRAPHIC_CROSSWALK_PENDING
+  public_domain_translation_control:
+    editor_translator: James Henry Breasted
+    title: Ancient Records of Egypt, Volume I
+    year: 1906
+    url: https://archive.org/details/ancientrecordsof01brea
+    evidence_class: LATER_CRITICAL_TRANSLATION_NOT_PRIMARY
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Royal and provincial power operates through trusted expedition leaders who cross frontiers, negotiate exchange, move personnel and goods, and report success through royal service.
+  - Elite selfhood is memorialized through mission, courage, provision, favor, and usefulness to king and province.
+intended_claim_class:
+  - SELF_WITNESS
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - The expeditions, titles, royal communications, and achievements Harkhuf chose to memorialize.
+  - An elite representation of frontier administration, exchange, risk, command, and relation to royal authority.
+  - The significance of royal attention and extraordinary objects or persons within official self-presentation.
+what_the_source_cannot_establish:
+  - A neutral account of the peoples and regions encountered.
+  - The perspectives of carriers, soldiers, trading partners, or local populations absent from the inscription.
+  - The complete administrative structure of Egyptian southern expansion.
+
+rival_or_counter_witnesses_where_known:
+  - SRC-HOP-EGYPT-WENI-AUTOBIOGRAPHY
+  - other Qubbet el-Hawa autobiographies
+  - royal expedition inscriptions and archaeological evidence from Nubia and the southern frontier
+  - local and non-Egyptian evidence where available
+
+boundary_effect: >-
+  Harkhuf adds provincial and frontier dimensions to the royal-service model but
+  remains an elite self-witness whose success narrative requires external control.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: King and provincial office extended through personal mission, command, and memorial record
+  human_position: Named official whose distinction is produced through service across the boundaries of the ordered land
+  demanded_conduct: Loyalty, courage, logistical competence, successful return, and faithful reporting
+  formative_technique: Commission, title, expedition, royal letter, gift, tomb autobiography, and remembered name
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    Frontier initiative and named achievement do not produce an autonomous
+    imperial adventurer in the modern sense; they remain constitutively royal and
+    funerary.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

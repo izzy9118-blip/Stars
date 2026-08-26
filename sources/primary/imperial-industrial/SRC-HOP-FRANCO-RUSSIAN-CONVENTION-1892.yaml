@@ -1,0 +1,20 @@
+source_id: SRC-HOP-FRANCO-RUSSIAN-CONVENTION-1892
+status: DIPLOMATIC_MILITARY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  parties: [French Republic, Russian Empire]
+  title: Franco-Russian Alliance Military Convention
+  date: 1892-08-18
+  original_language: French
+  role: alliance_mobilization_force_commitments_and_automatic_military_coordination
+governing_witness:
+  witness_type: DIPLOMATIC_TEXT_TRANSCRIPTION
+  repository: Yale Avalon Project
+  url: https://avalon.law.yale.edu/19th_century/frrumil.asp
+key_passages:
+  - article: 2
+    proposition: Mobilization by Triple Alliance powers triggers immediate simultaneous full mobilization without prior agreement.
+  - article: 3
+    proposition: Convention specifies force levels to be employed against Germany.
+qualification: >-
+  This is unusually operational alliance language, but mobilization plans, timetables and actual 1914 decisions require separate military records.

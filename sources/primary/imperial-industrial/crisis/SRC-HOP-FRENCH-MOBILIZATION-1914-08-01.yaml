@@ -1,0 +1,21 @@
+source_id: SRC-HOP-FRENCH-MOBILIZATION-1914-08-01
+status: OFFICIAL_DECREE_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: French Republic
+  title: Décret prescrivant la mobilisation des armées de terre et de mer
+  date: 1914-08-01
+  publication_date: 1914-08-02
+  original_language: French
+  role: formal_activation_of_military_manpower_requisition_and_mobilization_network
+governing_witness:
+  witness_type: JOURNAL_OFFICIEL_DECREE_WITH_ARCHIVAL_POSTER_CORROBORATION
+  publication: Journal officiel de la République française, 2 August 1914
+  archival_presentation: https://www.archivespasdecalais.fr/Decouvrir/Chroniques-de-la-Grande-Guerre/A-l-ecoute-des-temoins/A-l-ecoute-des-temoins/1914/Mobilisation-generale
+key_relations:
+  - decree orders mobilization of land and sea forces
+  - requisition reaches animals, vehicles and harness necessary to complete the armies
+  - implementation telegram is transmitted to military commands and prefects, then relayed through subprefects, mayors and gendarmes
+qualification: >-
+  The decree is evidence of formal French mobilization and the administrative network executing it.
+  It does not by itself establish French diplomatic motives or the precise operational content of Plan XVII.

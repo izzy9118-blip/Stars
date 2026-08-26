@@ -1,0 +1,190 @@
+passage_set_id: EGY-REKHMIRE-VIZIER-PASSAGES-001
+status: MONUMENT_TEXTS_AND_CRITICAL_LOCATORS_LOCKED_SELECTED_RELATIONS_CONTROLLED
+source_id: SRC-HOP-REKHMIRE-VIZIER
+star_layer_target: egyptian_power
+
+witness_basis:
+  monument:
+    description: Theban Tomb 100, Sheikh Abd el-Qurna
+    owner: Rekhmire, southern vizier under Thutmose III and early Amenhotep II
+    evidence_components:
+      - Installation of the Vizier text
+      - Duties of the Vizier text
+      - autobiographical inscriptions
+      - administrative, tribute, tax, agricultural, workshop and temple-provision scenes
+    status: ORIGINAL_MONUMENTARY_CONSTELLATION
+  documentary_edition:
+    author: Norman de Garis Davies
+    title: The Tomb of Rekh-mi-Re at Thebes
+    series: Publications of the Metropolitan Museum of Art Egyptian Expedition 11
+    publisher: Metropolitan Museum of Art
+    year: 1943
+    volumes:
+      - volume: I
+        digital_record: https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/168855
+      - volume: II
+        digital_record: https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/169100
+    status: GOVERNING_DOCUMENTARY_PUBLICATION_OF_TT100
+  installation_critical_control:
+    author: R. O. Faulkner
+    title: The Installation of the Vizier
+    journal: Journal of Egyptian Archaeology
+    volume: 41
+    year: 1955
+    pages: 18-29
+    doi: 10.2307/3855232
+    status: CRITICAL_TEXTUAL_CONTROL
+  duties_critical_control:
+    author: G. P. F. van den Boorn
+    title: The Duties of the Vizier: Civil Administration in the Early New Kingdom
+    publisher: Kegan Paul International
+    year: 1988
+    extent: 432 pages
+    status: GOVERNING_MODERN_TRANSLATION_COMMENTARY_AND_SOURCE_ANALYSIS
+  translation_control:
+    author: Miriam Lichtheim
+    title: Ancient Egyptian Literature, volume II: The New Kingdom
+    year: 1976
+    pages: 21-24 for the Installation selection
+    status: READING_AND_TRANSLATION_CONTROL_NOT_PRIMARY
+  historical_translation_aid:
+    author: James Henry Breasted
+    title: Ancient Records of Egypt, volume II: The Eighteenth Dynasty
+    sections: 665 onward for the vizierial texts
+    status: HISTORICAL_TRANSLATION_AID_NOT_GOVERNING
+
+textual_and_material_separation:
+  - The Installation is royal instruction defining the office and proper conduct.
+  - The Duties text describes recurring administrative relations and routines.
+  - Rekhmire's autobiographical claims present his character and service.
+  - Painted and inscribed scenes represent tax, tribute, agriculture, workshops and temple supply.
+  - Related incomplete copies in other vizierial tombs control the composition's transmission.
+  - No one component is treated as a complete neutral organization chart of the Egyptian state.
+
+passages_and_relations:
+  - passage_id: EGY-REKHMIRE-001
+    location: Installation of the Vizier, TT100; Faulkner 1955, pp. 18-29; Davies documentary plates
+    passage_status: TEXT_RELATION_CONTROLLED_DIRECT_EGYPTIAN_QUOTATION_WITHHELD
+    project_paraphrase: >-
+      The king presents the vizierate as the support of the whole land and as a
+      burdensome office rather than a private pleasure, warning the appointee not to
+      bend the office toward magistrates, councillors, clients or personal partiality.
+    supports:
+      - office_as_burden_and_support_of_land
+      - separation_of_role_from_private_preference
+      - royal_instruction_and_delegated_authority
+      - impartiality_as_office_ideal
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      The text is normative royal instruction preserved in an elite tomb. It states
+      how the office ought to be borne and remembered, not how every case was decided.
+    age_of_individual_crossing:
+      relation: PRESERVES_AND_TRANSFORMS_IN_LATER_OFFICE
+      finding: >-
+        The official's person is subordinated to a public-sacral role whose standard
+        exceeds preference, without creating a modern autonomous civil service.
+
+  - passage_id: EGY-REKHMIRE-002
+    location: Installation of the Vizier, petition and judgment portion
+    passage_status: TEXT_RELATION_CONTROLLED_DIRECT_QUOTATION_WITHHELD
+    project_paraphrase: >-
+      Petitioners from the south and north are represented as approaching the
+      vizier, who is instructed to conduct business according to stated rule, give
+      each person vindication, and avoid partiality between known and unknown persons.
+    supports:
+      - hearing_and_petition_at_high_office
+      - geographically_broad_access_as_normative_claim
+      - impartiality_and_public_judgment
+      - relation_between_rule_record_and_vindication
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      The text does not prove equal practical access, uniform procedure, or a modern
+      right of appeal for every inhabitant. It establishes an office ideal and a
+      represented route of petition.
+    age_of_individual_crossing:
+      relation: PRESERVES_AND_LATER_TRANSFORMS
+      finding: >-
+        A person can appear before office with a claim, but the claim becomes effective
+        through royal-vizierial procedure rather than jurisdiction prior to the state.
+
+  - passage_id: EGY-REKHMIRE-003
+    location: Duties of the Vizier composition in TT100; van den Boorn 1988, chapters 1-3
+    passage_status: ADMINISTRATIVE_RELATIONS_CONTROLLED_CLAUSE_TABLE_PENDING
+    project_paraphrase: >-
+      The Duties composition situates the vizier within recurring flows of reports,
+      sealed documents, palace access, strongholds, officials, treasury, land,
+      military affairs and the daily condition of the Residence.
+    supports:
+      - office_as_information_and_reporting_center
+      - sealed_record_and_palace_relation
+      - coordination_of_multiple_administrative_fields
+      - territorial_and_security_reporting
+    intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    qualification: >-
+      Van den Boorn distinguishes the text as a composition from the activities it
+      may document. The final Star must preserve that distinction rather than treating
+      every sentence as a literal daily timetable.
+
+  - passage_id: EGY-REKHMIRE-004
+    location: TT100 hall scenes accompanying the administrative texts; Davies volumes I-II
+    passage_status: MONUMENTARY_RELATIONS_CONTROLLED_IMAGE_BY_IMAGE_CROSSWALK_PENDING
+    project_paraphrase: >-
+      The tomb program represents Rekhmire receiving and recording produce and taxes,
+      foreign tribute, supervising temple provisions, workshops, agricultural work,
+      livestock and harvest, with scribes and subordinate officials making goods and
+      persons visible to the office.
+    supports:
+      - taxation_and_accounting
+      - tribute_and_imperial_display
+      - workshops_production_and_temple_supply
+      - agriculture_livestock_harvest_and_record
+      - scribal_legibility_of_goods_labor_and_people
+    intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    qualification: >-
+      Tomb scenes are selected elite representations with funerary and reputational
+      purposes. They evidence represented relations and material categories, not
+      complete quantities, ordinary experience or unmediated administrative practice.
+    age_of_individual_crossing:
+      relation: PRESERVES_AND_TRANSFORMS_IN_ADMINISTRATIVE_LEGIBILITY
+      finding: >-
+        Workers, producers, foreigners and taxpayers become visible through categories,
+        goods, records and offices while remaining hierarchically represented.
+
+  - passage_id: EGY-REKHMIRE-005
+    location: Rekhmire autobiographical inscriptions in TT100
+    passage_status: SELF_PRESENTATION_RELATION_CONTROLLED_TARGETED_TEXT_PENDING
+    project_paraphrase: >-
+      Rekhmire represents himself as an effective, attentive and just bearer of
+      office whose conduct benefits king and governed population.
+    supports:
+      - elite_official_self_understanding
+      - reputation_and_mortuary_memory_of_office
+      - moral_character_as_claimed_condition_of_administration
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    qualification: >-
+      Autobiographical virtue is a claim by and for the office-holder. It requires
+      counter-witnesses before becoming a documented fact about Rekhmire's conduct.
+
+cross_passage_synthesis:
+  proposition: >-
+    TT100 joins office ideal, petition, procedure, information, record, tax, tribute,
+    agriculture, workshop, temple supply and official self-memory in one monumental
+    representation of delegated royal power. The vizier's private person is ordered
+    toward a role that mediates king, institution and population, while the monument
+    also magnifies the occupant who claims to embody that role.
+  claim_class: ANALYTICAL_SYNTHESIS
+  state: CANDIDATE_FOR_STRUCTURED_STAR_AFTER_CLAUSE_AND_IMAGE_TABLES
+
+boundaries:
+  - Installation, Duties, autobiography and image program remain distinct witness components.
+  - Normative impartiality does not prove equal access or consistent judicial practice.
+  - Administrative coordination is not modern separation of departments or powers.
+  - Scribes and records make goods and persons legible without making the state omniscient.
+  - Foreign tribute scenes combine observation, typology, imperial claim and funerary display.
+  - TT100 does not describe every period, region, vizier or local office in Egypt.
+
+remaining_controls:
+  - Build a clause table keyed to Faulkner's Installation text and van den Boorn's Duties translation.
+  - Map each administrative scene to Davies plate and wall location before quantitative or procedural use.
+  - Compare the incomplete Useramen and Hepu copies to distinguish stable composition from Rekhmire-specific material.
+  - Add non-monumentary administrative records before making practice or frequency claims.

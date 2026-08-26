@@ -1,0 +1,115 @@
+map_id: EGYPT-PERSON-AUTHORITY-SECOND-TRANCHE-001
+status: SOURCE_RELATIONS_MAPPED_PASSAGES_PENDING
+parent_map: EGYPT-PERSON-AUTHORITY-001
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+relations:
+  - relation_id: EGYPT-PA-008
+    proposition: >-
+      Egyptian kingship can transform the public representation of a mortal bearer
+      through titulary, iconography, ritual, building, and succession so that the
+      office is not reducible to private sex or biography.
+    source_ids:
+      - SRC-HOP-EGYPT-HATSHEPSUT-KINGSHIP
+    intended_claim_class:
+      - DOCUMENTED_OR_TEXTUAL_FACT
+      - ANALYTICAL_SYNTHESIS
+    passage_state: MONUMENT_SCENE_AND_LINE_TARGETS_PENDING
+    age_of_individual_crossing:
+      relation: PRESERVE
+      clarification: Office constitutes public identity; this is not modern self-authorship.
+
+  - relation_id: EGYPT-PA-009
+    proposition: >-
+      Named elite persons acquire distinction through royal and provincial service,
+      expedition, office, command, and memorial inscription rather than through
+      independence from the governing order.
+    source_ids:
+      - SRC-HOP-EGYPT-HARKHUF-AUTOBIOGRAPHY
+      - SRC-HOP-EGYPT-WENI-AUTOBIOGRAPHY
+    intended_claim_class: ANALYTICAL_SYNTHESIS
+    passage_state: TOMB_LINES_PENDING
+    age_of_individual_crossing:
+      relation: PRESERVE
+      clarification: Career individuality is constituted by office, commission, and memory.
+
+  - relation_id: EGYPT-PA-010
+    proposition: >-
+      Household correspondence reveals command, calculation, conflict, affection,
+      labor, grain, land, and delegation below royal office, showing that the person
+      is formed inside material and kinship obligations as well as sacred kingship.
+    source_ids:
+      - SRC-HOP-EGYPT-HEQANAKHT-PAPYRI
+    intended_claim_class:
+      - SELF_WITNESS
+      - DOCUMENTED_OR_TEXTUAL_FACT
+    passage_state: LETTER_AND_ACCOUNT_NUMBERS_PENDING
+    age_of_individual_crossing:
+      relation: PRESERVE
+      clarification: Intimate voice remains embedded in household and estate authority.
+
+  - relation_id: EGYPT-PA-011
+    proposition: >-
+      Measurement and record make land, institutions, cultivators, and obligations
+      legible without converting those persons into owners or rights-bearers in a
+      modern legal sense.
+    source_ids:
+      - SRC-HOP-EGYPT-WILBOUR-PAPYRUS
+    intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+    passage_state: PAPYRUS_SECTION_AND_ENTRY_TARGETS_PENDING
+    age_of_individual_crossing:
+      relation: PRESERVE
+      clarification: Administrative individuation is not individual sovereignty.
+
+  - relation_id: EGYPT-PA-012
+    proposition: >-
+      Royal justice differentiates accused persons, offices, names, bodies, and
+      penalties while retaining the authority to define the proceeding and its record.
+    source_ids:
+      - SRC-HOP-EGYPT-TURIN-JUDICIAL-PAPYRUS
+    intended_claim_class:
+      - DOCUMENTED_OR_TEXTUAL_FACT
+      - ANALYTICAL_SYNTHESIS
+    passage_state: PAPYRUS_COLUMNS_AND_COMPANION_DOCUMENTS_PENDING
+    age_of_individual_crossing:
+      relation: PRESERVE
+      clarification: Individualized defendants do not yet imply equal legal personhood.
+
+  - relation_id: EGYPT-PA-013
+    proposition: >-
+      Royal-temple power renders lands, personnel, goods, offerings, and donations
+      as an inventory of maintained order, making persons visible through institutional function.
+    source_ids:
+      - SRC-HOP-EGYPT-GREAT-HARRIS-PAPYRUS
+      - SRC-HOP-EGYPT-WILBOUR-PAPYRUS
+    intended_claim_class: ANALYTICAL_SYNTHESIS
+    passage_state: CONTROLLED_CATEGORIES_AND_QUANTITIES_PENDING
+    age_of_individual_crossing:
+      relation: PRESERVE
+      clarification: Quantification classifies persons within institutions rather than freeing them from those institutions.
+
+  - relation_id: EGYPT-PA-014
+    proposition: >-
+      A minority military-temple community can hold property, preserve worship,
+      write contracts, and petition across imperial jurisdictions while remaining
+      dependent upon negotiated privilege and reversible protection.
+    source_ids:
+      - SRC-HOP-EGYPT-ELEPHANTINE-ARAMAIC-ARCHIVE
+    intended_claim_class:
+      - SELF_WITNESS
+      - DOCUMENTED_OR_TEXTUAL_FACT
+      - ANALYTICAL_SYNTHESIS
+    passage_state: DOCUMENT_OBJECT_AND_TAD_CROSSWALK_PENDING
+    age_of_individual_crossing:
+      relation: COEXIST_WITH
+      clarification: Documented claims and communal agency remain status-bound, imperial, and corporate.
+
+cross_source_questions:
+  - How does the distinction between mortal bearer and durable royal office compare with later concepts of public office and private person?
+  - What does first-person voice mean when memory, tomb, household, and royal service constitute the speaker?
+  - When a register identifies a person by land, ration, work, accusation, or temple function, what kind of individuality has become administratively visible?
+  - How do petition and collective action differ among the Eloquent Peasant, Deir el-Medina workers, and Elephantine community?
+  - Which Egyptian institutions protect persons from abuse, and which protections remain privileges or duties internal to hierarchy?
+
+narrative_gate: CLOSED
+next_action: EXACT_WITNESS_AND_PASSAGE_EXTRACTION

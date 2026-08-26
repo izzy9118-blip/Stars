@@ -1,0 +1,60 @@
+status_id: EGYPT-CURRENT-STATUS-001
+status: BROAD_ACQUISITION_FROZEN_PASSAGE_VERIFICATION_ACTIVE
+history_of_power_star: STAR-HISTORY-OF-POWER-001
+alignment_star: STAR-AGE-OF-INDIVIDUAL-001
+primary_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+critical_control_corpus: HOP-EGYPT-CRITICAL-CONTROLS-001
+
+record_counts:
+  ancient_primary_contemporary_and_post_festum: 26
+  later_critical_controls: 5
+  total_registered_records: 31
+
+coverage:
+  sacred_creation_and_royal_office: COVERED
+  maat_judgment_and_delegated_administration: COVERED
+  literary_petition_exile_disorder_and_loyalty: COVERED
+  elite_office_career_and_frontier_service: COVERED
+  household_correspondence_property_and_family_agency: COVERED
+  skilled_labor_provision_and_local_complaint: COVERED
+  temple_routine_corporate_privilege_land_and_inventory: COVERED
+  accusation_inquiry_policing_and_mortuary_property: COVERED
+  foreign_minority_community_and_imperial_petition: COVERED
+  ancient_dusk_history_geography_and_philosophical_reception: COVERED
+  modern_textual_archaeological_literary_and_kingship_controls: COVERED_INITIAL_SET
+
+active_extraction_files:
+  - extracts/EXTRACT-EGYPT-ELOQUENT-PEASANT-001.yaml
+  - extracts/EXTRACT-EGYPT-SINUHE-001.yaml
+  - extracts/EXTRACT-EGYPT-HOREMHEB-EDICT-001.yaml
+  - extracts/EXTRACT-EGYPT-REKHMIRE-VIZIER-001.yaml
+  - extracts/EXTRACT-EGYPT-DEIR-EL-MEDINA-STRIKE-001.yaml
+
+active_correction_files:
+  - sources/audits/ancient/EGYPT-CURRENT-CLAIM-PROVENANCE-001.yaml
+  - sources/audits/ancient/EGYPT-SOURCE-RECLASSIFICATION-PROPOSAL-001.yaml
+  - sources/audits/ancient/EGYPT-AGE-OF-INDIVIDUAL-CONFORMITY-CORRECTION-001.yaml
+  - sources/audits/ancient/EGYPT-STAR-NATIVE-CORRECTION-PLAN-001.yaml
+
+broad_acquisition_hold:
+  state: ACTIVE
+  release_condition: >-
+    Exact passage or object-level work demonstrates that a material Star claim,
+    boundary, or rival interpretation cannot be tested from the registered corpus.
+  prohibited_reason_for_release:
+    - canonical prestige alone
+    - general importance to Egyptology
+    - chronological adjacency
+    - desire for exhaustive bibliography
+
+next_production_sequence:
+  - lock critical editions and manuscript/monument concordances for the first five extracts
+  - move each target through Q0-Q6 under EXTRACTION-PROTOCOL-001
+  - build a claim-by-passage table with original-language anchors and bounded English paraphrases
+  - test modern symbolist claims against ancient evidence and critical controls
+  - prepare a structured-Star patch proposal
+  - revise narrative only after structured-Star adoption
+
+structured_star_update_authorized: false
+narrative_update_authorized: false
+current_position: FIRST_FIVE_EXTRACTIONS_Q0_Q1

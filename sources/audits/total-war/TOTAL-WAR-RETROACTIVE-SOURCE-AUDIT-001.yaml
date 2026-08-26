@@ -1,0 +1,306 @@
+audit_id: TOTAL-WAR-RETROACTIVE-SOURCE-AUDIT-001
+status: TOTAL_WAR_CORE_DOCUMENTS_PRESENT_REFLECTIVE_AND_SOCIAL_ARCHIVE_INCOMPLETE
+parent_star: STAR-HISTORY-OF-POWER-001
+method: sources/SOURCE-WITNESS-METHOD.md
+layer: total_war_and_mass_state_1914_1918
+
+current_strengths:
+  operational_core_already_locked:
+    witness_count: 9
+    witnesses:
+      - Defence of the Realm Act 1914
+      - British blockade Order in Council 1915
+      - Ministry of Munitions Act 1915
+      - Munitions of War Act 1915
+      - Military Service Act 1916
+      - German Auxiliary Service Law 1916
+      - British Excess Profits Duty 1916
+      - US Committee on Public Information executive order 1917
+      - British War Loan Act 1917
+  reflective_targets_already_registered:
+    - Walther Rathenau KRA writings and memoranda 1914-1915
+    - Friedrich Naumann, Mitteleuropa, 1915
+    - Max Weber, Parlament und Regierung im neugeordneten Deutschland, 1918
+    - Max Weber, Politik als Beruf, 1919
+    - J. M. Keynes, Economic Consequences of the Peace, 1919
+    - Erich Ludendorff, Meine Kriegserinnerungen, 1919
+    - Ernst Jünger, In Stahlgewittern, first edition 1920
+    - Paul von Hindenburg, Aus meinem Leben, 1920
+    - Winston Churchill, The World Crisis, 1923-1931
+  assessment: >-
+    The initial legal-administrative core is useful but far from sufficient. Total war
+    especially requires reflective witnesses because the meaning of wartime state power
+    was contested by industrial organizers, parliamentary critics, revolutionaries,
+    soldiers, propagandists, colonial intellectuals and postwar statesmen.
+
+war_economy_and_state_industry_reflection:
+  - source_id: SRC-HOP-RATHENAU-KRA-WRITINGS-1914-1915
+    status: ALREADY_REGISTERED_ESSENTIAL
+    class: PARTICIPANT_INDUSTRIAL_ADMINISTRATOR_REFLECTION
+    importance: raw_material_allocation_state_industry_coordination_and_war_economy
+  - source_id: SRC-HOP-RATHENAU-NEW-ECONOMY
+    author: Walther Rathenau
+    work: Die neue Wirtschaft
+    year: 1918
+    class: WARTIME_PARTICIPANT_SYSTEMATIC_ECONOMIC_REFLECTION
+    importance: organization_planning_industry_distribution_and_postwar_economic_order
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-NAUMANN-MITTELEUROPA-1915
+    status: ALREADY_REGISTERED_HIGH
+    importance: wartime_regional_economic_and_political_organization
+
+war_state_parliament_and_bureaucracy:
+  - source_id: SRC-HOP-WEBER-PARLIAMENT-GOVERNMENT-1918
+    status: ALREADY_REGISTERED_ESSENTIAL
+    importance: bureaucracy_leadership_parliament_responsibility_and_wartime_German_state
+  - source_id: SRC-HOP-WEBER-POLITIK-BERUF-1919
+    status: ALREADY_REGISTERED_ESSENTIAL_POST_FESTUM
+    importance: state_legitimate_violence_leadership_ethic_of_responsibility_and_political_vocation
+  - source_id: SRC-HOP-WILSON-FOURTEEN-POINTS-1918
+    author: Woodrow Wilson
+    work: Address to Congress, Fourteen Points
+    date: 1918-01-08
+    class: CONTEMPORARY_STATESMAN_WAR_AND_PEACE_REFLECTION
+    importance: open_diplomacy_trade_armaments_nationality_self_determination_and_international_order
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-LLOYD-GEORGE-WAR-MEMOIRS
+    author: David Lloyd George
+    work: War Memoirs
+    publication: 1933-1936
+    class: PARTICIPANT_STATESMAN_LATE_POST_FESTUM_RECONSTRUCTION
+    importance: coalition_government_munitions_manpower_strategy_finance_and_war_management
+    caution: late_self_justificatory_account
+    priority: HIGH
+  - source_id: SRC-HOP-CLEMENCEAU-GRANDEUR-MISERE
+    author: Georges Clemenceau
+    work: Grandeurs et misères d'une victoire
+    year: 1930
+    class: PARTICIPANT_STATESMAN_POST_FESTUM_REFLECTION
+    importance: French_war_government_victory_security_peace_and_postwar_judgment
+    priority: HIGH
+
+revolution_and_state_collapse_reconstruction:
+  - source_id: SRC-HOP-LENIN-APRIL-THESES-1917
+    author: V. I. Lenin
+    work: April Theses
+    year: 1917
+    class: CONTEMPORARY_REVOLUTIONARY_PROGRAM
+    importance: war_state_soviets_provisional_government_land_and_power
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-LENIN-STATE-REVOLUTION-1917
+    author: V. I. Lenin
+    work: The State and Revolution
+    year: 1917
+    class: CONTEMPORARY_REVOLUTIONARY_STATE_THEORY
+    importance: state_class_coercion_revolution_soviets_and_transition
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-LUXEMBURG-JUNIUS-1916
+    author: Rosa Luxemburg
+    work: Die Krise der Sozialdemokratie / Junius Pamphlet
+    year: 1916
+    class: CONTEMPORARY_ANTI_WAR_SOCIALIST_REFLECTION
+    importance: imperialism_socialism_nationalism_war_and_failure_of_social_democracy
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-LUXEMBURG-RUSSIAN-REVOLUTION-1918
+    author: Rosa Luxemburg
+    work: Zur russischen Revolution
+    written: 1918
+    class: CONTEMPORARY_CRITICAL_REVOLUTIONARY_REFLECTION
+    importance: democracy_constituent_assembly_Bolshevism_and_revolutionary_power
+    priority: HIGH
+  - source_id: SRC-HOP-SUKHANOV-REVOLUTION
+    author: Nikolai Sukhanov
+    work: Zapiski o revoliutsii / Notes on the Revolution
+    publication: 1922-1923
+    class: PARTICIPANT_POST_FESTUM_REVOLUTIONARY_ACCOUNT
+    importance: soviets_parties_provisional_government_mass_action_and_Bolshevik_takeover
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-TROTSKY-HISTORY-REVOLUTION
+    author: Leon Trotsky
+    work: History of the Russian Revolution
+    publication: 1930-1932
+    class: PARTICIPANT_LEADER_LATE_POST_FESTUM_RECONSTRUCTION
+    importance: mass_mobilization_dual_power_party_leadership_and_revolutionary_sequence
+    caution: retrospective_Bolshevik_factional_and_self_justificatory_position
+    priority: HIGH
+  - source_id: SRC-HOP-KERENSKY-CATASTROPHE
+    author: Alexander Kerensky
+    work: The Catastrophe
+    year: 1927
+    class: PARTICIPANT_PROVISIONAL_GOVERNMENT_POST_FESTUM_ACCOUNT
+    importance: war_government_army_soviets_and_failure_of_provisional_power
+    priority: HIGH
+  rule: >-
+    Lenin, Luxemburg, Sukhanov, Trotsky and Kerensky must remain competing witnesses;
+    no revolutionary faction receives retrospective monopoly on the collapse of the state.
+
+front_experience_and_industrialized_combat:
+  - source_id: SRC-HOP-JUNGER-STAHLGEWITTERN-1920
+    status: ALREADY_REGISTERED_ESSENTIAL
+    textual_rule: use_1920_first_edition_before_later_revisions
+  - source_id: SRC-HOP-BARBUSSE-FEU-1916
+    author: Henri Barbusse
+    work: Le Feu
+    year: 1916
+    class: CONTEMPORARY_SOLDIER_LITERARY_REFLECTION
+    importance: trench_mass_death_class_language_and_industrial_war_experience
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-REMARQUE-WESTERN-FRONT-1929
+    author: Erich Maria Remarque
+    work: Im Westen nichts Neues
+    year: 1929
+    class: LATER_LITERARY_POST_FESTUM_RECONSTRUCTION
+    importance: generational_destruction_soldier_experience_and_postwar_memory
+    caution: novel_not_memoir_or_operational_record
+    priority: HIGH
+  - source_id: SRC-HOP-VERA-BRITTAIN-TESTAMENT-YOUTH-1933
+    author: Vera Brittain
+    work: Testament of Youth
+    year: 1933
+    class: PARTICIPANT_CIVILIAN_MEDICAL_POST_FESTUM_MEMOIR
+    importance: nursing_casualty_grief_gender_home_front_and_postwar_memory
+    priority: HIGH
+
+propaganda_public_opinion_and_information:
+  - source_id: SRC-HOP-CREEL-ADVERTISED-AMERICA-1920
+    author: George Creel
+    work: How We Advertised America
+    year: 1920
+    class: PARTICIPANT_PROPAGANDA_ADMINISTRATOR_POST_FESTUM_ACCOUNT
+    importance: CPI_press_film_posters_speakers_censorship_relations_and_mass_persuasion
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-LIPPMANN-PUBLIC-OPINION-1922
+    author: Walter Lippmann
+    work: Public Opinion
+    year: 1922
+    class: IMMEDIATE_POSTWAR_INFORMATION_AND_DEMOCRACY_REFLECTION
+    importance: stereotypes_news_expertise_manufacture_of_consent_and_limits_of_mass_public_knowledge
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-LASSWELL-PROPAGANDA-1927
+    author: Harold D. Lasswell
+    work: Propaganda Technique in the World War
+    year: 1927
+    class: EARLY_POSTWAR_SOCIAL_SCIENCE_RECONSTRUCTION
+    importance: systematic_analysis_of_wartime_propaganda
+    priority: HIGH
+
+colonial_and_racial_war_reflection:
+  - source_id: SRC-HOP-DUBOIS-AFRICAN-ROOTS-WAR-1915
+    author: W. E. B. Du Bois
+    work: The African Roots of War
+    year: 1915
+    class: CONTEMPORARY_BLACK_ATLANTIC_ANTI_IMPERIAL_REFLECTION
+    importance: Africa_empire_race_capital_and_world_war
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-GANDHI-WAR-INDIA
+    author: M. K. Gandhi
+    works: selected wartime recruitment and political writings
+    class: COLONIAL_PARTICIPANT_REFLECTION
+    importance: empire_service_recruitment_rights_and_later_noncooperation_transition
+    priority: HIGH
+  - source_id: SRC-HOP-INDIAN-NATIONALIST-WARTIME
+    class: COLONIAL_POLITICAL_REFLECTION_CORPUS
+    targets: [Tilak, Besant, selected Indian National Congress wartime resolutions]
+    importance: empire_war_self_government_recruitment_and_home_rule
+    priority: HIGH
+
+post_festum_command_and_peace:
+  - source_id: SRC-HOP-LUDENDORFF-WAR-MEMORIES-1919
+    status: ALREADY_REGISTERED_ESSENTIAL
+  - source_id: SRC-HOP-HINDENBURG-AUS-MEINEM-LEBEN-1920
+    status: ALREADY_REGISTERED_HIGH
+  - source_id: SRC-HOP-CHURCHILL-WORLD-CRISIS
+    status: ALREADY_REGISTERED_ESSENTIAL
+  - source_id: SRC-HOP-FOCH-MEMOIRS
+    author: Ferdinand Foch
+    work: Mémoires pour servir à l'histoire de la guerre de 1914-1918
+    publication: 1929
+    class: SENIOR_COMMAND_POST_FESTUM_RECONSTRUCTION
+    importance: coalition_strategy_command_operations_and_armistice
+    priority: HIGH
+  - source_id: SRC-HOP-KEYNES-ECONOMIC-CONSEQUENCES-1919
+    status: ALREADY_REGISTERED_ESSENTIAL
+    importance: participant_Treasury_view_of_war_economy_peace_and_European_interdependence
+  - source_id: SRC-HOP-LUDENDORFF-TOTAL-WAR-1935
+    author: Erich Ludendorff
+    work: Der totale Krieg
+    year: 1935
+    class: LATE_IDEOLOGICAL_POST_FESTUM_CONCEPTUALIZATION
+    importance: genealogy_of_the_explicit_total_war_concept
+    caution: >-
+      This must not be projected backward as what all belligerents believed in 1914-18;
+      it is a later radicalized interpretation by a participant commander.
+    priority: HIGH
+
+operational_archive_still_missing:
+  - British_Ministry_of_Food_and_rationing_orders
+  - German_Kriegsrohstoffabteilung_operational_records
+  - occupation_administration_in_Belgium_and_eastern_territories
+  - colonial_troop_and_labor_recruitment_records
+  - casualty_and_manpower_accounting
+  - Bank_of_England_and_Treasury_war_finance_practice
+  - Brest_Litovsk_treaty_and_negotiation_record
+  - Armistice_11_November_1918
+  - revolutionary_decrees_on_peace_land_workers_control_and_constituent_assembly
+
+current_claims_requiring_control:
+  - total_war_must_not_be_assumed_from_emergency_statutes_alone
+  - labor_control_requires_worker_employer_and_factory_practice_beside_law
+  - propaganda_requires Creel_Lippmann_and_distribution_records_beside_CPI_creation_order
+  - German_war_economy_requires Rathenau_and_KRA_records_beside_Auxiliary_Service_Law
+  - Russian_state_collapse_requires competing_revolutionary_and_government_witnesses
+  - front_experience_requires soldier_and_medical voices and cannot be inferred from casualty statistics
+  - colonial_populations_must_not_appear_only_as_manpower_for_metropolitan_states
+  - the_phrase_total_war_requires_genealogical_control_and_should_not_be_projected_unchanged_from_Ludendorff_1935
+
+later_critical_reconstruction_required:
+  - author: Arthur Marwick
+    work: The Deluge
+    year: 1965
+    priority: HIGH
+  - author: Gerald Feldman
+    work: Army, Industry, and Labor in Germany, 1914-1918
+    year: 1966
+    priority: ESSENTIAL
+  - author: Avner Offer
+    work: The First World War: An Agrarian Interpretation
+    year: 1989
+    role: food_blockade_agriculture_and_economic_warfare
+    priority: ESSENTIAL
+  - author: Jay Winter
+    work: Sites of Memory, Sites of Mourning
+    year: 1995
+    role: grief_memory_and_cultural_aftermath
+    priority: HIGH
+  - author: Hew Strachan
+    work: The First World War, Volume I: To Arms
+    year: 2001
+    priority: ESSENTIAL
+  - author: Alexander Watson
+    work: Enduring the Great War
+    year: 2008
+    role: morale_endurance_and_armies
+    priority: HIGH
+  - author: Adam Tooze
+    work: The Deluge
+    year: 2014
+    role: world_economy_US_power_war_and_postwar_order
+    priority: HIGH
+
+narrative_gate:
+  state: NOT_SATISFIED_UNDER_REVISED_METHOD
+  reason: >-
+    The core statutes establish enlarged wartime jurisdictions, but the layer cannot
+    yet explain the mass state without the participant organizers, revolutionaries,
+    soldiers, colonial critics, propagandists and post-festum commanders who interpreted it.
+  requirements:
+    - acquire Rathenau KRA writings and operational KRA records
+    - add Naumann/Weber and Wilson
+    - add Lenin/Luxemburg plus competing Russian Revolution witnesses
+    - add Junger first edition and Barbusse for front experience
+    - add Creel/Lippmann for information power
+    - add Du Bois and colonial political witnesses
+    - add Keynes/Ludendorff/Churchill/Foch as controlled post-festum reconstructions
+    - acquire food, occupation, colonial manpower, Brest-Litovsk and Armistice operational records
+
+next_layer_after_completion: POSTWAR_INTERWAR_POWER

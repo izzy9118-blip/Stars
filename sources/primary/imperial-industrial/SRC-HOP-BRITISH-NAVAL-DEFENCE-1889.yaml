@@ -1,0 +1,21 @@
+source_id: SRC-HOP-BRITISH-NAVAL-DEFENCE-1889
+status: GOVERNING_STATUTORY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Parliament of the United Kingdom
+  title: Naval Defence Act 1889
+  citation: "52 & 53 Vict. c. 8"
+  date: 1889-05-31
+  original_language: English
+  role: parliamentary_naval_construction_contracts_armament_and_multi_year_finance
+governing_witness:
+  witness_type: OFFICIAL_STATUTE_PDF
+  repository: legislation.gov.uk
+  url: https://www.legislation.gov.uk/ukpga/Vict/52-53/8/pdfs/ukpga_18890008_en.pdf
+key_relations:
+  - Parliament authorizes a defined naval construction program and expenditure.
+  - Contracts for vessels, machinery and guns are to be summarized to Parliament.
+  - Treasury, Admiralty and Consolidated Fund are linked in statutory naval procurement.
+qualification: >-
+  The Act demonstrates British naval expansion as a parliamentary procurement and finance program.
+  The later label 'two-power standard' and strategic rationale should be supported by debates or policy records, not inferred solely from the statute.

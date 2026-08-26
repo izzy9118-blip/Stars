@@ -1,0 +1,64 @@
+source_id: SRC-HOP-LOYALIST-TEACHING
+status: WITNESS_CONSTELLATION_LOCKED_TRANSLITERATION_AVAILABLE
+
+author_or_corporate_author: unknown Egyptian author
+work_or_document_title: Loyalist Teaching
+date_or_period:
+  composition: Middle Kingdom
+  earliest_dated_excerpt: stela of Sehetepibra, reign of Amenemhat III, about 1825 BCE
+original_language: Middle Egyptian
+evidence_class: CONTEMPORARY_REFLECTIVE_WITNESS
+
+governing_witness_and_exact_edition_or_archive:
+  principal_sources:
+    - Cairo CG 20538, stela of Sehetepibra
+    - Cairo JE 43261D, Carnarvon Tablet II
+    - Louvre E 4864
+    - Pierpont Morgan Amherst XII and XIII fragments
+  additional_sources:
+    - Petrie Museum UC 32781
+    - Petrie Museum UC 39666
+    - numerous New Kingdom ostraca
+  standard_critical_edition: Georges Posener, L'Enseignement loyaliste, 1976
+  online_source_control: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/loyalist/sources.html
+  online_transliteration_translation: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/loyalist/text.html
+
+participant_or_observer_position: Egyptian elite instruction addressed across generations
+temporal_distance_if_retrospective: >-
+  The work survives through a long copying tradition; individual manuscripts must
+  not be treated as identical in date or social setting to the initial composition.
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - royal_principle_and_subject_dependence
+  - office_labor_provision_and_social_order
+  - power_forming_body_heart_and_conduct
+intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - Egyptian instruction could demand that loyalty and awe of the king be carried within the body and heart.
+  - Kingship is represented as protection, provision, punishment and the source of social position.
+  - The teaching also links office, workers, production, levies, restraint and treatment of laborers.
+what_the_source_cannot_establish:
+  - That all Egyptians accepted this loyalist teaching.
+  - That royal provision eliminated coercion, poverty or official abuse.
+  - That the text is a neutral description rather than normative elite instruction.
+
+rival_or_counter_witnesses_where_known:
+  - Eloquent Peasant
+  - Teaching for King Merikare
+  - Horemheb Edict
+  - autobiographical claims of officials
+boundary_effect: >-
+  Preserve the teaching's unusually strong internalization of royal authority while
+  testing it against texts that expose abuse, failed rule and claims upon office.
+
+age_of_individual_crossing:
+  person_power_relation: loyal subject and laboring office-holder whose security and status flow through royal order
+  authority_demand: praise, awe, service, production and transmission of loyalty to descendants
+  conduct_formation: authority is represented as entering body, heart, work, inheritance and expectation of afterlife status
+  later_relation: OLDER_FORM_LATER_APPROPRIATED_AND_TRANSFORMED
+  prohibition: Do not translate inward loyalty into modern private belief or voluntary political consent.
+
+quotation_state: WORKING_TEXT_AVAILABLE_NOT_YET_ADMITTED
+star_integration_state: NOT_YET_PROPOSED

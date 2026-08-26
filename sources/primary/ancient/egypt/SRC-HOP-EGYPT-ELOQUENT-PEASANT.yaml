@@ -1,0 +1,75 @@
+source_id: SRC-HOP-EGYPT-ELOQUENT-PEASANT
+status: MANUSCRIPT_COMPLEX_REGISTERED_PASSAGE_EXTRACTION_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Anonymous Egyptian literary composition
+work_or_document_title: The Tale of the Eloquent Peasant
+represented_persons:
+  - Khun-Anup, a peasant/trader and petitioner
+  - Rensi son of Meru, high steward
+  - King Nebkaure
+original_language: Middle Egyptian
+date_or_period:
+  composition_context: Middle Kingdom; exact dating remains debated
+  surviving_witnesses: Multiple Middle Kingdom manuscript witnesses and fragments
+
+evidence_class: CONTEMPORARY_REFLECTIVE_WITNESS
+participant_or_observer_position: Literary representation of a poor petitioner addressing officials and royal justice
+temporal_distance_if_retrospective: Not securely measurable; composition and represented setting require separate treatment
+
+governing_witness_and_exact_edition_or_archive:
+  manuscript_complex:
+    repository: Egyptian Museum and Papyrus Collection, Staatliche Museen zu Berlin
+    witnesses:
+      - Papyrus Berlin P 3023
+      - Papyrus Berlin P 3025
+      - Papyrus Berlin P 10499
+    status: PRINCIPAL_MANUSCRIPTS_IDENTIFIED_IMAGE_AND_COLUMN_CROSSWALK_PENDING
+  supporting_online_transcription:
+    repository: UCL Digital Egypt
+    url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/peasant.html
+    status: NAVIGATION_AND_WORKING_TRANSLATION_WITNESS
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Ma'at can be invoked as a standard by which officials and royal justice are addressed.
+  - Speech, petition, delay, record, hierarchy, and adjudication form a relation between vulnerable subject and governing office.
+intended_claim_class:
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - A native literary conception of justice articulated from the position of an injured subordinate.
+  - The political importance assigned to eloquent speech, hearing, official mediation, and the king's relation to adjudication.
+  - A tension between justice as a norm and official power capable of delaying, recording, or instrumentalizing a petitioner's speech.
+what_the_source_cannot_establish:
+  - That the narrated procedure was a standard court process available to all inhabitants.
+  - That eloquence ordinarily overcame status, wealth, or administrative power.
+  - That Khun-Anup was a historical person rather than a literary figure.
+
+rival_or_counter_witnesses_where_known:
+  - Teaching of Ptahhotep
+  - SRC-HOP-EGYPT-REKHMIRE-VIZIER
+  - SRC-HOP-EGYPT-HOREMHEB-EDICT
+  - administrative petitions and legal papyri from other periods
+
+boundary_effect: >-
+  The work supports a claim about Egyptian reflection on justice and petition,
+  not a universal claim of legal equality or individual rights.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - forms_of_authority.sacred_authority
+  authority_bearer: King and delegated officials answerable in the text to ma'at
+  human_position: Injured subordinate who can speak, petition, and demand hearing without standing outside hierarchy
+  demanded_conduct: Truthful and persistent appeal through recognized offices
+  formative_technique: Petition, rhetoric, administrative hearing, written preservation, and exemplary narrative
+  crossing_relation: COEXIST_WITH
+  non_teleology_rule: >-
+    The petitioner's voice is real within the literary order, but it must not be
+    redescribed as a modern autonomous rights-bearing individual. Agency operates
+    through, and addresses itself to, sacred and royal hierarchy.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

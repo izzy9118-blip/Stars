@@ -1,0 +1,59 @@
+addendum_id: EGYPT-REPAIR-CERTIFICATION-ADDENDUM-PERSIA-EXCEPTION-001
+status: BINDING_CHRONOLOGY_ADDENDUM_PENDING_OWNER_CERTIFICATION
+parent_package: EGYPT-REPAIR-CERTIFICATION-001
+parent_path: sources/primary/ancient/egypt/integration/EGYPT-REPAIR-CERTIFICATION-001.yaml
+persia_exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+branch: history-of-power-retroactive-source-audit-001
+
+reason: >-
+  The parent certification package preserved a complete hold on movement to Persia.
+  A pre-existing limited exception records the owner's repeated instruction to continue
+  after disclosure of Egypt's pending status. This addendum reconciles the two without
+  rewriting that instruction as Egypt certification or Persian admission.
+
+superseded_clause_only:
+  parent_clause: narrative_gate.move_to_persia
+  old_effect: all Persia work blocked pending Egypt certification/application
+  new_effect: >-
+    Preparatory Persia discovery, governing-witness locking, source-position control,
+    Age crossing analysis, non-admitted maps, passage targets and Herodotus reattribution
+    may continue. Persian structured integration and movement to Greece remain blocked.
+
+unchanged_parent_status:
+  Egypt_owner_certification: PENDING
+  Egypt_structured_star_application: NOT_APPLIED
+  Egypt_narrative_revision: BLOCKED
+  Egypt_held_epigraphic_controls: ACTIVE
+  canonical_structured_star_modified: false
+  canonical_narrative_modified: false
+
+preparatory_persia_authorization:
+  authorized:
+    - source discovery and metadata control
+    - governing-language and archive locking
+    - participant-position and counter-witness classification
+    - person-authority and Age-of-the-Individual crossing analysis
+    - non-admitted claim maps and passage-target plans
+    - Herodotus reattribution as binding research method
+  not_authorized:
+    - admission of Persian evidence into STAR-HISTORY-OF-POWER-001
+    - application of a Persian structured-Star correction
+    - canonical Persian narrative revision
+    - declaration that Persia's narrative gate is satisfied
+    - movement to Greece
+
+no_self_certification_rule: >-
+  The owner's instruction to continue is a limited production authorization. It does
+  not certify Egypt, approve every Egypt correction, admit Persian claims, or waive
+  the requirement for later owner judgment.
+
+chronology_state:
+  evidence_repair_completed_for_review: EGYPT
+  current_preparatory_layer: PERSIA
+  next_layer: GREECE
+  hold: STOP_BEFORE_GREECE_AND_BEFORE_PERSIAN_STRUCTURED_INTEGRATION
+
+precedence: >-
+  This addendum governs only the chronology/movement clause of the parent package.
+  Every other evidentiary, canonical, certification and held-claim provision in
+  EGYPT-REPAIR-CERTIFICATION-001 remains unchanged.

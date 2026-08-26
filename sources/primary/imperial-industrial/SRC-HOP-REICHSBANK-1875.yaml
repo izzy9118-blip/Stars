@@ -1,0 +1,24 @@
+source_id: SRC-HOP-REICHSBANK-1875
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Empire
+  title: Bankgesetz
+  date: 1875-03-14
+  original_language: German
+  role: national_money_note_issue_payment_clearing_and_capital_mobilization
+governing_witness:
+  witness_type: REICHSGESETZBLATT_SCAN_TRANSCRIPTION
+  citation: "RGBl. 1875, Nr. 15, S. 177-198"
+  locator: https://de.wikisource.org/wiki/Bankgesetz
+key_passages:
+  - section: 1
+    proposition: Banknote-issuing authority requires Reich law.
+  - section: 12
+    anchor: "unter Aufsicht und Leitung des Reichs stehende Bank"
+    proposition: Reichsbank created under Reich supervision to regulate circulation, facilitate payments, and mobilize available capital.
+  - section: 22
+    proposition: Bank accepts and makes payments for the Reich without charge within Reich balances.
+qualification: >-
+  The Reichsbank combined public supervision and private share capital. It must not
+  be described simply as either a state treasury or a purely private bank.

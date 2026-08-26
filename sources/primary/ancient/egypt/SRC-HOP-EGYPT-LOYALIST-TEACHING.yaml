@@ -1,0 +1,66 @@
+source_id: SRC-HOP-EGYPT-LOYALIST-TEACHING
+status: WITNESS_TRADITION_REGISTERED_EXACT_FACSIMILE_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Egyptian didactic composition, traditionally associated with the official Kairsu in later transmission
+work_or_document_title: The Loyalist Teaching
+principal_monumental_form: Stela of Sehetepibre
+original_language: Middle Egyptian
+date_or_period:
+  composition_and_early_monumental_context: Middle Kingdom
+  transmission: Monumental and later school-copy tradition
+
+evidence_class: CONTEMPORARY_REFLECTIVE_WITNESS_WITH_DIDACTIC_TRANSMISSION
+participant_or_observer_position: Elite instruction representing duties toward king and dependents
+temporal_distance_if_retrospective: Witness-specific; monumental and later didactic copies must be separated
+
+governing_witness_and_exact_edition_or_archive:
+  principal_witness:
+    object: Stela of Sehetepibre
+    repository: Egyptian Museum, Cairo
+    catalogue: CG 20538
+    status: PHYSICAL_WITNESS_IDENTIFIED_EXACT_OPEN_FACSIMILE_PENDING
+  later_copy_tradition:
+    status: TO_BE_CATALOGUED_SEPARATELY_BEFORE_VARIANT_USE
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Loyalty to the king is represented as a condition of security, office, inheritance, and ordered life.
+  - Hierarchical obedience above can coexist with obligations of care and restraint toward subordinates below.
+intended_claim_class:
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - WITNESS_METADATA
+
+what_the_source_can_establish:
+  - An Egyptian didactic formulation of the relation among king, official, household, dependents, loyalty, prosperity, and continuity.
+  - A formative teaching directed toward producing reliable conduct inside hierarchy.
+what_the_source_cannot_establish:
+  - That all officials behaved according to the teaching.
+  - That loyalty erased competition, corruption, coercion, or conflict.
+  - That the work describes the experience of every social rank.
+
+rival_or_counter_witnesses_where_known:
+  - Teaching of Ptahhotep
+  - SRC-HOP-EGYPT-HOREMHEB-EDICT
+  - SRC-HOP-EGYPT-ELOQUENT-PEASANT
+  - SRC-HOP-EGYPT-DEIR-EL-MEDINA-STRIKE
+
+boundary_effect: >-
+  The source controls claims about official and household formation but cannot be
+  generalized into a complete sociology of Egyptian obedience.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - forms_of_authority.household_authority
+  authority_bearer: King above and responsible superior within household or office
+  human_position: Loyal officeholder and superior embedded in reciprocal but unequal relations
+  demanded_conduct: Fidelity upward, disciplined service, and bounded responsibility downward
+  formative_technique: Didactic instruction, memorization, monumental display, and school transmission
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    The teaching clarifies a person formed through loyalty and office, not a
+    pre-political individual who later chooses authority by consent.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

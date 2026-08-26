@@ -1,0 +1,41 @@
+source_id: SRC-HOP-TELEGRAPH-LAW-1837
+status: CONTEMPORARY_LEGAL_TEXT_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: French July Monarchy
+  title: Loi du 2 mai 1837 relative à la transmission de signaux télégraphiques
+  date: 1837-05-02
+  original_language: French
+  role: state_control_of_rapid_long_distance_signaling_and_private_communications
+
+contemporary_witness:
+  witness_type: MONITEUR_UNIVERSEL_LEGAL_PUBLICATION
+  publication: Moniteur universel
+  issue: 127
+  publication_date: 1837-05-07
+  page: 1099
+  documentary_catalogue: IREDIC corpus des législations
+  locator: https://iredic.fr/espace-recherche/corpus-des-legislations/
+
+article_unique:
+  anchor: >-
+    Quiconque transmettra, sans autorisation, des signaux d'un lieu à un autre,
+    soit à l'aide de machines télégraphiques, soit par tout autre moyen...
+  legal_effect:
+    - unauthorized signaling subject to imprisonment and fine
+    - court orders destruction of signaling posts, machines, or means
+
+historical_context_control:
+  - private and clandestine signaling experiments preceded the law
+  - the law converts a previously de facto governmental telegraph privilege into statutory control
+  - later opening of telegraph services to private correspondence must be treated as a separate development
+
+witness_policy:
+  rule: >-
+    Use the 1837 law to establish legal control over unauthorized rapid signaling.
+    The common historical label 'state monopoly' may summarize the effect only when
+    distinguished from the exact wording, which creates an authorization regime.
+
+quotation_state: CORE_ARTICLE_VERIFIED
+analysis_state: NOT_YET_INTEGRATED

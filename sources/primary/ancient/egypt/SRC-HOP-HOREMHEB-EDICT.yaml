@@ -1,0 +1,107 @@
+source_id: SRC-HOP-HOREMHEB-EDICT
+status: MONUMENT_AND_CRITICAL_EDITION_LOCKED_SELECTED_RELATIONS_CONTROLLED
+
+author_or_corporate_author: Horemheb / Egyptian royal administration
+work_or_document_title: Great Edict of Horemheb
+date_or_period: late Eighteenth Dynasty, reign of Horemheb
+original_language: Ancient Egyptian in hieroglyphic inscription
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+secondary_evidence_character: royal reflective and legitimating preamble
+
+governing_witness_and_exact_edition_or_archive:
+  monument:
+    description: sandstone decree stela/inscription at Karnak, court of the Tenth Pylon
+    archive: CFEETK KIU 5085
+    archive_record: https://www.cfeetk.cnrs.fr/archives/?n=165905
+    condition: damaged; substantial lacunae remain operative constraints
+  hieroglyphic_text:
+    edition: Wolfgang Helck, Urkunden der 18. Dynastie
+    locator: Urk. IV, 2140-2162
+    status: GOVERNING_PRINTED_HIEROGLYPHIC_TEXT_TARGET
+  principal_critical_edition:
+    author: Jean-Marie Kruchten
+    title: Le décret d'Horemheb: traduction, commentaire épigraphique, philologique et institutionnel
+    publisher: Éditions de l'Université de Bruxelles
+    year: 1981
+    status: GOVERNING_CRITICAL_CONTROL
+  later_translation_controls:
+    - author: William J. Murnane
+      title: Texts from the Amarna Period in Egypt
+      year: 1995
+      pages: 235-240
+    - author: Milen Milanov
+      title: The Great Decree of Horemheb from Karnak - translation and commentary
+      journal: Journal of Egyptological Studies VII
+      year: 2025
+      pages: 44-70
+      status: LATER_TRANSLITERATION_AND_TRANSLATION_CONTROL_NOT_PRIMARY
+  historical_translation_aid:
+    author: James Henry Breasted
+    title: Ancient Records of Egypt, volume III: The Nineteenth Dynasty
+    year: 1906
+    sections: 50-67
+    status: HISTORICAL_TRANSLATION_AID_NOT_GOVERNING
+
+passage_control:
+  path: sources/primary/ancient/egypt/passages/EGY-HOREMHEB-EDICT-PASSAGES-001.yaml
+  state: ORIGINAL_WITNESS_AND_CRITICAL_LOCATORS_LOCKED_SELECTED_RELATIONS_CONTROLLED
+  admitted_now:
+    - royal_reform_as_claimed_restoration_of_maat
+    - specified_abuse_of_delegated_office
+    - stated_sanction_against_offending_agents
+    - written_command_and_office_accountability
+    - bounded_judicial_and_anti_bribery_relations
+  held:
+    - extended_direct_quotation
+    - every_restored_object_penalty_or_title
+    - enforcement_frequency
+    - modern_independent_judiciary_or_separation_of_powers
+
+participant_or_observer_position: royal decree presenting reform in the king's own authoritative voice
+temporal_distance_if_retrospective: contemporaneous royal inscription, but self-legitimating rather than neutral report
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - ma_at_against_isfet_in_administration
+  - delegated_office_and_royal_judgment
+  - taxation_property_punishment_and_protection
+  - distinction_between_office_and_abusive_occupant
+intended_claim_class:
+  operative_relations: DOCUMENTED_OR_TEXTUAL_FACT
+  royal_preamble_and_restoration_claim: ATTRIBUTED_TEACHING_OR_JUDGMENT
+  cross_source_relation: ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - The royal government promulgated provisions addressing specified abuses by soldiers, tax or revenue agents, judges and officials.
+  - Protection of people, goods and labor could be stated as a royal duty enforced through written command, appointment and punishment.
+  - The decree joins administrative reform to Horemheb's claimed restoration of ma'at.
+  - Delegated royal service is not represented as unlimited license for private appropriation by officials.
+what_the_source_cannot_establish:
+  - How consistently the provisions were enforced across Egypt.
+  - That abuse disappeared or that all subjects possessed equal legal standing.
+  - That Egyptian administration formed a modern law code, independent judiciary or separated constitutional branches.
+  - Every restored sign, object, penalty and title before the final clause table is completed.
+
+rival_or_counter_witnesses_where_known:
+  - Eloquent Peasant
+  - Rekhmire office inscriptions
+  - taxation and labor records
+  - petitions and court proceedings
+  - later royal restoration inscriptions
+boundary_effect: >-
+  Separate operative provisions from royal self-praise, and formal protection from
+  demonstrated practice. Lacunae, detached fragments and editorial restorations remain
+  visible in every quotation-sensitive claim.
+
+age_of_individual_crossing:
+  person_power_relation: subject vulnerable to delegated officials but placed under royal protection and exaction
+  authority_demand: service, dues and obedience within an order whose agents are also answerable to the king
+  conduct_formation: written rule and punishment define proper office before the population
+  later_relation: OLDER_ADMINISTRATIVE_FORM_LATER_TRANSFORMED
+  prohibition: Royal protection is not equivalent to impersonal equal rights held prior to the state.
+
+quotation_state: SHORT_ORIGINAL_ANCHORS_CONTROLLED_EXTENDED_DIRECT_QUOTATION_HELD
+star_integration_state: SELECTED_RELATIONS_MAPPED_IN_EGYPT_CORRECTION_PACKAGE_NOT_APPLIED
+remaining_control: >-
+  Complete a clause-by-clause table against Kruchten's plates and Urk. IV lineation,
+  marking every restored sign, before direct quotation or fine-grained legal detail enters the Star.

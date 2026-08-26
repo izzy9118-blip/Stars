@@ -1,0 +1,61 @@
+source_id: CTRL-HOP-EGYPT-KINGSHIP-OCONNOR-SILVERMAN
+status: BIBLIOGRAPHIC_WITNESS_LOCKED_CHAPTER_LEVEL_USE_PENDING
+parent_control_corpus: HOP-EGYPT-CRITICAL-CONTROLS-001
+
+author_or_corporate_author: David O'Connor and David P. Silverman, editors
+work_or_document_title: Ancient Egyptian Kingship
+date_or_period: 1995
+original_language: English with source-language material in individual chapters
+series: Probleme der Ägyptologie 9
+publisher: Brill
+place: Leiden, New York, and Köln
+
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+participant_or_observer_position: Edited specialist collection examining Egyptian kingship across periods, media, institutions, and ideologies
+temporal_distance_if_retrospective: Modern scholarship separated by millennia from the ancient evidence
+
+governing_witness_and_exact_edition_or_archive:
+  governing_scholarly_witness: First edition, Brill, 1995
+  chapter_rule: >-
+    The volume has no single authorial thesis. Every use must identify the
+    chapter author, chapter title, pages, evidence base, and relation to rival
+    contributions.
+  digital_access: LEGITIMATE_CATALOG_OR_LIBRARY_COPY_TO_BE_LINKED; copyrighted text will not be copied wholesale
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - royal principle, titulary, coronation, divine affiliation, office, succession, representation, and institutional practice
+  - current tendency to speak of Egyptian kingship as one timeless and fully unified form
+intended_claim_class:
+  - LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+  - BOUNDARY_CONTROL
+
+what_the_source_can_establish:
+  - A range of specialist reconstructions concerning the changing forms and representations of Egyptian kingship.
+  - Chronological, institutional, iconographic, and theological distinctions that can test the Star's compressed royal-principle claims.
+  - Scholarly disagreement that prevents one modern theory of kingship from becoming the ancient voice.
+what_the_source_cannot_establish:
+  - A single consensus doctrine merely because essays appear in one volume.
+  - Direct ancient evidence without the monuments, texts, and objects analyzed by each contributor.
+  - Continuity across all dynasties where the evidence shows change or regional variation.
+
+rival_or_counter_witnesses_where_known:
+  - source-specific royal inscriptions and titulary studies
+  - Jan Assmann on memory and political theology
+  - Barry Kemp on institutions and material organization
+  - Schwaller de Lubicz, retained only as a distinct modern interpretive rival where relevant
+
+boundary_effect: >-
+  The volume forces royal-principle claims to become periodized, source-specific,
+  and chapter-attributed rather than timeless synthesis.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  use: >-
+    Clarifies the changing royal offices and representations within which subjects,
+    officials, heirs, priests, workers, and the dead are positioned before the
+    later emergence of the separate rights-bearing individual.
+  crossing_relation: INTERPRETIVE_CONTROL_ONLY
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

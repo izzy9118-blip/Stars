@@ -1,0 +1,41 @@
+source_id: SRC-HOP-CODE-CIVIL-1804
+status: GOVERNING_WITNESS_LOCKED
+parent_unit: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: France
+  title: Code civil des Français
+  year: 1804
+  revolutionary_date: an XII
+  original_language: French
+  role: uniform_civil_law_property_family_status_contract_and_legal_standardization
+
+governing_witness:
+  witness_type: DIGITIZED_ORIGINAL_OFFICIAL_EDITION
+  repository: Bibliothèque nationale de France / Gallica
+  title_page: "Code civil des français : éd. originale et seule officielle"
+  imprint: "Paris : Imprimerie de la République, an XII-1804"
+  bnf_record: https://catalogue.bnf.fr/ark:/12148/cb339642859
+  gallica_scan: https://gallica.bnf.fr/ark:/12148/bpt6k1061517
+  extent: 579 pages
+  corroborating_transcription:
+    repository: Wikisource
+    url: https://fr.wikisource.org/wiki/Code_civil_des_Fran%C3%A7ais_1804/Texte_entier
+
+primary_anchors:
+  - article: 544
+    text: "La propriété est le droit de jouir et disposer des choses de la manière la plus absolue, pourvu qu’on n’en fasse pas un usage prohibé par les lois ou par les réglemens."
+  - article: 545
+    issue: compulsory taking only for public utility with prior just indemnity
+  - article: 213
+    text: "Le mari doit protection à sa femme, la femme obéissance à son mari."
+
+passage_targets:
+  - publication and territorial effect of law
+  - civil status and nationality
+  - marriage, paternal authority, and inheritance
+  - property and obligations
+  - tension between revolutionary legal equality and hierarchical family relations
+
+quotation_state: CORE_PASSAGES_VERIFIED_AGAINST_DIPLOMATIC_TRANSCRIPTION
+analysis_state: NOT_YET_INTEGRATED

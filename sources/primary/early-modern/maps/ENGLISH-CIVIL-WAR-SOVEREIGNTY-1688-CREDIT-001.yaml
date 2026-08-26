@@ -1,0 +1,248 @@
+map_id: ENGLISH-CIVIL-WAR-SOVEREIGNTY-1688-CREDIT-001
+status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+
+method:
+  - The sequence is not narrated as an inevitable rise of Parliament.
+  - Royal, parliamentary, army, Protectorate, philosophical, and post-1688 claims are kept separate before synthesis.
+  - Constitutional text and actual control of armed force are distinct relations.
+  - Later constitutional significance does not replace what each document itself claims.
+  - Funded public credit is treated as a political institution joining taxation, subscription, corporation, and war finance, not merely as a banking innovation.
+
+claims:
+  - claim_id: ENG-PWR-001
+    proposition: >-
+      Before civil war, Parliament presented taxation, imprisonment, billeting, and
+      martial-law commissions as powers bounded by inherited law and parliamentary consent.
+    source_id: SRC-HOP-PETITION-RIGHT-1628
+    passage_status: VERIFIED_ENACTED_TEXT
+    location: Petition of Right, clauses X-XI
+    original_language: English
+    anchors:
+      - "no man hereafter be compelled to make or yield any gift, loan, benevolence, tax ... without common consent by act of Parliament"
+      - "no freeman ... be imprisoned or detained"
+      - "commissions for proceeding by martial law, may be revoked and annulled"
+    qualification: >-
+      The Petition addresses abuses while petitioning the king for recognition of
+      existing rights; it is not yet a claim that Parliament alone is sovereign.
+
+  - claim_id: ENG-PWR-002
+    proposition: >-
+      The Commons' 1641 Remonstrance shifted the constitutional problem toward who
+      controlled counsel, religion, administration, and the information by which royal
+      authority was exercised.
+    source_id: SRC-HOP-GRAND-REMONSTRANCE-1641
+    passage_status: VERIFIED_CONTEMPORARY_PRINT
+    location: opening declaration and concluding reform program
+    original_language: English
+    anchor: "how your royal authority and trust have been abused"
+    qualification: >-
+      The Remonstrance is the Commons' indictment of government and must remain
+      distinguishable from the King's account of the same crisis.
+
+  - claim_id: ENG-PWR-003
+    proposition: >-
+      By 1642 Parliament sought powers of approval over councillors, great officers,
+      militia, and forts that the Crown regarded as constitutive royal powers.
+    source_id: SRC-HOP-ANSWER-NINETEEN-PROPOSITIONS-1642
+    passage_status: VERIFIED_TEXTUAL_WITNESS
+    location: Nineteen Propositions I-II, IX, XI, XV-XVI; corresponding royal Answer
+    original_language: English
+    anchors:
+      - proposition_I: "great Officers and Ministers of State ... may be put from ... Offices ... excepting such as shall be approved of by both Houses of Parliament"
+      - proposition_IX: "rest satisfied with that Course that the Lords and Commons have appointed for Ordering the Militia"
+      - proposition_XV: "Forts and Castles ... under the Command and Custody of such Persons as your Majestie shall appoint, with the approbation of your Parliaments"
+      - royal_answer: "an upstart Authority without Us ... to command the Militia"
+      - royal_answer: "to grant them were in effect at once to depose both Ourself and Our Posteritie"
+    qualification: >-
+      The propositions and Answer are adversarial documents printed together; the map
+      preserves the conflict rather than deciding which side possessed the true ancient constitution.
+
+  - claim_id: ENG-PWR-004
+    proposition: >-
+      Charles I answered parliamentary concentration by describing England as a mixed
+      constitution whose stability depended on maintaining a balance among monarchy,
+      aristocracy, and democracy rather than reducing the king to a dependent magistrate.
+    source_id: SRC-HOP-ANSWER-NINETEEN-PROPOSITIONS-1642
+    passage_status: VERIFIED_TEXTUAL_WITNESS
+    location: royal Answer, constitutional defense
+    original_language: English
+    anchors:
+      - "ancient, equal, happy, well-poised ... Constitution of the Government of this Kingdom"
+      - "a mixture of these"
+      - "a king of England, a duke of Venice"
+      - "The Government according to these Laws is trusted to the King"
+    qualification: >-
+      This is a royal constitutional self-understanding produced at the edge of civil war,
+      not an external description of a settled constitutional equilibrium.
+
+  - claim_id: ENG-PWR-005
+    proposition: >-
+      Within the victorious parliamentary army, the question of consent divided those
+      who tied political voice to being subject to government from those who tied a share
+      in government to a permanent material interest in the kingdom.
+    source_id: SRC-HOP-PUTNEY-DEBATES-1647
+    passage_status: VERIFIED_EDITED_MANUSCRIPT_TRANSCRIPTION
+    location: Putney Debates, 29 October 1647, Clarke Papers
+    original_language: English
+    anchors:
+      - speaker: Thomas Rainborough
+        text: "the poorest hee that is in England hath a life to live, as the greatest hee"
+      - speaker: Thomas Rainborough
+        text: "every man that is to live under a Governement ought first by his owne consent to putt himself under that Governement"
+      - speaker: Henry Ireton
+        text: "a permanent fixed interest in this kingdom"
+    qualification: >-
+      The Army did not speak with one democratic doctrine. Consent, property,
+      representation, military service, settlement, and fear of political dissolution
+      were disputed inside the revolutionary coalition itself.
+
+  - claim_id: ENG-PWR-006
+    proposition: >-
+      Hobbes reconstructed the problem exposed by civil war by making political unity
+      an artificial person produced when individuals authorize one representative to
+      use their combined strength for peace and common defence.
+    source_id: SRC-HOP-HOBBES-LEVIATHAN-1651
+    passage_status: VERIFIED_FIRST_EDITION_TRANSCRIPTION
+    location: Chapter XVII
+    original_language: English
+    anchors:
+      - "I Authorise and give up my Right of Governing my selfe"
+      - "The Multitude so united in one Person, is called a Common-wealth"
+      - "One Person, of whose Acts a great Multitude ... have made themselves every one the Author"
+    qualification: >-
+      Hobbes's sovereign may be one man or an assembly. His answer is not simply a
+      defense of Stuart hereditary monarchy; it is a theory of undivided representation
+      against competing claims capable of returning society to war.
+
+  - claim_id: ENG-PWR-007
+    proposition: >-
+      The Protectorate attempted to write the post-regicide distribution of authority
+      into a constitutional instrument that joined a Protector, Council, and Parliament
+      while separately allocating militia, foreign policy, legislation, and taxation.
+    source_id: SRC-HOP-INSTRUMENT-GOVERNMENT-1653
+    passage_status: VERIFIED_CONSTITUTIONAL_TRANSCRIPTION
+    locations: Articles I-VII
+    original_language: English
+    anchors:
+      - "the supreme legislative authority ... shall be and reside in one person, and the people assembled in Parliament"
+      - "the exercise of the chief magistracy ... shall be in the Lord Protector, assisted with a council"
+      - "nor any tax, charge, or imposition laid upon the people, but by common consent in Parliament"
+    qualification: >-
+      The Instrument records an attempted constitutional settlement; actual Protectorate
+      practice must not be inferred automatically from the written distribution.
+
+  - claim_id: ENG-PWR-008
+    proposition: >-
+      The 1689 settlement made suspension of law, taxation by prerogative, and a peacetime
+      standing army without parliamentary consent illegal while protecting parliamentary
+      election, speech, petition, and recurrent meeting.
+    source_id: SRC-HOP-BILL-RIGHTS-1689
+    passage_status: VERIFIED_STATUTORY_TEXT
+    location: enacted Bill of Rights, declarations of rights and liberties
+    original_language: English
+    anchors:
+      - "levying money ... by pretence of prerogative, without grant of Parliament ... is illegal"
+      - "raising or keeping a standing army ... in time of peace, unless it be with consent of Parliament, is against law"
+      - "election of members of Parliament ought to be free"
+      - "freedom of speech and debates or proceedings in Parliament"
+    qualification: >-
+      The settlement retains monarchy and succession. It relocates and conditions powers;
+      it does not abolish the Crown or make Parliament a modern democratic sovereign.
+
+  - claim_id: ENG-PWR-009
+    proposition: >-
+      Locke makes government a trust directed toward preservation of property, limits
+      supreme legislative power by consent, ties taxation to representative consent,
+      and allows obedience to end when prince or legislature attacks the purposes for
+      which political power was entrusted.
+    source_id: SRC-HOP-LOCKE-TWO-TREATISES-1690
+    passage_status: VERIFIED_FIRST_EDITION_TEXT
+    location: Second Treatise §§124, 138, 140, 221-222
+    original_language: English
+    anchors:
+      - "The great and chief end therefore, of Mens uniting into Commonwealths ... is the preservation of their Property"
+      - "The Supream Power cannot take from any Man any part of his Property without his own consent"
+      - "when the Legislative, or the Prince, either of them act contrary to their Trust"
+    qualification: >-
+      The work appeared immediately after the Revolution but must not be reduced to an
+      official gloss on the Bill of Rights. Locke's teaching and the enacted settlement
+      are distinct evidence and may diverge.
+
+  - claim_id: ENG-PWR-010
+    proposition: >-
+      The 1694 Bank of England Act converted parliamentary taxation and voluntary
+      subscription into present wartime finance: customs and excise streams were created
+      and separated while subscribers advanced funds toward war against France.
+    source_id: SRC-HOP-BOE-ACT-1694
+    passage_status: VERIFIED_STATUTORY_TEXT
+    location: 5 & 6 Will. & Mar. c. 20, title/preamble, sections II, X-XII, XIX
+    original_language: English
+    anchors:
+      - "voluntarily advance the Sum of fifteen hundred thousand Pounds, towards the carrying on the War against France"
+      - "the said several Rates, Duties, and Impositions"
+      - "separate and keep apart all and every the Monies arising by the several Rates and Duties by this Act granted"
+      - "the said summe of Twelve hundred thousand pounds"
+    qualification: >-
+      The Act's whole financing scheme concerns up to £1.5 million. The portion authorized
+      for the subscriber corporation was £1.2 million with a corresponding annual fund;
+      these figures must not be conflated.
+
+  - claim_id: ENG-PWR-011
+    proposition: >-
+      Section XIX and the royal charter transformed subscribers to the £1.2 million
+      portion into a durable corporation with transferable interests, succession,
+      property, and internal government, giving public borrowing an organization capable
+      of surviving individual creditors.
+    source_ids:
+      - SRC-HOP-BOE-ACT-1694
+      - SRC-HOP-BOE-CHARTER-1694
+    passage_status: VERIFIED_STATUTORY_AND_CHARTER_TEXT
+    locations:
+      - Bank of England Act 1694, section XIX
+      - Charter of 27 July 1694
+    original_language: English
+    anchors:
+      - "one Body Corporate and Politick by the name of The Governor and Company of the Banke of England"
+      - "The Governor and Company of the Bank of England"
+      - "perpetual succession"
+    qualification: >-
+      The institution of 1694 should not simply be projected backward as the fully developed
+      modern central bank. The immediate relation is corporate public credit joined to state finance.
+
+cross_source_questions:
+  - >-
+    Why did inherited legal claims in 1628 fail to prevent a crisis over counsel, militia,
+    taxation, religion, and executive authority from becoming civil war?
+  - >-
+    Does the Putney dispute show popular sovereignty emerging, or does it show that the
+    meaning of 'the people' itself became a contested object once monarchical authority broke down?
+  - >-
+    How does Hobbes's attempt to create one artificial sovereign compare with the Protectorate's
+    actual written division among Protector, Council, and Parliament?
+  - >-
+    How does Locke's trust-based limitation of legislative and executive power compare with
+    the Bill of Rights' narrower enacted restrictions on specific royal practices?
+  - >-
+    How did 1689 strengthen political limits on Crown taxation and standing armies while
+    simultaneously enabling England to finance larger and more durable warfare after 1694?
+  - >-
+    Does the Bank settlement reveal a new form of power in which constraints on unilateral
+    sovereignty increased the credibility of collective borrowing rather than simply weakening the state?
+
+narrative_gate:
+  satisfied:
+    - enacted Petition of Right locked and extracted
+    - contemporary Grand Remonstrance print locked
+    - Nineteen Propositions and royal Answer mapped to councillors, militia, forts, and offices
+    - Putney manuscript transcription locked and extracted
+    - first-edition Hobbes witness locked and extracted
+    - Instrument of Government locked and extracted
+    - original Parliamentary Archives Bill of Rights witness locked and extracted
+    - Locke first-edition primary witness locked and separated from existing Strauss interpretation
+    - Bank of England Act tax/subscription/corporation provisions cross-walked
+    - Bank of England Charter locked
+  remaining:
+    - If direct quotations from the 1642 Answer are used in narrative, compare them against a scanned 1642 impression rather than relying only on the current transcription.
+    - Preserve the distinction between the Act's £1.5 million total financing scheme and the £1.2 million Bank subscription.

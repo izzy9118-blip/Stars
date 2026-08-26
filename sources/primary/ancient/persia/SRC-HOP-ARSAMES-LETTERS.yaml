@@ -1,0 +1,114 @@
+source_id: SRC-HOP-ARSAMES-LETTERS
+status: GOVERNING_BODLEIAN_CORPUS_AND_CRITICAL_EDITION_LOCKED_DOCUMENT_EXTRACTION_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Arsames / Arshama and associated satrapal scribes, agents and correspondents
+work_or_document_title: Letters and documents of Arsames, satrap of Egypt
+date_or_period: principally later fifth century BCE
+original_language: Imperial Aramaic, written mainly on leather or parchment
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+witness_subclass: SATRAPAL_ADMINISTRATIVE_AND_ESTATE_CORRESPONDENCE
+
+participant_or_observer_position: >-
+  Orders, reports and memoranda generated within the network of a Persian satrap,
+  his estate managers, subordinate officials, travelers and agents. Arsames's voice
+  is mediated by scribes and documentary convention; the archive is not a reflective
+  constitutional treatise.
+temporal_distance_if_retrospective: contemporary administrative correspondence
+
+governing_witness_and_exact_edition_or_archive:
+  principal_collection:
+    repository: Bodleian Libraries, University of Oxford
+    corpus_description: leather documents associated with Arsames and his world
+    project: Arshama Project
+    official_project: https://arshama.bodleian.ox.ac.uk/
+  governing_critical_edition:
+    title: Aršāma and His World: The Bodleian Letters in Context
+    editors:
+      - Christopher J. Tuplin
+      - John Ma
+    publisher: Oxford University Press
+    publication_period: 2020-2021
+    volumes: 3
+  earlier_documentary_control:
+    - Godfrey R. Driver, Aramaic Documents of the Fifth Century B.C., 1954/1957
+  rule: >-
+    Each claim must identify a specific letter, sender/recipient, physical witness,
+    date where recoverable and editorial reading. Corpus-level generalization remains bounded.
+
+star_claim_target:
+  - satrapal_command_and_absent_rule
+  - estate_management_agents_and_resources
+  - Aramaic_correspondence_as_imperial_connective_medium
+  - provincial_office_between_king_local_elites_and_dependents
+intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+
+what_the_source_can_establish:
+  - A Persian satrap's authority operated through written Aramaic instructions, delegated agents, estate managers and routes of communication.
+  - Provincial command joined public office, household and estate interests rather than separating them according to a modern public/private distinction.
+  - Named subordinates, workers, travelers and local authorities entered a documentary chain of order, entitlement, supervision and report.
+  - Imperial rule could continue across physical absence through scribes, sealed letters and trusted intermediaries.
+
+what_the_source_cannot_establish:
+  - That every order was executed as written.
+  - A complete constitutional definition of the satrapy or the whole Achaemenid Empire.
+  - That estate management and state administration were identical in every context.
+  - The subjective experience or consent of laborers and dependents mentioned by elites.
+  - That Imperial Aramaic erased local languages, identities or documentary practices.
+
+rival_or_counter_witnesses_where_known:
+  - SRC-HOP-ELEPHANTINE-PAPYRI
+  - Egyptian Demotic and temple archives
+  - Herodotus on satraps and imperial administration
+  - Persepolis Fortification Archive
+  - royal inscriptions of Darius and Xerxes
+
+boundary_effect: >-
+  Arsames's correspondence replaces an abstract satrapy with documented relations of
+  letter, agent, estate, travel and delegated authority. It also blocks the assumption
+  that a provincial governor was either a modern bureaucrat or a purely private magnate.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - satrap and royal office
+    - estate household
+    - scribal and sealed correspondence
+    - delegated local agents
+  human_position:
+    - agent and steward
+    - dependent worker
+    - traveler or messenger
+    - local official
+    - estate holder and petitioner
+  claimed_end: continuity of command, protection and yield of estates, movement of personnel and resources, and provincial order
+  claimed_obligations:
+    - obey written orders
+    - account for property and labor
+    - provision travelers and agents
+    - report through the administrative chain
+  formation_mechanisms:
+    - documentary instruction
+    - hierarchy of trust
+    - household and estate dependence
+  coercive_mechanisms:
+    - command over labor and property
+    - official and estate sanctions
+    - control of access, travel and resources
+  material_relations:
+    - land and estates
+    - grain, seed and livestock
+    - labor
+    - travel provisions
+    - seals and letters
+  knowledge_relations: the absent ruler knows and acts through reports, named agents and documentary memory
+  freedom_relation: persons possess differentiated agency inside office, household and estate hierarchy; no equal autonomous standing is implied
+  crossing_relation: DELEGATED_DOCUMENTARY_RULE_LATER_DIFFERENTIATED_INTO_PUBLIC_BUREAUCRACY_AND_PRIVATE_MANAGEMENT
+  age_of_individual_relevance: >-
+    The archive shows rule extending through records and delegated persons before the
+    modern division between state office, private property and individual employment.
+
+quotation_state: DOCUMENT_SAMPLE_SET_NOT_YET_SELECTED
+star_integration_state: NOT_YET_PROPOSED

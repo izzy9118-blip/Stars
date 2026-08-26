@@ -1,0 +1,102 @@
+source_id: SRC-HOP-PLUTARCH-ARTAXERXES
+status: PREPARATORY_LATE_BIOGRAPHICAL_WITNESS_LOCKED_NOT_ADMITTED
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+branch: history-of-power-retroactive-source-audit-001
+preparatory_exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+
+source_identity:
+  author_or_corporate_author: Plutarch of Chaeronea
+  work_or_document_title: Life of Artaxerxes
+  date_or_period: late first to early second century CE; narrates Artaxerxes II and earlier fourth-century BCE events
+  original_language: Ancient Greek
+  evidence_class: POST_FESTUM_DUSK_WITNESS
+  genre: moral_and_political_biography
+
+participant_or_observer_position: >-
+  Greek moral biographer writing under the Roman Empire with no direct access to the
+  Achaemenid court; he assembles earlier literary traditions, including Ctesian material.
+temporal_distance_if_retrospective: approximately four to five centuries after Artaxerxes II
+
+governing_witness_and_exact_edition_or_archive:
+  working_greek_edition:
+    editor_and_translator: Bernadotte Perrin
+    title: Plutarch's Lives, volume XI
+    contents: Aratus; Artaxerxes; Galba; Otho
+    series: Loeb Classical Library
+    publisher: William Heinemann / G. P. Putnam's Sons
+    year: 1926
+    language_relation: Greek with English translation on facing pages
+    status: WORKING_GREEK_WITNESS_AND_HISTORICAL_TRANSLATION_AID
+  final_critical_target:
+    work: Plutarchi Vitae Parallelae, Vita Artaxerxis
+    edition_family: Teubner critical edition associated with Konrat Ziegler and successors
+    status: EXACT_FASCICLE_AND_PAGINATION_TO_VERIFY_BEFORE_PASSAGE_EXTRACTION
+  bibliographic_control:
+    repository: Folger Shakespeare Library catalog
+    url: https://catalog.folger.edu/record/1454
+    note: volume XI contains Aratus and Artaxerxes, Galba and Otho
+  public_navigation:
+    repository: Perseus / public-domain Plutarch text traditions
+    status: NAVIGATION_ONLY_UNTIL_EDITION_CROSSWALK
+
+history_of_power_targets:
+  star_claim_target:
+    - late_ancient_reception_of_Persian_kingship
+    - royal_character_household_and_court_as_explanatory_forms
+    - succession_family_women_eunuchs_commanders_and_advisers
+    - use_of_Ctesias_and_other_lost_sources
+    - distinction_between_Achaemenid_evidence_and_Roman_imperial_biography
+  intended_claim_class:
+    plutarchan_judgment: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    source_use_and_temporal_distance: WITNESS_METADATA
+    comparison_with_direct_evidence: ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - Plutarch's era interpreted Persian kingship through character, household, kinship, advisers, women, eunuchs, military command and moral decision.
+  - Late ancient biography preserved and reorganized earlier traditions about Artaxerxes II.
+  - Plutarch's use of Ctesias helps control one branch of the lost Persica's reception.
+  - The text shows how Persian monarchy became an object of moral and political biography in the Roman imperial world.
+what_the_source_cannot_establish:
+  - A contemporaneous Achaemenid account of court or administration.
+  - The factual accuracy of every anecdote, speech, motive or character judgment.
+  - The wording of lost sources where Plutarch paraphrases or combines them.
+  - A complete institutional history of Artaxerxes II's reign.
+
+rival_or_counter_witnesses_where_known:
+  - Ctesias fragments and Photius epitome
+  - Xenophon Anabasis and Cyropaedia
+  - royal inscriptions and Babylonian evidence
+  - later classical historians
+boundary_effect: >-
+  Plutarch is admitted to preparatory research as evidence for ancient reception and
+  moral biography, not as transparent testimony from the Persian court.
+
+age_of_individual_crossing:
+  historically_specific_human_positions:
+    - king_as_biographical_subject
+    - royal_relative
+    - court_adviser
+    - eunuch_or_household_actor
+    - commander
+    - moral_reader
+  authority_form: dynastic_kingship_reconstructed_through_character_and_household
+  person_power_relation: >-
+    Public consequences are narrated through the character and relationships of named
+    persons because monarchy gives household proximity and personal judgment imperial range.
+  later_relation: LATE_ANCIENT_PERSONALIZATION_AND_MORALIZATION_OF_IMPERIAL_POWER
+  prohibition: Do not confuse biographical individualization with modern sovereign individuality or with contemporaneous Persian self-understanding.
+
+passage_control:
+  state: TARGETS_IDENTIFIED_GREEK_EDITION_CROSSWALK_PENDING
+  targets:
+    - Plutarch's source statements and references to Ctesias
+    - accession and dynastic conflict
+    - court and household actors
+    - relation between character and public consequence
+    - passages that diverge from Xenophon or direct documentation
+  release_condition: >-
+    Lock the final Greek critical edition, identify Plutarch's named and inferred
+    sources, and separate narrative, quotation and moral inference before use.
+
+star_integration_state: NOT_ADMITTED_PREPARATORY_ONLY

@@ -1,0 +1,51 @@
+source_id: SRC-HOP-DELACOURT-INTEREST-1662
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  author: Pieter de la Court
+  title: Interest van Holland, ofte gronden van Hollands-Welvaren
+  title_page_attribution: V.D.H.
+  year: 1662
+  original_language: Dutch
+  role: dutch_commercial_republicanism_trade_fisheries_manufactures_liberty_and_interest
+
+governing_witness:
+  witness_type: DIPLOMATIC_REPRESENTATION_OF_1662_FIRST_EDITION
+  repository: Digitale Bibliotheek voor de Nederlandse Letteren (DBNL)
+  url: https://www.dbnl.org/tekst/cour001inte01_01/
+  edition: first edition, 1662
+  imprint: "Amsterdam: Joan. Cyprianus vander Gracht, 1662"
+  basis_copy:
+    repository: Universiteitsbibliotheek Leiden
+    shelfmark: 1159 E 15
+  rights: Public domain
+
+corroborating_scan:
+  repository: Columbia University Libraries / Internet Archive
+  facsimile: https://commons.wikimedia.org/wiki/File:Interest_van_Holland,_ofte,_Gronden_van_Hollands-welvaren_(IA_ldpd_6424389_000).pdf
+  publication_year: 1662
+  pages: 288 scan pages
+  rights: Public domain
+
+historical_english_translation:
+  title: The True Interest and Political Maxims of the Republic of Holland
+  repository: Online Library of Liberty
+  url: https://oll.libertyfund.org/titles/court-the-true-interest-and-political-maxims-of-the-republic-of-holland
+  status: READING_AID_NOT_GOVERNING
+
+attribution_policy:
+  rule: >-
+    Repository attribution follows Pieter de la Court while preserving the V.D.H.
+    title-page attribution and noting that historical English editions sometimes
+    attached Johan de Witt's name to the work. De Witt's Deductie and De la Court's
+    Interest must remain separate witnesses.
+
+witness_policy:
+  governing_language: Dutch
+  rule: >-
+    Quotations and close abstractions must be checked against the 1662 Dutch first
+    edition represented diplomatically by DBNL.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED

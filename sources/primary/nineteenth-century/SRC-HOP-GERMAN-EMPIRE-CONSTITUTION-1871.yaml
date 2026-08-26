@@ -1,0 +1,28 @@
+source_id: SRC-HOP-GERMAN-EMPIRE-CONSTITUTION-1871
+status: GOVERNING_OFFICIAL_TEXT_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+work:
+  corporate_author: German Empire
+  title: Gesetz, betreffend die Verfassung des Deutschen Reichs
+  date: 1871-04-16
+  original_language: German
+  role: imperial_federal_unification_superior_law_common_administration_and_military_power
+witness:
+  publication: Deutsches Reichsgesetzblatt
+  year: 1871
+  number: 16
+  pages: 63-85
+  transcription: https://de.wikisource.org/wiki/Verfassung_des_Deutschen_Reichs_(1871)
+  facsimile_reference: https://germanhistorydocs.org/de/reichsgruendung-bismarcks-deutschland-1866-1890/verfassung-des-deutschen-reiches-16-april-1871
+key_relations:
+  - Reich laws take precedence over state laws
+  - prior North German laws become Reich laws under the transition provisions
+  - federal structure retains member kingdoms and states
+  - Reich jurisdiction extends across customs, currency, railways, post/telegraph, commerce, military and legal fields
+  - Bundesrat and Reichstag remain legislative organs while Prussian king becomes German Emperor
+witness_policy: >-
+  Preserve federal continuity from the North German Confederation and the survival of
+  member states. Imperial unification is neither a wholly new administrative creation in
+  1871 nor a unitary abolition of the constituent states.
+quotation_state: CORE_TRANSITION_AND_JURISDICTION_ARTICLES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED

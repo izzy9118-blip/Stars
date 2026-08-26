@@ -1,0 +1,68 @@
+source_id: SRC-HOP-EGYPT-GREAT-HARRIS-PAPYRUS
+status: GOVERNING_PAPYRUS_IDENTIFIED_SECTION_AND_ACCOUNTING_CONTROL_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Royal scribal authority of Ramesses IV memorializing the reign of Ramesses III
+work_or_document_title: Great Harris Papyrus / Papyrus Harris I
+principal_identifier: British Museum EA 9999
+original_language: Hieratic Egyptian
+date_or_period: Early reign of Ramesses IV, Twentieth Dynasty; retrospective account of Ramesses III
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS_AND_ROYAL_POST_FESTUM_SELF_DYNASTIC_RECORD
+participant_or_observer_position: Royal retrospective inventory and narrative of donations, temples, estates, personnel, campaigns, and achievements
+temporal_distance_if_retrospective: Near-post-festum dynastic memorial produced immediately after the reign it celebrates
+
+governing_witness_and_exact_edition_or_archive:
+  original_object:
+    repository: British Museum
+    accession: EA 9999
+    status: GOVERNING_OBJECT_IDENTIFIED_EXACT_COLUMN_SECTION_AND_IMAGE_CROSSWALK_PENDING
+  public_domain_translation_control:
+    editor_translator: James Henry Breasted
+    title: Ancient Records of Egypt, Volume IV
+    url: https://archive.org/details/ancientrecordsof04brea
+    evidence_class: LATER_CRITICAL_TRANSLATION_NOT_PRIMARY
+    status: WORKING_TRANSLATION_PENDING_MODERN_EDITION_AND_ACCOUNTING_CONTROL
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Temple land, goods, personnel, offerings, workshops, and royal donation join sacred maintenance to resource administration.
+  - Royal memory converts a reign's transfers and achievements into a dynastic account of restored order and legitimate succession.
+intended_claim_class:
+  - SELF_WITNESS
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - The categories, institutions, quantities, donations, personnel, and achievements the royal record claims for Ramesses III.
+  - A near-post-festum royal attempt to inventory resources and secure the meaning of a reign for its successor.
+  - The represented relation among palace, temple, land, labor, offering, expedition, and dynastic memory.
+what_the_source_cannot_establish:
+  - That every quantity is directly comparable or independently audited.
+  - That donations were net additions rather than transfers, restorations, or ideological accounting.
+  - The experience of temple workers, cultivators, foreign populations, or taxpayers absent from the royal voice.
+  - A complete balance sheet of the Egyptian state or temple economy.
+
+rival_or_counter_witnesses_where_known:
+  - temple accounts and land papyri including SRC-HOP-EGYPT-WILBOUR-PAPYRUS
+  - settlement, labor, and ration records including SRC-HOP-EGYPT-DEIR-EL-MEDINA-STRIKE
+  - archaeological evidence for temple estates and production
+  - later critical studies of Ramesside economy and Papyrus Harris I
+
+boundary_effect: >-
+  The papyrus can document the royal categories and scale claimed for temple
+  endowment, but royal inventory and praise may not be treated as neutral fiscal accounting.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: King, dynasty, temples, estates, scribal inventory, and offering system
+  human_position: Priest, worker, cultivator, official, soldier, or subject represented as personnel and resource within royal-sacred maintenance
+  demanded_conduct: Service, production, delivery, ritual maintenance, and commemoration as attributed by the royal record
+  formative_technique: Donation, inventory, quantity, temple endowment, royal narrative, succession, and papyrus archive
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    Quantified persons and resources are not modern individuals or economic agents
+    prior to institutions; they are represented within royal-temple categories.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

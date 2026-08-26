@@ -1,0 +1,33 @@
+source_id: SRC-HOP-PREFECTS-28-PLUVIOSE-AN-VIII
+status: GOVERNING_WITNESS_LOCKED
+parent_unit: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: French Republic
+  title: Loi du 28 pluviôse an VIII concernant la division du territoire français et l'administration
+  date: 1800-02-17
+  original_language: French
+  role: territorial_administration_prefects_subprefects_local_executive_concentration
+
+governing_witness:
+  witness_type: OFFICIAL_LEGAL_TEXT
+  repository: Legifrance
+  url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000522248
+  version: INITIALE
+  corroboration:
+    repository: Ministère de l'Intérieur
+    url: https://www.interieur.gouv.fr/ministere/lhistoire-du-ministere/prefets
+
+primary_anchor:
+  location: title_II_departmental_administration_article_3
+  text: "Le préfet sera chargé seul de l'administration."
+
+passage_targets:
+  - creation of prefect, council of prefecture, and departmental council
+  - single-person departmental administration
+  - appointment structure linking local administration to the central executive
+  - subprefects and arrondissement administration
+  - mayors and municipal administration
+
+quotation_state: CORE_ARTICLE_VERIFIED
+analysis_state: NOT_YET_INTEGRATED

@@ -1,0 +1,38 @@
+source_id: SRC-HOP-HOBBES-LEVIATHAN-1651
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  author: Thomas Hobbes
+  title: "Leviathan, or, The Matter, Forme, & Power of a Common-wealth Ecclesiasticall and Civill"
+  year: 1651
+  language: English
+  role: artificial_person_authorization_sovereignty_civil_and_ecclesiastical_power
+
+governing_witness:
+  witness_type: FIRST_EDITION_FIRST_ISSUE_HEAD_FACSIMILE
+  publisher: "Printed for Andrew Crooke, at the Green Dragon in St. Paul's Church-yard"
+  place: London
+  year: 1651
+  facsimile: https://commons.wikimedia.org/wiki/File:Leviathan%3B_or,_The_matter,_forme,_%26_power_of_a_common-wealth,_ecclesiasticall_and_civill_(IA_leviathan00hobba).pdf
+  description: First edition, first issue, identified by the head ornament on the title page
+  pages: 414 scan pages
+  rights: Public domain
+
+supporting_transcription:
+  repository: Wikisource
+  url: https://en.wikisource.org/wiki/Leviathan_(1651)
+  status: Transcription of first edition, first issue; work proper proofread
+
+bibliographic_corroboration:
+  repository: Folger Shakespeare Library
+  record: https://catalog.folger.edu/record/134877
+
+witness_policy:
+  rule: >-
+    Use the first-edition first-issue witness for quotations and spelling-sensitive
+    claims. Project Gutenberg and modernized editions may aid navigation but do not
+    supersede the locked 1651 witness.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED

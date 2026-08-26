@@ -1,0 +1,23 @@
+source_id: SRC-HOP-GERMAN-FLEET-LAW-1898
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Empire
+  title: Gesetz betreffend die deutsche Flotte
+  date: 1898-04-10
+  original_language: German
+  role: statutory_fleet_size_replacement_cycles_personnel_and_multi_year_naval_finance
+governing_witness:
+  witness_type: REICHSGESETZBLATT_SCAN_TRANSCRIPTION
+  citation: "RGBl. 1898, Nr. 15, S. 165-168"
+  locator: https://de.wikisource.org/wiki/Gesetz,_betreffend_die_deutsche_Flotte
+key_passages:
+  - section: 1
+    proposition: Statute fixes a defined fleet establishment.
+  - section: 2
+    proposition: Ship classes receive replacement ages, turning fleet renewal into a recurring legal program.
+  - section: 7
+    proposition: Six-year expenditure ceilings structure naval construction and armament.
+qualification: >-
+  The law shows naval capacity becoming a statutory, budgeted and replacement-based program.
+  Strategic purpose beyond the statute requires policy and strategic witnesses.

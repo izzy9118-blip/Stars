@@ -1,0 +1,44 @@
+source_id: SRC-HOP-CONSTITUTION-1848
+status: GOVERNING_OFFICIAL_TEXT_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: French Constituent Assembly
+  title: Constitution du 4 novembre 1848
+  date: 1848-11-04
+  original_language: French
+  role: democratic_republic_universal_male_suffrage_elected_executive_and_administrative_continuity
+
+governing_witness:
+  witness_type: OFFICIAL_CONSTITUTIONAL_TEXT
+  repository: Élysée
+  url: https://www.elysee.fr/la-presidence/la-constitution-du-4-novembre-1848
+  corroborating_official_record: https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071195
+  language: French
+
+key_provisions:
+  - article: 1
+    issue: sovereignty resides in the universality of French citizens
+  - articles: 18-19
+    issue: public powers emanate from the people and legislative/executive/judicial functions are separated
+  - articles: 24-25
+    issue: direct universal suffrage and electoral body of Frenchmen aged twenty-one with civil and political rights
+  - articles: 43-49
+    issue: executive power delegated to a directly elected President of the Republic
+  - articles: 112-113
+    issue: existing laws, regulations and authorities continue until legally altered or replaced
+
+continuity_anchor:
+  article: 112-113
+  proposition: >-
+    Regime foundation and administrative continuity coexist: the new republic does not
+    suspend the entire inherited legal-administrative apparatus at the moment of constitutional refounding.
+
+witness_policy:
+  rule: >-
+    The constitution governs claims about the Second Republic's formal organization and
+    explicit continuity clauses. It does not prove that every Imperial, Restoration, or July
+    Monarchy institution survived unchanged; institution-specific survival requires separate evidence.
+
+quotation_state: TARGETED_ARTICLES_VERIFIED
+analysis_state: NOT_YET_INTEGRATED

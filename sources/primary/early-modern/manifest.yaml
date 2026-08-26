@@ -1,0 +1,108 @@
+corpus_id: HOP-EARLY-MODERN-PRIMARY-001
+name: Early-Modern Primary Source Repair Corpus
+status: EUROPEAN_CORE_REPAIR_INTEGRATION_READY
+parent_star: STAR-HISTORY-OF-POWER-001
+base_branch: star-history-of-power-001
+working_branch: history-of-power-primary-sources-001
+
+purpose: >-
+  Lock and map the primary witnesses needed to repair the missing European-Atlantic
+  transition from Renaissance statecraft through Reformation jurisdiction, sovereignty,
+  Dutch republican-commercial-financial power, English constitutional conflict and
+  funded public credit, and Enlightenment moderation and popular sovereignty before
+  narrative integration begins.
+
+acquisition_rules:
+  - Primary texts govern over secondary summaries.
+  - Original-language contemporary witnesses govern wherever a usable witness is available.
+  - Translations are subordinate reading witnesses unless explicitly designated otherwise.
+  - Scan, manuscript, transcription, translation, later legal reproduction, and later edition are distinct witnesses.
+  - Exact edition, language, repository, locator, and translator where relevant are fixed before quotation use.
+  - Source-specific witness records govern over discovery-stage notes.
+  - No quotation enters STAR-HISTORY-OF-POWER-001 until checked against its governing witness.
+  - Modern copyrighted editions may be linked and cited but are not copied wholesale into the repository.
+  - Cross-source syntheses must remain distinguishable from propositions stated by individual witnesses.
+  - Prior Stars interpretations are reusable only with explicit provenance and may not replace primary witnesses.
+
+source_registry_note: >-
+  The individual source records in this directory are authoritative for witness
+  metadata and quotation state. This manifest records corpus membership and production
+  status rather than duplicating every source-specific field.
+
+sources:
+  - {source_id: SRC-HOP-MACHIAVELLI-DISCORSI-1531, state: GOVERNING_WITNESSES_LOCKED}
+  - {source_id: SRC-HOP-MACHIAVELLI-PRINCIPE-1532, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-LUTHER-TEMPORAL-AUTHORITY-1523, state: GOVERNING_WITNESS_LOCKED_PASSAGES_EXTRACTED}
+  - {source_id: SRC-HOP-PEACE-AUGSBURG-1555, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-CALVIN-INSTITUTES-IV-20, state: GOVERNING_WITNESS_LOCKED_PASSAGES_EXTRACTED}
+  - {source_id: SRC-HOP-BODIN-REPUBLIQUE-1576, state: GOVERNING_WITNESS_LOCKED_PASSAGES_EXTRACTED}
+  - {source_id: SRC-HOP-VINDICIAE-1579, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-UNION-UTRECHT-1579, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-ACT-ABJURATION-1581, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-EDICT-NANTES-1598, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-VOC-CHARTER-1602, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-GROTIUS-DE-JURE-PRAEDAE, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-GROTIUS-MARE-LIBERUM-1609, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-WISSELBANK-ORDINANCE-1609, state: DOCUMENTARY_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-WISSELBANK-ARCHIVE-5077, state: ARCHIVAL_SERIES_LOCKED}
+  - {source_id: SRC-HOP-PETITION-RIGHT-1628, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-GRAND-REMONSTRANCE-1641, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-ANSWER-NINETEEN-PROPOSITIONS-1642, state: CONTEMPORARY_TEXTUAL_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-PUTNEY-DEBATES-1647, state: PRIMARY_MANUSCRIPT_TRANSCRIPTION_LOCKED}
+  - {source_id: SRC-HOP-HOBBES-LEVIATHAN-1651, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-INSTRUMENT-GOVERNMENT-1653, state: GOVERNING_TEXT_LOCKED}
+  - {source_id: SRC-HOP-BONTEMANTEL-AMSTERDAM-GOVERNMENT-1653-1672, state: PRIMARY_MEMOIR_TRANSCRIPTION_LOCKED}
+  - {source_id: SRC-HOP-DEWITT-DEDUCTIE-1654, state: GOVERNING_WITNESS_LOCKED, hard_rule: NO_ENGLISH_SUBSTITUTE_AS_GOVERNING_WITNESS}
+  - {source_id: SRC-HOP-DELACOURT-INTEREST-1662, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-DEWITT-LYFRENTEN-1671, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-FINANCIE-HOLLAND-30129, state: ARCHIVAL_SERIES_LOCKED}
+  - {source_id: SRC-HOP-DE-LA-VEGA-CONFUSION-1688, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-BILL-RIGHTS-1689, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-LOCKE-TWO-TREATISES-1690, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-BOE-ACT-1694, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-BOE-CHARTER-1694, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-MONTESQUIEU-ESPRIT-LOIS-1748, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-ROUSSEAU-DISCOURS-1755, state: GOVERNING_WITNESS_LOCKED}
+  - {source_id: SRC-HOP-ROUSSEAU-CONTRAT-SOCIAL-1762, state: GOVERNING_WITNESS_LOCKED}
+
+witness_count: 34
+locked_count: 34
+
+maps:
+  - {map_id: RENAISSANCE-STATECRAFT-MACHIAVELLI-001, path: sources/primary/early-modern/maps/RENAISSANCE-STATECRAFT-MACHIAVELLI-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
+  - {map_id: REFORMATION-CONFESSIONAL-SOVEREIGNTY-001, path: sources/primary/early-modern/maps/REFORMATION-CONFESSIONAL-SOVEREIGNTY-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
+  - {map_id: DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001, path: sources/primary/early-modern/maps/DUTCH-CONSTITUTIONAL-COMMERCIAL-POWER-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
+  - {map_id: DUTCH-FINANCIAL-POWER-001, path: sources/primary/early-modern/maps/DUTCH-FINANCIAL-POWER-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
+  - {map_id: ENGLISH-CIVIL-WAR-SOVEREIGNTY-1688-CREDIT-001, path: sources/primary/early-modern/maps/ENGLISH-CIVIL-WAR-SOVEREIGNTY-1688-CREDIT-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
+  - {map_id: ENLIGHTENMENT-MONTESQUIEU-ROUSSEAU-001, path: sources/primary/early-modern/maps/ENLIGHTENMENT-MONTESQUIEU-ROUSSEAU-001.yaml, status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE}
+
+repair_sequence:
+  - renaissance_statecraft_and_machiavelli
+  - reformation_and_confessional_jurisdiction
+  - bodin_and_sovereignty
+  - dutch_revolt_and_confederal_foundation
+  - chartered_corporate_power_and_maritime_law
+  - de_witt_de_la_court_and_dutch_republican_interest
+  - amsterdam_payment_securities_and_holland_public_credit
+  - english_civil_war_and_hobbesian_sovereignty
+  - 1688_and_constitutional_monarchy
+  - funded_public_credit_and_fiscal_military_power
+  - enlightenment_institutional_moderation_and_popular_sovereignty
+
+production_state:
+  renaissance_machiavelli_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
+  reformation_bodin_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
+  dutch_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
+  english_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
+  enlightenment_unit: NARRATIVE_GATE_CONDITIONALLY_SATISFIED
+  european_core_repair: READY_FOR_CONTROLLED_NARRATIVE_AND_STRUCTURED_STAR_INTEGRATION
+
+integration_controls:
+  - Preserve current History of Power material; integration is additive and connective rather than a restart.
+  - Insert Machiavelli before the Reformation/Bodin/Dutch/English sequence and before the existing Bacon-centered layer.
+  - Preserve existing Bacon, Hume, Voltaire, Condorcet, Franklin, Federalist, Burke, Morris, and Talleyrand material unless a direct contradiction requires an explicit correction.
+  - Link existing STAR-AGE-OF-INDIVIDUAL-001 interpretations by source ID where reused; do not paraphrase them as primary evidence.
+  - Maintain separate narrative roles for historical institutions, actors' self-understanding, philosophical teaching, and later interpretation.
+  - Preserve De Witt 1654 Dutch edition as the governing witness.
+  - Preserve manuscript/transcription distinctions for VOC, Grotius, 1642 Answer, Wisselbank, and legal settlements.
+  - Non-European early-modern imperial comparisons remain a separate expansion unit and are not silently folded into this European-Atlantic repair.

@@ -1,0 +1,80 @@
+source_id: SRC-HOP-EGYPT-HATSHEPSUT-KINGSHIP
+status: PRIMARY_MONUMENT_CLUSTER_REGISTERED_SITE_LEVEL_EXTRACTION_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Hatshepsut's royal monumental and scribal programs
+work_or_document_title: Hatshepsut Kingship Witness Cluster
+original_language: Egyptian monumental inscriptions
+date_or_period: Eighteenth Dynasty, reign of Hatshepsut
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS_AND_ROYAL_SELF_WITNESS
+participant_or_observer_position: Royal self-representation through titulary, image, coronation narrative, temple construction, obelisk inscription, and cult program
+temporal_distance_if_retrospective: Contemporary monumental self-witness; individual scenes may narrate earlier divine birth or accession events
+
+governing_witness_and_exact_edition_or_archive:
+  monument_units:
+    - site: Deir el-Bahri, Djeser-Djeseru
+      target: coronation, divine birth, titulary, offering, and expedition scenes
+    - site: Karnak
+      target: obelisk inscriptions, royal names, and temple-building claims
+    - object_or_site: Chapelle Rouge / Red Chapel blocks
+      target: ritual kingship and royal representation
+    - site: Speos Artemidos
+      target: restoration and royal-order claims
+  rule: >-
+    Each quotation or proposition must identify one monument, scene, register,
+    line, and edition. The cluster is not a license to synthesize all monuments
+    into one undifferentiated statement.
+  early_epigraphic_controls:
+    - author: Édouard Naville
+      work: The Temple of Deir el Bahari
+      evidence_class: LATER_EPIGRAPHIC_CONTROL_NOT_PRIMARY
+      status: PUBLIC_DOMAIN_VOLUMES_TO_BE_LOCKED
+    - author: James Henry Breasted
+      work: Ancient Records of Egypt, Volume II
+      url: https://archive.org/details/ancientrecordsof02brea
+      evidence_class: LATER_CRITICAL_TRANSLATION_NOT_PRIMARY
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - A woman could be represented through the full royal office, titulary, image, ritual, building, and succession claims of Egyptian kingship.
+  - Royal office and the sexed body of its bearer interact without being reducible either to private identity or to a timeless abstraction.
+intended_claim_class:
+  - SELF_WITNESS
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - Hatshepsut's documented use of royal names, titles, regalia, images, building programs, rituals, and claims associated with kingship.
+  - Variation in grammatical gender, iconography, and political representation across her monuments when controlled scene by scene.
+  - The institutional capacity of Egyptian kingship to be borne by Hatshepsut and represented as legitimate rule.
+what_the_source_cannot_establish:
+  - General equality of women in Egyptian political or social life.
+  - A modern theory of gender identity or office neutrality.
+  - Hatshepsut's private motives or the motives of every later alteration to her images and names.
+  - That every monument expressed one unchanged strategy throughout her reign.
+
+rival_or_counter_witnesses_where_known:
+  - monuments of Thutmose II and Thutmose III
+  - later erasures, recuttings, and restorations controlled archaeologically
+  - king lists and later historical memory
+  - specialist studies of Hatshepsut's titulary, chronology, and image
+
+boundary_effect: >-
+  This cluster can secure the bounded claim that Hatshepsut occupied and represented
+  the royal office. It cannot make that fact a generalized claim about individual
+  self-definition or all women in Egypt.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: Royal office embodied through name, titulary, image, ritual, temple, and succession
+  human_position: Mortal bearer whose public identity is transformed and constrained by a more-than-private office
+  demanded_conduct: Performance of kingship through cult, building, command, offering, and maintenance of ma'at
+  formative_technique: Naming, coronation, regalia, iconography, monumental repetition, ritual, and controlled memory
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    The distinction between person and office is central, but it does not imply
+    the modern individual as self-authoring identity prior to political order.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

@@ -1,0 +1,40 @@
+source_id: SRC-HOP-BOE-ACT-1694
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  corporate_author: Parliament of England
+  short_title: Bank of England Act 1694
+  long_title: >-
+    An Act for granting to theire Majesties severall Rates and Duties upon Tunnage
+    of Shipps and Vessells and upon Beere Ale and other Liquors for secureing certaine
+    Recompenses and Advantages in the said Act mentioned to such Persons as shall
+    voluntarily advance the summe of Fifteene hundred thousand pounds towards the
+    carrying on the Warr against France.
+  citation: "5 & 6 Will. & Mar. c. 20"
+  royal_assent: 1694-04-25
+  original_language: English
+  role: funded_public_credit_taxation_subscription_and_war_finance
+
+governing_witness:
+  witness_type: ENACTED_STATUTE_TRANSCRIPTION
+  repository: legislation.gov.uk
+  url: https://www.legislation.gov.uk/aep/WillandMar/5-6/20/contents/enacted
+  language: English
+
+paired_charter:
+  title: Charter of the Corporation of the Governor and Company of the Bank of England
+  date: 1694-07-27
+  repository: Bank of England
+  url: https://www.bankofengland.co.uk/-/media/boe/files/about/legislation/boe-charter.pdf
+  relation: >-
+    The Act creates the revenue/subscription framework; the Charter constitutes
+    the subscribers as the Governor and Company of the Bank of England.
+
+witness_policy:
+  rule: >-
+    The fiscal-financial power layer must preserve the distinction between the
+    parliamentary revenue-and-subscription Act and the subsequent corporate Charter.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED

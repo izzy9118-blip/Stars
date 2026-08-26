@@ -1,0 +1,154 @@
+corpus_id: HOP-PERSIA-PRELIMINARY-001
+name: Persia Preparatory Source Corpus
+status: PREPARATORY_PACKAGE_COMPLETE_NOT_ADMITTED
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+branch: history-of-power-retroactive-source-audit-001
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+persia_audit: sources/audits/ancient/PERSIA-RETROACTIVE-SOURCE-AUDIT-001.yaml
+preparatory_exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+
+purpose: >-
+  Preserve a complete preparatory Persia package under the owner's instruction to
+  continue while maintaining the unresolved Egypt certification boundary. The package
+  separates Persian royal self-description, Babylonian public memory, routine imperial
+  administration, provincial documentary life, Greek contemporary and post-festum
+  reflection, and modern critical reconstruction. It prepares but does not admit any
+  Persian claim into STAR-HISTORY-OF-POWER-001.
+
+exception_boundary:
+  authorized:
+    - source discovery and governing-witness locking for controlled review
+    - evidence-class, author-position and transmission control
+    - non-teleological Age-of-the-Individual person-power analysis
+    - non-admitted claim decomposition and passage-target selection
+    - Herodotus reattribution as binding research control
+    - a non-operative structured-Star correction proposal
+  not_authorized:
+    - certification or canonical application of the Egypt correction
+    - admission of Persian propositions or quotations into STAR-HISTORY-OF-POWER-001
+    - canonical narrative revision
+    - declaration that the Persian narrative gate is satisfied
+    - movement beyond Persia to Greece
+  no_self_certification: >-
+    The owner's instruction to continue authorizes preparatory production only. It is
+    not treated as certification, source admission, adoption of the correction proposal,
+    or approval of every provisional claim.
+
+acquired_for_controlled_review_not_admitted:
+  royal_babylonian_and_imperial_self_witness:
+    - {source_id: SRC-HOP-CYRUS-CYLINDER, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+    - {source_id: SRC-HOP-NABONIDUS-CHRONICLE, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+    - {source_id: SRC-HOP-BEHISTUN, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+    - {source_id: SRC-HOP-DARIUS-DNA-DNB, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+  administrative_and_provincial_witnesses:
+    - {source_id: SRC-HOP-PERSEPOLIS-FORTIFICATION, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+    - {source_id: SRC-HOP-ARSAMES-LETTERS, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+    - {source_id: SRC-HOP-ELEPHANTINE-PAPYRI, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+    - {source_id: SRC-HOP-UDJAHORRESNET, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+  ancient_reflective_and_counter_witnesses:
+    - {source_id: SRC-HOP-AESCHYLUS-PERSIANS, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+    - {source_id: SRC-HOP-XENOPHON-ANABASIS, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+    - {source_id: SRC-HOP-XENOPHON-CYROPAEDIA, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+  later_critical_controls:
+    - {source_id: SRC-HOP-HALLOCK-PFT-1969, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+    - {source_id: SRC-HOP-KUHRT-PERSIAN-EMPIRE, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+    - {source_id: SRC-HOP-BRIANT-EMPIRE-PERSE, state: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED}
+
+preparatory_maps:
+  - map_id: PERSIA-PERSON-AUTHORITY-001
+    path: sources/primary/ancient/persia/maps/PERSIA-PERSON-AUTHORITY-001.yaml
+    state: PREPARATORY_NON_OPERATIVE
+    disposition: >-
+      Source-selection and boundary architecture only. Every proposition and Age
+      crossing remains subject to passage-level verification and Star-native review.
+
+research_controls:
+  - control_id: HERODOTUS-REATTRIBUTION-AND-CONTROL-001
+    path: sources/primary/ancient/persia/HERODOTUS-REATTRIBUTION-AND-CONTROL-001.yaml
+    state: BINDING_RESEARCH_CONTROL_NOT_STAR_REVISION
+    disposition: >-
+      Herodotean political judgments remain Herodotus's unless independent Persian,
+      Babylonian, Aramaic, Egyptian or administrative evidence carries the relation.
+      This research control does not itself revise the canonical Star.
+
+passage_target_sets:
+  - target_set: PERSIA_ROYAL_AND_BABYLONIAN
+    path: sources/primary/ancient/persia/passages/PERSIA-ROYAL-BABYLONIAN-PASSAGE-TARGETS-001.yaml
+    state: TARGETS_SELECTED_NOT_VERIFIED_OR_ADMITTED
+  - target_set: PERSIA_ADMINISTRATIVE_AND_PROVINCIAL
+    path: sources/primary/ancient/persia/passages/PERSIA-ADMINISTRATIVE-PROVINCIAL-PASSAGE-TARGETS-001.yaml
+    state: TARGETS_SELECTED_NOT_VERIFIED_OR_ADMITTED
+  - target_set: PERSIA_ANCIENT_REFLECTIVE
+    path: sources/primary/ancient/persia/passages/PERSIA-REFLECTIVE-PASSAGE-TARGETS-001.yaml
+    state: TARGETS_SELECTED_NOT_VERIFIED_OR_ADMITTED
+
+structured_proposal:
+  proposal_id: PERSIA-STRUCTURED-STAR-CORRECTION-PROPOSAL-001
+  path: sources/primary/ancient/persia/integration/PERSIA-STRUCTURED-STAR-CORRECTION-PROPOSAL-001.yaml
+  state: NON_OPERATIVE_PREPARATORY_PROPOSAL_NOT_APPLIED
+  rule: >-
+    The proposal gives the research a native destination in the persian_power node.
+    It has no semantic or canonical effect until sources, passages, boundaries and
+    owner-governed admission requirements are satisfied.
+
+current_counts:
+  source_records_acquired_for_review: 14
+  preparatory_map_files: 1
+  binding_research_controls: 1
+  passage_target_sets: 3
+  verified_passage_sets: 0
+  structured_integration_proposals: 1
+  admitted_star_evidence: 0
+  canonical_star_revisions: 0
+  narrative_revisions: 0
+
+preparatory_findings:
+  - >-
+    Cyrus's Babylonian foundation inscription, the Babylonian chronicle tradition
+    and Darius's multilingual royal inscriptions are distinct political voices.
+  - >-
+    Persepolis tablets, Arsames correspondence and Elephantine documents reveal
+    imperial power through rations, travel, property, petitions, agents and family
+    relations rather than only through conquest narratives.
+  - >-
+    Udjahorresnet supplies an Egyptian elite self-presentation under Persian rule
+    that must stand beside, not disappear beneath, Herodotus's Cambyses.
+  - >-
+    Aeschylus, Xenophon's Anabasis and Xenophon's Cyropaedia are tragedy,
+    participant post-festum history and philosophical reconstruction respectively;
+    their disagreement is evidence and may not be smoothed into one Persian teaching.
+  - >-
+    The Age-of-the-Individual crossing concerns historically specific subjecthood,
+    household and documentary agency, labor, travel, property, religious community,
+    military service and imperial classification—not a hidden march toward modern rights.
+
+verification_required_before_any_admission:
+  - Lock exact governing editions, archive identifiers, languages and transmission chains for every source.
+  - Extract original-language passages or document samples against those witnesses.
+  - Distinguish royal legitimation from event sequence and routine administration.
+  - Test mapped claims against counter-witnesses and modern critical controls.
+  - Convert only supported relations into native Star claim classes.
+  - Preserve Egypt's pending correction and certification status.
+
+structured_integration_release_conditions:
+  - Owner certifies and safely applies the Egypt correction, or expressly authorizes a further bounded exception.
+  - Persian governing witnesses and proposed passages are independently checked.
+  - The non-operative proposal is reviewed against the current structured Star.
+  - Owner or governing workflow separately authorizes Persian admission.
+
+prohibited_inferences:
+  - Acquisition for review does not equal evidentiary admission.
+  - Passage targeting does not equal quotation verification.
+  - A preparatory map does not equal a verified claim map.
+  - Herodotus reattribution control does not erase Herodotus or rewrite the Star.
+  - A royal inscription does not become neutral imperial history.
+  - A person-power crossing does not establish causal descent toward modern individuality.
+  - The structured proposal does not satisfy the Persian narrative gate.
+
+chronology_hold:
+  current_layer: PERSIA
+  next_layer: GREECE
+  state: HOLD_BEFORE_GREECE
+  next_action: OWNER_REVIEW_OF_EGYPT_CORRECTION_OR_EXPLICIT_FURTHER_EXCEPTION

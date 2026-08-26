@@ -1,0 +1,26 @@
+source_id: SRC-HOP-GERMAN-STATISTICAL-YEARBOOK-1913
+status: GOVERNING_OFFICIAL_STATISTICAL_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Kaiserliches Statistisches Amt
+  title: Statistisches Jahrbuch für das Deutsche Reich
+  volume_year: 1913
+  publication_year: 1914
+  original_language: German
+  role: official_measurement_of_population_industry_mining_trade_transport_finance_and_social_insurance
+governing_witness:
+  witness_type: OFFICIAL_STATISTICAL_YEARBOOK_DIGITIZATION
+  repository: Statistisches Bundesamt / historical statistical yearbooks
+  catalogue: https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/_inhalt.html
+  full_view_corroboration: https://books.google.com/books?id=9IelvVQwVWcC
+  free_volume_index: https://www.digizeitschriften.de/search?filter%5BZeitschriften%5D%5B1%5D=514401303%7Clog1
+extraction_targets:
+  - coal and lignite production
+  - iron ore, pig iron and steel production
+  - railways and merchant shipping
+  - foreign trade
+  - stock corporations and securities where tabulated
+  - insurance institutions and covered populations
+qualification: >-
+  Official statistics measure categories defined by the state and require attention to units,
+  territorial boundaries and revisions. They are used to quantify capacity, not to infer political purpose.

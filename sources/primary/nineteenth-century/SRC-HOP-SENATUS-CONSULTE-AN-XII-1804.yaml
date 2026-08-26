@@ -1,0 +1,29 @@
+source_id: SRC-HOP-SENATUS-CONSULTE-AN-XII-1804
+status: GOVERNING_WITNESS_LOCKED
+parent_unit: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: Sénat conservateur / French Republic
+  title: Sénatus-consulte organique du 28 floréal an XII
+  date: 1804-05-18
+  original_language: French
+  role: imperial_dignity_heredity_state_office_oath_and_promulgation
+
+governing_witness:
+  witness_type: OFFICIAL_CONSTITUTIONAL_TEXT_WITH_ARCHIVAL_REFERENCE
+  repository: Presidency of the French Republic / Archives nationales
+  url: https://www.elysee.fr/la-presidence/le-senatus-consulte-organique-du-28-floreal-an-xii
+  archival_reference: AE/I/10/14
+
+primary_anchors:
+  - article: 1
+    text: "Le Gouvernement de la République est confié à un Empereur, qui prend le titre d'Empereur des Français."
+  - article: 3
+    issue: hereditary imperial dignity in Napoleon's direct legitimate male line
+  - article: 56
+    issue: oath of fidelity to the Emperor by civil, judicial, military, and constitutional officeholders
+  - article: 140
+    issue: promulgation and transmission of law through courts, tribunals, and administrative authorities
+
+quotation_state: CORE_PASSAGES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED

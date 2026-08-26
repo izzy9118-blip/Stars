@@ -1,0 +1,79 @@
+source_id: SRC-HOP-EGYPT-REKHMIRE-VIZIER
+status: GOVERNING_MONUMENT_AND_FACSIMILE_TRADITION_REGISTERED
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Tomb program of Rekhmire, vizier under Thutmose III and Amenhotep II
+work_or_document_title:
+  - The Installation of the Vizier
+  - The Duties of the Vizier
+original_monument: Theban Tomb 100 (TT100), tomb of Rekhmire
+date_or_period: Eighteenth Dynasty
+original_language: Egyptian monumental inscription
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS_WITH_ELITE_SELF_PRESENTATION
+participant_or_observer_position: Senior official's funerary monument preserving idealized institutional texts and scenes
+temporal_distance_if_retrospective: Contemporary to Rekhmire's office and memorial program; textual traditions may predate the tomb version
+
+governing_witness_and_exact_edition_or_archive:
+  original_site:
+    object: Inscribed and painted walls of TT100
+    repository_or_site: Sheikh Abd el-Qurna, Theban necropolis
+    status: GOVERNING_MONUMENT_IDENTIFIED_SCENE_AND_REGISTER_CROSSWALK_PENDING
+  facsimile_and_epigraphic_control:
+    authors: Norman de Garis Davies and Nina de Garis Davies
+    title: The Tomb of Rekh-mi-Rē at Thebes
+    publisher: Metropolitan Museum of Art Egyptian Expedition
+    year: 1943
+    repository: Metropolitan Museum of Art Publications
+    status: FACSIMILE_AND_EPIGRAPHIC_CONTROL_TO_BE_LOCKED_BY_PLATE_AND_PAGE
+  public_domain_translation_control:
+    editor_translator: James Henry Breasted
+    title: Ancient Records of Egypt, Volume II
+    year: 1906
+    url: https://archive.org/details/ancientrecordsof02brea
+    evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - The vizierate joins palace access, petitions, records, land, taxation, local officials, judgment, reporting, and execution within delegated royal office.
+  - Egyptian official ideology distinguishes the office's standard from the private appetite or partiality of its occupant.
+intended_claim_class:
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - The institutional functions, routines, hierarchy, and ethical expectations represented in the Rekhmire tomb program.
+  - A model of office in which hearing, impartiality, record, access, reporting, and royal delegation are joined.
+  - How elite service and personal commemoration are presented through performance of an office larger than one holder.
+what_the_source_cannot_establish:
+  - That every vizier performed every listed duty in the same way across Egyptian history.
+  - That the tomb program is a neutral administrative manual detached from funerary self-presentation.
+  - The actual frequency of impartial judgments or successful petitions.
+
+rival_or_counter_witnesses_where_known:
+  - Teaching of Ptahhotep
+  - SRC-HOP-EGYPT-HOREMHEB-EDICT
+  - SRC-HOP-EGYPT-ELOQUENT-PEASANT
+  - administrative papyri and local court records
+
+boundary_effect: >-
+  The text can define an Egyptian ideal and represented jurisdiction of high
+  office, but practice-level claims require independent administrative evidence.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - forms_of_authority.sacred_authority
+  authority_bearer: King delegated through a durable office, records, subordinate officials, and procedure
+  human_position: Officeholder whose dignity and identity arise through disciplined service; petitioner who reaches rule through an administrative mediator
+  demanded_conduct: Impartial hearing, accurate record, obedience to office, and restraint of personal favor
+  formative_technique: Installation speech, oath-like instruction, routine, recordkeeping, hierarchy, tomb image, and memorial exemplarity
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    Bureaucratic role differentiation does not imply the modern impersonal state
+    or autonomous civil servant. Office remains embedded in royal, sacred, and
+    funerary order.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

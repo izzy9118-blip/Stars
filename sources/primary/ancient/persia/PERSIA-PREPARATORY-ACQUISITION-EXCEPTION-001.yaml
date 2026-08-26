@@ -1,0 +1,52 @@
+exception_id: PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001
+status: BINDING_LIMITED_EXCEPTION
+parent_star: STAR-HISTORY-OF-POWER-001
+branch: history-of-power-retroactive-source-audit-001
+
+background:
+  prior_hold: >-
+    The preliminary Persia manifest required owner certification of the Egypt repair
+    before formal Persia acquisition, claim promotion, integration or movement onward.
+  egypt_state: >-
+    The Egypt source corpus and structured-Star correction package are conditionally
+    ready for controlled review with specified held claims, but the owner has not issued
+    a formal certification and the structured Star has not yet been corrected.
+  owner_directive: >-
+    After being told that Egypt was conditionally closed at the evidence level and that
+    work would move to Persia's identified archive deficit, the owner repeatedly directed
+    the project to 'Go on'.
+
+interpretation:
+  authorized:
+    - continue preparatory source discovery and witness locking for Persia
+    - classify source positions and Age-of-the-Individual crossings
+    - prepare non-admitted claim maps and passage targets
+    - reattribute existing Herodotean claims for later review
+  not_authorized:
+    - certify the Egypt repair
+    - apply the Egypt structured-Star correction
+    - admit Persian claims into STAR-HISTORY-OF-POWER-001
+    - revise the canonical History of Power narrative
+    - declare the Persian narrative gate satisfied
+    - move beyond Persia to Greece without a later governing decision
+
+no_self_certification_rule: >-
+  The owner's instruction to continue is not rewritten as certification, approval of
+  every source record, or adoption of any proposed correction. Certification status
+  remains explicit and separate.
+
+artifact_disposition:
+  Persia_source_records: ACQUIRED_FOR_CONTROLLED_REVIEW_NOT_ADMITTED
+  Persia_claim_maps: PREPARATORY_NON_OPERATIVE
+  Herodotus_reattribution: BINDING_RESEARCH_CONTROL_NOT_STAR_REVISION
+  Egypt_correction_package: GOVERNING_PENDING_CORRECTION_NOT_CERTIFIED
+
+completion_condition: >-
+  Before Persian findings enter the structured Star, the workflow must either certify
+  and apply the Egypt repair or adopt a further explicit owner-approved exception that
+  preserves Egypt's pending correction while authorizing Persian structured integration.
+
+chronology_hold:
+  current_layer: PERSIA
+  next_layer: GREECE
+  state: HOLD_AT_PERSIA_AFTER_PREPARATORY_PACKAGE

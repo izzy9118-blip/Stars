@@ -1,0 +1,119 @@
+source_id: SRC-HOP-BEHISTUN
+status: GOVERNING_MONUMENT_AND_MULTILINGUAL_TEXTUAL_TRADITION_LOCKED_PASSAGE_EXTRACTION_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Darius I and Achaemenid royal inscriptional administration
+work_or_document_title: Behistun / Bisotun Inscription
+date_or_period: created in stages circa 520-518 BCE after Darius's accession
+original_languages:
+  - Elamite
+  - Babylonian Akkadian
+  - Old Persian
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+witness_subclass: ROYAL_MULTILINGUAL_IMPERIAL_SELF_DESCRIPTION_AND_PUBLIC_MONUMENT
+
+participant_or_observer_position: >-
+  Darius's monumental account of his genealogy, accession, rebellions, commanders,
+  victories, royal truth and imperial restoration. It is a self-justifying victor's
+  narrative designed for preservation and circulation, not a neutral record of the defeated.
+temporal_distance_if_retrospective: contemporary with the consolidation it describes, while narrating events after victory
+
+governing_witness_and_exact_edition_or_archive:
+  monument:
+    location: Bisotun, Kermanshah Province, Iran
+    type: rock relief with multilingual cuneiform inscription
+    heritage_record: https://whc.unesco.org/en/list/1222/
+    condition: versions and panels have suffered differential damage and were created in stages
+  textual_controls:
+    - Rüdiger Schmitt, The Bisitun Inscriptions of Darius the Great: Old Persian Text, Corpus Inscriptionum Iranicarum, 1991
+    - Rüdiger Schmitt, BISOTUN iii. Darius's Inscriptions, Encyclopaedia Iranica
+    - L. W. King and R. C. Thompson, The Sculptures and Inscription of Darius the Great on the Rock of Behistûn in Persia, 1907
+  navigational_transliteration:
+    source: Livius Achaemenid Royal Inscriptions
+    url: https://www.livius.org/sources/content/behistun-persian-text/behistun-t-01/
+    status: READING_AND_LINE_NAVIGATION_AID_NOT_GOVERNING
+  transmitted_copies:
+    - Babylonian fragments from Babylon
+    - Aramaic version from Elephantine
+  rule: >-
+    The monument and language-specific critical editions govern. Differences among
+    Old Persian, Elamite, Babylonian and Aramaic transmission are evidence rather than noise.
+
+star_claim_target:
+  - Darius_dynastic_legitimacy_and_restoration
+  - lie_truth_and_royal_order
+  - named_provinces_commanders_revolts_and_punishment
+  - multilingual_circulation_of_imperial_memory
+  - comparison_with_Herodotus_constitutional_and_accession_narratives
+intended_claim_class: SELF_WITNESS
+
+what_the_source_can_establish:
+  - Darius publicly represented his kingship as Achaemenid restoration granted by Ahuramazda.
+  - The inscription names lands, rebels, commanders, battles, punishments and differentiated versions of imperial events.
+  - Royal truth and the condemnation of the Lie are central categories of Darius's self-justification.
+  - The royal account was monumentalized in multiple languages and copied or translated for imperial circulation.
+
+what_the_source_cannot_establish:
+  - That Darius's genealogy and account of Gaumata are uncontested historical fact.
+  - That all defeated figures were impostors merely because the victor calls them liars.
+  - That every province accepted the royal interpretation of truth, rebellion or legitimate succession.
+  - That multilingual publication created political equality or mutual understanding.
+  - A complete administrative constitution of the empire from a victory monument.
+
+rival_or_counter_witnesses_where_known:
+  - Herodotus, Histories book III
+  - Babylonian documents concerning the rebellions
+  - Elephantine Aramaic Behistun copy
+  - later Ctesias fragments
+  - provincial archives and local inscriptions
+
+boundary_effect: >-
+  Behistun replaces a Herodotus-only account of Darius with Darius's own imperial
+  construction while refusing to let royal self-witness become final verdict. The
+  categories truth, lie, friend, enemy and rebellion remain royal claims requiring counter-witnesses.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - Darius as king of kings
+    - Ahuramazda as grantor and protector of kingship
+    - multilingual royal inscription and imperial command
+  human_position:
+    - loyal commander
+    - subject people
+    - rebel or rival claimant
+    - future king and reader addressed by the monument
+  claimed_end: restored dynasty, obedience, truth, imperial unity and preservation of royal memory
+  claimed_obligations:
+    - obey royal commands
+    - reject the Lie
+    - preserve and transmit the inscription
+    - remain loyal to the Achaemenid king
+  formation_mechanisms:
+    - monumental image
+    - repeated royal speech formula
+    - multilingual circulation
+    - exemplary reward and punishment
+  coercive_mechanisms:
+    - campaign
+    - capture
+    - execution and mutilation
+    - appointment of commanders and replacement rulers
+  material_relations:
+    - road and monumental landscape
+    - provinces
+    - army
+    - tribute and command
+    - copies on clay and parchment
+  knowledge_relations: the king organizes political truth through named sequence, image, language and enforced memory
+  freedom_relation: persons are classified by loyalty or rebellion inside a divinely granted empire; no private right to authorize rule is stated
+  crossing_relation: OLDER_IMPERIAL_TRUTH_FORM_LATER_CONTESTED_BY_HISTORICAL_AND_INDIVIDUAL_JUDGMENT
+  age_of_individual_relevance: >-
+    The source shows identity and moral status assigned through relation to royal truth
+    and obedience. Later individuality will transform who may judge political truth,
+    but that later development must not be projected backward into Darius's monument.
+
+quotation_state: TARGETED_COLUMNS_IDENTIFIED_ORIGINAL_LANGUAGE_CROSSWALK_PENDING
+star_integration_state: NOT_YET_PROPOSED

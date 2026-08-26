@@ -1,0 +1,51 @@
+source_id: SRC-HOP-DIODORUS-EGYPT-I
+status: GOVERNING_GREEK_EDITION_LOCKED_PASSAGE_EXTRACTION_PENDING
+
+author_or_corporate_author: Diodorus Siculus
+work_or_document_title: Bibliotheca Historica, Book I
+date_or_period: first century BCE
+original_language: Greek
+evidence_class: POST_FESTUM_DUSK_WITNESS
+
+governing_witness_and_exact_edition_or_archive:
+  governing_edition: Diodori Bibliotheca Historica, Books 1-5, eds. Immanuel Bekker, Ludwig Dindorf and Friedrich Vogel, Leipzig: Teubner, 1888-1890
+  cts_urn: urn:cts:greekLit:tlg0060.tlg001.perseus-grc5
+  online_edition: https://atlas.perseus.tufts.edu/library/urn:cts:greekLit:tlg0060.tlg001.perseus-grc5/
+  translation_status: translations may aid reading but do not replace the Greek edition
+
+participant_or_observer_position: Sicilian Greek universal historian offering a systematic late Hellenistic reconstruction
+temporal_distance_if_retrospective: separated by centuries or millennia from most institutions described; dependent on travel, reports and earlier writings
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - later_ancient_reconstruction_of_Egyptian_kingship_law_and_social_order
+  - Egyptian_antiquity_as_object_of_philosophical_history
+  - reception_boundary_between_Egypt_and_Hellenistic_world
+intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - A major late Hellenistic historian systematized Egyptian cosmogony, kingship, law, priesthood, courts, custom and remembered antiquity.
+  - Diodorus's arrangement shows how Egyptian power was made intelligible within Greek universal history.
+what_the_source_cannot_establish:
+  - That every institution he describes existed unchanged across pharaonic history.
+  - Direct Egyptian self-understanding without corroborating Egyptian witnesses.
+  - The reliability of unnamed informants or lost intermediary sources by assertion alone.
+
+rival_or_counter_witnesses_where_known:
+  - Herodotus Book II
+  - Manetho fragments
+  - Strabo Book XVII
+  - Egyptian monuments and administrative records
+boundary_effect: >-
+  Diodorus enters as a first-class ancient reconstruction, not a substitute for the
+  indigenous archive. His systematic order may reveal as much about Hellenistic historiography as about Egypt.
+
+age_of_individual_crossing:
+  person_power_relation: later observer classifying subjects, offices, laws and customs within a comparative history
+  authority_demand: none directly; the work interprets rather than administers Egyptian persons
+  conduct_formation: historical comparison turns inherited orders into objects of judgment
+  later_relation: INTERPRETIVE_BRIDGE_TOWARD_COMPARATIVE_HISTORY
+  prohibition: Do not place Diodorus's categories in the mouths of Old or Middle Kingdom Egyptians.
+
+quotation_state: NOT_YET_ADMITTED
+star_integration_state: NOT_YET_PROPOSED

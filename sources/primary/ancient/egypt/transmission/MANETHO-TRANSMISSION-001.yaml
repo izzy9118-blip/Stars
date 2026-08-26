@@ -1,0 +1,126 @@
+transmission_map_id: MANETHO-TRANSMISSION-001
+status: INITIAL_TRANSMISSION_CHAIN_LOCKED_FRAGMENT_CONTROL_PENDING
+source_id: SRC-HOP-MANETHO-AEGYPTIACA
+work_status: ORIGINAL_LOST
+original_language: Greek
+
+method:
+  - No transmitter is treated as a transparent copy of Manetho.
+  - Direct quotation names the preserving author, work, edition and textual status.
+  - Narrative fragments, dynastic epitomes and later pseudo-Manethonian materials remain distinct.
+  - Native Egyptian authorship does not cancel Ptolemaic context or centuries of transmission.
+
+transmitters:
+  - transmitter_id: MANETHO-TX-JOSEPHUS
+    author: Flavius Josephus
+    work: Contra Apionem, Book I
+    date: late first century CE
+    relation_to_manetho: earliest substantial surviving literary quotation and argument
+    governing_text:
+      edition: Flavii Iosephi Opera, volume V
+      editor: Benedikt Niese
+      place: Berlin
+      year: 1889
+      cts_urn: urn:cts:greekLit:tlg0526.tlg003.perseus-grc1
+      target_start: Book I, section 73
+    transmitter_position: Jewish-Roman historian defending Jewish antiquity in a polemical work
+    controls:
+      - Josephus selects, quotes, paraphrases, interrupts and disputes material attributed to Manetho.
+      - Hyksos and Osarseph narratives cannot be detached from Josephus's polemical use.
+      - Josephus may have used an intermediate text or epitome; direct access to Manetho's autograph is not established.
+    quotation_rule: Cite as Josephus preserving or attributing words to Manetho, never simply as extant Manetho manuscript.
+
+  - transmitter_id: MANETHO-TX-AFRICANUS
+    author: Sextus Julius Africanus
+    work: Chronographiai
+    date: early third century CE
+    relation_to_manetho: dynastic epitome and chronological list tradition
+    original_status: Africanus's chronicle largely lost
+    surviving_channels:
+      - George Syncellus
+      - fragments in later Christian chronography
+    transmitter_position: Christian universal chronographer aligning multiple national chronologies
+    controls:
+      - Dynastic totals and notices may derive from an epitome rather than Manetho's narrative history.
+      - Africanus's chronology and the later Syncellan preservation are separate editorial stages.
+    quotation_rule: Cite as Africanus-as-preserved-by-Syncellus unless an independent fragment is identified.
+
+  - transmitter_id: MANETHO-TX-EUSEBIUS
+    author: Eusebius of Caesarea
+    work: Chronicon
+    date: early fourth century CE
+    relation_to_manetho: parallel dynastic and chronological tradition
+    original_greek_status: largely lost
+    surviving_channels:
+      - Armenian version of Book I
+      - Jerome's Latin version of chronological tables
+      - Greek excerpts in Syncellus and later writers
+    transmitter_position: Christian universal historian relating national histories to biblical chronology
+    controls:
+      - Armenian, Latin and Syncellan Greek channels must not be merged silently.
+      - Differences from Africanus may reflect divergent epitomes, alteration or transmission error.
+    quotation_rule: Name language/version and preserving witness for every use.
+
+  - transmitter_id: MANETHO-TX-SYNCELLUS
+    author: George Syncellus
+    work: Ekloge Chronographias
+    date: early ninth century CE
+    relation_to_manetho: principal surviving comparative presentation of Africanus and Eusebius king-list material
+    governing_edition_target: Alden A. Mosshammer, Georgii Syncelli Ecloga Chronographica, Leipzig, 1984
+    manuscript_controls:
+      - Codex Parisinus graecus 1711 and related principal manuscripts
+      - earlier editions by Scaliger, Goar and Dindorf are stages in modern transmission
+    transmitter_position: Byzantine chronographer constructing a Christian world chronology
+    controls:
+      - Syncellus writes more than a millennium after Manetho.
+      - Parallel columns preserve disagreement rather than one recoverable original list.
+    quotation_rule: Cite Syncellus's text and identify whether he attributes a notice to Africanus, Eusebius or another source.
+
+material_types:
+  - type: NARRATIVE_FRAGMENT
+    examples:
+      - material used by Josephus concerning Hyksos and Osarseph traditions
+    control: may preserve extended prose but remains selected and polemically framed
+  - type: DYNASTIC_EPITOME
+    examples:
+      - king names, reign lengths, dynasty totals and short notices in Africanus/Eusebius traditions
+    control: cannot be assumed to reproduce the structure or wording of the lost Aegyptiaca
+  - type: ALLUSION_OR_NAME_CITATION
+    examples:
+      - Plutarch and other ancient references to Manetho
+    control: may concern other Manethonian works and does not automatically belong to Aegyptiaca
+  - type: PSEUDO_MANETHONIANA
+    examples:
+      - Book of Sothis and other later attributed materials
+    control: excluded from Manetho's historical voice unless authorship is independently established
+
+star_claim_controls:
+  royal_succession_and_dynastic_memory:
+    can_support: >-
+      Later ancient transmission organized Egyptian kings through a Manethonian
+      dynastic framework that profoundly shaped historical memory.
+    cannot_support: >-
+      Exact early chronology or direct temple-record wording without independent king lists and monuments.
+  divine_spirit_and_human_succession:
+    can_support: comparison with later epitome traditions only
+    cannot_support: replacement of the Turin Royal Canon or Egyptian self-witness
+  priestly_memory_under_foreign_rule:
+    can_support: >-
+      Candidate relation: an Egyptian priest writing in Greek participated in the
+      reorganization of Egyptian historical memory under Ptolemaic rule.
+    cannot_support: full reconstruction of Manetho's motives, archives or institutional mandate
+
+age_of_individual_crossing:
+  person_power_relation: priestly historian and later readers classifying past rulers rather than subjects living under the earlier order
+  relation: TRANSFORM_INTO_HISTORICAL_OBJECT
+  finding: >-
+    Manetho's transmission marks a change in how older power becomes available to
+    reflective historical classification. It does not itself produce the separate
+    individual, but it helps detach succession from immediate ritual participation and
+    present it to a multilingual reading public.
+
+next_actions:
+  - Create a fragment inventory keyed to Josephus/Niese sections.
+  - Create parallel Africanus/Eusebius/Syncellus dynasty records without harmonizing discrepancies.
+  - Compare the transmitted lists with Turin, Abydos, Saqqara and archaeological chronology.
+  - Separate Aegyptiaca fragments from other and pseudo-Manethonian works.

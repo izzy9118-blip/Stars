@@ -1,0 +1,54 @@
+source_id: SRC-HOP-STRABO-EGYPT-XVII
+status: GOVERNING_GREEK_EDITION_LOCKED_PASSAGE_EXTRACTION_PENDING
+
+author_or_corporate_author: Strabo
+work_or_document_title: Geography, Book XVII
+date_or_period: Augustan and early Roman imperial period
+original_language: Greek
+evidence_class: POST_FESTUM_DUSK_WITNESS
+
+governing_witness_and_exact_edition_or_archive:
+  governing_edition: Strabonis Geographica, ed. August Meineke, Leipzig: Teubner, 1877
+  cts_urn: urn:cts:greekLit:tlg0099.tlg001.perseus-grc1
+  catalog: https://catalog.perseus.tufts.edu/catalog/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1
+  book_xvii_parallel_witness: Strabo, Geography volume VIII, Greek and English, Loeb Classical Library, 1932
+
+participant_or_observer_position: Greek geographer writing within the Roman Empire and reporting travel in Egypt
+temporal_distance_if_retrospective: contemporary to early Roman Egypt but post-festum for pharaonic and most Ptolemaic structures
+
+star_layer_target:
+  primary: egyptian_power
+  boundary: roman_power
+star_claim_target:
+  - Nile_territory_city_commerce_and_administration
+  - conquest_incorporation_and_change_of_ruling_form
+  - transition_from_Egyptian_and_Ptolemaic_to_Roman_command
+intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - Strabo's account of Egypt's geography, cities, commerce and administration during the Augustan transition.
+  - A first-class ancient observation of how Egyptian territory was incorporated into Roman imperial rule.
+  - The categories through which a Roman-period Greek geographer understood the country.
+what_the_source_cannot_establish:
+  - Unchanged continuity from pharaonic Egypt to Roman Egypt.
+  - A neutral account free from Augustan or imperial perspective.
+  - Early Egyptian social order without independent evidence.
+
+rival_or_counter_witnesses_where_known:
+  - Diodorus Book I
+  - Herodotus Book II
+  - Ptolemaic and Roman papyri
+  - Egyptian temple and administrative evidence
+boundary_effect: >-
+  The source belongs partly to the Egypt-Rome transition. It must not be used to
+  flatten Ptolemaic, Roman and pharaonic institutions into one timeless Egypt.
+
+age_of_individual_crossing:
+  person_power_relation: population and territory observed through cities, production, routes, taxes and imperial administration
+  authority_demand: Roman-period administrative incorporation rather than direct pharaonic ritual obedience
+  conduct_formation: geography makes people and resources legible to imperial governance
+  later_relation: TRANSFORM_TO_ROMAN_IMPERIAL_ADMINISTRATION
+  prohibition: Do not back-project Roman administrative legibility into all earlier Egyptian periods.
+
+quotation_state: NOT_YET_ADMITTED
+star_integration_state: NOT_YET_PROPOSED

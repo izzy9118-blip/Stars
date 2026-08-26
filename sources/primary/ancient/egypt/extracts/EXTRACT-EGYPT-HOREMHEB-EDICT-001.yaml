@@ -1,0 +1,82 @@
+extract_id: EXTRACT-EGYPT-HOREMHEB-EDICT-001
+source_id: SRC-HOP-EGYPT-HOREMHEB-EDICT
+status: Q0_MONUMENT_LOCKED_Q1_CRITICAL_EDITION_TARGETED_Q2_PENDING
+protocol: sources/primary/ancient/egypt/EXTRACTION-PROTOCOL-001.yaml
+
+Q0_witness_identity:
+  document: Great Edict of Horemheb
+  original_language: Egyptian monumental inscription
+  original_monument:
+    site: Karnak temple complex
+    monument_relation: Inscribed decree of Horemheb; exact pylon/court/block disposition and present condition pending epigraphic crosswalk
+  date: Reign of Horemheb, late Eighteenth Dynasty
+  qualification: >-
+    The inscription is contemporary royal self-legitimation and normative reform.
+    Its descriptions of prior abuse come through the reforming king's authority.
+
+Q1_textual_control:
+  critical_edition_target:
+    author_editor: Jean-Marie Kruchten
+    title: Le décret d'Horemheb: traduction, commentaire épigraphique, philologique et institutionnel
+    series: Bibliotheca Aegyptiaca 30
+    publication: Brussels, Fondation Égyptologique Reine Élisabeth, 1981
+    status: BIBLIOGRAPHIC_TARGET_SELECTED_COPY_AND_LINE_CROSSWALK_PENDING
+  early_translation_control:
+    author_editor: James Henry Breasted
+    title: Ancient Records of Egypt, Volume III
+    year: 1906
+    url: https://archive.org/details/ancientrecordsof03brea
+    status: PUBLIC_DOMAIN_NAVIGATION_TRANSLATION_NOT_GOVERNING
+  control_rule: >-
+    Kruchten's epigraphic text and line numbering govern. Breasted may help locate
+    topics but cannot govern wording or institutional interpretation.
+
+Q2_passage_targets:
+  - target_id: HOREMHEB-T1
+    topic: seizure or exaction involving boats, hides, produce, or transport
+    purpose: identify concrete categories of delegated abuse named by the crown
+    exact_lines: PENDING_KRUCHTEN_CROSSWALK
+  - target_id: HOREMHEB-T2
+    topic: collectors, soldiers, officials, or agents injuring inhabitants
+    purpose: establish the relation between sovereign jurisdiction and wrongdoing by delegated officers
+    exact_lines: PENDING_KRUCHTEN_CROSSWALK
+  - target_id: HOREMHEB-T3
+    topic: selection, character, independence, or remuneration of judges
+    purpose: control the claim that justice is institutionalized through appointment and office
+    exact_lines: PENDING_KRUCHTEN_CROSSWALK
+  - target_id: HOREMHEB-T4
+    topic: penalties, inspection, reporting, and royal restoration
+    purpose: distinguish proclaimed administrative remedy from abstract ma'at language
+    exact_lines: PENDING_KRUCHTEN_CROSSWALK
+
+Q3_translation_control:
+  governing_translation: NONE_YET
+  candidate_translation_controls:
+    - Jean-Marie Kruchten, French translation accompanying epigraphic edition
+    - project English paraphrase to be produced only after original-language control
+  quotation_readiness: ORIGINAL_CONTROLLED_TRANSLATION_PENDING
+
+Q4_star_claim_mapping:
+  relation_id: EGYPT-PA-005
+  star_claim_target: >-
+    Kingship claims to protect inhabitants by disciplining the officials, soldiers,
+    collectors, and judges through whom administration and coercion operate.
+  intended_claim_class:
+    - DOCUMENTED_OR_TEXTUAL_FACT
+    - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  age_of_individual_crossing: PRESERVE
+
+Q5_boundary_and_rival_test:
+  boundaries:
+    - decree is royal claim, not implementation audit
+    - named abuse is not automatically quantified prevalence
+    - protected inhabitant is not modern rights-bearer outside royal jurisdiction
+    - institutional reforms may differ by region and office
+  rival_controls:
+    - administrative papyri from late Eighteenth and Ramesside periods
+    - SRC-HOP-EGYPT-DEIR-EL-MEDINA-STRIKE
+    - SRC-HOP-EGYPT-ELOQUENT-PEASANT
+    - archaeological and legal evidence for collection and transport
+
+Q6_quotation_readiness: NOT_READY
+next_action: LOCK_KRUCHTEN_PAGES_AND_ASSIGN_MONUMENT_LINES_TO_T1_T4

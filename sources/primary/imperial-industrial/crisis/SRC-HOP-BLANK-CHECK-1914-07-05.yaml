@@ -1,0 +1,19 @@
+source_id: SRC-HOP-BLANK-CHECK-1914-07-05
+status: DIPLOMATIC_REPORT_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  author: Ladislaus Count von Szögyény-Marich
+  recipient: Leopold Count von Berchtold
+  title: Report from Berlin on German support
+  date: 1914-07-05
+  original_language: German
+  role: german_commitment_austro_hungarian_action_serbia_and_russian_risk
+governing_witness:
+  witness_type: DIPLOMATIC_REPORT_PUBLISHED_IN_AUSTRIAN_DOCUMENTARY_EDITION
+  source: "Österreich-Ungarns Aussenpolitik von der Bosnischen Krise 1908 bis zum Kriegsausbruch 1914, vol. 8, no. 10058"
+  transcription: https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-800
+key_relation: >-
+  The Austrian ambassador reports Wilhelm II assuring full German support for firm action against Serbia,
+  while acknowledging the possibility of Russian intervention and European war.
+qualification: >-
+  This is an Austro-Hungarian diplomatic report of the Kaiser's assurances, not a treaty or a verbatim German cabinet protocol.

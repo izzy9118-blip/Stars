@@ -1,0 +1,43 @@
+source_id: SRC-HOP-CADASTRE-RECUEIL-1811
+status: GOVERNING_ADMINISTRATIVE_COMPILATION_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  compiler: Albert-Joseph-Ulpien Hennet
+  title: Recueil méthodique des lois, décrets, règlemens, instructions et décisions sur le cadastre de la France
+  year: 1811
+  original_language: French
+  role: property_legibility_parcel_measurement_taxable_valuation_and_uniform_administration
+
+governing_witness:
+  witness_type: CONTEMPORARY_OFFICIAL_ADMINISTRATIVE_COMPILATION
+  publisher: Imprimerie impériale
+  place: Paris
+  year: 1811
+  repository: Bayerische Staatsbibliothek
+  shelfmark: 4 Gall.rev. 45-1
+  urn: urn:nbn:de:bvb:12-bsb10357558-8
+  digital_record: https://www.deutsche-digitale-bibliothek.de/item/RYK55UEXNH7YA4VALUD6HKBNPN2ZEZMV
+  extent: 400 pages plus models volume
+
+administrative_scope:
+  - delimitation of communes and sections
+  - triangulation and parcel measurement
+  - classification of land by quality and use
+  - evaluation of taxable product
+  - identification of owners and aggregation of their parcels
+  - cadastral matrices, rolls, plans, mutation records, and accounting
+
+key_passage_target:
+  article: 167
+  issue: advantages of cadastral measurement for equal land-tax distribution and fixed assessment, while determining property boundaries
+
+witness_policy:
+  rule: >-
+    The 1811 official compilation governs claims about the operational cadastral system.
+    The underlying 1807 finance law is a legal foundation, but the Recueil is the stronger
+    witness for how survey, classification, valuation, ownership and tax records were
+    standardized in administrative practice.
+
+quotation_state: TARGETED_PASSAGES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED

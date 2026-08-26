@@ -1,0 +1,17 @@
+source_id: SRC-HOP-ACCIDENT-INSURANCE-1884
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Empire
+  title: Unfallversicherungsgesetz
+  date: 1884-07-06
+  original_language: German
+  role: industrial_accident_insurance_employer_associations_and_reich_supervision
+governing_witness:
+  witness_type: REICHSGESETZBLATT_SCAN_TRANSCRIPTION
+  citation: "RGBl. 1884, Nr. 19, S. 69-111"
+  locator: https://de.wikisource.org/wiki/Unfallversicherungsgesetz
+qualification: >-
+  The law should be read institutionally: industrial risk is redistributed through
+  compulsory employer organization and public legal supervision rather than left solely
+  to private contract or local poor relief.

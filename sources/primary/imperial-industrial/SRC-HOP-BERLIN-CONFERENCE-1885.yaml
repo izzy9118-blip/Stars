@@ -1,0 +1,17 @@
+source_id: SRC-HOP-BERLIN-CONFERENCE-1885
+status: GOVERNING_TREATY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Berlin Conference powers
+  title: Acte Général de la Conférence de Berlin
+  date: 1885-02-26
+  original_language: French
+  role: colonial_trade_navigation_occupation_notification_and_interimperial_rules
+governing_witness:
+  witness_type: REICHSGESETZBLATT_BILINGUAL_SCAN_TRANSCRIPTION
+  citation: "RGBl. 1885, Nr. 23, S. 215-246"
+  locator: https://de.wikisource.org/wiki/General-Akte_der_Berliner_Konferenz_(Kongokonferenz)
+qualification: >-
+  The Act records metropolitan powers defining rules among themselves concerning trade,
+  navigation and occupation in Africa. It does not establish that African peoples consented
+  to those rules or that treaty language exhausted actual colonial violence and administration.

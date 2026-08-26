@@ -1,0 +1,34 @@
+source_id: SRC-HOP-CHARTER-1830
+status: GOVERNING_OFFICIAL_TEXT_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: Louis-Philippe / French constitutional monarchy
+  title: Charte constitutionnelle du 14 août 1830
+  date: 1830-08-14
+  original_language: French
+  role: july_monarchy_regime_change_crown_parliament_local_institutions_and_army
+
+governing_witness:
+  witness_type: OFFICIAL_CONSTITUTIONAL_TEXT
+  repository: Élysée
+  url: https://www.elysee.fr/la-presidence/la-charte-constitutionnelle-du-14-aout-1830
+  language: French
+
+primary_passage_targets:
+  - altered constitutional title and relation of king to nation
+  - legislative initiative shared with chambers
+  - prohibition on suspension of laws by ordinance
+  - annual army contingent
+  - National Guard
+  - elected departmental and municipal institutions
+  - public instruction and jury provisions under Article 69
+
+witness_policy:
+  rule: >-
+    Use the 1830 Charter to establish the July Monarchy's constitutional redistribution
+    of powers and its program for elected local institutions. Administrative continuity
+    from the Restoration or Empire must be shown with separate institutional evidence.
+
+quotation_state: TARGETED_ARTICLES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED

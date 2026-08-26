@@ -1,0 +1,71 @@
+source_id: SRC-HOP-EGYPT-WENI-AUTOBIOGRAPHY
+status: GOVERNING_INSCRIPTION_IDENTIFIED_EPIGRAPHIC_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Weni the Elder / funerary scribal authority responsible for his autobiographical inscription
+work_or_document_title: Autobiography of Weni the Elder
+original_language: Old Egyptian
+date_or_period: Sixth Dynasty, reigns of Teti, Pepi I, and Merenre
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS_AND_ELITE_SELF_WITNESS
+participant_or_observer_position: Senior official retrospectively presenting his career, royal trust, judicial service, military command, and expeditionary work
+temporal_distance_if_retrospective: Near-contemporary life review within Weni's memorial inscription
+
+governing_witness_and_exact_edition_or_archive:
+  original_object:
+    object: Inscribed autobiographical monument from Weni's tomb at Abydos
+    repository: Egyptian Museum, Cairo
+    catalogue: CG 1435
+    status: GOVERNING_OBJECT_IDENTIFIED_EXACT_LINE_AND_CURRENT_DISPLAY_CROSSWALK_PENDING
+  public_domain_translation_control:
+    editor_translator: James Henry Breasted
+    title: Ancient Records of Egypt, Volume I
+    year: 1906
+    url: https://archive.org/details/ancientrecordsof01brea
+    evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+    status: WORKING_TRANSLATION_ONLY_PENDING_MODERN_EPIGRAPHIC_CONTROL
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Royal power acts through trusted persons whose careers combine court access, judgment, military command, procurement, expedition, and public works.
+  - Elite individuality and remembered achievement are expressed as service, favor, competence, name, and office within kingship.
+intended_claim_class:
+  - SELF_WITNESS
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - The offices, missions, and achievements Weni chose to memorialize.
+  - An elite Egyptian form of first-person career identity organized through royal service and trusted commission.
+  - The joining of judicial secrecy, military organization, labor, logistics, quarrying, and royal favor in one official biography.
+what_the_source_cannot_establish:
+  - A neutral administrative history of the reigns he served.
+  - That Weni alone caused the achievements attributed to his command.
+  - The experience of common soldiers, laborers, conquered populations, or subordinates absent from his voice.
+
+rival_or_counter_witnesses_where_known:
+  - other Old Kingdom autobiographies, including Harkhuf and officials at Saqqara and Abydos
+  - royal annals and expedition inscriptions
+  - administrative papyri and archaeological evidence concerning labor and logistics
+
+boundary_effect: >-
+  The inscription is powerful evidence for elite self-presentation and delegated
+  capacity, but its first-person form intensifies rather than removes the need
+  for corroboration.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - forms_of_authority.sacred_authority
+  authority_bearer: King acting through personal commission, office, favor, and command
+  human_position: Named elite servant whose distinction arises through exceptional usefulness to royal order
+  demanded_conduct: Loyalty, discretion, competence, command, and completion of entrusted work
+  formative_technique: Office, commission, royal praise, expedition, military hierarchy, autobiography, tomb, and memorial name
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    A strong first-person voice and celebrated career do not establish a modern
+    individual detached from office. Weni's remembered self is constituted by
+    service to kingship and mortuary commemoration.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

@@ -1,0 +1,40 @@
+source_id: SRC-HOP-ROUTES-DECREE-1811
+status: GOVERNING_DOCUMENTARY_WITNESS_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  corporate_author: French Empire
+  title: Décret impérial contenant règlement sur la construction, la réparation et l'entretien des routes
+  date: 1811-12-16
+  original_language: French
+  role: territorial_infrastructure_classification_funding_and_administrative_enforcement
+
+governing_witness:
+  witness_type: BULLETIN_DES_LOIS_DOCUMENTARY_WITNESS
+  publication: Bulletin des lois de l'Empire français
+  series: 4e série
+  volume: XVI
+  bulletin_number: 418
+  text_number: 7644
+  date: 1811-12-16
+
+supporting_texts:
+  - repository: Chronologie jurassienne / AAEB documentary reference
+    locator: Bulletin des Lois vol. XVI no. 418 / texte 7644
+  - repository: FranceArchives departmental road fonds
+    note: Confirms continuing administrative use of the decree and distinction between imperial and departmental roads.
+
+key_provisions:
+  - all roads of the Empire divided into imperial and departmental roads
+  - imperial roads divided into three classes
+  - decree classifies new roads and determines financial responsibility
+  - enforcement and road protection distributed among mayors, engineers, police, gendarmerie and prefectural authority
+
+witness_policy:
+  rule: >-
+    Use the 1811 decree to establish classification, jurisdiction, funding, maintenance,
+    and enforcement of the road network. Do not infer the physical condition or traffic
+    volume of particular roads without separate engineering or accounting records.
+
+quotation_state: TARGETED_PASSAGES_IDENTIFIED
+analysis_state: NOT_YET_INTEGRATED

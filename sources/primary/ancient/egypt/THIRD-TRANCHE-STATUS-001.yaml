@@ -1,0 +1,48 @@
+status_id: EGYPT-THIRD-TRANCHE-STATUS-001
+corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+state: THIRD_TRANCHE_SOURCE_RECORDS_COMPLETE
+records_created: 6
+
+records:
+  - SRC-HOP-EGYPT-ABUSIR-PAPYRI
+  - SRC-HOP-EGYPT-NAURI-DECREE
+  - SRC-HOP-EGYPT-NAUNAKHTE-WILL
+  - SRC-HOP-EGYPT-ABBOTT-PAPYRUS
+  - SRC-HOP-EGYPT-PAPYRUS-SALT-124
+  - SRC-HOP-EGYPT-PETIESE-PETITION
+
+claim_deficits_addressed:
+  - temple_daily_administration_personnel_and_provisioning
+  - corporate_sacred_privilege_and_protection_against_state_agents
+  - female_household_property_agency_and_filial_support
+  - mortuary_property_inspection_policing_and_official_conflict
+  - subordinate_local_complaint_against_officeholder
+  - multigenerational_priestly_property_dispute_and_documentary_selfhood
+
+combined_acquisition_count:
+  first_tranche: 13
+  second_tranche: 7
+  third_tranche: 6
+  ancient_source_records_total: 26
+  modern_critical_controls: 5
+
+person_authority_balance:
+  royal_self_witness: present
+  elite_office_and_autobiography: present
+  literary_petitioner_and_exile: present
+  household_correspondence_and_property: present
+  workers_and_local_complaint: present
+  temple_personnel_and_corporate_privilege: present
+  land_fiscal_and_inventory_records: present
+  accused_persons_and_inquiry: present
+  foreign_and_minority_community: present
+  ancient_dusk_historians_and_philosophers: present
+
+next_action:
+  - create third-tranche person-authority map
+  - verify accession and edition data for Naunakhte, Salt 124, Petiese, and Abusir fragments
+  - select exact temple/household/legal passages under extraction protocol
+  - stop broad acquisition unless a passage-level control reveals a specific new deficit
+
+broad_acquisition_hold: ACTIVE_AFTER_THIS_TRANCHE
+narrative_gate: CLOSED

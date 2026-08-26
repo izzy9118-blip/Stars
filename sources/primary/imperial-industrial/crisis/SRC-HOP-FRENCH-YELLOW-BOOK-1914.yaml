@@ -1,0 +1,34 @@
+source_id: SRC-HOP-FRENCH-YELLOW-BOOK-1914
+status: OFFICIAL_WARTIME_DOCUMENTARY_CORPUS_LOCKED_WITH_CAUTION
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: French Ministry for Foreign Affairs
+  title: French Yellow Book
+  year: 1914
+  original_language: French
+  role: french_diplomatic_observation_alliance_policy_mobilization_and_conciliation
+governing_witness:
+  witness_type: OFFICIAL_WARTIME_DIPLOMATIC_DOCUMENT_COLLECTION_TRANSCRIPTION
+  part_1: https://www.gwpda.org/papers/yellow1.htm
+  part_2: https://www.gwpda.org/papers/yellow2.htm
+key_documents:
+  - number: 101
+    date: 1914-07-30
+    author: René Viviani
+    proposition: >-
+      Viviani reports Germany's warning that it would mobilize if Russia did not stop preparations and states that France had taken no step intended to alarm neighbors while remaining open to peace negotiations.
+  - number: 102
+    date: 1914-07-30
+    author: Maurice Paléologue
+    proposition: >-
+      Paléologue reports Russian efforts to frame mobilization as directed against Austria and continued proposals for negotiation.
+  - number: 105
+    date: 1914-07-30
+    author: Jules Cambon
+    proposition: German government denied a premature press report that Germany had already mobilized.
+witness_policy:
+  rule: >-
+    The Yellow Book is a French official wartime publication assembled amid a controversy over responsibility.
+    Individual telegrams may establish reported French diplomatic communications, but editorial selection and chronology require independent control before causal or blame conclusions.
+qualification: >-
+  French governmental voice is now independently represented; the formal French mobilization decree remains a separate legal witness.

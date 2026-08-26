@@ -1,0 +1,62 @@
+source_id: CTRL-HOP-EGYPT-KEMP-ANATOMY
+status: BIBLIOGRAPHIC_WITNESS_LOCKED_EDITION_COMPARISON_PENDING
+parent_control_corpus: HOP-EGYPT-CRITICAL-CONTROLS-001
+
+author_or_corporate_author: Barry J. Kemp
+work_or_document_title: Ancient Egypt: Anatomy of a Civilization
+date_or_period:
+  first_edition: 1989
+  substantially_revised_second_edition: 2006
+original_language: English
+publisher: Routledge
+
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+participant_or_observer_position: Modern archaeologist and historian reconstructing Egyptian institutions, settlements, economy, ideology, and state formation
+temporal_distance_if_retrospective: Modern scholarship separated by millennia from the ancient evidence
+
+governing_witness_and_exact_edition_or_archive:
+  working_governing_witness: Second edition, Routledge, 2006
+  edition_rule: >-
+    Claims sensitive to revisions must record whether they derive from the 1989
+    or 2006 edition. The revised edition does not erase the publication history.
+  digital_access: LEGITIMATE_CATALOG_OR_LIBRARY_COPY_TO_BE_LINKED; copyrighted text will not be copied wholesale
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - institutional and archaeological control of palace, temple, settlement, labor, land, craft, administration, and state scale
+  - current claims that the entire civilization functioned as one integrated sacred-scientific system
+intended_claim_class:
+  - LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+  - BOUNDARY_CONTROL
+
+what_the_source_can_establish:
+  - A major archaeological reconstruction of how Egyptian state, settlement, economy, elite culture, and material organization developed and interacted.
+  - Material and institutional tests for claims drawn principally from royal, funerary, or temple texts.
+  - Variation, practical limits, and regional or chronological differences obscured by ideological sources.
+what_the_source_cannot_establish:
+  - Ancient self-understanding without direct textual evidence.
+  - One timeless institutional model for all Egyptian periods.
+  - That material pattern alone determines religious or philosophical meaning.
+
+rival_or_counter_witnesses_where_known:
+  - Jan Assmann on cultural meaning and memory
+  - Erik Hornung on religion
+  - source-specific excavation reports and administrative papyri
+  - David O'Connor and David Silverman, eds., Ancient Egyptian Kingship
+
+boundary_effect: >-
+  Kemp is a principal check against allowing elite textual coherence to stand in
+  for the variable material organization of Egyptian life.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - forms_of_authority.household_authority
+  use: >-
+    Helps identify the concrete institutions within which persons lived as
+    household members, laborers, officials, subjects, and participants in temple
+    and state economies.
+  crossing_relation: INTERPRETIVE_CONTROL_ONLY
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

@@ -1,0 +1,143 @@
+passage_set_id: PERSIA-REFLECTIVE-TARGETS-001
+status: PREPARATORY_GREEK_PASSAGE_TARGETS_IDENTIFIED_NOT_VERIFIED_OR_ADMITTED
+parent_corpus: HOP-PERSIA-PRELIMINARY-001
+star_layer_target: persian_power
+exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+
+method:
+  - Tragedy, participant history and philosophical reconstruction remain distinct.
+  - Greek wording must be checked in the governing edition before quotation.
+  - Direct speeches remain attributed literary representations.
+  - The sources illuminate Greek reflection upon Persian power; none becomes Persian self-witness.
+
+targets:
+  - target_id: PERS-AESCH-001
+    source_id: SRC-HOP-AESCHYLUS-PERSIANS
+    location: opening chorus and Atossa scene, approximately lines 1-245
+    issue: imperial absence, catalogue of peoples, court anxiety and maternal/dynastic perspective
+    proposed_relation: >-
+      The scale of the expedition is represented through named peoples and an empty
+      imperial center whose elders and queen lack knowledge of the army's fate.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: Athenian dramatic construction, not Persian census or court transcript
+
+  - target_id: PERS-AESCH-002
+    source_id: SRC-HOP-AESCHYLUS-PERSIANS
+    location: messenger report, approximately lines 249-514
+    issue: Salamis, command, loss, geography and the human cost of fleet destruction
+    proposed_relation: >-
+      Military catastrophe becomes knowable through a messenger whose report converts
+      imperial mass into named deaths, strategic error and collective grief.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: not a neutral operational history of Salamis
+
+  - target_id: PERS-AESCH-003
+    source_id: SRC-HOP-AESCHYLUS-PERSIANS
+    location: ghost of Darius, approximately lines 681-851
+    issue: dynastic memory, inherited order, Xerxes and the limit of imperial action
+    proposed_relation: >-
+      A dead founder or predecessor is made to judge the living king and connect defeat
+      to royal conduct, divine limit and the management of inherited power.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: Darius's dramatic ghost is not Darius's historical testimony
+
+  - target_id: PERS-AESCH-004
+    source_id: SRC-HOP-AESCHYLUS-PERSIANS
+    location: Xerxes's return and final lament, approximately lines 908-1077
+    issue: ruler, subjects and shared mourning after failure
+    proposed_relation: >-
+      King and chorus enact the collapse of imperial glory into bodily return, loss and
+      reciprocal lament without dissolving hierarchy.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    age_boundary: individual emotion becomes public political experience but not sovereign title
+
+  - target_id: PERS-ANAB-001
+    source_id: SRC-HOP-XENOPHON-ANABASIS
+    location: book I, especially Cyrus's preparations, Cunaxa and Xenophon's portrait of Cyrus
+    issue: prince, recruitment, satrapal conflict, pay, loyalty and character
+    proposed_relation: >-
+      Persian princely competition mobilizes Greek mercenaries through pay, friendship,
+      concealment, honor and personal trust alongside imperial institutions.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: Xenophon's retrospective portrait and Cyrus's actual motives remain distinct
+
+  - target_id: PERS-ANAB-002
+    source_id: SRC-HOP-XENOPHON-ANABASIS
+    location: book II, negotiations and seizure of the Greek generals
+    issue: treaty, oath, trust, deception and command crisis
+    proposed_relation: >-
+      A negotiated relationship collapses when commanders are seized, exposing the
+      dependence of military order on trust, intelligence and protected leadership.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: Persian intentions require counter-witnesses
+
+  - target_id: PERS-ANAB-003
+    source_id: SRC-HOP-XENOPHON-ANABASIS
+    location: book III, Xenophon's deliberation, public speech and election/reorganization
+    issue: individual initiative inside collective emergency
+    proposed_relation: >-
+      One participant's private reflection becomes a public proposal, while command is
+      reconstituted through assembly, election, discipline and shared necessity.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    age_boundary: initiative is real but inseparable from the armed collective
+
+  - target_id: PERS-ANAB-004
+    source_id: SRC-HOP-XENOPHON-ANABASIS
+    location: books IV-VII, movement through local territories and repeated command disputes
+    issue: imperial unevenness, local sovereignty, supplies, markets and military community
+    proposed_relation: >-
+      The retreat maps an imperial and frontier world in which Persian titles, local
+      rulers, independent peoples, geography and Greek command interact unevenly.
+    intended_claim_class: ANALYTICAL_SYNTHESIS
+    boundary: route narrative is not a complete administrative map
+
+  - target_id: PERS-CYROP-001
+    source_id: SRC-HOP-XENOPHON-CYROPAEDIA
+    location: 1.1 opening inquiry and 1.2 Persian education
+    issue: governability, education and formation of ruler/ruled
+    proposed_relation: >-
+      Xenophon begins from the instability of governments and turns to Cyrus as a case
+      in making many peoples willing to obey through education and leadership.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: philosophical problem-setting, not Persian educational ethnography alone
+
+  - target_id: PERS-CYROP-002
+    source_id: SRC-HOP-XENOPHON-CYROPAEDIA
+    location: book I, Cambyses's counsel and Cyrus's preparation for command
+    issue: knowledge of persons, persuasion, self-command and military leadership
+    proposed_relation: >-
+      The prospective ruler is taught to care for followers, understand motives,
+      command himself and distinguish willing cooperation from mere compulsion.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: authorial teaching through characters, not verified historical dialogue
+
+  - target_id: PERS-CYROP-003
+    source_id: SRC-HOP-XENOPHON-CYROPAEDIA
+    location: books VII-VIII, conquest, court organization, reward and imperial arrangement
+    issue: household, office, access, gift and cultivated obedience
+    proposed_relation: >-
+      Empire is organized through offices, ceremonies, rewards, controlled access,
+      friendship and emulation as well as armed force.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    age_boundary: power works through motive and character without yet centering free individual choice
+
+  - target_id: PERS-CYROP-004
+    source_id: SRC-HOP-XENOPHON-CYROPAEDIA
+    location: 8.8 concluding account after Cyrus
+    issue: succession, founder dependence and decline
+    proposed_relation: >-
+      The ending asks whether an order built around an exceptional ruler can preserve
+      discipline and virtue when the founder is gone.
+    intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: literary-philosophical conclusion, not direct Achaemenid decline chronology
+
+cross_source_questions:
+  - What becomes visible when Persian suffering is staged before Athenians rather than recorded by a king or administrator?
+  - How does Xenophon's participant authority differ from his philosophical reconstruction of Cyrus?
+  - Do speech, election, education and knowledge of motives limit coercion, strengthen it, or both?
+  - Which persons receive an interior voice, and which remain visible only through the needs of army, court or empire?
+  - How does post-festum reflection disclose institutional limits unavailable to royal self-monumentalization?
+
+release_rule: >-
+  No direct quotation, claim promotion or structured-Star application occurs until the
+  Greek text is extracted, genre controls are attached and rival evidence is stated.

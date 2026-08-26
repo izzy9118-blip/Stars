@@ -1,0 +1,63 @@
+source_id: CTRL-HOP-EGYPT-HORNUNG-ONE-MANY
+status: BIBLIOGRAPHIC_WITNESS_LOCKED_PASSAGE_TARGETS_PENDING
+parent_control_corpus: HOP-EGYPT-CRITICAL-CONTROLS-001
+
+author_or_corporate_author: Erik Hornung
+work_or_document_title:
+  original: Der Eine und die Vielen: Ägyptische Gottesvorstellungen
+  English: Conceptions of God in Ancient Egypt: The One and the Many
+date_or_period:
+  original_publication: 1971
+  English_publication: 1982
+original_language: German
+English_translator: John Baines
+publisher_data:
+  original: Wissenschaftliche Buchgesellschaft, Darmstadt
+  English: Cornell University Press
+
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+participant_or_observer_position: Modern Egyptologist reconstructing Egyptian divine concepts through textual and religious evidence
+temporal_distance_if_retrospective: Modern scholarship separated by millennia from the ancient evidence
+
+governing_witness_and_exact_edition_or_archive:
+  governing_scholarly_witness: German first edition, 1971
+  English_reading_witness: Cornell University Press edition, 1982
+  digital_access: LEGITIMATE_CATALOG_OR_LIBRARY_COPY_TO_BE_LINKED; copyrighted text will not be copied wholesale
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - current claims that Egyptian sacred science formed one unified doctrine
+  - relations among divine plurality, unity, names, manifestations, and political-theological order
+intended_claim_class:
+  - LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+  - BOUNDARY_CONTROL
+
+what_the_source_can_establish:
+  - A major modern philological and history-of-religions argument concerning the plurality and relational character of Egyptian gods.
+  - Reasons to resist translating Egyptian divine multiplicity into either simple polytheism or one hidden monotheistic system.
+  - A critical boundary for claims that several cult centers expressed one fully closed doctrine.
+what_the_source_cannot_establish:
+  - That Hornung's reconstruction was an ancient actor's explicit system.
+  - Political or administrative consequences not demonstrated through separate evidence.
+  - Uniform belief across periods, temples, and social positions.
+
+rival_or_counter_witnesses_where_known:
+  - Jan Assmann on theology, memory, and political order
+  - temple-specific theological texts
+  - Amarna material and later reception
+  - Schwaller de Lubicz's modern symbolist synthesis, treated as a rival interpretation rather than ancient evidence
+
+boundary_effect: >-
+  Hornung supplies a necessary control against collapsing distinct Egyptian
+  deities, centers, and periods into one metaphysical doctrine.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  use: >-
+    Preserves the complexity of the sacred order that precedes the modern
+    individual; it prevents the older world from being simplified into a single
+    doctrine invented for a later genealogy.
+  crossing_relation: INTERPRETIVE_CONTROL_ONLY
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

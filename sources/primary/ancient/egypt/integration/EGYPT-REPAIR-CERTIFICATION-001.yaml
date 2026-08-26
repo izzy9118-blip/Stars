@@ -1,0 +1,165 @@
+package_id: EGYPT-REPAIR-CERTIFICATION-001
+status: PENDING_OWNER_CERTIFICATION
+parent_star: STAR-HISTORY-OF-POWER-001
+star_path: stars/STAR-HISTORY-OF-POWER-001.yaml
+narrative_path: narratives/STAR-HISTORY-OF-POWER-001.md
+branch: history-of-power-retroactive-source-audit-001
+base_branch: history-of-power-total-war-001
+
+purpose: >-
+  Freeze the first repaired chronological layer as an auditable package for owner
+  review. The package rebalances evidence, binds the Egypt layer to the native
+  History of Power architecture and the Age of the Individual thesis, identifies
+  exact structured-Star corrections, and preserves every unresolved epigraphic,
+  philological and application control without altering the canonical Star.
+
+governing_contracts:
+  - sources/SOURCE-WITNESS-METHOD.md
+  - sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+  - sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+  - sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-CONFORMITY-REVIEW-001.yaml
+  - sources/audits/ancient/EGYPT-RETROACTIVE-SOURCE-AUDIT-001.yaml
+
+canonical_state:
+  structured_star_modified: false
+  narrative_modified: false
+  rule: >-
+    No source manifest, audit, map, passage set, proposal or certification record
+    carries independent semantic authority. Only a later controlled revision of
+    STAR-HISTORY-OF-POWER-001 can admit the proposed relations.
+
+package_inventory:
+  corpus_manifest: sources/primary/ancient/egypt/manifest.yaml
+  source_records:
+    count: 15
+    indigenous_and_operational:
+      - SRC-HOP-NEFERTI
+      - SRC-HOP-ELOQUENT-PEASANT
+      - SRC-HOP-LOYALIST-TEACHING
+      - SRC-HOP-AMENEMOPE
+      - SRC-HOP-HOREMHEB-EDICT
+      - SRC-HOP-REKHMIRE-VIZIER
+    ancient_post_festum:
+      - SRC-HOP-MANETHO-AEGYPTIACA
+      - SRC-HOP-DIODORUS-EGYPT-I
+      - SRC-HOP-STRABO-EGYPT-XVII
+      - SRC-HOP-PLUTARCH-ISIS-OSIRIS
+    later_critical_controls:
+      - SRC-HOP-FRANKFORT-KINGSHIP-GODS-1948
+      - SRC-HOP-HORNUNG-ONE-MANY-1971
+      - SRC-HOP-LICHTHEIM-AEL-1973-1980
+      - SRC-HOP-KEMP-ANATOMY-EGYPT-1989
+      - SRC-HOP-ASSMANN-MAAT-1990
+  maps:
+    - sources/primary/ancient/egypt/maps/EGYPT-PERSON-AUTHORITY-001.yaml
+    - sources/primary/ancient/egypt/maps/EGYPT-AMENEMOPE-PERSON-AUTHORITY-001.yaml
+  passage_sets:
+    - sources/primary/ancient/egypt/passages/EGY-NEFERTI-PASSAGES-001.yaml
+    - sources/primary/ancient/egypt/passages/EGY-LOYALIST-PASSAGES-001.yaml
+    - sources/primary/ancient/egypt/passages/EGY-ELOQUENT-PEASANT-PASSAGES-001.yaml
+    - sources/primary/ancient/egypt/passages/EGY-AMENEMOPE-PASSAGE-TARGETS-001.yaml
+    - sources/primary/ancient/egypt/passages/EGY-HOREMHEB-EDICT-PASSAGES-001.yaml
+    - sources/primary/ancient/egypt/passages/EGY-REKHMIRE-VIZIER-PASSAGES-001.yaml
+    - sources/primary/ancient/egypt/passages/EGY-ANCIENT-DUSK-PASSAGES-001.yaml
+  transmission_control: sources/primary/ancient/egypt/transmission/MANETHO-TRANSMISSION-001.yaml
+  modern_interpretation_reclassification: sources/primary/ancient/egypt/RECLASSIFICATION-MODERN-EGYPT-INTERPRETATIONS-001.yaml
+  integration:
+    decision_proposal: sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-CORRECTION-PROPOSAL-001.yaml
+    exact_candidate: sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-REPLACEMENT-CANDIDATE-001.yaml
+    amenemope_addendum: sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-CORRECTION-ADDENDUM-AMENEMOPE-001.yaml
+
+verified_package_findings:
+  evidence_balance:
+    state: SATISFIED_FOR_REVIEW
+    finding: >-
+      Egyptian-language and monument evidence, indigenous reflection, ancient dusk
+      witnesses and later critical reconstruction are now separately represented.
+  dual_conformity:
+    state: SATISFIED_FOR_REVIEW
+    finding: >-
+      Each acquired witness is tied to a bounded History of Power claim and to the
+      historically specific relation among person, authority and the later Age of
+      the Individual thesis without projecting modern individuality backward.
+  modern_interpretation_control:
+    state: SATISFIED_FOR_REVIEW
+    finding: >-
+      Schwaller de Lubicz remains attributed modern interpretation; John Anthony
+      West is quarantined from FACT-level synthesis; Petrie is treated as early
+      Egyptological reconstruction. Atlantis, established Anthropocosmos, a fixed
+      initiatory hierarchy and a comprehensive Horian/Osirian social doctrine are
+      removed from proposed unqualified Star content.
+  indigenous_person_authority_relations:
+    state: SATISFIED_FOR_REVIEW
+    finding: >-
+      The package now distinguishes loyal inward formation, productive labor,
+      petition against delegated abuse, cultivated self-command, office-bearing,
+      protection and exaction, foreign status, mortuary judgment and later reflective reading.
+  horemheb_control:
+    state: SELECTED_RELATIONS_CONTROLLED_FINE_GRAINED_HOLD_REMAINS
+    finding: >-
+      The monument, Urk. IV lineation, Kruchten control and bounded operative relations
+      are locked. Extended quotation and every restored clause remain withheld.
+  rekhmire_control:
+    state: SELECTED_RELATIONS_CONTROLLED_FINE_GRAINED_HOLD_REMAINS
+    finding: >-
+      Installation, Duties, autobiography and image program are separated; bounded
+      office, petition, reporting, tax, tribute, production and self-memory relations
+      are controlled. Direct quotation and quantitative use remain withheld.
+  structured_star_application:
+    state: READY_FOR_OWNER_REVIEW_NOT_APPLIED
+    finding: >-
+      The exact candidate can replace the Egypt-specific structured fields without
+      relying on held Horemheb/Rekhmire quotations. Canonical application requires a
+      safe whole-file or patch-capable GitHub mechanism and owner certification.
+
+held_claims_and_controls:
+  - control_id: EGY-HOLD-001
+    source: SRC-HOP-HOREMHEB-EDICT
+    hold: extended direct quotation and fine-grained reconstructed clauses
+    release_condition: >-
+      Clause-by-clause table against Kruchten plates and Urk. IV, with every restored
+      sign and translation divergence marked.
+  - control_id: EGY-HOLD-002
+    source: SRC-HOP-REKHMIRE-VIZIER
+    hold: direct Egyptian quotation, literal timetable, quantitative and frequency claims
+    release_condition: >-
+      Faulkner/van den Boorn clause table plus Davies wall-and-plate image crosswalk and
+      comparison with Useramen and Hepu copies.
+  - control_id: EGY-HOLD-003
+    source: SRC-HOP-AMENEMOPE
+    hold: exact direct wording
+    release_condition: principal papyrus and Laisney critical-edition crosswalk
+  - control_id: EGY-HOLD-004
+    sources:
+      - SRC-HOP-DIODORUS-EGYPT-I
+      - SRC-HOP-STRABO-EGYPT-XVII
+      - SRC-HOP-PLUTARCH-ISIS-OSIRIS
+    hold: quotation-sensitive Greek wording
+    release_condition: final governing-Greek crosswalk for every quoted passage
+  - control_id: EGY-HOLD-005
+    target: canonical structured Star
+    hold: direct application
+    release_condition: >-
+      Owner certification and a write method that preserves the complete large file
+      without truncation, followed by structured validation before narrative revision.
+
+narrative_gate:
+  structured_star_review: OPEN_TO_OWNER
+  structured_star_application: BLOCKED_PENDING_OWNER_CERTIFICATION_AND_SAFE_WRITE
+  narrative_revision: BLOCKED_UNTIL_STRUCTURED_STAR_APPLICATION
+  move_to_persia: >-
+    BLOCKED until this package is owner-certified and either applied safely or explicitly
+    adopted as the governing pending correction package.
+
+owner_certification_questions:
+  - Does the package correctly preserve Egypt in its own categories before the Age crossing?
+  - Are the removals of Atlantis, unqualified Anthropocosmos, fixed initiation hierarchy and comprehensive Horian/Osirian paths accepted?
+  - Is the exact candidate approved as the governing pending Egypt correction while canonical application remains technically blocked?
+  - Should the project remain at Egypt until safe structured-Star application, or may Persia acquisition begin under an explicitly certified pending-correction exception?
+
+certification_statement:
+  status: PENDING_OWNER_CERTIFICATION
+  statement: >-
+    The package is complete enough for owner judgment but does not certify itself,
+    does not alter the Star, and does not authorize narrative revision or movement to
+    Persia without the owner's decision.

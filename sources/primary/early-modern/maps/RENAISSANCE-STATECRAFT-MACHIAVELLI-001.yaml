@@ -1,0 +1,166 @@
+map_id: RENAISSANCE-STATECRAFT-MACHIAVELLI-001
+status: PASSAGE_EXTRACTION_SUBSTANTIALLY_COMPLETE
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+intended_parent_star: STAR-HISTORY-OF-POWER-001
+
+method:
+  - Machiavelli's own works and later Straussian interpretation are distinct evidence classes.
+  - The Prince is not treated as exhausting Machiavelli's political thought; the Discorsi supplies the republican and institutional field.
+  - 'Necessity', 'virtù', 'new orders', conflict, arms, appearances, and founding are mapped in their specific textual contexts rather than compressed into a slogan about ends and means.
+  - The 1532 Roman Blado Prince governs; the 1531 Roman Discorsi princeps is bibliographically locked while the same-year Florentine Giunta digital witness supplies passage-level access where needed.
+
+claims:
+  - claim_id: MACH-PWR-001
+    proposition: >-
+      Machiavelli announces a political inquiry directed toward 'new modes and orders',
+      treating innovation in political understanding itself as dangerous because inherited
+      expectations make people hostile to unfamiliar arrangements.
+    source_id: SRC-HOP-MACHIAVELLI-DISCORSI-1531
+    passage_status: VERIFIED_FIRST_YEAR_TEXTUAL_TRADITION
+    location: Discorsi, Book I, Proemio
+    original_language: Italian
+    anchors:
+      - "trovare modi ed ordini nuovi"
+      - "ho deliberato entrare per una via, la quale non essendo suta ancora da alcuno trita"
+    qualification: >-
+      The language describes Machiavelli's inquiry as well as the political problem of
+      innovation. It should not by itself be treated as proof that every later modern
+      institution descends causally from Machiavelli.
+
+  - claim_id: MACH-PWR-002
+    proposition: >-
+      In new principalities, founding requires introducing new orders against beneficiaries
+      of the old order; the innovator's political problem is therefore not merely choosing
+      good institutions but acquiring enough force and support to make the new order durable.
+    source_id: SRC-HOP-MACHIAVELLI-PRINCIPE-1532
+    passage_status: VERIFIED_FIRST_EDITION_TEXTUAL_TRADITION
+    location: Il Principe, chapter VI
+    original_language: Italian
+    anchors:
+      - "nuovi ordini e modi"
+      - "non è cosa più difficile a trattare ... che farsi capo ad introdurre nuovi ordini"
+      - "l'introduttore ha per nimici tutti coloro che degli ordini vecchi fanno bene"
+    qualification: >-
+      The chapter concerns founders who acquire through their own arms and virtù. Its
+      lesson should not be generalized to every routine act of government.
+
+  - claim_id: MACH-PWR-003
+    proposition: >-
+      Machiavelli makes force part of founding when persuasion can no longer sustain a
+      new order: innovators who depend entirely upon others fail, while armed founders can
+      preserve institutions after belief weakens.
+    source_id: SRC-HOP-MACHIAVELLI-PRINCIPE-1532
+    passage_status: VERIFIED_FIRST_EDITION_TEXTUAL_TRADITION
+    location: Il Principe, chapter VI
+    original_language: Italian
+    anchors:
+      - "tutti e' profeti armati vinsono, e li disarmati ruinorno"
+      - "quando non credono più, si possa fare loro credere per forza"
+    qualification: >-
+      'Prophet' is used politically in the chapter's examples of Moses, Cyrus, Theseus,
+      Romulus, and Savonarola. The claim concerns the relation of persuasion, arms, and
+      institutional founding, not a general endorsement of violence as an end.
+
+  - claim_id: MACH-PWR-004
+    proposition: >-
+      Machiavelli departs from imagined republics and principalities in order to write
+      something useful about political action as it actually occurs, making preservation
+      under necessity a criterion that can conflict with conventional moral reputation.
+    source_id: SRC-HOP-MACHIAVELLI-PRINCIPE-1532
+    passage_status: VERIFIED_FIRST_EDITION_TEXTUAL_TRADITION
+    location: Il Principe, chapter XV
+    original_language: Italian
+    anchors:
+      - "verità effettuale della cosa"
+      - "molti si sono imaginati republiche e principati che non si sono mai visti né conosciuti essere in vero"
+      - "imparare a potere essere non buono"
+    qualification: >-
+      The chapter does not say that ordinary moral distinctions are unreal or that any
+      means is justified by any end. It asks what a ruler must sometimes learn in order
+      to avoid political ruin under conditions in which others are not good.
+
+  - claim_id: MACH-PWR-005
+    proposition: >-
+      In the Discorsi, social conflict is not merely a pathology of republican government:
+      the contest between plebs and senate can generate laws and orders that preserve
+      liberty and thereby contribute to Roman power.
+    source_id: SRC-HOP-MACHIAVELLI-DISCORSI-1531
+    passage_status: VERIFIED_FIRST_YEAR_TEXTUAL_TRADITION
+    location: Discorsi I.4
+    original_language: Italian
+    anchors:
+      - "Che la disunione della Plebe e del Senato romano fece libera e potente quella republica"
+      - "tutte le leggi che si fanno in favore della libertà, nascano dalla disunione loro"
+      - "leggi e ordini in beneficio della publica libertà"
+    qualification: >-
+      Machiavelli does not praise every civil conflict. His argument concerns institutionalized
+      conflict in Rome and the good effects he believes those tumults produced.
+
+  - claim_id: MACH-PWR-006
+    proposition: >-
+      Machiavelli treats successful constitutional reform as partly a problem of political
+      appearance and inherited habit: radically altered institutions may be made acceptable
+      by retaining names and outward forms associated with the older order.
+    source_id: SRC-HOP-MACHIAVELLI-DISCORSI-1531
+    passage_status: VERIFIED_FIRST_YEAR_TEXTUAL_TRADITION
+    location: Discorsi I.25
+    original_language: Italian
+    anchors:
+      - "ritenere l'ombra almanco de' modi antichi"
+      - "acciò che a' popoli non paia avere mutato ordine"
+      - "gli ordini nuovi fussero al tutto alieni dai passati"
+    qualification: >-
+      This is a practical teaching about reforming a free city, not a claim that political
+      legitimacy is nothing but deception. Machiavelli explicitly distinguishes republic,
+      kingdom, and absolute/tiranical reconstruction in the surrounding chapters.
+
+  - claim_id: MACH-PWR-007
+    proposition: >-
+      Taken together, The Prince and Discorsi relocate political analysis toward the
+      acquisition, founding, preservation, corruption, reform, arms, and effects of political
+      orders rather than treating good rule only as conformity to an inherited catalogue of virtues.
+    source_ids:
+      - SRC-HOP-MACHIAVELLI-PRINCIPE-1532
+      - SRC-HOP-MACHIAVELLI-DISCORSI-1531
+    passage_status: ANALYTICAL_SYNTHESIS_FROM_PRIMARY_TEXTS
+    qualification: >-
+      This synthesis is intentionally narrower than the existing Straussian interpretation
+      that Machiavelli lowers the ends of politics and inaugurates the modern project. That
+      interpretation is preserved in STAR-AGE-OF-INDIVIDUAL-001 and remains separately attributable.
+
+existing_repository_interpretation:
+  star: STAR-AGE-OF-INDIVIDUAL-001
+  layer: modern_project_machiavelli_bacon_descartes
+  claim_class: ATTRIBUTED_TEACHINGS_AND_SYNTHESIS
+  evidence:
+    - SRC-STRAUSS-THOUGHTS-MACHIAVELLI-1958
+    - SRC-STRAUSS-NATURAL-RIGHT-1962
+    - SRC-STRAUSS-BASIC-PRINCIPLES-1961
+    - SRC-STRAUSS-INTRO-POLITICAL-PHILOSOPHY-1965
+  rule: >-
+    History of Power may reuse this interpretive layer only with explicit Strauss provenance.
+    It may not represent Strauss's statements about Machiavelli as quotations or unmediated
+    claims from The Prince or Discorsi.
+
+cross_source_questions:
+  - >-
+    How does Machiavelli's founder who introduces new orders differ from Bodin's sovereign,
+    whose defining characteristic is perpetual rather than merely delegated supreme power?
+  - >-
+    Does Machiavelli's treatment of republican tumults anticipate later constitutional
+    balancing, or does it rest on a more conflictual account of liberty than later theories
+    of institutional moderation?
+  - >-
+    How does Machiavelli's willingness to preserve the shadow of old forms illuminate later
+    regimes that retain inherited constitutional names while relocating actual command?
+
+narrative_gate:
+  satisfied:
+    - Roman 1532 Blado first edition of Il Principe locked digitally
+    - first-year 1531 Discorsi princeps identified and same-year Giunta digital witness locked
+    - chapters VI and XV mapped for founding, force, effectual truth, and necessity
+    - Discorsi Proemio, I.4, and I.25 mapped for new orders, conflict/liberty, and reform
+    - existing Strauss interpretive evidence linked without being absorbed into primary layer
+  remaining:
+    - If direct quotations are used, compare spelling and folio against the locked sixteenth-century image witness rather than a modernized transcription.
+    - Do not use the phrase 'the end justifies the means' as a quotation or summary unless separately justified; it does not govern this map.

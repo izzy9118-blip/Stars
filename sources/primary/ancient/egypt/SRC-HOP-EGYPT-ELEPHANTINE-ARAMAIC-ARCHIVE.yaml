@@ -1,0 +1,75 @@
+source_id: SRC-HOP-EGYPT-ELEPHANTINE-ARAMAIC-ARCHIVE
+status: DOCUMENT_CLUSTER_REGISTERED_EXACT_OBJECT_AND_TAD_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Members and correspondents of the Judean/Jewish military-temple community at Elephantine and imperial/provincial officials
+work_or_document_title: Selected Elephantine Aramaic Papyri
+original_language: Imperial Aramaic
+date_or_period: Fifth century BCE, Achaemenid-period Egypt
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS_AND_COMMUNITY_SELF_WITNESS
+participant_or_observer_position: Letters, petitions, legal documents, and administrative communications produced by or concerning a minority garrison and temple community
+temporal_distance_if_retrospective: Contemporary documentary archive; later collection and edition remain separate
+
+governing_witness_and_exact_edition_or_archive:
+  initial_document_targets:
+    - conventional_title: Passover Letter
+      date: 419/418 BCE
+      common_identifier: Berlin P. 13464; exact museum and TAD concordance to verify
+      role: community practice and imperial/provincial instruction
+    - conventional_title: Petition to Bagoas
+      date: 407 BCE
+      common_identifier: Cowley 30 / TAD A4.7; exact museum object concordance to verify
+      role: destruction of temple, property, memory, petition, and request for rebuilding
+    - conventional_title: Memorandum of Bagoas and Delaiah
+      date: around 407 BCE
+      role: administrative response and bounded permission concerning cult practice
+  modern_critical_control:
+    title: Textbook of Aramaic Documents from Ancient Egypt
+    evidence_class: MODERN_CRITICAL_EDITION_OF_PRIMARY_WITNESSES
+    status: VOLUME_DOCUMENT_AND_OBJECT_CONCORDANCE_PENDING
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Foreign and minority communities can hold property, maintain worship, serve imperial power, petition officials, and enter Egyptian-imperial legal forms while their security remains contingent and reversible.
+  - Egypt under foreign empire contains overlapping royal, provincial, local, military, temple, and communal authorities.
+intended_claim_class:
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - SELF_WITNESS
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - The legal, religious, property, kinship, military, and administrative relations documented for the Elephantine community in specified papyri.
+  - A community's own petitioning voice concerning destroyed sacred property and imperial remedies.
+  - The movement of claims across local, Egyptian, Persian, Judean, and neighboring administrative channels.
+what_the_source_cannot_establish:
+  - The status or experience of every Jew, Judean, foreign soldier, or minority community in Egypt.
+  - General religious equality or permanent toleration.
+  - Pharaonic-period policy from Achaemenid-period documents.
+  - That official permission removed local conflict or unequal power.
+
+rival_or_counter_witnesses_where_known:
+  - Egyptian and Demotic legal records from the same period
+  - Persian administrative correspondence
+  - archaeological evidence from Elephantine
+  - later Jewish, Greek, and Egyptian narratives
+
+boundary_effect: >-
+  The archive gives direct minority and community evidence to a section previously
+  dependent on later summaries, while remaining bounded to Elephantine and Achaemenid rule.
+
+age_of_individual_crossing:
+  target:
+    - historical_spectrum.sacred_cosmic_order
+    - historical_spectrum.revelation_and_divine_law
+  authority_bearer: Persian imperial and provincial officials, local authorities, military command, temple community, law, and written petition
+  human_position: Member of a minority religious-military community holding property and making claims through overlapping jurisdictions
+  demanded_conduct: Service, communal discipline, ritual observance, legal documentation, taxation or obligation, and petition through recognized authorities
+  formative_technique: Contract, letter, petition, archive, imperial rescript, temple, kinship, and military settlement
+  crossing_relation: COEXIST_WITH
+  non_teleology_rule: >-
+    Documentary individuality and communal petition do not imply modern religious
+    liberty. Persons and groups act through status, empire, temple, and negotiated privilege.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

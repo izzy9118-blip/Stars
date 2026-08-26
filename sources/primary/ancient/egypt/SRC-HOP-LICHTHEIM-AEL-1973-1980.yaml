@@ -1,0 +1,70 @@
+source_id: SRC-HOP-LICHTHEIM-AEL-1973-1980
+status: THREE_VOLUME_PUBLICATION_SEQUENCE_LOCKED_TEXT_CROSSWALKS_PENDING
+
+author_or_corporate_author: Miriam Lichtheim
+work_or_document_title: Ancient Egyptian Literature
+author_subtitle: A Book of Readings
+date_or_period:
+  volume_i: 1973
+  volume_ii: 1976
+  volume_iii: 1980
+  ancient_periods_discussed: Old Kingdom through the Late Period
+original_language: English translations from Egyptian texts
+evidence_class: LATER_CRITICAL_RECONSTRUCTION_NOT_PRIMARY
+
+governing_witness_and_exact_edition_or_archive:
+  publisher: University of California Press
+  original_publication_sequence:
+    - volume: I
+      title: The Old and Middle Kingdoms
+      year: 1973
+    - volume: II
+      title: The New Kingdom
+      year: 1976
+    - volume: III
+      title: The Late Period
+      year: 1980
+  publisher_record: https://www.ucpress.edu/books/ancient-egyptian-literature/paper
+  consolidated_edition:
+    year: 2019
+    role: convenient collected access with new introductions
+    status: DOES_NOT_REPLACE_ORIGINAL_VOLUME_PUBLICATION_CONTEXT
+
+participant_or_observer_position: twentieth-century Egyptologist, translator and literary historian
+temporal_distance_if_retrospective: millennia after the underlying compositions and monuments
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - translation_control_for_wisdom_royal_mortuary_and_autobiographical_texts
+  - literary_genre_and_historical_context
+  - distinction_between_textual_witness_and_modern_translation
+intended_claim_class: WITNESS_METADATA
+secondary_integration_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - Controlled English translations, introductions, textual notes and genre context for a broad primary Egyptian corpus.
+  - A reliable navigation layer connecting modern readers to inscriptions and manuscripts.
+  - Where a History of Power claim must return to a specific underlying Egyptian witness.
+what_the_source_cannot_establish:
+  - That Lichtheim's English wording is the ancient artifact itself.
+  - That a literary composition is a direct factual chronicle of the age it depicts.
+  - That selections in an anthology exhaust Egyptian political, religious or social experience.
+
+rival_or_counter_witnesses_where_known:
+  - James P. Allen and other modern translations
+  - original hieroglyphic, hieratic and Demotic editions
+  - alternative philological readings
+  - manuscript and monument facsimiles
+boundary_effect: >-
+  Every use must identify both Lichtheim's editorial/translation layer and the
+  underlying papyrus, stela, tomb or inscription. Translation convenience may not erase textual transmission.
+
+age_of_individual_crossing:
+  person_power_relation: modern textual control for ancient subjects, officials, petitioners, rulers and the judged dead
+  authority_demand: none directly; translation mediates evidence
+  conduct_formation: permits the distinct ancient person-power relations to be reconstructed without modern categories being substituted silently
+  later_relation: NO_DIRECT_CROSSING_YET
+  prohibition: Do not attribute Lichtheim's introductions or normalized English terminology to an ancient speaker.
+
+quotation_state: SOURCE_BY_SOURCE_CROSSWALK_REQUIRED
+star_integration_state: CONTROL_SOURCE_ONLY_NOT_YET_PROPOSED

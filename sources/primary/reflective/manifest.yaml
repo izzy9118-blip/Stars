@@ -1,0 +1,151 @@
+corpus_id: HOP-REFLECTIVE-WITNESSES-001
+name: First-Class Contemporary and Post-Festum Witnesses
+status: ACQUISITION_TARGETS_REGISTERED
+parent_star: STAR-HISTORY-OF-POWER-001
+method: sources/SOURCE-WITNESS-METHOD.md
+
+purpose: >-
+  Add first-class contemporary and post-festum books and essays to the operational
+  documentary record so each History of Power layer includes both institutional
+  mechanism and reflective understanding.
+
+late_imperial_industrial_1871_1914:
+  contemporary_reflective:
+    - source_id: SRC-HOP-HOBSON-IMPERIALISM-1902
+      author: J. A. Hobson
+      work: Imperialism: A Study
+      year: 1902
+      original_language: English
+      role: contemporary_diagnosis_of_imperialism_finance_markets_colonial_expansion_and_state_policy
+      governing_witness_target: first_edition_1902
+      online_witness: https://archive.org/details/imperialismastu00goog
+
+    - source_id: SRC-HOP-HILFERDING-FINANZKAPITAL-1910
+      author: Rudolf Hilferding
+      work: Das Finanzkapital. Eine Studie über die jüngste Entwicklung des Kapitalismus
+      year: 1910
+      original_language: German
+      role: banks_industry_joint_stock_capital_cartels_finance_capital_and_imperial_policy
+      governing_witness_target: Vienna_first_edition_1910
+      online_witness: https://books.google.com/books?id=lDNcTRDbLHQC
+
+    - source_id: SRC-HOP-LUXEMBURG-AKKUMULATION-1913
+      author: Rosa Luxemburg
+      work: Die Akkumulation des Kapitals
+      year: 1913
+      original_language: German
+      role: accumulation_noncapitalist_spaces_imperial_expansion_and_militarism
+      governing_witness_target: first_edition_1913
+      state: TO_ACQUIRE
+
+    - source_id: SRC-HOP-LENIN-IMPERIALISM-1917
+      author: V. I. Lenin
+      work: Imperialism, the Newest Stage of Capitalism
+      written: 1916
+      publication_year: 1917
+      original_language: Russian
+      role: monopoly_bank_industrial_capital_finance_capital_export_of_capital_and_world_partition
+      governing_witness_target: Russian_first_edition_1917
+      state: TO_ACQUIRE
+
+    - source_id: SRC-HOP-MAHAN-SEA-POWER-1890
+      author: Alfred Thayer Mahan
+      work: The Influence of Sea Power upon History, 1660-1783
+      year: 1890
+      relation: ALREADY_LOCKED_IN_IMPERIAL_INDUSTRIAL_CORPUS
+
+  near_post_festum:
+    - source_id: SRC-HOP-SCHUMPETER-IMPERIALISM-1919
+      author: Joseph A. Schumpeter
+      work: Zur Soziologie der Imperialismen
+      year: 1919
+      original_language: German
+      role: postwar_reflection_on_imperialism_social_structure_atavism_capitalism_and_expansion
+      governing_witness_target: 1919_Mohr_print
+      online_witness: https://books.google.com/books?id=rf4_AAAAYAAJ
+
+first_world_war_1914_1918:
+  contemporary_reflective:
+    - source_id: SRC-HOP-RATHENAU-KRA-WRITINGS-1914-1915
+      author: Walther Rathenau
+      work: Kriegsrohstoffabteilung reports, memoranda, correspondence and reflections
+      period: 1914-1915
+      original_language: German
+      role: participant_reflection_on_raw_material_allocation_industry_state_coordination_and_war_economy
+      state: TO_ACQUIRE_FROM_RATHENAU_GESAMTAUSGABE_AND_ARCHIVAL_WITNESSES
+
+    - source_id: SRC-HOP-NAUMANN-MITTELEUROPA-1915
+      author: Friedrich Naumann
+      work: Mitteleuropa
+      year: 1915
+      original_language: German
+      role: wartime_vision_of_economic_political_and_regional_organization
+      state: TO_ACQUIRE
+
+    - source_id: SRC-HOP-WEBER-PARLIAMENT-GOVERNMENT-1918
+      author: Max Weber
+      work: Parlament und Regierung im neugeordneten Deutschland
+      year: 1918
+      original_language: German
+      role: wartime_diagnosis_of_bureaucracy_parliament_leadership_and_the_German_state
+      state: TO_ACQUIRE
+
+  immediate_post_festum:
+    - source_id: SRC-HOP-WEBER-POLITIK-BERUF-1919
+      author: Max Weber
+      work: Politik als Beruf
+      lecture_date: 1919-01-28
+      publication_year: 1919
+      original_language: German
+      role: postwar_reflection_on_state_legitimate_violence_leadership_responsibility_and_political_vocation
+      governing_witness_target: Duncker_und_Humblot_1919
+      online_witness: https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp98165
+
+    - source_id: SRC-HOP-KEYNES-ECONOMIC-CONSEQUENCES-1919
+      author: John Maynard Keynes
+      work: The Economic Consequences of the Peace
+      year: 1919
+      original_language: English
+      role: participant_post_festum_analysis_of_war_finance_reparations_European_interdependence_and_peace_settlement
+      state: TO_ACQUIRE_FIRST_EDITION
+
+    - source_id: SRC-HOP-LUDENDORFF-WAR-MEMORIES-1919
+      author: Erich Ludendorff
+      work: Meine Kriegserinnerungen 1914-1918
+      year: 1919
+      original_language: German
+      role: senior_military_participant_post_festum_account_of_command_mobilization_home_front_and_war_management
+      state: TO_ACQUIRE_FIRST_EDITION
+
+    - source_id: SRC-HOP-JUNGER-STAHLGEWITTERN-1920
+      author: Ernst Jünger
+      work: In Stahlgewittern
+      year: 1920
+      original_language: German
+      role: participant_post_festum_reconstruction_of_front_experience_industrialized_combat_and_soldier_subjectivity
+      governing_witness_target: first_edition_1920
+      textual_caution: heavily_revised_in_later_editions_use_first_edition_only_for_this_layer
+      state: TO_ACQUIRE
+
+    - source_id: SRC-HOP-HINDENBURG-AUS-MEINEM-LEBEN-1920
+      author: Paul von Hindenburg
+      work: Aus meinem Leben
+      year: 1920
+      original_language: German
+      role: senior_command_post_festum_self_account
+      state: TO_ACQUIRE
+
+    - source_id: SRC-HOP-CHURCHILL-WORLD-CRISIS-1923-1931
+      author: Winston S. Churchill
+      work: The World Crisis
+      publication_period: 1923-1931
+      original_language: English
+      role: participant_statesman_post_festum_reconstruction_of_strategy_administration_and_war_decision
+      governing_witness_target: British_first_editions
+      caution: self_justificatory_participant_history_not_neutral_retrospective
+      state: TO_ACQUIRE
+
+acquisition_rule: >-
+  Each source must receive its own witness record, first-edition or governing-language
+  control, temporal-distance metadata, participant-position metadata, and a passage-to-claim
+  map before it contributes to narrative synthesis.

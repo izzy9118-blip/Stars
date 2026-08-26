@@ -1,0 +1,68 @@
+source_id: SRC-HOP-EGYPT-ABBOTT-PAPYRUS
+status: GOVERNING_PAPYRUS_IDENTIFIED_COLUMN_AND_COMPANION_RECORD_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Ramesside administrative and judicial scribal authority
+work_or_document_title: Abbott Papyrus
+principal_identifier: British Museum EA 10221
+original_language: Late Egyptian, hieratic
+date_or_period: Year 16 of Ramesses IX, Twentieth Dynasty
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+participant_or_observer_position: Official record of inspection, accusation, jurisdictional conflict, testimony, and inquiry concerning royal and elite tomb robberies
+temporal_distance_if_retrospective: Contemporary administrative record; individual robbery events and related proceedings may precede the surviving report
+
+governing_witness_and_exact_edition_or_archive:
+  original_object:
+    repository: British Museum
+    accession: EA 10221
+    status: GOVERNING_OBJECT_IDENTIFIED_EXACT_COLUMN_IMAGE_AND_RECTO_VERSO_CROSSWALK_PENDING
+  companion_record_rule: >-
+    Amherst, Mayer, Leopold II, and other tomb-robbery papyri must remain separate
+    documents with controlled chronology and concordance.
+  critical_edition_target:
+    status: MODERN_HIEROGLYPHIC_TRANSCRIPTION_AND_TRANSLATION_TO_BE_SELECTED
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - The dead, tomb property, necropolis, inspectors, local officials, police, courts, and competing administrations form a jurisdictional field subject to inquiry and corruption.
+  - Mortuary order is materially protected through inspection, testimony, writing, and punishment rather than existing only as theology.
+intended_claim_class:
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - The tombs, officials, inspections, claims, findings, and jurisdictional disputes recorded in the papyrus.
+  - A concrete administrative response to violations of the dead and mortuary property.
+  - Tension among officials and offices whose reputations or jurisdictions are implicated by the inquiry.
+what_the_source_cannot_establish:
+  - An unbiased account of every robbery or accused person.
+  - The full scale of tomb robbery across Egypt.
+  - That official inspection permanently protected the necropolis.
+  - The beliefs of robbers, workers, or the dead's families absent from the record.
+
+rival_or_counter_witnesses_where_known:
+  - related tomb-robbery papyri admitted separately
+  - archaeological evidence from royal and private tombs
+  - SRC-HOP-EGYPT-TURIN-JUDICIAL-PAPYRUS
+  - mortuary texts and temple records
+
+boundary_effect: >-
+  The papyrus grounds the Star's claim that mortuary order has police, property,
+  record, and jurisdictional dimensions while preserving the partisan nature of
+  an official investigation.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: Royal necropolis administration, inspectors, police, courts, local officials, tomb, and archive
+  human_position: Dead person represented through protected name, body, tomb, and goods; living official or accused person differentiated through inquiry
+  demanded_conduct: Respect for protected mortuary property, truthful testimony, and compliance with inspection as represented
+  formative_technique: Inspection, list, oath, testimony, jurisdictional accusation, written report, and punishment
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    Protection of named tombs and investigation of named persons does not imply
+    modern individual property or criminal procedure; personhood remains mortuary,
+    status-bound, and sovereignly administered.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

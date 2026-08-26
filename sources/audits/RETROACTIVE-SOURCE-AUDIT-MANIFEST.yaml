@@ -1,0 +1,151 @@
+audit_program: HISTORY-OF-POWER-RETROACTIVE-SOURCE-AUDIT
+status: FIRST_FULL_PASS_COMPLETE_DUAL_CONFORMITY_BOUND_PERSIA_PREPARATORY_PACKAGE_COMPLETE
+branch: history-of-power-retroactive-source-audit-001
+method: sources/SOURCE-WITNESS-METHOD.md
+history_of_power_conformity_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment_contract: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+age_of_individual_conformity_review: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-CONFORMITY-REVIEW-001.yaml
+sole_semantic_authority: stars/STAR-HISTORY-OF-POWER-001.yaml
+companion_thesis_star: stars/STAR-AGE-OF-INDIVIDUAL-001.yaml
+
+purpose: >-
+  Re-audit every History of Power layer from the beginning under the expanded
+  witness method while remaining subordinate to both the native History of Power
+  Star architecture and the bounded Age of the Individual thesis. Each layer must
+  distinguish operational/direct evidence, contemporary reflection, post-festum/dusk
+  reflection, and later critical reconstruction; reconstruct its historical form on
+  its own terms; and then complete a non-teleological person-power crosswalk before
+  any Star-native integration proposal can be treated as ready.
+
+scaffold_status:
+  rule: >-
+    Every corpus, map, audit, manifest, production state, witness count, or
+    narrative-gate label under sources/ is procedural research scaffolding only.
+    None is a second Star and none supersedes STAR-HISTORY-OF-POWER-001.
+  star_native_return: >-
+    Findings become admissible only when mapped back into the Star's fact, scope,
+    shape, claim_policy, historical_spectrum, boundaries, evidence, conceptual_chain,
+    or navigational questions.
+
+companion_star_alignment:
+  principle: >-
+    History of Power is the counter-genealogy of the older forces that the Age of
+    the Individual later encounters. It is not a universal history of powerful states.
+  required_second_stage: >-
+    After own-source reconstruction, every layer identifies its historically
+    specific human position, form of authority, person-power relation and bounded
+    crossing relation to the Age thesis.
+  permitted_crossings:
+    - PRESERVES
+    - DISPLACES
+    - APPROPRIATES
+    - COEXISTS_WITH
+    - TRANSFORMS
+    - NO_DIRECT_CROSSING_YET
+  anti_teleology: >-
+    The Age of the Individual is not the hidden end of earlier history. Crossing
+    analysis follows reconstruction of the older form in its own categories.
+
+sequence:
+  - order: 1
+    layer: EGYPT
+    audit: sources/audits/ancient/EGYPT-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    acquisition_corpus: sources/primary/ancient/egypt/manifest.yaml
+    person_authority_maps:
+      - sources/primary/ancient/egypt/maps/EGYPT-PERSON-AUTHORITY-001.yaml
+      - sources/primary/ancient/egypt/maps/EGYPT-AMENEMOPE-PERSON-AUTHORITY-001.yaml
+    modern_reclassification: sources/primary/ancient/egypt/RECLASSIFICATION-MODERN-EGYPT-INTERPRETATIONS-001.yaml
+    correction_proposals:
+      - sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-CORRECTION-PROPOSAL-001.yaml
+      - sources/primary/ancient/egypt/integration/EGYPT-STRUCTURED-STAR-CORRECTION-ADDENDUM-AMENEMOPE-001.yaml
+    status: EVIDENCE_PACKAGE_CONDITIONALLY_READY_STRUCTURED_CORRECTION_NOT_CERTIFIED_OR_APPLIED
+    next_action: OWNER_REVIEW_CERTIFICATION_AND_CONTROLLED_STRUCTURED_APPLICATION
+  - order: 2
+    layer: PERSIA
+    audit: sources/audits/ancient/PERSIA-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    preparatory_corpus: sources/primary/ancient/persia/manifest.yaml
+    exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+    person_authority_map: sources/primary/ancient/persia/maps/PERSIA-PERSON-AUTHORITY-001.yaml
+    herodotus_control: sources/primary/ancient/persia/HERODOTUS-REATTRIBUTION-AND-CONTROL-001.yaml
+    preparatory_proposal: sources/primary/ancient/persia/integration/PERSIA-STRUCTURED-STAR-CORRECTION-PROPOSAL-001.yaml
+    status: PREPARATORY_PACKAGE_COMPLETE_NOT_ADMITTED_OR_CERTIFIABLE_UNDER_EXCEPTION
+    next_action: HOLD_FOR_OWNER_REVIEW_AND_LATER_MULTILINGUAL_PASSAGE_VERIFICATION
+  - order: 3
+    layer: GREECE
+    audit: sources/audits/ancient/GREECE-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_REFLECTIVE_AND_EPIGRAPHIC_EXPANSION_REQUIRED
+    next_action: HOLD_NOT_AUTHORIZED_UNDER_CURRENT_EXCEPTION
+  - order: 4
+    layer: ROME
+    audit: sources/audits/ancient/ROME-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_ANNALISTIC_AND_PRINCIPATE_CONTROLS_REQUIRED
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
+  - order: 5
+    layer: POST_IMPERIAL_AND_MEDIEVAL
+    audit: sources/audits/medieval/POST-IMPERIAL-MEDIEVAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_INSTITUTIONAL_AND_REFLECTIVE_EXPANSION_REQUIRED
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
+  - order: 6
+    layer: RENAISSANCE_EARLY_MODERN_AND_ENLIGHTENMENT
+    audit: sources/audits/early-modern/RENAISSANCE-EARLY-MODERN-ENLIGHTENMENT-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_REFLECTIVE_CANON_EXPANSION_REQUIRED
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
+  - order: 7
+    layer: REVOLUTIONARY_AND_CONSTITUTIONAL
+    audit: sources/audits/revolutionary/REVOLUTIONARY-CONSTITUTIONAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_CONSTITUENT_DISSENT_AND_DUSK_EXPANSION_REQUIRED
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
+  - order: 8
+    layer: ADMINISTRATIVE_AND_NATIONAL_POWER_1798_1871
+    audit: sources/audits/nineteenth-century/ADMINISTRATIVE-NATIONAL-POWER-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_REFLECTIVE_AND_INDUSTRIAL_CANON_EXPANSION_REQUIRED
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
+  - order: 9
+    layer: IMPERIAL_INDUSTRIAL_WORLD_POWER_1871_1914
+    audit: sources/audits/imperial-industrial/IMPERIAL-INDUSTRIAL-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_RIVAL_REFLECTIVE_CANON_EXPANSION_REQUIRED
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
+  - order: 10
+    layer: TOTAL_WAR_AND_MASS_STATE_1914_1918
+    audit: sources/audits/total-war/TOTAL-WAR-RETROACTIVE-SOURCE-AUDIT-001.yaml
+    status: AUDIT_COMPLETE_REFLECTIVE_SOCIAL_AND_OPERATIONAL_EXPANSION_REQUIRED
+    next_action: FUTURE_ACQUISITION_UNDER_DUAL_CONFORMITY_GATE
+
+completion_rule: >-
+  A layer is not ready because sources are named or a map is complete. It requires
+  provenance correction, first-class rival witnesses, boundaries, an Age-of-the-
+  Individual person-power crosswalk, verified passages or documents, and a structured-
+  Star integration proposal. Preparation, verification, admission, application and
+  certification remain separate states.
+
+acquisition_admission_rule: >-
+  Every new source identifies its History of Power layer and claim targets, native
+  claim class, supported and unsupported propositions, boundary effect and rival
+  witnesses, together with the historically specific person-power relation and
+  Age crossing. Prestige alone is never grounds for acquisition.
+
+program_findings:
+  - No existing layer passes the revised narrative gate unchanged.
+  - History of Power and the Age of the Individual are structurally aligned; the main risk is universal-history and state-capacity drift.
+  - Ancient layers require strict separation among ancient self-witness, ancient dusk reflection and modern reconstruction.
+  - Egypt now includes loyal subjecthood, labor, petition, office and Amenemope's inward moral formation without back-projecting modern autonomy.
+  - Egypt's modern symbolist and lost-civilization claims are reclassified and no longer eligible for unqualified FACT voice.
+  - Persia's preparatory package now supplies royal, Babylonian, administrative, provincial and reflective voices alongside Herodotus.
+  - The Persian evidence replaces a simple free-Greek/passive-Persian contrast with differentiated agency under unequal imperial forms.
+  - Herodotus remains indispensable but is governed by an explicit reattribution table.
+  - Greece needs epigraphic institutions and philosophical regime reflection; Rome needs direct principate texts and annalistic controls.
+  - Medieval and modern layers retain the reflective and rival witness deficits identified in their audits.
+
+acquisition_state:
+  state: PERSIA_PREPARATORY_EXCEPTION_COMPLETE
+  current_layer: PERSIA
+  Egypt_status: GOVERNING_PENDING_CORRECTION_NOT_CERTIFIED_OR_APPLIED
+  Persia_status: PREPARATORY_COMPLETE_ZERO_ADMITTED_EVIDENCE
+  next_layer: GREECE
+  chronology_hold: ACTIVE
+  rule: >-
+    Do not move to Greece under the present exception. Persian evidence may not enter
+    the structured Star until Egypt's status and Persian admission receive separate
+    owner-approved decisions.
+
+current_position: PERSIA_PREPARATORY_PACKAGE_COMPLETE_HOLD_FOR_OWNER_REVIEW

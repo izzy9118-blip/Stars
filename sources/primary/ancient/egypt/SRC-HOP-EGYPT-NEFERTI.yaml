@@ -1,0 +1,70 @@
+source_id: SRC-HOP-EGYPT-NEFERTI
+status: WITNESS_COMPLEX_REGISTERED_PASSAGE_EXTRACTION_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Anonymous Egyptian literary composition; sage Neferti is the represented speaker
+work_or_document_title: Prophecy of Neferti
+original_title_or_identifier: Nfr.tj / conventionally The Prophecy of Neferti
+date_or_period:
+  represented_setting: Reign of Sneferu
+  probable_composition_context: Early Twelfth Dynasty, commonly associated with the accession ideology of Amenemhat I
+  surviving_witnesses: Later manuscript and ostracon copies; exact copy dates remain witness-specific
+original_language: Middle Egyptian
+
+evidence_class: CONTEMPORARY_REFLECTIVE_WITNESS_WITH_LATER_COPY_TRANSMISSION
+participant_or_observer_position: Courtly literary representation of a sage speaking before a king
+temporal_distance_if_retrospective: >-
+  The text places its speech in an earlier royal court while likely addressing a
+  later political restoration. Fictional setting, composition context, and
+  surviving-copy date must not be collapsed.
+
+governing_witness_and_exact_edition_or_archive:
+  principal_manuscript: Papyrus Hermitage 1116B
+  repository: State Hermitage Museum, St Petersburg
+  status: PHYSICAL_WITNESS_IDENTIFIED_EXACT_DIGITAL_FOLIO_CROSSWALK_PENDING
+  supporting_online_transcription:
+    repository: UCL Digital Egypt
+    url: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/neferti.html
+    status: NAVIGATION_AND_WORKING_TRANSLATION_WITNESS
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Egyptian reflections on disorder preserve a distinction between rightful royal office and failed or absent rule.
+  - Kingship represents itself as restoration of ma'at against social and cosmic disorder.
+intended_claim_class:
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - WITNESS_METADATA
+
+what_the_source_can_establish:
+  - A native Egyptian literary representation of disorder, social inversion, fear, and royal restoration.
+  - A courtly form in which political renewal is spoken prospectively through a sage while legitimating a later king.
+  - The dependence of ordinary security and social position upon a restored encompassing order.
+what_the_source_cannot_establish:
+  - That the narrated disorder is an eyewitness record of one datable historical collapse.
+  - That every Egyptian accepted the text's royal ideology.
+  - That Amenemhat I personally commissioned the composition absent separate evidence.
+
+rival_or_counter_witnesses_where_known:
+  - SRC-HOP-EGYPT-IPUWER
+  - SRC-HOP-EGYPT-ELOQUENT-PEASANT
+  - Teaching for King Merikare
+  - contemporaneous royal and administrative inscriptions
+
+boundary_effect: >-
+  The source may support a bounded claim about Egyptian political imagination and
+  legitimation; it may not turn literary chaos into unqualified social history.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: Sacred royal office and the king represented as restorer
+  human_position: Dependent inhabitant whose security, occupation, and social place require restored order
+  demanded_conduct: Recognition of renewed kingship and return to ordered relations
+  formative_technique: Prophecy, courtly speech, memory of disorder, and royal legitimation
+  crossing_relation: PRESERVE
+  non_teleology_rule: >-
+    The text does not anticipate the autonomous individual. It clarifies an older
+    order in which personal security is intelligible through restoration of a
+    royal-cosmic whole.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

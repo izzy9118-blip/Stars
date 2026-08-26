@@ -1,0 +1,20 @@
+source_id: SRC-HOP-WILLY-NICKY-1914
+status: PERSONAL_DIPLOMATIC_TELEGRAM_CORPUS_LOCKED_THROUGH_ARCHIVAL_PUBLICATION
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  authors: [Wilhelm II, Nicholas II]
+  title: Willy-Nicky Telegrams
+  dates: 1914-07-29/1914-08-01
+  original_language: English
+  role: sovereign_mediation_mobilization_pressure_and_personal_diplomacy
+governing_witness:
+  witness_type: TELEGRAMS_PUBLISHED_FROM_PETROGRAD_GOVERNMENT_ARCHIVES
+  publication: "The Kaiser's Letters to the Tsar, ed. Isaac Don Levine, London, 1920"
+  transcription: https://www.firstworldwar.com/source/willynicky.htm
+key_relations:
+  - Nicholas appeals for German restraint on Austria-Hungary while warning of pressure toward extreme military measures.
+  - Wilhelm represents Russian military measures as threatening mediation and German security.
+  - Both emperors continue direct personal diplomacy while military preparations advance.
+qualification: >-
+  The telegrams are a later archival publication of original communications. Personal mediation did not by itself control cabinets,
+  general staffs or mobilization systems, and should not be read as a complete record of Russian or German policy.

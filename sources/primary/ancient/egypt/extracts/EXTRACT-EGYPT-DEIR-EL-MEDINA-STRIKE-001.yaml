@@ -1,0 +1,79 @@
+extract_id: EXTRACT-EGYPT-DEIR-EL-MEDINA-STRIKE-001
+source_id: SRC-HOP-EGYPT-DEIR-EL-MEDINA-STRIKE
+status: Q0_OBJECT_LOCKED_Q1_EDITION_SELECTION_PENDING_Q2_PENDING
+protocol: sources/primary/ancient/egypt/EXTRACTION-PROTOCOL-001.yaml
+
+Q0_witness_identity:
+  document: Turin Strike Papyrus
+  original_language: Late Egyptian, hieratic
+  original_object:
+    repository: Museo Egizio, Turin
+    catalogue: Cat. 1880
+    url: https://collezioni.museoegizio.it/en-GB/material/Cat_1880
+  date: Year 29 of Ramesses III, Twentieth Dynasty
+  document_character: Scribal journal or record of repeated labor stoppages, complaints, movement, deliveries, and negotiations
+  qualification: >-
+    Cat. 1880 is the core witness, but the event sequence may require related
+    journals, ostraca, ration accounts, and modern reconstruction of fragment order.
+
+Q1_textual_control:
+  object_record: RETRIEVED
+  critical_edition_candidates:
+    - Ramesside Inscriptions, Historical and Biographical, volume containing Year 29 strike records; exact volume/page to verify
+    - modern Deir el-Medina documentary editions and translations tied to Cat. 1880 columns
+  status: GOVERNING_HIEROGLYPHIC_OR_HIERATIC_TRANSCRIPTION_NOT_YET_SELECTED
+  control_rule: >-
+    Popular translations of 'the first strike in history' do not govern. Exact
+    column, date entry, hand, and event sequence must be attached to every claim.
+
+Q2_passage_targets:
+  - target_id: STRIKE-T1
+    event: first recorded cessation of work or departure from the worksite
+    purpose: identify the action actually recorded rather than applying the later label strike without control
+    exact_column_and_entry: PENDING
+  - target_id: STRIKE-T2
+    event: complaint concerning hunger, arrears, grain, or missing provisions
+    purpose: establish the breached material obligation in the workers' or scribe's recorded language
+    exact_column_and_entry: PENDING
+  - target_id: STRIKE-T3
+    event: gathering at a temple, administrative building, or other protected/public space
+    purpose: show how collective action uses sacred and administrative geography
+    exact_column_and_entry: PENDING
+  - target_id: STRIKE-T4
+    event: official response, partial delivery, negotiation, return, or renewed stoppage
+    purpose: reconstruct reciprocal obligation and limits of remedy
+    exact_column_and_entry: PENDING
+
+Q3_translation_control:
+  governing_translation: NONE_YET
+  popular_online_translations: PROHIBITED_AS_GOVERNING_WITNESS
+  project_translation_rule: >-
+    A bounded English working translation may be produced only after Cat. 1880
+    column and critical transcription are fixed.
+  quotation_readiness: NOT_READY
+
+Q4_star_claim_mapping:
+  relation_id: EGYPT-PA-006
+  star_claim_target: >-
+    Skilled royal workers depend upon administrative provision and can exercise
+    collective agency when provisioning fails while remaining within the royal,
+    temple, scribal, and local order.
+  intended_claim_class:
+    - DOCUMENTED_OR_TEXTUAL_FACT
+    - ANALYTICAL_SYNTHESIS
+  age_of_individual_crossing: COEXIST_WITH
+
+Q5_boundary_and_rival_test:
+  boundaries:
+    - one exceptional skilled workmen's community is not all Egyptian labor
+    - stoppage is not automatically a modern legal strike
+    - ration arrears do not by themselves establish complete state collapse
+    - journal voice may be scribal rather than verbatim worker speech
+  rival_controls:
+    - Deir el-Medina work journals and ration accounts
+    - SRC-HOP-EGYPT-GREAT-HARRIS-PAPYRUS
+    - SRC-HOP-EGYPT-WILBOUR-PAPYRUS
+    - archaeological studies of the village and royal tomb workforce
+
+Q6_quotation_readiness: NOT_READY
+next_action: SELECT_COLUMN_CONTROL_EDITION_AND_CROSSWALK_T1_T4_TO_CAT_1880

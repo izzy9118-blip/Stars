@@ -1,0 +1,127 @@
+source_id: SRC-HOP-REKHMIRE-VIZIER
+status: MONUMENT_TEXTS_AND_CRITICAL_LOCATORS_LOCKED_SELECTED_RELATIONS_CONTROLLED
+
+author_or_corporate_author: Rekhmire workshop / royal-vizierial inscription tradition
+work_or_document_title: Installation and Duties of the Vizier Rekhmire
+monument: Theban Tomb 100, Sheikh Abd el-Qurna
+date_or_period: reigns of Thutmose III and early Amenhotep II
+original_language: Ancient Egyptian in hieroglyphic inscription
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+secondary_evidence_character: office ideal, administrative composition and autobiographical self-presentation
+
+governing_witness_and_exact_edition_or_archive:
+  original_witness:
+    description: inscriptions and scenes in TT100
+    components:
+      - Installation of the Vizier
+      - Duties of the Vizier
+      - autobiographical inscriptions
+      - administrative, tribute, tax, agricultural, workshop and temple-provision scenes
+  documentary_edition:
+    author: Norman de Garis Davies
+    title: The Tomb of Rekh-mi-Re at Thebes
+    series: Publications of the Metropolitan Museum of Art Egyptian Expedition 11
+    publisher: Metropolitan Museum of Art
+    year: 1943
+    volumes:
+      - volume: I
+        digital_record: https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/168855
+      - volume: II
+        digital_record: https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/169100
+    status: GOVERNING_DOCUMENTARY_PUBLICATION_OF_TT100
+  installation_critical_control:
+    author: R. O. Faulkner
+    title: The Installation of the Vizier
+    journal: Journal of Egyptian Archaeology
+    volume: 41
+    year: 1955
+    pages: 18-29
+    doi: 10.2307/3855232
+  duties_critical_control:
+    author: G. P. F. van den Boorn
+    title: The Duties of the Vizier: Civil Administration in the Early New Kingdom
+    publisher: Kegan Paul International
+    year: 1988
+    status: GOVERNING_MODERN_TRANSLATION_COMMENTARY_AND_SOURCE_ANALYSIS
+  translation_control:
+    author: Miriam Lichtheim
+    title: Ancient Egyptian Literature, volume II: The New Kingdom
+    year: 1976
+    pages: 21-24 for the Installation selection
+    status: READING_AND_TRANSLATION_CONTROL_NOT_PRIMARY
+  historical_translation_aid:
+    author: James Henry Breasted
+    title: Ancient Records of Egypt, volume II: The Eighteenth Dynasty
+    sections: 665 onward
+    status: HISTORICAL_TRANSLATION_AID_NOT_GOVERNING
+  textual_note: related incomplete copies survive in other vizierial tombs
+
+passage_control:
+  path: sources/primary/ancient/egypt/passages/EGY-REKHMIRE-VIZIER-PASSAGES-001.yaml
+  state: MONUMENT_TEXTS_AND_CRITICAL_LOCATORS_LOCKED_SELECTED_RELATIONS_CONTROLLED
+  admitted_now:
+    - office_as_burden_and_support_of_land
+    - royal_instruction_and_delegated_authority
+    - impartial_hearing_as_normative_office_ideal
+    - petition_and_vindication_through_high_office
+    - information_reporting_sealed_record_and_palace_relation
+    - represented_tax_tribute_agriculture_workshop_and_temple_supply_relations
+    - elite_official_self_understanding_as_attributed_claim
+  held:
+    - extended_direct_Egyptian_quotation
+    - literal_daily_timetable_of_the_vizierate
+    - equal_practical_access_for_all_inhabitants
+    - quantitative_or_frequency_claims_from_tomb_scenes
+    - modern_autonomous_bureaucracy_or_separated_departments
+
+participant_or_observer_position: elite office-holder's monumental representation of appointment, duties and proper conduct
+temporal_distance_if_retrospective: contemporary office monument, but selective, funerary and self-presentational
+
+star_layer_target: egyptian_power
+star_claim_target:
+  - vizier_as_delegated_royal_office
+  - hearing_impartiality_judgment_and_procedure
+  - information_record_tax_tribute_and_production
+  - office_as_mediation_between_king_and_population
+  - private_occupant_and_role_standard
+intended_claim_class:
+  represented_administrative_relations: DOCUMENTED_OR_TEXTUAL_FACT
+  royal_instruction_and_autobiographical_virtue: ATTRIBUTED_TEACHING_OR_JUDGMENT
+  monument_wide_relation: ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - The vizierial office was represented through specified procedures, reporting relations, records and jurisdictions.
+  - Royal instruction demanded impartiality, disciplined hearing and restraint of personal preference.
+  - Petitioners were represented as approaching high office for judgment and vindication.
+  - Monumental scenes join the office to taxation, accounting, tribute, agriculture, production, workshops and temple provision.
+  - Rekhmire's tomb joins administrative office to reputation and mortuary memory.
+what_the_source_cannot_establish:
+  - That every vizier performed these duties exactly as represented.
+  - That TT100 describes all periods, regions or levels of Egyptian government.
+  - That every petitioner possessed equal practical access or a modern right of appeal.
+  - That autobiographical moral claims are independently verified facts about Rekhmire's conduct.
+  - Quantities, frequency or ordinary experience from selected funerary scenes alone.
+
+rival_or_counter_witnesses_where_known:
+  - Horemheb Edict
+  - Eloquent Peasant
+  - tax, labor, treasury and letter records
+  - other Installation and Duties copies, including Useramen and Hepu
+boundary_effect: >-
+  Preserve Installation, Duties, autobiography and image program as related but
+  non-identical witness components. Normative office, represented practice and personal
+  commemoration cannot be collapsed into one neutral organization chart.
+
+age_of_individual_crossing:
+  person_power_relation: official formed as an office-bearer mediating royal command, procedure, records and the governed population
+  authority_demand: impartial hearing, reporting, supervision, record and restraint of private preference
+  conduct_formation: the person is subordinated to a role whose legitimacy exceeds the private occupant
+  later_relation: PRESERVES_AND_TRANSFORMS_IN_LATER_OFFICE_AND_ADMINISTRATIVE_LEGIBILITY
+  prohibition: Do not equate office discipline with modern autonomous civil service, universal legal equality or an omniscient state.
+
+quotation_state: DIRECT_EGYPTIAN_QUOTATION_HELD_SELECTED_RELATIONS_CONTROLLED
+star_integration_state: SELECTED_RELATIONS_MAPPED_IN_EGYPT_CORRECTION_PACKAGE_NOT_APPLIED
+remaining_control: >-
+  Complete clause tables against Faulkner and van den Boorn and an image-by-image
+  Davies wall/plate crosswalk before direct quotation, quantitative use or fine-grained
+  procedural claims enter the Star.

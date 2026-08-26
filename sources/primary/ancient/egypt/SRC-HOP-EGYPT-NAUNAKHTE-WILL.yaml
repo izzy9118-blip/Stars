@@ -1,0 +1,68 @@
+source_id: SRC-HOP-EGYPT-NAUNAKHTE-WILL
+status: DOCUMENT_REGISTERED_EXACT_OBJECT_AND_EDITION_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Naunakhte and the Deir el-Medina scribal/legal authorities recording her declaration
+work_or_document_title: Will / Property Declaration of Naunakhte
+original_language: Late Egyptian, hieratic
+date_or_period: Twentieth Dynasty, Deir el-Medina; exact regnal dating to be fixed from governing edition
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS_AND_PERSONAL_LEGAL_DECLARATION
+participant_or_observer_position: A woman declaring the disposition of her own property among children in relation to support received or withheld
+temporal_distance_if_retrospective: Contemporary legal record of a declaration that retrospectively judges family conduct
+
+governing_witness_and_exact_edition_or_archive:
+  original_document:
+    repository: Ashmolean Museum, Oxford
+    object_identifier: Exact papyrus accession and relation to associated family documents pending verification
+    status: GOVERNING_OBJECT_NOT_YET_FULLY_LOCKED
+  critical_edition_target:
+    author_editor: Jaroslav Černý or subsequent Deir el-Medina legal-document edition; exact bibliographic control pending
+    status: TO_SELECT_AND_LOCK
+  hard_rule: >-
+    No assertion about property, inheritance, or women's legal capacity enters the
+    Star until the exact papyrus, clause, and edition are fixed.
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Household authority and property are not exhausted by paternal rule; women can appear as named legal actors making bounded dispositions within kinship and local legal procedure.
+  - Material support, filial obligation, memory of conduct, and property distribution become connected through recorded declaration.
+intended_claim_class:
+  - SELF_WITNESS
+  - DOCUMENTED_OR_TEXTUAL_FACT
+  - ANALYTICAL_SYNTHESIS
+
+what_the_source_can_establish:
+  - The property and family distinctions Naunakhte's declaration actually records.
+  - A woman's use of local scribal/legal procedure to reward or exclude named children in relation to support.
+  - Household agency exercised within marriage, kinship, property, community witnesses, and inherited law.
+what_the_source_cannot_establish:
+  - Equal property rights for all Egyptian women across all periods and statuses.
+  - A modern testamentary freedom detached from household and community institutions.
+  - The full motives or perspectives of every child named.
+  - A standard rule derived from one Deir el-Medina document.
+
+rival_or_counter_witnesses_where_known:
+  - related Deir el-Medina marriage, property, and adoption documents
+  - SRC-HOP-EGYPT-HEQANAKHT-PAPYRI
+  - household and inheritance records from other periods
+  - modern legal-historical debate on Egyptian women's property capacity
+
+boundary_effect: >-
+  This document prevents the Age-of-the-Individual alignment from reducing
+  Egyptian household authority to a single paternal model while keeping the
+  woman's agency institutionally and historically bounded.
+
+age_of_individual_crossing:
+  target: historical_spectrum.household_ancestral_order
+  authority_bearer: Household property, kinship obligation, community witnesses, local scribes, and legal custom
+  human_position: Named woman acting as property holder, parent, and evaluator of reciprocal family support
+  demanded_conduct: Filial support and recognition of a recorded disposition as the document represents them
+  formative_technique: Declaration, witness, named kin, property list, exclusion, reward, and scribal preservation
+  crossing_relation: COEXIST_WITH
+  non_teleology_rule: >-
+    Strong female legal agency does not make the household a modern association of
+    independent contracting individuals; it complicates the older institutional form.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

@@ -1,0 +1,19 @@
+source_id: SRC-HOP-BRITISH-BLOCKADE-1915
+status: GOVERNING_ORDER_DOCUMENTARY_WITNESS_LOCKED
+parent_corpus: HOP-TOTAL-WAR-001
+work:
+  corporate_author: British Government / King in Council
+  title: Order in Council of 11 March 1915 framing reprisals for restricting further the commerce of Germany
+  date: 1915-03-11
+  original_language: English
+  role: blockade_enemy_trade_neutral_shipping_cargo_control_and_economic_warfare
+governing_witness:
+  witness_type: ORDER_IN_COUNCIL_IDENTIFIED_IN_CONTEMPORARY_AND_OFFICIAL_DIPLOMATIC_RECORDS
+  order_reference: "Order in Council framing Reprisals for Restricting further the Commerce of Germany, 1915, No. 206"
+  US_diplomatic_documentation: https://history.state.gov/historicaldocuments/frus1915Supp/d773
+key_passage:
+  anchor: "preventing commodities of any kind from reaching or leaving Germany"
+  corroboration: UK parliamentary debate quoting preamble and operative paragraph
+qualification: >-
+  The 1915 system was a long-distance economic warfare regime affecting neutral trade and was contested in international law.
+  Operational effectiveness, neutral agreements and civilian consequences require separate shipping, diplomatic and food-supply evidence.

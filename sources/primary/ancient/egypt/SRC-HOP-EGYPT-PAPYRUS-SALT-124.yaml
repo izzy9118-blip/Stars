@@ -1,0 +1,68 @@
+source_id: SRC-HOP-EGYPT-PAPYRUS-SALT-124
+status: GOVERNING_PAPYRUS_IDENTIFIED_DOCUMENT_AND_EDITION_CROSSWALK_PENDING
+parent_corpus: HOP-EGYPT-DUAL-CONFORMITY-001
+
+author_or_corporate_author: Amennakhte and the scribal/legal authorities involved in preserving the complaint
+work_or_document_title: Papyrus Salt 124
+principal_identifier: British Museum EA 10055, identification to be verified against current catalogue
+document_character: Complaint or accusation concerning the conduct of the Deir el-Medina foreman Paneb
+original_language: Late Egyptian, hieratic
+date_or_period: Nineteenth Dynasty / early Twentieth Dynasty context; exact date and compilation history pending critical edition
+
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS_AND_PERSONAL_COMPLAINT
+participant_or_observer_position: Workman or scribe presenting accusations against a powerful local official within the royal workmen's community
+temporal_distance_if_retrospective: Complaint recounts prior alleged conduct; date of each allegation and date of surviving document require separation
+
+governing_witness_and_exact_edition_or_archive:
+  original_object:
+    repository: British Museum
+    accession: EA 10055, to verify
+    status: GOVERNING_OBJECT_IDENTIFIER_AND_IMAGE_CROSSWALK_PENDING
+  critical_edition_target:
+    status: HIEROGLYPHIC_TRANSCRIPTION_TRANSLATION_AND_DOCUMENT_HISTORY_TO_BE_SELECTED
+  hard_rule: >-
+    Each allegation remains an allegation attributed to the complainant unless
+    independently established. No accusation enters the Star as adjudicated fact.
+
+star_layer_target: historical_spectrum.egyptian_power
+star_claim_target:
+  - Subordinate members of a specialized state community can accuse a superior through writing and appeal to higher authority.
+  - Local office may become a site of coercion, favoritism, appropriation, or abuse that the official ideal does not disclose.
+intended_claim_class:
+  - SELF_WITNESS
+  - ATTRIBUTED_TEACHING_OR_JUDGMENT
+  - WITNESS_METADATA
+
+what_the_source_can_establish:
+  - The accusations, offices, relationships, and procedures actually preserved in the papyrus.
+  - A documentary form through which alleged abuse by a foreman is named and transmitted.
+  - The existence of conflict and appeal within the Deir el-Medina hierarchy.
+what_the_source_cannot_establish:
+  - The truth of each allegation without corroboration.
+  - A complete biography of Paneb or Amennakhte.
+  - The normal behavior of all foremen or workers.
+  - A modern whistleblower protection system or equal access to justice.
+
+rival_or_counter_witnesses_where_known:
+  - other Deir el-Medina journals, ostraca, court records, and family documents
+  - SRC-HOP-EGYPT-DEIR-EL-MEDINA-STRIKE
+  - SRC-HOP-EGYPT-REKHMIRE-VIZIER
+  - archaeological and prosopographical studies of the workmen's village
+
+boundary_effect: >-
+  The papyrus supplies a local subordinate voice and a counter-witness to official
+  self-presentation, while its accusatory and unresolved character remains explicit.
+
+age_of_individual_crossing:
+  target: historical_spectrum.sacred_cosmic_order
+  authority_bearer: Foreman, workmen's community, scribal complaint, local court or higher officials, and royal project administration
+  human_position: Named subordinate who can accuse a superior but does so through status, writing, and institutional appeal
+  demanded_conduct: Proper officeholding and truthful complaint as represented by the document
+  formative_technique: Written accusation, list of offenses, office hierarchy, witness, archival preservation, and appeal
+  crossing_relation: COEXIST_WITH
+  non_teleology_rule: >-
+    The complainant's voice is not modern autonomous citizenship; it is agency
+    exercised inside a specialized corporate and royal hierarchy.
+
+quotation_state: NOT_YET_EXTRACTED
+structured_star_integration_state: NOT_AUTHORIZED

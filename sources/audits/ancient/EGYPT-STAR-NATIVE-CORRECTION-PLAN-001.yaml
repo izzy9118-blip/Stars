@@ -1,0 +1,162 @@
+plan_id: EGYPT-STAR-NATIVE-CORRECTION-PLAN-001
+status: CANDIDATE_PLAN_PASSAGE_SUPPORT_PENDING
+star: STAR-HISTORY-OF-POWER-001
+alignment_star: STAR-AGE-OF-INDIVIDUAL-001
+
+purpose: >-
+  Define the exact native structured-Star changes that may follow evidence control.
+  This plan does not authorize editing the Star and does not create a parallel layer.
+
+native_field_actions:
+  fact:
+    retain_with_source_control:
+      - Ptah creation through heart, tongue, naming, command, and ordered functions
+      - Royal Canon succession of divine, spirit, and human rulers
+      - kingship as more than the private personality of one mortal bearer
+      - ma'at as royal standard and isfet as represented disorder
+      - mortuary judgment and continuation of the dead
+    revise_for_boundary:
+      - replace universal-origin wording with first-civilizational-form-examined wording
+      - replace first-older-force wording with first-older-force-mapped-here wording
+    expand_only_after_passages:
+      - petitioner agency within hierarchy
+      - exile and reintegration as a form of personhood
+      - household authority and private correspondence
+      - worker collective agency under failed provisioning
+      - land and fiscal legibility
+      - individualized accusation under sovereign judgment
+      - minority community petition and negotiated protection
+    reclassify_or_remove_from_unqualified_fact:
+      - one fully integrated sacred-science doctrine where principally modern synthesis
+      - Luxor as Anthropocosmos and complete initiatory text
+      - comprehensive hierarchy of initiation and consciousness
+      - distinct Horian direct-liberation and Osirian gradual-renewal paths
+      - true King as cosmic order conscious of itself
+      - inherited completeness from Atlantis or an identified lost civilization
+
+  scope:
+    add_exclusions:
+      - Egypt as demonstrated origin of every later form of power
+      - direct causal descent from Egypt to Persia, Greece, Rome, sovereignty, or modern individualism
+      - elite royal, temple, or mortuary evidence as the experience of all inhabitants
+      - first-person literary voice as modern autonomous selfhood
+    add_population_scope:
+      - king and royal household
+      - officials and scribes
+      - petitioners and litigants
+      - households, dependents, and estate workers
+      - skilled state workers
+      - foreign and minority communities
+      - the dead and mortuary participants differentiated by period and access
+
+  shape:
+    operative_rules_to_add:
+      - first mapped case is not first universal origin
+      - Egyptian literary composition, represented setting, and surviving copy date remain distinct
+      - royal self-description and administrative implementation remain distinct
+      - personhood within office, household, petition, labor, and mortuary order is not equated with modern individual autonomy
+      - ancient post-festum witnesses remain attributed and cannot replace indigenous self-witness
+      - modern symbolist and Egyptological reconstructions remain later interpretation
+
+  claim_policy:
+    application:
+      - ancient inscription or papyrus may support DOCUMENTED_OR_TEXTUAL_FACT
+      - wisdom or literary text supports ATTRIBUTED_TEACHING_OR_JUDGMENT unless corroborated institutionally
+      - cross-source person-authority relation supports ANALYTICAL_SYNTHESIS
+      - modern sacred-science or Anthropocosmos claims remain INTERPRETIVE_BRIDGE or attributed later reconstruction
+
+  historical_spectrum:
+    target_node: egyptian_power
+    proposed_subrelations:
+      - sacred_creation_and_royal_office
+      - maat_judgment_and_delegated_administration
+      - office_service_and_memorial_personhood
+      - petition_subordinate_speech_and_hearing
+      - household_estate_and_correspondence
+      - labor_provision_and_collective_action
+      - land_measure_record_and_fiscal_legibility
+      - foreign_community_status_property_and_petition
+      - death_name_judgment_and_mortuary_continuity
+      - ancient_post_festum_memory_and_transformation
+    node_rule: >-
+      These are candidate subrelations inside one Egyptian node, not independent
+      permanent Stars or an alternative chronology.
+
+  boundaries:
+    required:
+      - period-specific evidence
+      - elite and non-elite scope
+      - object and textual transmission
+      - implementation limits
+      - geographic and institutional jurisdiction
+      - external-observer distance
+      - later scholarly disagreement
+      - no teleological causation to individualism
+
+  evidence:
+    direct_primary_clusters:
+      - Shabaka Stone
+      - Royal Canon papyrus
+      - Pyramid Text inscriptions
+      - Ptahhotep, Merikare, Amenemhat, Neferti, Peasant, Sinuhe, Loyalist Teaching, Ipuwer
+      - Horemheb, Rekhmire, Weni, Harkhuf, Hatshepsut monuments
+      - Deir el-Medina strike, Heqanakht, Wilbour, Turin Judicial, Papyrus Harris
+      - Elephantine Aramaic documents
+    ancient_post_festum:
+      - Herodotus
+      - Manetho fragments
+      - Diodorus
+      - Strabo
+      - Plutarch
+    later_critical_controls:
+      - Assmann
+      - Hornung
+      - Kemp
+      - Parkinson
+      - O'Connor and Silverman chapter-specific kingship studies
+
+  conceptual_chain:
+    retain:
+      - creative command
+      - divine and royal succession
+      - ma'at and isfet
+      - temple, office, land, labor, record, and judgment
+      - death and mortuary continuity
+    add_after_control:
+      - household correspondence and delegated private authority
+      - petition and worker agency within hierarchy
+      - administrative individuation through lists, land, office, and judgment
+      - foreign community action across overlapping jurisdictions
+    prohibit:
+      - treating administrative individuation as modern individual sovereignty
+      - treating chronology as necessary causal descent
+
+  navigational_questions:
+    add:
+      - What kind of person can speak in petition without standing outside kingship?
+      - What does first-person memory mean when name, tomb, office, and royal favor constitute the speaker?
+      - How do household letters disclose authority below the palace and temple?
+      - When workers stop labor because provision fails, what obligation do they claim the order owes them?
+      - What kind of individuality becomes visible when land, rations, accusation, or temple service is recorded?
+      - How does a foreign minority community act through overlapping imperial, local, military, and sacred jurisdictions?
+      - Which later interpretations reveal Egyptian wholes, and which transform Egyptian categories into Greek, Roman, or modern ones?
+
+age_of_individual_conformity:
+  thesis_service: >-
+    The repaired Egypt node supplies the first mapped older order against which the
+    later separate individual can be understood: persons possess voice, memory,
+    agency, office, household position, labor claims, and judgment, but those forms
+    remain constituted through sacred, royal, corporate, material, and mortuary relations.
+  no_direct_claim: >-
+    The node will not claim that Egypt caused modern individualism or lacked all
+    personal agency because it lacked the modern doctrine of the separate self.
+
+adoption_gate:
+  required_before_structured_star_edit:
+    - Q6 quote-ready passages for every expanded material claim
+    - claim-by-claim evidence IDs
+    - rival and boundary review
+    - modern-source reclassification accepted
+    - validation that proposed subrelations fit existing schema
+  structured_star_update_authorized: false
+  narrative_update_authorized: false

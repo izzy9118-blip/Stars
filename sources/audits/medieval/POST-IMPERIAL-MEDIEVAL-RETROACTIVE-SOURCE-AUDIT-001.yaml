@@ -1,0 +1,277 @@
+audit_id: POST-IMPERIAL-MEDIEVAL-RETROACTIVE-SOURCE-AUDIT-001
+status: MEDIEVAL_LAYER_NARRATIVELY_RICH_INSTITUTIONALLY_UNDERDOCUMENTED
+parent_star: STAR-HISTORY-OF-POWER-001
+method: sources/SOURCE-WITNESS-METHOD.md
+layer: post_imperial_and_medieval_power
+
+current_strengths:
+  narrative_and_reflective_witnesses_already_present:
+    - Augustine, City of God
+    - Hydatius, Chronicle
+    - Jordanes, Gothic History
+    - Procopius, Wars
+    - Gregory of Tours, History of the Franks
+    - Bede, Ecclesiastical History
+    - Einhard and Notker/St Gall lives of Charlemagne
+    - Anglo-Saxon Chronicle
+    - Cosmas of Prague, Chronicle of the Czechs
+    - Anna Komnene, Alexiad
+    - Otto of Freising and Rahewin, Deeds of Frederick Barbarossa
+    - Matthew Paris, Chronica Majora
+    - Saxo Grammaticus, History of the Danes
+    - Froissart, Chronicles
+    - Philippe de Commynes, Memoirs
+    - Pius II, Commentaries
+    - Guicciardini, History of Italy
+    - Ibn Khaldun, Muqaddimah
+  assessment: >-
+    The layer already preserves unusually diverse Christian, Roman, Gothic, Frankish,
+    English, Bohemian, Byzantine, German-imperial, monastic, Scandinavian, chivalric,
+    diplomatic, papal, Italian and Islamic historical voices. Its weakness is not lack
+    of narrative intelligence but the absence of enough legal, fiscal, chartered,
+    canonical and communal documents to test the institutional claims made through those narratives.
+
+subaudit_late_antiquity_and_successor_kingdoms:
+  missing_operational_witnesses:
+    - source_id: SRC-HOP-CODEX-THEODOSIANUS
+      work: Codex Theodosianus
+      date: 438
+      class: IMPERIAL_LEGAL_CODE
+      importance: late_Roman_law_religion_office_tax_status_and_imperial_administration
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-NOTITIA-DIGNITATUM
+      work: Notitia Dignitatum
+      class: LATE_ROMAN_OFFICIAL_LIST
+      importance: offices_commands_provinces_army_and_administrative_geography
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-CORPUS-IURIS-CIVILIS
+      work: Justinian Corpus - Codex, Digest, Institutes, Novels
+      dates: 529-534_and_later_Novels
+      class: IMPERIAL_LEGAL_COMPILATION
+      importance: emperor_law_property_office_church_city_tax_family_and_Roman_continuity
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-LEX-SALICA
+      work: Lex Salica
+      class: SUCCESSOR_KINGDOM_LAW_CODE
+      importance: Frankish_status_compensation_property_kinship_and_royal_law
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-EDICTUM-THEODERICI_OR_OSTROGOTHIC_LAW
+      class: SUCCESSOR_ROMAN_GOTHIC_LEGAL_WITNESS
+      importance: Roman_Gothic_government_law_and_incorporation
+      priority: HIGH
+  missing_reflective_witnesses:
+    - Cassiodorus, Variae - royal administration and Roman-Gothic state correspondence
+    - Gregory the Great, Registrum Epistolarum and Pastoral Rule - papal governance, bishops, kings, estates and mission
+    - Isidore of Seville, Sententiae / Etymologiae and History of the Goths - kingship, law and Christian political memory
+
+subaudit_carolingian_conversion_and_territorial_rule:
+  missing_operational_witnesses:
+    - source_id: SRC-HOP-ADMONITIO-GENERALIS-789
+      work: Admonitio Generalis
+      class: CAROLINGIAN_CAPITULARY
+      importance: royal_reform_clergy_schooling_discipline_and_standardization
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-CAPITULARE-DE-VILLIS
+      class: ROYAL_ESTATE_ADMINISTRATIVE_CAPITULARY
+      importance: estate_management_officials_production_inventory_and_royal_household_economy
+      priority: HIGH
+    - source_id: SRC-HOP-SAXON-CAPITULARIES
+      works: [Capitulatio_de_partibus_Saxoniae, Capitulare_Saxonicum]
+      importance: conquest_compulsory_conversion_punishment_and_later_adjustment
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-ALFRED-LAW-CODE
+      work: Alfred's Domboc
+      class: ROYAL_LEGAL_COMPILATION
+      importance: law_kingship_biblical_authority_compensation_and_English_rule
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-TREATY-ALFRED-GUTHRUM
+      class: NEGOTIATED_BOUNDARY_AND_LAW
+      importance: territorial_settlement_oath_conversion_status_and_peace
+      priority: HIGH
+    - source_id: SRC-HOP-DOMESDAY-BOOK
+      date: 1086
+      class: FISCAL_TERRITORIAL_SURVEY
+      importance: land_holders_value_taxation_resources_and_Norman_legibility
+      priority: ESSENTIAL
+  reflective_additions:
+    - Hincmar of Reims, De ordine palatii - palace, king, counsel and Carolingian government
+    - Alfred's prefaces and translations as royal reflection on learning, law and recovery
+
+subaudit_church_empire_canon_law_and_universal_claims:
+  missing_operational_witnesses:
+    - source_id: SRC-HOP-DICTATUS-PAPAE-1075
+      class: PAPAL_PROPOSITIONAL_RECORD
+      importance: papal_claims_over_bishops_kings_and_Roman_church
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-CONCORDAT-WORMS-1122
+      class: PAPAL_IMPERIAL_SETTLEMENT
+      importance: investiture_church_office_regalia_and_divided_authority
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-GRATIAN-DECRETUM
+      date: circa_1140
+      class: CANONICAL_LEGAL_SYNTHESIS
+      importance: church_jurisdiction_authority_canon_conflict_and_legal_reasoning
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-RONCAGLIA-REGALIA
+      date: 1158
+      class: IMPERIAL_JURISTIC_CLAIM
+      importance: regalia_tolls_mint_tax_water_office_and_communal_conflict
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-VENETIAN-CHRYSOBULL-1082
+      class: BYZANTINE_COMMERCIAL_PRIVILEGE
+      importance: tax_exemption_trade_ports_and_delegated_commercial_power
+      priority: HIGH
+    - source_id: SRC-HOP-FOURTH-LATERAN-1215
+      class: GENERAL_COUNCIL_LEGISLATION
+      importance: church_discipline_jurisdiction_crusade_minorities_and_pastoral_governance
+      priority: HIGH
+
+subaudit_feudal_urban_estate_and_parliamentary_power:
+  finding: >-
+    The existing narrative correctly treats overlapping lordship, town, estate and
+    parliament as distinct powers, but it needs actual charters and legal records rather than chronicle description alone.
+  essential_additions:
+    - source_id: SRC-HOP-MAGNA-CARTA-1215
+      class: ROYAL_BARONIAL_CHARTER
+      importance: taxation_judgment_property_counsel_and_binding_the_king
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-ASSIZE-CLARENDON-1166
+      class: ROYAL_JUDICIAL_ADMINISTRATIVE_WITNESS
+      importance: itinerant_justice_juries_sheriffs_and_royal_penetration
+      priority: HIGH
+    - source_id: SRC-HOP-PARLIAMENT-ROLLS
+      class: ESTATE_PARLIAMENTARY_OPERATIONAL_ARCHIVE
+      importance: petition_tax_grant_statute_counsel_and_representation
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-COMMUNAL-STATUTES
+      class: URBAN_SELF_GOVERNMENT_CORPUS
+      target_cases: [Florence, Bologna, Siena, Lombard_communes]
+      importance: office_election_tax_court_militia_trade_and_city_jurisdiction
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-GOLDEN-BULL-1356
+      class: IMPERIAL_CONSTITUTIONAL_LAW
+      importance: prince_electors_election_jurisdiction_and_Holy_Roman_Imperial_order
+      priority: ESSENTIAL
+
+major_missing_first_class_medieval_books:
+  - source_id: SRC-HOP-JOHN-SALISBURY-POLICRATICUS
+    author: John of Salisbury
+    work: Policraticus
+    year: 1159
+    class: CONTEMPORARY_POLITICAL_REFLECTION
+    importance: prince_law_tyranny_body_politic_court_and_resistance
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-THOMAS-AQUINAS-DE-REGNO
+    author: Thomas Aquinas
+    work: De Regno
+    class: CONTEMPORARY_POLITICAL_THEOLOGY
+    importance: kingship_common_good_tyranny_and_political_order
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-AQUINAS-LAW
+    author: Thomas Aquinas
+    work: Summa Theologiae I-II questions 90-97
+    class: SYSTEMATIC_REFLECTION_ON_LAW
+    importance: eternal_natural_human_law_custom_legislation_and_common_good
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-DANTE-MONARCHIA
+    author: Dante Alighieri
+    work: Monarchia
+    class: POST_CONFLICT_IMPERIAL_REFLECTION
+    importance: universal_empire_papacy_temporal_end_and_independent_imperial_title
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-MARSILIUS-DEFENSOR-PACIS
+    author: Marsilius of Padua
+    work: Defensor Pacis
+    year: 1324
+    class: CONTEMPORARY_POLITICAL_ECCLESIOLOGICAL_REFLECTION
+    importance: legislator_people_government_church_coercion_and_papal_power
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-BARTOLUS-CIVITATES
+    author: Bartolus of Sassoferrato
+    works: public_law_commentaries_and_city_treatises
+    class: JURISTIC_REFLECTION
+    importance: city_jurisdiction_sovereignty_empire_and_legal_pluralism
+    priority: HIGH
+  - source_id: SRC-HOP-OCKHAM-POLITICAL
+    author: William of Ockham
+    works: political_writings_on_papacy_and_empire
+    class: CONTEMPORARY_POLEMICAL_JURISTIC_REFLECTION
+    importance: papal_limits_rights_council_empire_and_resistance
+    priority: HIGH
+  - source_id: SRC-HOP-NIZAM-MULK-SIYASATNAMA
+    author: Nizam al-Mulk
+    work: Siyasatnama
+    class: CONTEMPORARY_ISLAMIC_STATECRAFT
+    importance: ruler_office_tax_army_intelligence_justice_and_administration
+    priority: ESSENTIAL
+  - source_id: SRC-HOP-AL-MAWARDI-AHKAM
+    author: al-Mawardi
+    work: al-Ahkam al-Sultaniyya
+    class: ISLAMIC_JURISTIC_POLITICAL_REFLECTION
+    importance: caliphate_office_ministers_governors_judges_tax_and_public_authority
+    priority: ESSENTIAL
+
+current_claims_requiring_reclassification_or_test:
+  - successor_kingdoms_should_not_be_reconstructed_from_chronicles_without_law_codes_and_diplomas
+  - Byzantine_continuity_requires_Justinianic_law_and_administrative_documents_beside_Procopius
+  - Carolingian_reconstruction_requires_capitularies_beside_Einhard_and_Notker
+  - Norman_territorial_power_requires_Domesday_and_royal_law_beside_Chronicle
+  - investiture_and_papal_imperial_conflict_requires_Dictatus_Worms_Gratian_and_actual_privileges
+  - Roncaglia_claims_require_juristic_texts_not_only_Otto_Rahewin
+  - parliamentary_tax_resistance_requires_charters_rolls_and_fiscal_records_beside_Matthew_Paris
+  - feudalism_must_not_be_treated_as_one_uniform_system_without_regional_documentary_control
+  - Ibn_Khaldun_must_remain_a_distinct_Maghribi_Islamic_reflection_not_the_generic_medieval_social_theory
+
+later_critical_reconstruction_required:
+  - author: Marc Bloch
+    work: La société féodale / Feudal Society
+    years: 1939-1940
+    priority: ESSENTIAL
+  - author: Ernst Kantorowicz
+    work: The King's Two Bodies
+    year: 1957
+    role: political_theology_corporate_kingship_and_office
+    priority: ESSENTIAL
+  - author: Joseph Strayer
+    work: On the Medieval Origins of the Modern State
+    year: 1970
+    caution: teleology_must_be_controlled
+    priority: HIGH
+  - author: Peter Brown
+    work: The World of Late Antiquity
+    year: 1971
+    role: transition_religion_society_and_late_Roman_world
+    priority: HIGH
+  - author: Brian Tierney
+    work: major_works_on_church_state_constitutional_thought_and_rights
+    role: canon_law_conciliarism_and_constitutionalism
+    priority: ESSENTIAL
+  - author: Robert Bartlett
+    work: The Making of Europe
+    year: 1993
+    role: expansion_colonization_law_and_cultural_transformation
+    priority: HIGH
+  - author: Susan Reynolds
+    work: Fiefs and Vassals
+    year: 1994
+    role: essential_critique_of_reified_feudal_model
+    priority: ESSENTIAL
+  - author: Chris Wickham
+    work: Framing the Early Middle Ages
+    year: 2005
+    role: comparative_material_and_institutional_transition_after_Rome
+    priority: ESSENTIAL
+
+narrative_gate:
+  state: NOT_SATISFIED_UNDER_REVISED_METHOD
+  requirements:
+    - add late_Roman_and_Justinianic_law
+    - add successor_kingdom_law_codes
+    - add Carolingian_capitularies_and_Domesday
+    - add core papal_imperial_canonical_documents
+    - add Magna_Carta_parliamentary_and_communal_operational_records
+    - add John_of_Salisbury_Aquinas_Dante_Marsilius_and_Islamic_statecraft
+    - test feudal terminology against Reynolds_and_regional_documentation
+    - retain chronicles as first_class_reflective_witnesses_without making them substitute for institutions
+
+next_layer_after_completion: RENAISSANCE_EARLY_MODERN_AND_ENLIGHTENMENT

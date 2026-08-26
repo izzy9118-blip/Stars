@@ -1,0 +1,37 @@
+source_id: SRC-HOP-BONTEMANTEL-AMSTERDAM-GOVERNMENT-1653-1672
+name: Hans Bontemantel on Amsterdam government and the Wisselbank
+status: PRIMARY_MEMOIR_TRANSCRIPTION_LOCKED
+
+work:
+  author: Hans Bontemantel
+  title: De regeeringe van Amsterdam, soo in 't civiel als crimineel en militaire
+  coverage: 1653-1672
+  original_language: Dutch
+  genre: contemporary_governmental_notes_and_memoir
+  role: municipal_governance_wisselbank_treasury_and_credit_practice
+
+witness:
+  editor: G.W. Kernkamp
+  edition_year: 1897
+  repository: DBNL
+  url: https://www.dbnl.org/tekst/bont014rege01_01/
+  relation_to_original: edited transcription of Bontemantel's contemporary record
+
+passage_anchors:
+  - section: 5. Wisselbank
+    url: https://www.dbnl.org/tekst/bont014rege01_01/bont014rege01_01_0012.php
+    text: >-
+      "Op 't versouck der Oost-Indische Compaignie is geconsenteert uyt de
+      wisselbanck te mogen gebruycken, voor een corten tijt, viermael
+      hondert-duysent guldens, mits betaelende intrest."
+    date: 1662-02-27
+    use: wisselbank_credit_to_voc
+  - section: 3. Tresoriers Extre-ordenares
+    url: https://www.dbnl.org/tekst/bont014rege01_01/bont014rege01_01_0010.php
+    use: taxes_capital_loans_and_rents_in_holland_finance
+
+claim_boundary: >-
+  Bontemantel is a contemporary participant-observer, not the formal ordinance or
+  accounting ledger itself. His notes may establish what Amsterdam government
+  recorded and discussed, but transaction-level monetary claims should be
+  cross-checked against council resolutions or Wisselbank ledgers where possible.

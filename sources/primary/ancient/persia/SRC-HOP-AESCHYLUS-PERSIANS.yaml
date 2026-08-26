@@ -1,0 +1,107 @@
+source_id: SRC-HOP-AESCHYLUS-PERSIANS
+status: GOVERNING_GREEK_TEXT_LOCKED_TARGETED_PASSAGE_EXTRACTION_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Aeschylus
+work_or_document_title: Persians / Persae
+performance_date: 472 BCE
+events_reflected: Xerxes's invasion and defeat, especially Salamis in 480 BCE
+original_language: Ancient Greek
+evidence_class: CONTEMPORARY_REFLECTIVE_WITNESS
+witness_subclass: GREEK_TRAGIC_REFLECTION_ON_PERSIAN_IMPERIAL_DEFEAT
+
+participant_or_observer_position: >-
+  Athenian tragic poet and veteran of the Persian Wars presenting Persian court,
+  grief, kingship and defeat to a civic festival audience. The drama adopts Persian
+  speakers but remains a Greek theatrical construction, not a Persian court transcript.
+temporal_distance_if_retrospective: approximately eight years after Salamis
+
+governing_witness_and_exact_edition_or_archive:
+  ancient_textual_state: medieval manuscript transmission; no authorial copy survives
+  governing_digital_greek_witness:
+    editor: Herbert Weir Smyth
+    title: Aeschylus, with an English Translation, volume I
+    publisher: W. Heinemann
+    year: 1922
+    cts_urn: urn:cts:greekLit:tlg0085.tlg002.perseus-grc1
+    catalogue: https://catalog.perseus.tufts.edu/catalog/urn:cts:greekLit:tlg0085.tlg002
+  supporting_critical_edition:
+    editor: Henri Weil
+    series: Bibliotheca Teubneriana
+    publication: Leipzig, 1926
+    cts_urn: urn:cts:greekLit:tlg0085.tlg002.opp-grc5
+  rule: >-
+    The Greek text and its manuscript-critical tradition govern. Dramatic persona,
+    chorus, ghost and messenger remain literary voices attributed within the play.
+
+star_claim_target:
+  - contemporary_Greek_reflection_on_Xerxes_and_Persian_scale
+  - imperial_grief_hybris_and_limit
+  - Persian_court_and_subject_army_as_Greek_tragic_imagination
+  - counterpoint_to_Herodotus_later_historical_narrative
+intended_claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+
+what_the_source_can_establish:
+  - An Athenian audience in 472 BCE encountered a tragedy centered on Persian grief and the consequences of imperial defeat.
+  - The play reflects upon command, absence, counsel, dynastic memory, mass mobilization and the destruction of a vast army.
+  - Greek reflection could humanize Persian suffering while also interpreting Xerxes's campaign through religious and political limits.
+  - The work is a contemporary witness to how the war was made meaningful in Athens soon after the event.
+
+what_the_source_cannot_establish:
+  - Exact Persian court dialogue, ritual or popular opinion.
+  - A documentary order of battle or neutral history of Salamis.
+  - That every Greek or Persian shared the play's interpretation.
+  - That dramatic hybris is a Persian self-description.
+  - The institutional operation of the Achaemenid Empire outside what other sources corroborate.
+
+rival_or_counter_witnesses_where_known:
+  - Herodotus, Histories books VII-IX
+  - Persian royal inscriptions of Xerxes
+  - Babylonian and Egyptian documents from Xerxes's reign
+  - later Greek reflections including Isocrates and Xenophon
+
+boundary_effect: >-
+  Persians adds first-class contemporary reflection without converting Greek dramatic
+  imagination into Persian fact. Its Persian voices complicate a simple victor's narrative,
+  but their compassion and criticism remain products of Athenian tragedy.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - Great King and royal house as represented onstage
+    - gods, inherited limit and civic festival judgment
+    - tragic poet and Athenian audience
+  human_position:
+    - king
+    - queen mother
+    - elder counsellor
+    - messenger
+    - subject soldier and grieving household
+  claimed_end: reflection upon the human and political cost of imperial overreach and defeat
+  claimed_obligations:
+    - counsel and obedience within monarchy
+    - mourning and remembrance after catastrophe
+    - recognition of limits greater than one ruler's will
+  formation_mechanisms:
+    - civic tragedy
+    - choral memory
+    - dramatic identification with defeated enemies
+  coercive_mechanisms:
+    - royal military mobilization
+    - imperial expedition
+  material_relations:
+    - fleet and army
+    - tribute-bearing peoples
+    - court and household
+  knowledge_relations: the audience is invited to see imperial events through multiple dramatic positions rather than one official account
+  freedom_relation: individual grief and counsel become audible, but persons remain situated within dynasty, empire, army and civic interpretation
+  crossing_relation: POLITICAL_EVENT_BECOMES_REFLECTIVE_INDIVIDUAL_AND_COLLECTIVE_EXPERIENCE
+  age_of_individual_relevance: >-
+    The drama gives interior and emotional form to rulers and subjects without making
+    private feeling the source of political authority. It is an early case of power
+    becoming available to reflective judgment through represented human experience.
+
+quotation_state: TARGETED_SCENES_IDENTIFIED_EXACT_GREEK_EXTRACTION_PENDING
+star_integration_state: NOT_YET_PROPOSED

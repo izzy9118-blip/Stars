@@ -1,0 +1,211 @@
+audit_id: PERSIA-RETROACTIVE-SOURCE-AUDIT-001
+status: PERSIA_LAYER_HEAVILY_HERODOTEAN_REBALANCING_REQUIRED
+parent_star: STAR-HISTORY-OF-POWER-001
+method: sources/SOURCE-WITNESS-METHOD.md
+layer: persian_power
+
+current_strength:
+  principal_reflective_witness:
+    - Herodotus, Histories Books I and III-IX
+  value: >-
+    Herodotus supplies an exceptionally rich connected account of Median kingship,
+    Cyrus, Cambyses, the seven conspirators, Darius, satrapies, Royal Road, Scythia,
+    Ionia, Xerxes, Demaratus, Salamis and Persian defeat.
+  limitation: >-
+    The present Star often shifts from 'Herodotus says' into 'Persia is' without a
+    sufficiently independent Persian imperial archive. Greek historiographical insight
+    is therefore carrying claims that should be tested against royal inscriptions,
+    Babylonian records, Aramaic administration and provincial subject communities.
+
+claims_requiring_reattribution_or_independent_test:
+  - Persian_custom_as_a_single_coherent_nomos
+  - Cyrus_as_father_Cambyses_as_master_Darius_as_retailer
+  - the_seven_conspirators_constitutional_debate_as_Persian_political_self_description
+  - equality_before_law_as_the_direct_cause_of_Athenian_or_Ionian_military_effectiveness
+  - Persian_subjects_as_inherited_slaves_as_a_general_Persian_category
+  - Xerxes_as_driven_by_ancestral_expansion_and_dream
+  - royal_information_corrupted_by_flattery_as_a_systemic_Persian_institutional_rule
+  - Cyrus_soft_lands_warning_as_Persian_final_political_teaching
+
+required_operational_and_own_words_archive:
+  - source_id: SRC-HOP-CYRUS-CYLINDER
+    work: Cyrus Cylinder
+    date: 539 BCE
+    language: Babylonian Akkadian
+    witness_class: ROYAL_IMPERIAL_INSCRIPTION_IN_CONQUERED_TRADITION
+    importance: >-
+      Cyrus's Babylonian royal self-presentation: conquest, Marduk, restoration of
+      cults, temples and displaced populations, peace, tribute and legitimate kingship.
+    online_anchor: https://www.britishmuseum.org/collection/object/W_1880-0617-1941
+    priority: ESSENTIAL
+
+  - source_id: SRC-HOP-NABONIDUS-CHRONICLE
+    work: Nabonidus Chronicle
+    witness_class: BABYLONIAN_CONTEMPORARY_CHRONICLE
+    importance: conquest_of_Babylon_and_Cyrus_transition_outside_Cyrus_royal_voice
+    priority: ESSENTIAL
+
+  - source_id: SRC-HOP-BEHISTUN
+    author: Darius I
+    work: Behistun Inscription
+    date: circa 520 BCE
+    languages: [Old Persian, Elamite, Babylonian]
+    witness_class: ROYAL_MULTILINGUAL_IMPERIAL_SELF_DESCRIPTION
+    importance: >-
+      Dynastic legitimacy, revolt, lie/truth, named provinces, commanders, military
+      suppression, Ahuramazda and Darius's account of restoring imperial obedience.
+    online_anchor: https://www.livius.org/articles/place/behistun/behistun-3/
+    priority: ESSENTIAL
+
+  - source_id: SRC-HOP-DARIUS-DNA
+    author: Darius I
+    work: Naqsh-i Rustam DNa and related royal inscriptions
+    witness_class: ROYAL_IMPERIAL_SELF_DESCRIPTION
+    importance: imperial_peoples_royal_virtue_order_and_multiethnic_kingship
+    priority: ESSENTIAL
+
+  - source_id: SRC-HOP-PERSEPOLIS-FORTIFICATION
+    work: Persepolis Fortification Archive
+    dates: circa 509-493 BCE
+    languages: [Elamite, Aramaic, Old Persian_and_other_minor_items]
+    witness_class: ADMINISTRATIVE_ARCHIVE
+    importance: >-
+      Rations, movements, officials, workers, royal family, seals, travel and the
+      information system of the imperial core. This is the strongest corrective to
+      reconstructing administration principally from Greek narrative.
+    online_anchor: https://isac.uchicago.edu/research/projects/persepolis-fortification-archive
+    priority: ESSENTIAL
+
+  - source_id: SRC-HOP-ELEPHANTINE-PAPYRI
+    work: Elephantine Aramaic papyri
+    witness_class: PROVINCIAL_COMMUNITY_AND_IMPERIAL_ADMINISTRATIVE_RECORD
+    importance: >-
+      Persian provincial law, petitions, military colony, temple conflict, property,
+      officials and communication from a subject community inside Achaemenid Egypt.
+    priority: ESSENTIAL
+
+  - source_id: SRC-HOP-ARSAMES-LETTERS
+    work: Letters of Arsames / Arshama
+    witness_class: SATRAPAL_ADMINISTRATIVE_CORRESPONDENCE
+    importance: estate_management_orders_agents_travel_resources_and_provincial_command
+    priority: HIGH
+
+  - source_id: SRC-HOP-UDJAHORRESNET
+    author: Udjahorresnet
+    work: Statue autobiographical inscription
+    period: Cambyses_and_Darius_in_Egypt
+    witness_class: PROVINCIAL_ELITE_SELF_DESCRIPTION_UNDER_PERSIAN_RULE
+    importance: >-
+      Egyptian official's account of Cambyses, royal titulary, Sais, temple restoration,
+      local priestly knowledge and adaptation to Persian conquest. Essential counterweight
+      to Herodotus's Cambyses narrative.
+    priority: ESSENTIAL
+
+  - source_id: SRC-HOP-DARIUS-SUEZ-STELAE
+    author: Darius I
+    work: Suez canal stelae
+    witness_class: ROYAL_INFRASTRUCTURE_AND_IMPERIAL_INSCRIPTION
+    importance: Egypt_Persia_connection_canal_kingship_and_interregional_mobility
+    priority: HIGH
+
+ancient_contemporary_and_post_festum_reflection_missing:
+  - source_id: SRC-HOP-AESCHYLUS-PERSIANS
+    author: Aeschylus
+    work: Persians
+    year: 472 BCE
+    witness_class: CONTEMPORARY_GREEK_TRAGIC_REFLECTION
+    importance: >-
+      Earliest surviving Greek literary reflection on Xerxes's defeat, Persian court,
+      imperial scale, grief, hybris and the contrast between Greek and Persian political forms.
+    caution: tragedy_not_documentary_history
+    priority: ESSENTIAL
+
+  - source_id: SRC-HOP-XENOPHON-ANABASIS
+    author: Xenophon
+    work: Anabasis
+    period: expedition_of_401_BCE_and_aftermath
+    witness_class: PARTICIPANT_POST_FESTUM_HISTORICAL_REFLECTION
+    importance: Persian_princes_satraps_armies_routes_provincial_rule_and_imperial_space
+    priority: ESSENTIAL
+
+  - source_id: SRC-HOP-XENOPHON-CYROPAEDIA
+    author: Xenophon
+    work: Cyropaedia
+    witness_class: POST_FESTUM_PHILOSOPHICAL_HISTORICAL_RECONSTRUCTION
+    importance: Cyrus_leadership_education_empire_obedience_and_government
+    caution: >-
+      Philosophical and idealizing reconstruction written long after Cyrus; cannot be
+      treated as straightforward biography.
+    priority: ESSENTIAL
+
+  - source_id: SRC-HOP-CTESIAS-PERSICA
+    author: Ctesias of Cnidus
+    work: Persica
+    witness_class: COURT_CONNECTED_POST_FESTUM_GREEK_REFLECTION
+    importance: alternative_to_Herodotus_from_author_claiming_Persian_court_access
+    caution: fragmentary_lost_work_and_often_contested_reliability
+    priority: HIGH
+
+  - source_id: SRC-HOP-PLUTARCH-ARTAXERXES
+    author: Plutarch
+    work: Life of Artaxerxes
+    witness_class: LATE_POST_FESTUM_BIOGRAPHICAL_REFLECTION
+    importance: later_reconstruction_of_Persian_court_and_kingship
+    priority: MEDIUM
+
+subject_community_perspectives_to_add:
+  - Hebrew_Bible_Ezra_Nehemiah_and_selected_Persian_period_texts_with_textual_chronology_control
+  - Babylonian_chronicles_and_business_archives
+  - Egyptian_and_Aramaic_provincial_records
+  - Anatolian_local_and_numismatic_evidence_where_needed
+
+later_critical_reconstruction_required:
+  - author: Pierre Briant
+    work: Histoire de l'Empire perse: De Cyrus à Alexandre / From Cyrus to Alexander
+    original_year: 1996
+    role: comprehensive_modern_Achaemenid_reconstruction
+    priority: ESSENTIAL
+  - author: Amélie Kuhrt
+    work: The Persian Empire: A Corpus of Sources from the Achaemenid Period
+    year: 2007
+    role: multilingual_primary_source_corpus_and_context
+    priority: ESSENTIAL
+  - author: Richard T. Hallock
+    work: Persepolis Fortification Tablets
+    year: 1969
+    role: critical_edition_of_core_Elamite_administrative_archive
+    priority: ESSENTIAL
+  - author: Josef Wiesehöfer
+    work: Das antike Persien / Ancient Persia
+    original_year: 1993
+    role: critical_reconstruction_of_Achaemenid_and_later_Persian_history
+    priority: HIGH
+  - author: Muhammad A. Dandamaev
+    work: A Political History of the Achaemenid Empire
+    role: political_and_institutional_reconstruction
+    priority: HIGH
+
+current_narrative_disposition:
+  preserve:
+    - Herodotus_as_a_first_class_Greek_historical_witness
+    - Herodotean_regime_debate_as_an_important_reflection_on_Persian_monarchy
+    - Demaratus_law_vs_master_contrast_as_Herodotean_analysis
+    - Salamis_information_problem_as_Herodotean_narrative
+  revise_evidentiary_voice:
+    - stop_presenting_Herodotus_alone_as_Persian_self_understanding
+    - distinguish_Babylonian_Persian_Egyptian_Aramaic_and_Greek_witnesses
+    - test_satrapy_tribute_and_road_mechanisms_against_imperial_archives
+    - contrast_Herodotus_Cambyses_with_Udjahorresnet_and_Egyptian_evidence
+    - compare_Cyrus_Herodotus_with_Cyrus_Cylinder_and_Babylonian_chronicle
+    - compare_Darius_Herodotus_with_Behistun_and_Persepolis_archive
+
+narrative_gate:
+  state: NOT_SATISFIED_UNDER_REVISED_METHOD
+  requirements:
+    - lock Cyrus Cylinder, Behistun, Persepolis Fortification and Udjahorresnet
+    - add at least one Babylonian chronicle and one Aramaic/provincial corpus
+    - add Aeschylus, Xenophon Anabasis and Cyropaedia as distinct reflective classes
+    - add Briant and Kuhrt as later critical reconstructions
+    - reclassify current Herodotean claims explicitly where no Persian corroboration exists
+
+next_layer_after_completion: GREECE

@@ -1,0 +1,25 @@
+source_id: SRC-HOP-JAPAN-EDUCATION-RESCRIPT-1890
+status: GOVERNING_DOCUMENTARY_TEXT_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Emperor Meiji / Japanese state
+  title: 教育ニ関スル勅語 / Imperial Rescript on Education
+  date: 1890-10-30
+  original_language: Japanese
+  role: education_loyalty_family_morality_constitution_law_and_state_service
+governing_witness:
+  witness_type: JAPANESE_POLITICAL_DOCUMENT_DATABASE_TEXT
+  repository: The World and Japan Database
+  url: https://worldjpn.net/documents/texts/pw/18901030.O1E.html
+  source_note: Department of Education, Japan
+language_policy:
+  rule: >-
+    Japanese original-language text governs where wording is material. The database English version
+    is a reading witness tied to Japanese government documentary provenance.
+key_relations:
+  - filial and family morality are joined to learning and public good
+  - subjects are told to respect the Constitution and observe the laws
+  - emergency service to the state is placed within a moral-educational framework centered on the imperial throne
+qualification: >-
+  The Rescript is evidence of state educational-moral self-understanding. Its actual school reception,
+  memorization practices and social effects require education-administration and school-level evidence.

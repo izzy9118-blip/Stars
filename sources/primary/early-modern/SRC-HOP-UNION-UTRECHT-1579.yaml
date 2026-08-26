@@ -1,0 +1,46 @@
+source_id: SRC-HOP-UNION-UTRECHT-1579
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  corporate_author: Deputies and members entering the Union of Utrecht
+  title: Unie van Utrecht
+  conventional_date: 1579-01-23
+  original_language: Dutch documentary tradition
+  role: dutch_confederal_union_common_defense_provincial_rights_and_religious_settlement
+
+governing_witness:
+  witness_type: DIGITIZED_ARCHIVAL_TREATY_WITNESS
+  repository: Nationaal Archief, The Hague
+  archive: "Raad van State, (1574) 1581-1795 (1801)"
+  archive_number: 1.01.19
+  inventory_number: 2623
+  url: https://www.nationaalarchief.nl/beleven/onderwijs/bronnenbox/de-unie-van-utrecht-1579
+  note: >-
+    Nationaal Archief identifies this treaty witness as signed on 2 or 3 February
+    1579 and records the Article 15 amplification dated 1 February. Digitized
+    images are available in high quality.
+
+original_act_context:
+  repository: Stadsarchief Gent
+  description: >-
+    Nationaal Archief identifies the original act of the Union as preserved in
+    the Ghent City Archives and dated 29 January 1579. This record preserves that
+    distinction rather than silently treating every surviving treaty witness as
+    the same physical document.
+
+supporting_translation:
+  translator: Herbert H. Rowen
+  source: The Low Countries in Early Modern Times: A Documentary History (1972), pp. 69-74
+  online_locator: https://constitution.org/1-Constitution/cons/dutch/Union_Utrecht_1579.html
+  status: READING_AID_NOT_GOVERNING
+
+witness_policy:
+  governing_language: Dutch
+  rule: >-
+    Claims about common defense, provincial rights, taxation, religious settlement,
+    amendment, and later accessions must be checked against the archival Dutch
+    witness. English translation is subordinate.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED

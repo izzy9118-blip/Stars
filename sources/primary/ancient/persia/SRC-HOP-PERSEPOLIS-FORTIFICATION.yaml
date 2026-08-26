@@ -1,0 +1,116 @@
+source_id: SRC-HOP-PERSEPOLIS-FORTIFICATION
+status: ARCHIVAL_CORPUS_AND_PROJECT_CONTROL_LOCKED_DOCUMENT_SAMPLE_EXTRACTION_PENDING
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+author_or_corporate_author: Achaemenid administrative offices and scribes at Persepolis
+work_or_document_title: Persepolis Fortification Archive
+date_or_period: principally circa 509-493 BCE, reign of Darius I
+original_languages_and_forms:
+  - Elamite cuneiform documents
+  - Aramaic inked documents
+  - uninscribed seal-impressed tablets
+  - small numbers of Old Persian, Greek, Phrygian and other exceptional items
+evidence_class: OPERATIONAL_OR_DIRECT_PRIMARY_WITNESS
+witness_subclass: IMPERIAL_ADMINISTRATIVE_ARCHIVE
+
+participant_or_observer_position: >-
+  Routine and semi-routine records generated within the imperial core for movement,
+  ration, authorization, sealing and accounting. The archive is not a reflective book
+  and does not explain its own entire constitutional setting.
+temporal_distance_if_retrospective: contemporary administrative records
+
+governing_witness_and_exact_edition_or_archive:
+  archive:
+    excavation: Persepolis fortification wall, 1933
+    current_custody_and_project: Institute for the Study of Ancient Cultures, University of Chicago
+    project: Persepolis Fortification Archive Project
+    official_record: https://isac.uchicago.edu/research/projects/persepolis-fortification-archive
+  corpus_scale_as_project_describes:
+    Elamite_original_documents_estimate: 15000-18000
+    Aramaic_original_documents_estimate: 500-1000
+    uninscribed_sealed_documents_estimate: 5000-6000
+  critical_editions:
+    - Richard T. Hallock, Persepolis Fortification Tablets, 1969
+    - ongoing OCHRE and PFA Project editions, images and linked records
+  rule: >-
+    Individual claims must cite identified tablets, language, seal and editorial record.
+    The archive's scale is not license to cite the corpus without document-level control.
+
+star_claim_target:
+  - imperial_information_and_accounting
+  - movement_ration_work_and_authorization
+  - officials_workers_women_travelers_and_royal_household
+  - administrative_coordination_beyond_Herodotean_satrapy_description
+intended_claim_class: DOCUMENTED_OR_TEXTUAL_FACT
+
+what_the_source_can_establish:
+  - The imperial core used multilingual records, seals and authorizations to coordinate movement, ration distributions, work and official travel.
+  - Named persons and groups entered the archive through differentiated status, task, destination, entitlement and institutional connection.
+  - Women, royal-family members, workers, officials and travelers appear in administrative relations not visible in Greek constitutional narrative alone.
+  - Persian power depended upon distributed clerical, logistical and communicative work rather than only the king's immediate command.
+
+what_the_source_cannot_establish:
+  - A complete census of the empire or all workers at Persepolis.
+  - That ration categories equal wages in every case.
+  - The subjective experience or consent of persons recorded.
+  - Uniform administrative practice in every satrapy and period.
+  - The whole imperial economy from one archive and date range.
+
+rival_or_counter_witnesses_where_known:
+  - SRC-HOP-BEHISTUN
+  - SRC-HOP-DARIUS-DNA-DNB
+  - Herodotus on satrapies, tribute and roads
+  - Babylonian business archives
+  - Elephantine papyri
+  - Arshama correspondence
+
+boundary_effect: >-
+  The archive replaces an image of power flowing only downward from a visible Great
+  King with documentable networks of scribes, seals, storehouses, messengers, officials
+  and recipients. It does not convert administrative visibility into political voice.
+
+age_of_individual_crossing:
+  authority_bearer:
+    - imperial offices
+    - sealed authorization
+    - scribal and accounting systems
+    - royal household and delegated officials
+  human_position:
+    - named worker or ration recipient
+    - traveler and messenger
+    - official
+    - woman with administrative or estate relation
+    - dependent group
+  claimed_end: reliable movement, provisioning, work and institutional continuity
+  claimed_obligations:
+    - perform assigned work or journey
+    - present authorization
+    - receive and account for rations or goods
+  formation_mechanisms:
+    - categorization
+    - written record
+    - seal and authorization
+    - repeated accounting routine
+  coercive_mechanisms:
+    - control of provisions and mobility
+    - hierarchical office
+    - assignment of labor and entitlement
+  material_relations:
+    - grain, wine, livestock and other rations
+    - roads and destinations
+    - storehouses
+    - labor groups
+    - seals and tablets
+  knowledge_relations: persons become administratively legible through name, category, movement, work and entitlement
+  freedom_relation: distinct persons are visible in records but not constituted as rights-bearing authors of the administrative order
+  crossing_relation: EARLY_ADMINISTRATIVE_LEGIBILITY_LATER_EXPANDED_AND_INDIVIDUALIZED
+  age_of_individual_relevance: >-
+    The archive is an older precedent for governing through records, but the later
+    psychologically legible individual is not present. The recorded person is known
+    through work, movement and institutional entitlement, not desire or identity expression.
+
+quotation_state: DOCUMENT_SAMPLE_SET_NOT_YET_SELECTED
+star_integration_state: NOT_YET_PROPOSED

@@ -1,0 +1,22 @@
+source_id: SRC-HOP-GERMAN-COLONIAL-LAW-1886
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: German Empire
+  title: Gesetz betreffend die Rechtsverhältnisse der deutschen Schutzgebiete
+  date: 1886-04-17
+  original_language: German
+  role: imperial_protection_power_colonial_jurisdiction_and_delegated_office
+governing_witness:
+  witness_type: REICHSGESETZBLATT_SCAN_TRANSCRIPTION
+  citation: "RGBl. 1886, Nr. 10, S. 75-76"
+  locator: https://de.wikisource.org/wiki/Gesetz,_betreffend_die_Rechtsverh%C3%A4ltnisse_der_deutschen_Schutzgebiete
+key_passages:
+  - section: 1
+    anchor: "Die Schutzgewalt in den deutschen Schutzgebieten übt der Kaiser im Namen des Reichs aus."
+  - section: 2
+    proposition: Civil, criminal and judicial procedure are organized through adapted consular jurisdiction and imperial officers.
+qualification: >-
+  This law establishes the Reich's claimed legal architecture in the protectorates.
+  It does not validate the legitimacy of acquisition, prove equal application to colonized peoples,
+  or substitute for colony-specific evidence of coercion and administration.

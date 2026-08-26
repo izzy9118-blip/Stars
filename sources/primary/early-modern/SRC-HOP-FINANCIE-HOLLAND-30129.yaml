@@ -1,0 +1,50 @@
+source_id: SRC-HOP-FINANCIE-HOLLAND-30129
+name: Financie van Holland public-debt registers
+status: ARCHIVAL_SERIES_LOCKED
+
+archive:
+  institution: Nationaal Archief
+  reference_number: 3.01.29
+  title: "Archief van de Financie van Holland, (1515) 1572-1806 (1830)"
+  geography: Holland and West-Friesland
+  original_language: Dutch
+  public_finding_aid: https://www.nationaalarchief.nl/onderzoeken/archief/3.01.29
+  role: provincial_treasury_public_debt_taxation_and_annuity_accounting
+
+records_of_interest:
+  - description: >-
+      Blafferd of receiver-general Joachim van Mierop containing outstanding
+      common-land redeemable annuities contracted since 1515.
+    use: continuity_of_registered_provincial_debt
+  - description: >-
+      State of redeemable annuities charged to the general office, negotiated
+      from 1515 through 1661.
+    use: debt_stock_immediately_preceding_de_witt_1671
+  - description: >-
+      Ledger of redeemable annuities charged to the receiver-general and quarter
+      receivers, recording value, holder names, due dates, and annual interest.
+    use: creditor_identity_principal_maturity_and_servicing_structure
+
+related_digitized_corroboration:
+  archive: Nationaal Archief 3.01.14, Johan van Oldenbarnevelt
+  examples:
+    - "State of income from sales of los- and lijfrenten and simultaneous redemptions, 1584-1595"
+    - "State of los- and lijfrenten annually chargeable to Holland since 1577, 1597"
+    - "State of los- and lijfrenten sold in 1616-1617"
+  availability: DIGITALIZED
+  locator: https://www.nationaalarchief.nl/onderzoeken/archief/3.01.14
+
+claim_boundary: >-
+  The online finding aid locks the archival series and describes the accounting
+  fields, but the relevant 3.01.29 debt registers are presently catalogued as
+  physical rather than fully digitized. Quantitative claims drawn from individual
+  entries require consultation of the register itself. Digitized copies in 3.01.14
+  may establish earlier administrative practice but are not substitutes for the
+  later registers.
+
+relationship_to_de_witt:
+  source_id: SRC-HOP-DEWITT-LYFRENTEN-1671
+  distinction: >-
+    De Witt supplies a mathematical argument about annuity value and reports using
+    States records; 3.01.29 supplies the archival accounting system in which public
+    debt claims were registered. Neither witness substitutes for the other.

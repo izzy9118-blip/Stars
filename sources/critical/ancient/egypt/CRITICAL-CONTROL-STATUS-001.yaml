@@ -1,0 +1,34 @@
+status_id: EGYPT-CRITICAL-CONTROL-STATUS-001
+control_corpus: HOP-EGYPT-CRITICAL-CONTROLS-001
+state: INITIAL_FIVE_CONTROLS_REGISTERED
+records_created: 5
+
+records:
+  - CTRL-HOP-EGYPT-ASSMANN-MIND
+  - CTRL-HOP-EGYPT-HORNUNG-ONE-MANY
+  - CTRL-HOP-EGYPT-KEMP-ANATOMY
+  - CTRL-HOP-EGYPT-PARKINSON-POETRY-CULTURE
+  - CTRL-HOP-EGYPT-KINGSHIP-OCONNOR-SILVERMAN
+
+control_dimensions:
+  cultural_memory_and_maat: CTRL-HOP-EGYPT-ASSMANN-MIND
+  divine_plurality_and_theological_boundary: CTRL-HOP-EGYPT-HORNUNG-ONE-MANY
+  archaeology_and_institutional_materiality: CTRL-HOP-EGYPT-KEMP-ANATOMY
+  literary_genre_and_voice: CTRL-HOP-EGYPT-PARKINSON-POETRY-CULTURE
+  periodized_kingship: CTRL-HOP-EGYPT-KINGSHIP-OCONNOR-SILVERMAN
+
+rules_satisfied:
+  all_marked_not_primary: true
+  all_have_star_claim_targets: true
+  all_have_age_alignment_use: true
+  all_state_can_and_cannot_establish: true
+  all_require_underlying_ancient_evidence: true
+
+next_controls:
+  - administration and local-central relations
+  - non-elite households, property, and letters
+  - archaeology of labor and settlement
+  - access, literacy, priesthood, and temple economy
+  - direct scholarly debate over Luxor/Anthropocosmos and Sphinx-weathering claims
+
+structured_star_integration_state: NOT_AUTHORIZED

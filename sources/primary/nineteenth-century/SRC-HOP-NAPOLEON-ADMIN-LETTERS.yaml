@@ -1,0 +1,74 @@
+source_id: SRC-HOP-NAPOLEON-ADMIN-LETTERS
+status: PRIMARY_DOCUMENT_SET_LOCKED_WITH_MIXED_WITNESS_STRENGTH
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  author: Napoleon Bonaparte / Napoleon I
+  title: Selected administrative correspondence
+  period: 1802-1806
+  original_language: French
+  role: personal_executive_direction_of_roads_reporting_police_and_information
+
+documents:
+  - document_id: NAP-ADMIN-1802-03-25-CHAPTAL
+    date: 1802-03-25
+    sender: First Consul Bonaparte
+    recipient: Jean-Antoine Chaptal, minister of the interior
+    issues:
+      - earmarked road funds for Bastia-Ajaccio
+      - monthly payment schedule
+      - engineer-in-chief control of the funds
+      - demand for a map showing repaired and current road projects
+      - demand for progress report on Canal de Saint-Quentin
+    anchor: "Je vous prie de me faire remettre ... une carte des routes de la République"
+    witness:
+      type: PUBLISHED_CORRESPONDENCE_TRANSCRIPTION
+      locator: https://www.histoire-empire.org/correspondance_de_napoleon/1802/mars_01.htm
+      original_archive_location: TO_BE_CROSSWALKED_BEFORE_DIRECT_QUOTATION
+    state: TEXT_LOCATED_PROVENANCE_CROSSWALK_PENDING
+
+  - document_id: NAP-ADMIN-1805-05-13-FOUCHE
+    napoleonica_id: CG5-10048
+    date: 1805-05-13
+    sender: Napoleon
+    recipient: Fouché, minister of general police
+    issues:
+      - individualized intelligence request
+      - surveillance
+      - arrest instruction
+    anchor: "Surveillez le nommé Thornton et faites-le arrêter"
+    witness:
+      type: PRIMARY_MINUTE_IDENTIFIED
+      repository: Napoleonica / Fondation Napoléon
+      url: https://www.napoleonica.org/document/113495
+      archive: Archives nationales
+      cote: AF IV 866, floréal an XIII, no 147
+    state: PRIMARY_MINUTE_PROVENANCE_VERIFIED
+
+  - document_id: NAP-ADMIN-1806-06-01-FOUCHE
+    napoleonica_id: CG6-12216
+    date: 1806-06-01
+    sender: Napoleon
+    recipient: Fouché, minister of general police
+    issues:
+      - identification of itinerant missionaries
+      - reports concerning hostility to the Civil Code
+      - arrest instruction
+    anchor: "Prenez des renseignements sur eux et faites-les arrêter"
+    witness:
+      type: PRIMARY_MINUTE_IDENTIFIED
+      repository: Napoleonica / Fondation Napoléon
+      url: https://www.napoleonica.org/document/98206
+      archive: Archives nationales
+      cote: AF IV 869, juin 1806, no 2
+    state: PRIMARY_MINUTE_PROVENANCE_VERIFIED
+
+witness_policy:
+  rule: >-
+    Use the two Napoleonica letters as direct evidence of personal executive instruction
+    because their archival minutes are identified. The 25 March 1802 road letter may
+    support navigation and paraphrase, but direct quotation remains subordinate until its
+    original archival or critical-edition metadata is cross-walked.
+
+quotation_state: TWO_PRIMARY_MINUTES_VERIFIED_ONE_PUBLISHED_TEXT_PENDING
+analysis_state: NOT_YET_INTEGRATED

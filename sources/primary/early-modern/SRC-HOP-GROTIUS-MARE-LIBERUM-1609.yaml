@@ -1,0 +1,38 @@
+source_id: SRC-HOP-GROTIUS-MARE-LIBERUM-1609
+status: GOVERNING_WITNESS_LOCKED
+parent_corpus: HOP-EARLY-MODERN-PRIMARY-001
+
+work:
+  author: Hugo de Groot / Hugo Grotius
+  title: Mare liberum sive De jure quod Batavis competit ad Indicana commercia dissertatio
+  year: 1609
+  original_language: Latin
+  role: freedom_of_seas_navigation_trade_and_dutch_commercial_right
+
+governing_witness:
+  witness_type: DIPLOMATIC_DIGITAL_REPRESENTATION_OF_1609_FIRST_EDITION
+  repository: Digitale Bibliotheek voor de Nederlandse Letteren (DBNL)
+  url: https://www.dbnl.org/tekst/groo001mare01_01/
+  pdf: https://www.dbnl.org/tekst/groo001mare01_01/groo001mare01_01.pdf
+  imprint: "Ludovici Elzevirij, Lugdunum Batavorum [Leiden], 1609"
+  basis_copy:
+    repository: Austrian National Library
+    shelfmark: 36 K 52
+  rights: Public domain
+
+corroborating_witnesses:
+  - repository: Leiden University Libraries
+    description: 1609 Mare Liberum copy
+    shelfmark: 20643 F 18
+  - repository: Peace Palace Library
+    description: Original 1609 copy
+    shelfmark: TMD 541
+
+witness_policy:
+  governing_language: Latin
+  rule: >-
+    English renderings are aids only. Direct quotation and close claims about
+    Grotius's argument must be traceable to the 1609 Latin witness.
+
+quotation_state: NOT_YET_EXTRACTED
+analysis_state: NOT_YET_INTEGRATED

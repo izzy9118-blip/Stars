@@ -1,0 +1,184 @@
+audit_id: GREECE-RETROACTIVE-SOURCE-AUDIT-001
+status: GREECE_LAYER_HISTORICALLY_STRONG_REFLECTIVELY_INCOMPLETE
+parent_star: STAR-HISTORY-OF-POWER-001
+method: sources/SOURCE-WITNESS-METHOD.md
+layer: greek_power
+
+current_strengths:
+  first_class_historical_witnesses_already_present:
+    - Herodotus, Histories
+    - Thucydides, History of the Peloponnesian War
+    - Xenophon, Hellenica selections
+  strength: >-
+    These three already give the layer an exceptional continuous record of Persian
+    invasion, Athenian empire, Spartan power, democratic deliberation, stasis,
+    oligarchic revolution, restoration, the King's Peace, Theban ascendancy and Mantinea.
+
+major_defect_1_historians_without_constitutional_texts:
+  finding: >-
+    The layer explains polis and regime largely through narrative historians but lacks
+    enough direct institutional/epigraphic evidence for tribute, allied regulation,
+    offices and constitutional machinery.
+  essential_additions:
+    - source_id: SRC-HOP-ATHENIAN-TRIBUTE-LISTS
+      witness_class: OPERATIONAL_EPIGRAPHIC_ARCHIVE
+      importance: >-
+        Direct records of allied tribute and the material administration of Athenian
+        imperial power after the Delian treasury moved to Athens.
+      online_anchor: https://www.atticinscriptions.com/inscription/IGI3/259
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-ATHENIAN-EMPIRE-DECREES
+      witness_class: OPERATIONAL_EPIGRAPHIC_CORPUS
+      examples:
+        - Erythrai regulations
+        - Chalkis decree
+        - tribute reassessment decrees
+        - Methone decrees
+      online_anchor: https://www.atticinscriptions.com/papers/aio-papers-10/
+      importance: allied_jurisdiction_tribute_oaths_courts_and_imperial_regulation
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-SECOND-ATHENIAN-CONFEDERACY-DECREE
+      witness_class: OPERATIONAL_EPIGRAPHIC_CONSTITUTIONAL_WITNESS
+      importance: >-
+        Fourth-century attempt to organize alliance and autonomy after the first empire;
+        essential for testing the narrative of recurrent Athenian hegemonic power.
+      priority: HIGH
+
+major_defect_2_missing_contemporary_political_reflection:
+  essential_additions:
+    - source_id: SRC-HOP-OLD-OLIGARCH
+      author: Pseudo-Xenophon
+      work: Constitution of the Athenians
+      period: fifth century BCE
+      witness_class: CONTEMPORARY_CRITICAL_REGIME_ANALYSIS
+      importance: >-
+        An oligarchic critic explains why democracy coheres with naval power and the
+        political weight of the poor. It is one of the most important internal analyses
+        of the relation between regime and imperial-military structure.
+      online_anchor: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0158
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-XENOPHON-LACEDAEMONIANS
+      author: Xenophon
+      work: Constitution of the Lacedaemonians
+      witness_class: CONTEMPORARY_POSTWAR_REGIME_REFLECTION
+      importance: Spartan_education_law_office_discipline_and_regime
+      priority: ESSENTIAL
+
+    - source_id: SRC-HOP-ARISTOPHANES-POLITICAL-COMEDY
+      author: Aristophanes
+      works: [Knights, Wasps, Assemblywomen, Acharnians]
+      witness_class: CONTEMPORARY_COMIC_POLITICAL_REFLECTION
+      importance: >-
+        Democratic leadership, courts, war, demagogy, assembly culture and popular
+        political imagination from within the civic world.
+      caution: comedy_not_documentary_transcript
+      priority: HIGH
+
+    - source_id: SRC-HOP-ISOCRATES-PANHELLENIC
+      author: Isocrates
+      works: [Panegyricus, Peace, Areopagiticus]
+      witness_class: CONTEMPORARY_FOURTH_CENTURY_POLITICAL_REFLECTION
+      importance: hegemony_panhellenism_constitution_empire_and_civic_reform
+      priority: HIGH
+
+major_defect_3_missing_dusk_philosophical_reconstruction:
+  finding: >-
+    The History of Power Greece layer stops short of the two most powerful post-festum
+    analyses of the polis and regime produced from within the Greek world: Plato and
+    Aristotle. Their presence elsewhere in Stars does not substitute for explicit
+    provenance in this layer.
+  essential_additions:
+    - source_id: SRC-HOP-PLATO-REPUBLIC
+      author: Plato
+      work: Republic
+      witness_class: POST_FESTUM_PHILOSOPHICAL_REGIME_RECONSTRUCTION
+      importance: regime_soul_education_justice_democracy_tyranny_and_limits_of_political_power
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-PLATO-LAWS
+      author: Plato
+      work: Laws
+      witness_class: POST_FESTUM_PHILOSOPHICAL_LEGISLATIVE_RECONSTRUCTION
+      importance: law_regime_education_religion_property_office_and_second_best_political_order
+      priority: HIGH
+    - source_id: SRC-HOP-ARISTOTLE-POLITICS
+      author: Aristotle
+      work: Politics
+      witness_class: POST_FESTUM_SYSTEMATIC_POLITICAL_SCIENCE
+      online_anchor: https://catalog.perseus.org/catalog/urn%3Acts%3AgreekLit%3Atlg0086.tlg035
+      importance: >-
+        Polis, citizenship, constitutions, oligarchy, democracy, mixed regimes, stasis,
+        political justice and practicable institutional judgment.
+      priority: ESSENTIAL
+    - source_id: SRC-HOP-ARISTOTLE-ATHENIAN-CONSTITUTION
+      author: Aristotle_or_school
+      work: Constitution of the Athenians
+      witness_class: POST_FESTUM_CONSTITUTIONAL_HISTORY_AND_INSTITUTIONAL_DESCRIPTION
+      online_anchor: https://catalog.perseus.org/catalog/urn%3Acts%3AgreekLit%3Atlg0086.tlg003
+      importance: constitutional_change_offices_selection_citizenship_and_actual_Athenian_government
+      priority: ESSENTIAL
+
+late_post_festum_ancient_witnesses:
+  - source_id: SRC-HOP-PLUTARCH-GREEK-LIVES
+    author: Plutarch
+    works: [Pericles, Lysander, Agesilaus, Pelopidas]
+    witness_class: LATE_BIOGRAPHICAL_REFLECTION
+    importance: character_leadership_reputation_and_later_memory_of_hegemony
+    priority: MEDIUM
+
+current_claims_requiring_evidentiary_control:
+  - Pericles_speeches_must_remain_Thucydidean_compositions_not_verbatim_transcripts
+  - Cleon_and_Diodotus_are_Thucydidean_presentations_of_debate
+  - Corcyra_stasis_analysis_is_Thucydides_reflection_not_neutral_social_science
+  - Spartan_law_as_master_is_Herodotean_Demaratus_speech_and_should_be_compared_with_Xenophon_and_institutional_evidence
+  - Athenian_empire_as_tribute_system_should_be_tested_against_tribute_lists_and_decrees
+  - Greek_freedom_must_not_be_generalized_beyond_citizen_bodies_or_detached_from_slavery_metis_women_and_subject_allies
+
+later_critical_reconstruction_required:
+  - author: G. E. M. de Ste. Croix
+    work: The Origins of the Peloponnesian War
+    year: 1972
+    role: critical_reconstruction_of_empire_alliance_and_war
+    priority: HIGH
+  - author: Moses I. Finley
+    work: Democracy Ancient and Modern
+    year: 1973
+    role: comparative_reconstruction_of_ancient_democratic_power_and_participation
+    priority: HIGH
+  - author: Paul Cartledge
+    work: Sparta and Lakonia
+    year: 1979
+    role: social_institutional_reconstruction_of_Spartan_power
+    priority: HIGH
+  - author: Moses I. Finley
+    work: Politics in the Ancient World
+    year: 1983
+    role: power_elite_participation_patronage_and_political_structure
+    priority: ESSENTIAL
+  - author: Josiah Ober
+    work: Mass and Elite in Democratic Athens
+    year: 1989
+    role: democratic_communication_elite_mass_relation_and_political_power
+    priority: ESSENTIAL
+  - author: Mogens Herman Hansen
+    work: The Athenian Democracy in the Age of Demosthenes
+    year: 1991
+    role: constitutional_institutional_reconstruction_of_Athenian_democracy
+    priority: ESSENTIAL
+
+cross_repository_reuse:
+  finding: >-
+    STAR-AGE-OF-INDIVIDUAL-001 already contains a Plato/Aristotle interpretive layer,
+    but largely through later Strauss sources. History of Power must link that work as
+    interpretation while separately registering Plato's and Aristotle's own Greek texts.
+
+narrative_gate:
+  state: NOT_SATISFIED_UNDER_REVISED_METHOD
+  requirements:
+    - add Athenian tribute lists and imperial decrees
+    - add Old Oligarch and Xenophon's Spartan Constitution
+    - add Plato Republic and Aristotle Politics/Athenian Constitution
+    - explicitly control Thucydidean speech and analytical voice
+    - add modern constitutional and social reconstruction through Hansen/Ober/Finley/Cartledge
+
+next_layer_after_completion: ROME

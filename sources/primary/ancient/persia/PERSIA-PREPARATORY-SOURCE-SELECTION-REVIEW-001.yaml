@@ -1,0 +1,146 @@
+review_id: PERSIA-PREPARATORY-SOURCE-SELECTION-REVIEW-001
+status: PREPARATORY_SELECTION_REVIEW_COMPLETE_NOT_ADMITTED
+parent_star: STAR-HISTORY-OF-POWER-001
+star_layer_target: persian_power
+branch: history-of-power-retroactive-source-audit-001
+persia_audit: sources/audits/ancient/PERSIA-RETROACTIVE-SOURCE-AUDIT-001.yaml
+persia_manifest: sources/primary/ancient/persia/manifest.yaml
+preparatory_exception: sources/primary/ancient/persia/PERSIA-PREPARATORY-ACQUISITION-EXCEPTION-001.yaml
+history_of_power_contract: sources/audits/STAR-HISTORY-OF-POWER-CONFORMITY-CONTRACT-001.yaml
+age_of_individual_alignment: sources/audits/HISTORY-OF-POWER-AGE-OF-INDIVIDUAL-ALIGNMENT.yaml
+
+purpose: >-
+  Test the existing fourteen-source Persia preparatory corpus against the exact
+  deficiencies identified in the retroactive audit, then add only those missing
+  witnesses or critical controls that materially change source balance, attribution,
+  provincial perspective, transmission control or the person-authority relation.
+
+admission_boundary:
+  authorized: preparatory source selection, witness locking, metadata control and passage-target planning
+  prohibited: claim admission, structured-Star integration, narrative revision, certification and movement to Greece
+  rule: >-
+    Selection for controlled review does not certify a source, a proposition or a
+    layer. Every selected record remains outside STAR-HISTORY-OF-POWER-001 until later
+    passage control, source conflict testing, Star-native proposal and owner approval.
+
+existing_selection_test:
+  royal_and_operational_archive:
+    present:
+      - SRC-HOP-CYRUS-CYLINDER
+      - SRC-HOP-NABONIDUS-CHRONICLE
+      - SRC-HOP-BEHISTUN
+      - SRC-HOP-DARIUS-DNA-DNB
+      - SRC-HOP-PERSEPOLIS-FORTIFICATION
+      - SRC-HOP-ELEPHANTINE-PAPYRI
+      - SRC-HOP-ARSAMES-LETTERS
+      - SRC-HOP-UDJAHORRESNET
+    deficit:
+      - SRC-HOP-DARIUS-SUEZ-STELAE
+    finding: >-
+      The core selection already replaces a purely Herodotean Persia with royal,
+      Babylonian, Elamite, Aramaic, Egyptian and routine administrative witnesses.
+      Darius's canal stelae remain necessary because they join royal titulary,
+      multilingual proclamation, Egypt, infrastructure and interregional mobility.
+
+  ancient_reflective_and_dusk_witnesses:
+    present:
+      - SRC-HOP-AESCHYLUS-PERSIANS
+      - SRC-HOP-XENOPHON-ANABASIS
+      - SRC-HOP-XENOPHON-CYROPAEDIA
+    deficit:
+      - SRC-HOP-CTESIAS-PERSICA
+      - SRC-HOP-PLUTARCH-ARTAXERXES
+    finding: >-
+      Aeschylus and Xenophon supply tragedy, participant history and philosophical
+      reconstruction. Ctesias is required as a fragmentary court-connected rival to
+      Herodotus; Plutarch is required only as a much later biographical reception of
+      Persian court and kingship, not as independent Achaemenid evidence.
+
+  subject_and_community_witnesses:
+    present:
+      - SRC-HOP-ELEPHANTINE-PAPYRI
+      - SRC-HOP-UDJAHORRESNET
+    deficit:
+      - SRC-HOP-EZRA-NEHEMIAH-PERSIAN-PERIOD
+    finding: >-
+      Elephantine and Udjahorresnet already prevent the provinces from appearing only
+      through royal command. Ezra-Nehemiah is added as a composite Persian-period and
+      post-Persian community witness whose embedded documents, law, temple, taxation,
+      authorization and local authority must be controlled rather than presumed contemporary.
+
+  later_critical_reconstruction:
+    present:
+      - SRC-HOP-HALLOCK-PFT-1969
+      - SRC-HOP-KUHRT-PERSIAN-EMPIRE
+      - SRC-HOP-BRIANT-EMPIRE-PERSE
+    deficit:
+      - SRC-HOP-WIESEHOFER-ANCIENT-PERSIA-1996
+      - SRC-HOP-DANDAMAEV-POLITICAL-HISTORY-1989
+    finding: >-
+      Hallock governs a major archive; Kuhrt supplies a multilingual corpus; Briant
+      supplies comprehensive synthesis. Wiesehöfer adds Iranian-centered source
+      criticism across Achaemenid and later Persia, while Dandamaev supplies a distinct
+      political reconstruction. Neither becomes primary evidence or an automatic arbiter.
+
+selected_additions:
+  - source_id: SRC-HOP-DARIUS-SUEZ-STELAE
+    evidence_deficit_repaired: royal_multilingual_infrastructure_and_Egypt_Persia_connection
+    age_of_individual_materiality: persons_and_communities_are_connected_and_classified_through_imperial_infrastructure_not_individual_consent
+  - source_id: SRC-HOP-CTESIAS-PERSICA
+    evidence_deficit_repaired: court_connected_rival_Greek_transmission
+    age_of_individual_materiality: court_access_and_personal_narrative_mediate_knowledge_of_power_without_making_private_experience_sovereign
+  - source_id: SRC-HOP-PLUTARCH-ARTAXERXES
+    evidence_deficit_repaired: late_biographical_reception_of_Persian_court_and_kingship
+    age_of_individual_materiality: character_and_household_become_objects_of_moral_biography_long_after_the_empire
+  - source_id: SRC-HOP-EZRA-NEHEMIAH-PERSIAN-PERIOD
+    evidence_deficit_repaired: subject_community_law_temple_and_imperial_authorization
+    age_of_individual_materiality: named_persons_act_through_community_genealogy_law_office_and_imperial_permission_not_as_prepolitical_individuals
+  - source_id: SRC-HOP-WIESEHOFER-ANCIENT-PERSIA-1996
+    evidence_deficit_repaired: Iranian_centered_modern_critical_reconstruction
+    age_of_individual_materiality: controls_modern_categories_and_prevents_Greek_free_person_vs_Persian_slave_caricature
+  - source_id: SRC-HOP-DANDAMAEV-POLITICAL-HISTORY-1989
+    evidence_deficit_repaired: rival_modern_political_and_institutional_reconstruction
+    age_of_individual_materiality: tests_how_royal_provincial_household_and_administrative_relations_are_reconstructed_from_unequal_sources
+
+not_selected_in_this_batch:
+  - source: Darius_Suez_archaeological_and_canal_engineering_secondary_literature_beyond_witness_control
+    reason: operational_effects_wait_for_later_passage_and_archaeological_review
+  - source: every_Persian_period_biblical_text
+    reason: begin_with_Ezra_Nehemiah_and_do_not_turn_the_layer_into_a_complete_history_of_Persian_period_Judaism
+  - source: Ctesias_derivative_modern_retellings
+    reason: fragment_transmission_and_Lenfant_critical_control_take_priority
+  - source: generalized_Oriental_despotism_literature
+    reason: does_not_repair_a_native_Star_claim_and_risks_importing_later_categories
+
+selection_after_review:
+  prior_records: 14
+  additions: 6
+  total_preparatory_source_records: 20
+  admitted_star_evidence: 0
+  verified_passage_sets: 0
+  structured_integration_proposals: 0
+
+source_balance_after_addition:
+  royal_self_witness: REPRESENTED
+  Babylonian_chronicle: REPRESENTED
+  routine_core_administration: REPRESENTED
+  provincial_Aramaic_and_Egyptian_documentation: REPRESENTED
+  royal_infrastructure_and_multilingual_Egypt_connection: REPRESENTED_AFTER_ADDITION
+  contemporary_Greek_tragedy: REPRESENTED
+  participant_Greek_history: REPRESENTED
+  philosophical_Greek_reconstruction: REPRESENTED
+  court_connected_fragmentary_rival: REPRESENTED_AFTER_ADDITION
+  late_biographical_reception: REPRESENTED_AFTER_ADDITION
+  Persian_period_subject_community_text: REPRESENTED_AFTER_ADDITION_WITH_CHRONOLOGY_HOLD
+  later_critical_corpus_and_rival_syntheses: REPRESENTED_AFTER_ADDITION
+
+remaining_deficits_after_this_batch:
+  - tablet_or_document_level_passage_samples from Persepolis, Elephantine and Arsames
+  - exact multilingual passage crosswalks for Cyrus, Behistun, DNa/DNb and Suez stelae
+  - subject-side Babylonian business archives beyond the Nabonidus Chronicle
+  - exact textual chronology and authenticity control for embedded Ezra-Nehemiah documents
+  - controlled fragments/transmitters table for Ctesias
+  - governing Greek edition crosswalk for Plutarch Artaxerxes
+  - no Persian structured-Star correction until passage-level conflicts are tested
+
+next_action: CREATE_SIX_PREPARATORY_SOURCE_RECORDS_THEN_UPDATE_MANIFEST_WITHOUT_ADMISSION

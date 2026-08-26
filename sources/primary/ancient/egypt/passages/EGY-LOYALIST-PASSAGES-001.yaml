@@ -1,0 +1,88 @@
+passage_set_id: EGY-LOYALIST-PASSAGES-001
+status: VERIFIED_WORKING_PASSAGES_FROM_POSENER_BASED_TRANSLITERATION
+source_id: SRC-HOP-LOYALIST-TEACHING
+star_layer_target: egyptian_power
+text_basis:
+  transliteration: Georges Posener 1976 as reproduced by UCL Digital Egypt
+  witness_constellation: Cairo CG 20538, Cairo JE 43261D, Louvre E 4864, Morgan Amherst XII-XIII and additional fragments
+  online_text: https://www.ucl.ac.uk/museums-static/digitalegypt/literature/loyalist/text.html
+  policy: >-
+    English formulations below are project paraphrases. Direct final quotation
+    requires comparison with Posener and the relevant manuscript witness.
+
+passages:
+  - passage_id: EGY-LOYALIST-001
+    location: section 2
+    short_anchor: "dwA nswt m Xnw Xt.tn / snsn Hm.f m ib.tn"
+    project_paraphrase: >-
+      The teaching commands the hearers to carry praise of the king in their bodies
+      and royal agency in their hearts.
+    supports:
+      - internalization_of_royal_authority
+      - body_and_heart_as_sites_of_loyal_conduct
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: Not modern inward consent, conscience or private belief.
+
+  - passage_id: EGY-LOYALIST-002
+    location: sections 3 and 5
+    short_anchors:
+      - "dd.f DfAw n nty m Sms.f"
+      - "kA pw nswt"
+    project_paraphrase: >-
+      The king is represented as supplying followers, distributing status and
+      embodying sustenance, while rage and rejection carry ruin.
+    supports:
+      - provision_and_punishment_as_two_faces_of_kingship
+      - dependence_of_status_on_royal_relation
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: Normative praise is not proof of universal provision or accepted legitimacy.
+
+  - passage_id: EGY-LOYALIST-003
+    location: section 9
+    short_anchor: "in rmT sxpr nty / anx.tw imy m awy.sn"
+    project_paraphrase: >-
+      People are said to bring existing goods into being, and collective life is
+      represented as depending upon their labor.
+    supports:
+      - productive_agency_of_the_governed
+      - authority_dependence_on_human_labor
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: Recognition of labor occurs inside hierarchy and does not establish worker sovereignty.
+
+  - passage_id: EGY-LOYALIST-004
+    location: section 11
+    short_anchor: "m sAt aHwty Hr bAkw"
+    project_paraphrase: >-
+      The office-holder is warned against driving the field-worker beyond sustainable labor.
+    supports:
+      - paternal_restraint_of_exaction
+      - continuity_of_production_as_condition_of_rule
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: Paternal restraint is neither labor equality nor a modern employment right.
+
+  - passage_id: EGY-LOYALIST-005
+    location: section 14
+    short_anchor: "aHA Hr rmt m Ss nb"
+    project_paraphrase: >-
+      The hearer is instructed to act for people because the human flock sustains
+      its lord and the mortuary order.
+    supports:
+      - care_of_population_as_interest_and_duty_of_rule
+      - linkage_of_living_labor_and_dead_continuity
+    claim_class: ATTRIBUTED_TEACHING_OR_JUDGMENT
+    boundary: The flock image preserves hierarchy even while recognizing dependence upon people.
+
+cross_passage_synthesis:
+  proposition: >-
+    The Loyalist Teaching joins inward loyalty, royal provision, coercive awe,
+    productive labor, paternal restraint and mortuary continuity. It therefore
+    presents power as a relation that enters body and heart while depending materially
+    upon the people it orders.
+  claim_class: ANALYTICAL_SYNTHESIS
+  state: CANDIDATE_NOT_YET_ADMITTED_TO_STAR
+
+age_of_individual_finding: >-
+  The source shows inwardness and agency before modern individualism. The heart is
+  not yet a sovereign private source of value; it is a site where royal and inherited
+  order is to be carried. The same order nevertheless acknowledges that people labor,
+  speak, suffer and can be misused.

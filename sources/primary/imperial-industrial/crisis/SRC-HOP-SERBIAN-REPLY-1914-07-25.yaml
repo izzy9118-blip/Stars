@@ -1,0 +1,20 @@
+source_id: SRC-HOP-SERBIAN-REPLY-1914-07-25
+status: DIPLOMATIC_REPLY_WITNESS_LOCKED
+parent_corpus: HOP-IMPERIAL-INDUSTRIAL-001
+work:
+  corporate_author: Royal Serbian Government
+  title: Serbian Reply to the Austro-Hungarian Ultimatum
+  date: 1914-07-25
+  original_language: French
+  role: acceptance_constitutional_limits_investigation_and_international_arbitration
+governing_witness:
+  witness_type: FRENCH_DIPLOMATIC_TEXT_TRANSCRIPTION
+  locator: https://www.gwpda.org/1914/reponseserb.html
+supporting_english:
+  locator: https://www.gwpda.org/1914/serbresponse.html
+key_relations:
+  - Serbia accepts or conditionally accepts many demands concerning press, associations, education, officials and border controls.
+  - Serbia limits Austro-Hungarian participation where it says constitutional or legal procedure would be violated.
+  - Serbia proposes pacific settlement through the Hague tribunal or Great Powers if the reply is deemed insufficient.
+qualification: >-
+  The reply is not total acceptance. Its legal reservations and alternative dispute proposals must remain visible alongside its extensive concessions.

@@ -1,0 +1,73 @@
+source_id: SRC-HOP-PREFECTURAL-CONTINUITY-1814-1848
+status: MULTI_DOCUMENT_PRIMARY_CONTINUITY_SET_LOCKED
+parent_corpus: HOP-ADMINISTRATIVE-STATE-001
+
+work:
+  title: Prefectural administration across Restoration, July Monarchy, and Second Republic
+  period: 1814-1848
+  original_language: French
+  role: institutional_continuity_across_regime_change
+
+documents:
+  - document_id: PREF-CONT-1814-BULLETIN
+    date: 1814
+    regime: Bourbon Restoration
+    witness_type: BULLETIN_DES_LOIS
+    repository: Google Books digitization of Bulletin des lois, 1814
+    url: https://books.google.fr/books?id=AgJHAAAAcAAJ
+    evidence:
+      - Bulletin contains royal appointments to prefectures, including prefect of the Vosges
+      - title series becomes Bulletin des lois du Royaume de France while departmental prefectural administration continues
+    status: PRIMARY_OFFICIAL_PRINT_SERIES_VERIFIED
+
+  - document_id: PREF-CONT-1830-05-16
+    date: 1830-05-16
+    regime: Bourbon Restoration immediately before July Revolution
+    witness_type: ROYAL_ORDINANCE_TRANSCRIPTION_FROM_ARCHIVES_PARLEMENTAIRES
+    url: https://droitpolitique.com/publications/document/198/ordonnance-royale-du-16-mai-1830-archives-parlementaires-t-lxi
+    evidence:
+      - prefects publish electoral ordinance and electoral lists
+      - ordinance becomes executable in departments upon registration at the prefecture
+    anchors:
+      - "les préfets publieront la présente ordonnance"
+      - "enregistrée à la préfecture"
+    status: PRIMARY_DOCUMENT_TRANSCRIPTION_VERIFIED
+
+  - document_id: PREF-CONT-1830-08-01
+    date: 1830-08-01
+    regime: July Revolution transitional government
+    witness_type: OFFICIAL_ORDINANCE_TRANSCRIPTION
+    url: https://droitpolitique.com/publications/seminaire/211/ordonnances-des-1er-et-2-aout-1830-lieutenance-generale-du-royaume-archives-parlementaires-t-xli
+    evidence:
+      - new regime immediately appoints a provisional prefect of police
+      - ministries and prefectural machinery are reassigned rather than abolished wholesale
+    status: PRIMARY_DOCUMENT_TRANSCRIPTION_VERIFIED
+
+  - document_id: PREF-CONT-1848-CONSTITUTION
+    date: 1848-11-04
+    regime: Second Republic
+    witness_type: OFFICIAL_CONSTITUTIONAL_TEXT
+    repository: Élysée
+    url: https://www.elysee.fr/la-presidence/la-constitution-du-4-novembre-1848
+    evidence:
+      - Article 76 maintains departments, arrondissements, cantons and communes
+      - Article 77 expressly retains a prefect, general council and prefecture council in each department and a subprefect in each arrondissement
+      - Article 79 subjects general and municipal councils to direct citizen election
+    anchors:
+      - "La division du territoire en départements, arrondissements, cantons et communes est maintenue."
+      - "Dans chaque département, une administration composée d'un préfet"
+    status: OFFICIAL_TEXT_VERIFIED
+
+interpretive_limit:
+  - continuity of office and territorial architecture does not imply identical personnel, powers, political loyalties, or administrative practice
+  - revolutionary governments could purge, replace, or temporarily rename officeholders while retaining the territorial machinery
+  - continuity must therefore be described as institutional and jurisdictional, not personal or ideological identity
+
+witness_policy:
+  rule: >-
+    Use this document set only to establish persistence and reauthorization of prefectural
+    territorial administration across regime changes. Institution-specific powers still
+    require the law or regulation governing them in the relevant regime.
+
+quotation_state: CORE_CONTINUITY_PASSAGES_VERIFIED
+analysis_state: READY_FOR_CROSS_SOURCE_SYNTHESIS
