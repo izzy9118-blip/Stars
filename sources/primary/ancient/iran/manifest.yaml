@@ -1,0 +1,220 @@
+corpus_id: ANCIENT-IRAN-STAR-CORPUS-001
+name: Ancient Iran Governing Source Corpus
+status: COMPLETE
+star_id: STAR-ANCIENT-IRAN-001
+method: sources/SOURCE-WITNESS-METHOD.md
+
+authority:
+  rule: >-
+    Ancient witnesses possess authority in their own voices and genres.
+    Iranian sacred texts, royal inscriptions, administrative archives, local
+    documents, monuments, and Greek ancient accounts are not subordinated to
+    modern reconstructions. Modern works establish editions, transmission,
+    archaeological context, and comparison without replacing the ancients.
+  disagreements_preserved:
+    - Gathic reform and later Avestan ritual inheritance
+    - royal self-description and the voices of defeated or subject communities
+    - Iranian, Babylonian, Elamite, Aramaic, Egyptian, and Greek accounts
+    - the different Greek accounts of Cyrus, kingship, court, and conquest
+    - ancient narratives and modern attempts at chronology or institutional reconstruction
+
+scope:
+  civilizational_name: Ancient Iran
+  sacred_extent: creation through final renovation as remembered in the Iranian corpus
+  historical_extent: the Achaemenid world through its transformation under Alexander
+  later_boundary: Parthian and Sasanian Iran require separate source corpora and Stars
+
+sacred_iranian_witnesses:
+  - title: The Gathas of Zarathustra
+    editor_translator: Stanley Insler
+    witness_class: IRANIAN_SACRED_SELF_WITNESS
+    role: >-
+      Ahura Mazda, Asha and Druj, questioning, moral choice, the Soul of the Cow,
+      ritual reform, personhood, judgment, and renovation.
+    path: /Users/onepiece/Downloads/ancient iran/Insler-The-Gathas-of-Zarathustra-1975.pdf
+  - title: Avesta
+    witness_class: IRANIAN_SACRED_CORPUS
+    role: >-
+      The Gathic inheritance and Younger Avestan worlds of covenant, fire, water,
+      fertility, Haoma, Fravashis, glory, Yima, purity, judgment, and renewal.
+    path: /Users/onepiece/Downloads/ancient iran/Avesta.pdf
+  - title: An Introduction to Ancient Iranian Religion
+    author: William W. Malandra
+    witness_class: EDITED_ANCIENT_IRANIAN_READINGS
+    role: >-
+      Translated Avestan and Achaemenid witnesses with linguistic and religious
+      context; the ancient selections govern their own claims.
+    path: /Users/onepiece/Downloads/ancient iran/an introduction to ancient iranian religion readings from the avesta and achaemenid inscriptions.pdf
+  - title: A History of Zoroastrianism
+    author: Mary Boyce
+    witness_class: MODERN_RELIGIOUS_HISTORY_COMPARISON
+    role: >-
+      Historical comparison for Iranian religious transmission, priesthood,
+      ritual, and later classification without replacing the sacred corpus.
+    path: /Users/onepiece/Downloads/ancient iran/a History Of Zoroastrianism.pdf
+  - title: The Other Gods Who Are
+    author: Wouter F. M. Henkelman
+    witness_class: MODERN_ARCHIVAL_STUDY
+    role: >-
+      The Persepolis archive's mixed Iranian and Elamite cultic world, offerings,
+      priests, divine names, rivers, mountains, and royal involvement.
+    path: /Users/onepiece/Downloads/ancient iran/the other gods who are.pdf
+
+royal_monumental_and_imperial_witnesses:
+  - title: Die altpersischen Inschriften der Achaimeniden
+    author: Rüdiger Schmitt
+    witness_class: CRITICAL_EDITION_OF_ROYAL_INSCRIPTIONS
+    role: >-
+      Old Persian text and philological control for Behistun and the royal
+      inscriptions of Darius, Xerxes, and their successors.
+    path: /Users/onepiece/Downloads/ancient iran/Schmitt Altpersischen Inschriften.pdf
+  - title: The Persian Empire
+    author: Amélie Kuhrt
+    witness_class: MULTILINGUAL_ANCIENT_SOURCE_CORPUS
+    role: >-
+      Royal, Babylonian, Elamite, Aramaic, Egyptian, administrative, and Greek
+      witnesses placed beside one another without being collapsed into one voice.
+    path: /Users/onepiece/Downloads/ancient iran/the persian empire a corpus of sources.pdf
+  - title: The King and Kingship in Achaemenid Art
+    author: Margaret Cool Root
+    witness_class: MODERN_ICONOGRAPHIC_AND_MATERIAL_STUDY
+    role: >-
+      Royal image, audience, throne, delegation, divine relation, combat scenes,
+      and the visual constitution of imperial order.
+    path: /Users/onepiece/Downloads/ancient iran/The_King_and_Kingship_in_Achaemenid_Art.pdf
+  - title: Pasargadae
+    witness_class: ARCHAEOLOGICAL_SITE_REPORT
+    role: >-
+      Excavated landscape, palaces, gardens, water, Gate R, Tall-i Takht, and the
+      tomb of Cyrus.
+    path: /Users/onepiece/Downloads/ancient iran/Pasargadae a report on the excavations conducted by the British.pdf
+
+administrative_household_and_provincial_witnesses:
+  - title: Persepolis Fortification Tablets
+    author: Richard T. Hallock
+    witness_class: CRITICAL_EDITION_OF_ADMINISTRATIVE_ARCHIVE
+    role: >-
+      Rations, commodity movement, workers, travelers, officials, seals, women,
+      childbirth, worship, and the material operation of the imperial heartland.
+    path: /Users/onepiece/Downloads/ancient iran/persepolis fortification tablets.pdf
+  - title: Persepolis Treasury Tablets
+    witness_class: CRITICAL_EDITION_OF_ADMINISTRATIVE_ARCHIVE
+    role: >-
+      Wage payment, silver valuation, labor classification, treasury order, and
+      the transition from payment in kind.
+    path: /Users/onepiece/Downloads/ancient iran/persepolis treasury tablets.pdf
+  - title: The Elephantine Papyri in English
+    witness_class: PROVINCIAL_COMMUNITY_AND_LEGAL_ARCHIVE
+    role: >-
+      Property, marriage, dowry, oath, military colony, taxation, petition, YHW
+      worship, temple destruction, and conditional restoration.
+    path: /Users/onepiece/Downloads/ancient iran/The Elephantine papyri in English.pdf
+  - title: Arshama and His World, Volume 1
+    witness_class: SATRAPAL_CORRESPONDENCE_AND_CONTEXT
+    role: >-
+      Arshama's letters, estate government, communication, language, and the
+      relation between household authority and provincial office.
+    path: /Users/onepiece/Downloads/ancient iran/arsama vol1.pdf
+  - title: Arshama and His World, Volume 2
+    witness_class: SATRAPAL_CORRESPONDENCE_AND_CONTEXT
+    role: >-
+      Letters, travel authorization, estate personnel, resources, agents, and
+      documentary transmission.
+    path: /Users/onepiece/Downloads/ancient iran/arsama vol2.pdf
+  - title: Arshama and His World, Volume 3
+    witness_class: SATRAPAL_CORRESPONDENCE_AND_CONTEXT
+    role: >-
+      Public and private correspondence, provincial duties, household estates,
+      and the wider Achaemenid communication system.
+    path: /Users/onepiece/Downloads/ancient iran/arsama vol3.pdf
+
+greek_ancient_witnesses:
+  - title: Persians
+    author: Aeschylus
+    witness_class: CONTEMPORARY_GREEK_TRAGEDY
+    role: >-
+      The Persian court at Susa, imperial grief, Darius, Xerxes, divine measure,
+      and the reciprocal lament after defeat.
+    path: /Users/onepiece/Downloads/ancient iran/greek texts/persians.pdf
+  - title: Histories
+    author: Herodotus
+    witness_class: GREEK_HISTORICAL_AND_POLITICAL_INQUIRY
+    role: >-
+      Cyrus, Cambyses, Darius, Xerxes, custom, regime debate, counsel, freedom,
+      mastery, imperial geography, and the limits of expansion.
+    path: /Users/onepiece/Downloads/pdfcoffee.com_the-histories-pdf-free.pdf
+  - title: History of Persia
+    author: Ctesias of Cnidus
+    witness_class: COURT_CONNECTED_GREEK_HISTORICAL_TRADITION
+    role: >-
+      Rival Cyrus traditions, court memory, queens, eunuchs, physicians,
+      succession, violence, and oral and written transmission.
+    path: /Users/onepiece/Downloads/ancient iran/Ctesias_History_of_Persia_Tales_of_the_O.pdf
+  - title: Ctesias' Persica and Its Near Eastern Context
+    witness_class: MODERN_TRANSMISSION_AND_CONTEXT_STUDY
+    role: >-
+      Fragmentary transmission and the relation of Ctesias to Greek and Near
+      Eastern narrative traditions without displacing the surviving witness.
+    path: /Users/onepiece/Downloads/ancient iran/greek texts/Ctesias persica and its near eastern context.pdf
+  - title: Anabasis
+    author: Xenophon
+    witness_class: PARTICIPANT_POST_FESTUM_GREEK_HISTORY
+    role: >-
+      Cyrus the Younger, Cunaxa, broken oaths, elected command, routes, supplies,
+      local peoples, and the uneven presence of imperial authority.
+    path: /Users/onepiece/Downloads/ancient iran/greek texts/xenophon anabasis.pdf
+  - title: Cyropaedia
+    author: Xenophon
+    witness_class: GREEK_PHILOSOPHICAL_HISTORICAL_RECONSTRUCTION
+    role: >-
+      Cyrus's education, self-command, willing obedience, friendship, gifts,
+      court replication, imperial communication, and founder-dependent succession.
+    path: /Users/onepiece/Downloads/ancient iran/greek texts/Cyropaedia & The Hellenics.pdf
+  - title: Laws
+    author: Plato
+    witness_class: GREEK_PHILOSOPHICAL_EXAMINATION
+    role: >-
+      Persia as a measured combination of freedom and subjection and the
+      education of Cyrus, Cambyses, Darius, and Xerxes.
+    path: "/Users/onepiece/Downloads/ancient iran/greek texts/Plato's Laws .pdf"
+  - title: Alcibiades
+    author: Plato
+    witness_class: GREEK_PHILOSOPHICAL_EXAMINATION
+    role: >-
+      Persian princely education through worship and royal knowledge,
+      truthfulness, self-mastery, and courage.
+    path: /Users/onepiece/Downloads/ancient iran/greek texts/plato alcibiades and others.pdf
+  - title: Life of Artaxerxes
+    author: Plutarch
+    witness_class: LATE_GREEK_BIOGRAPHICAL_TRADITION
+    role: >-
+      Artaxerxes II, Cyrus the Younger, Parysatis, Stateira, court, character,
+      succession, and transmitted memories of dynastic conflict.
+    path: /Users/onepiece/Downloads/ancient iran/greek texts/Plutarch lives.pdf
+
+modern_historical_comparisons:
+  - title: From Cyrus to Alexander
+    author: Pierre Briant
+    witness_class: MODERN_COMPREHENSIVE_HISTORICAL_RECONSTRUCTION
+    role: >-
+      Imperial institutions, political relations, conquest, continuity, and the
+      rejection of an inherited narrative of Achaemenid decadence.
+    path: /Users/onepiece/Downloads/ancient iran/From Cyrus to Alexander a History of the Persian Empire.pdf
+  - title: A Political History of the Achaemenid Empire
+    author: Muhammad A. Dandamaev
+    witness_class: MODERN_POLITICAL_AND_INSTITUTIONAL_RECONSTRUCTION
+    role: >-
+      Dynastic succession, provincial politics, military history, court
+      conflict, Artaxerxes III, Arses, Darius III, and Macedonian conquest.
+    path: /Users/onepiece/Downloads/ancient iran/The political history of the Achaemenid empire.pdf
+
+inherited_repository_records:
+  path: sources/primary/ancient/persia/manifest.yaml
+  status: HISTORICAL_PREPARATORY_PACKAGE
+  disposition: >-
+    Retained without alteration as the record of an earlier Persia layer inside
+    the History-of-Power workflow. Its non-admission language does not govern
+    STAR-ANCIENT-IRAN-001.
+
+completeness: COMPLETE
+
