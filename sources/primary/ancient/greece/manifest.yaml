@@ -1,0 +1,269 @@
+corpus_id: ANCIENT-GREECE-STAR-CORPUS-001
+name: Ancient Greece Governing Source Corpus
+status: ACQUISITION_COMPLETE_INTEGRATION_IN_PROGRESS
+star_id: STAR-ANCIENT-GREECE-001
+method: sources/SOURCE-WITNESS-METHOD.md
+
+authority:
+  rule: >-
+    Ancient Greek witnesses possess authority in their own voices and genres.
+    Poetry, sacred law, inscriptions, drama, history, oratory, philosophy, and
+    material remains are not subordinated to a modern reconstruction. Leo
+    Strauss, Jacob Klein, and Seth Benardete form a second interpretive level
+    that helps recover the questions and structures of the ancient works
+    without replacing them. Modern scholarship is used only where necessary
+    for textual, archaeological, institutional, economic, religious, or social
+    facts unavailable from the ancient witnesses alone.
+  disagreements_preserved:
+    - Homeric, Hesiodic, lyric, tragic, comic, historical, and philosophical accounts
+    - civic cult and philosophic examination of gods, nature, and law
+    - Herodotus, Thucydides, Xenophon, Isocrates, Demosthenes, and later historians
+    - democratic, oligarchic, aristocratic, tyrannical, monarchical, and mixed-regime claims
+    - Athens, Sparta, Thebes, Macedonia, allied cities, and subject communities
+    - Plato, Xenophon, and Aristotle on Socrates, regime, law, and the best life
+    - Epicurean and Stoic accounts of nature, justice, freedom, and political obligation
+
+scope:
+  civilizational_name: Ancient Greece
+  sacred_extent: the gods, heroes, origins, and cult foundations remembered by the ancient witnesses
+  historical_extent: the emergence of the polis through the Hellenistic transformation
+  later_boundary: the Roman incorporation and transformation of Greek civic and philosophical life belongs to the Rome Star
+
+ancient_poetic_and_sacred_witnesses:
+  - title: Iliad
+    author: Homer
+    witness_class: EPIC_POETIC_SELF_WITNESS
+    role: household_kingship_assembly_honor_war_burial_and_divine_human_action
+    path: /Users/onepiece/Downloads/ancient greece/iliad.pdf
+  - title: Odyssey
+    author: Homer
+    witness_class: EPIC_POETIC_SELF_WITNESS
+    role: household_return_intelligence_recognition_kingship_and_political_restoration
+    path: /Users/onepiece/Downloads/ancient greece/odyssey.pdf
+  - title: Theogony
+    author: Hesiod
+    witness_class: ARCHAIC_POETIC_SELF_WITNESS
+    role: divine_succession_distribution_honors_and_zeus_order
+    path: /Users/onepiece/Downloads/ancient greece/Theogony.pdf
+  - title: Works and Days
+    author: Hesiod
+    witness_class: ARCHAIC_POETIC_SELF_WITNESS
+    role: justice_judgment_labor_scarcity_household_and_measure
+    path: /Users/onepiece/Downloads/ancient greece/Works and Days.pdf
+  - title: Homeric Hymns
+    witness_class: CULT_FOUNDATION_POETRY
+    role: divine_jurisdiction_sanctuary_priesthood_mystery_household_and_festival
+    path: /Users/onepiece/Downloads/ancient greece/hesiod homeric hymns.pdf
+  - title: Martial Fragments
+    author: Tyrtaeus
+    witness_class: ARCHAIC_CIVIC_POETRY
+    role: hoplite_formation_courage_citizen_body_and_polis_survival
+    path: /Users/onepiece/Downloads/ancient greece/martialfragments.pdf
+  - title: Solon the Athenian
+    witness_class: ARCHAIC_LAWGIVER_AND_POETIC_CORPUS
+    role: debt_law_faction_property_citizenship_and_refusal_of_tyranny
+    path: /Users/onepiece/Downloads/ancient greece/2015.167058.SolonThe Athenian.pdf
+  - title: Elegies of Theognis
+    author: Theognis
+    witness_class: ARCHAIC_ELEGY
+    role: nobility_friendship_regime_change_wealth_and_language
+    path: /Users/onepiece/Downloads/ancient greece/elegies of theognis.pdf
+  - title: Poems and Fragments
+    author: Sappho
+    witness_class: ARCHAIC_LYRIC_POETRY
+    role: eros_memory_marriage_association_and_the_limits_of_public_honor
+    path: /Users/onepiece/Downloads/ancient greece/Sappho-The-Poems-And-Fragments.pdf
+  - title: Pindar
+    author: Pindar
+    witness_class: EPINICIAN_AND_CIVIC_POETRY
+    role: victory_lineage_divine_favor_measure_memory_and_interpolis_competition
+    path: /Users/onepiece/Downloads/ancient greece/pindar.pdf
+
+ancient_epigraphic_and_legal_witnesses:
+  - title: Greek Historical Inscriptions, Volume I
+    editors: [P. J. Rhodes, Robin Osborne]
+    witness_class: EDITED_PRIMARY_EPIGRAPHIC_CORPUS
+    role: >-
+      Tribute lists, Erythrai regulations, Gortyn laws, Chalkis decree,
+      Methone decrees, sacred calendars, temple accounts, citizenship,
+      property, alliance, and financial inscriptions.
+    path: /Users/onepiece/Downloads/ancient greece/P-J-Rhodes-Robin-Osborne-ed-Greek-Historical-Inscription vol1pdf.pdf
+  - title: Greek Historical Inscriptions, Volume II
+    editors: [P. J. Rhodes, Robin Osborne]
+    witness_class: EDITED_PRIMARY_EPIGRAPHIC_CORPUS
+    role: >-
+      Fourth-century sacred, constitutional, alliance, property, financial,
+      Macedonian, and early Hellenistic inscriptions.
+    path: /Users/onepiece/Downloads/ancient greece/P-J-Rhodes-Robin-Osborne-ed-Greek-Historical-Inscription vol2pdf.pdf
+  - title: Gortyn Law Code
+    witness_class: INSCRIBED_LEGAL_CORPUS
+    role: household_property_marriage_inheritance_status_and_legal_procedure
+    path: /Users/onepiece/Downloads/ancient greece/Gortyn-law-Code.pdf
+  - title: Constitution of the Athenians
+    author: Pseudo-Xenophon
+    witness_class: CONTEMPORARY_OLIGARCHIC_REGIME_ANALYSIS
+    role: democracy_naval_power_poor_citizens_allies_and_regime_coherence
+    path: /Users/onepiece/Downloads/ancient greece/Constitution of the Athenians.pdf
+  - title: Constitution of Athens
+    author: Aristotle or the Aristotelian school
+    witness_class: CONSTITUTIONAL_HISTORY_AND_INSTITUTIONAL_DESCRIPTION
+    role: constitutional_change_offices_selection_courts_and_actual_government
+    path: /Users/onepiece/Downloads/ancient greece/aristotle constitution of athens.pdf
+
+ancient_historical_and_oratorical_witnesses:
+  - title: Histories
+    author: Herodotus
+    witness_class: GREEK_HISTORICAL_AND_POLITICAL_INQUIRY
+    role: tyranny_custom_law_freedom_persian_wars_counsel_and_hellenic_unity
+    path: /Users/onepiece/Downloads/pdfcoffee.com_the-histories-pdf-free.pdf
+  - title: History of the Peloponnesian War
+    author: Thucydides
+    witness_class: CONTEMPORARY_POST_FESTUM_POLITICAL_HISTORY
+    role: polis_empire_democracy_war_plague_stasis_speech_and_necessity
+    path: /Users/onepiece/Downloads/440633131-The-History-of-the-Peloponnesian-War-pdf.pdf
+  - title: Hellenica
+    author: Xenophon
+    witness_class: CONTEMPORARY_POSTWAR_POLITICAL_HISTORY
+    role: defeat_restoration_spartan_hegemony_kings_peace_thebes_and_mantinea
+    path: /Users/onepiece/Downloads/xenophonshelleni00xenorich.pdf
+  - title: Scripta Minora
+    author: Xenophon
+    witness_class: CONTEMPORARY_POLITICAL_AND_REGIME_WRITINGS
+    role: spartan_constitution_hiero_agesilaus_ways_and_means_and_military_order
+    path: /Users/onepiece/Downloads/ancient greece/Xenophon-Scripta-Minora.pdf
+  - title: Isocrates, Volumes I-II
+    author: Isocrates
+    witness_class: FOURTH_CENTURY_POLITICAL_ORATORY
+    role: panhellenism_hegemony_peace_constitution_education_and_macedonia
+    paths:
+      - /Users/onepiece/Downloads/ancient greece/isocrates vol1.pdf
+      - /Users/onepiece/Downloads/ancient greece/isocrates vol2.pdf
+  - title: Demosthenes and Aeschines
+    witness_class: FOURTH_CENTURY_POLITICAL_ORATORY
+    role: citizenship_law_litigation_macedon_alliance_and_public_judgment
+    paths:
+      - /Users/onepiece/Downloads/ancient greece/Demosthenes-Speeches-1-17.pdf
+      - /Users/onepiece/Downloads/ancient greece/The-Phillipics-Demosthenes.pdf
+      - /Users/onepiece/Downloads/ancient greece/speechs of aeschines.pdf
+  - title: Anabasis of Alexander
+    author: Arrian
+    witness_class: LATE_ANCIENT_HISTORICAL_RECONSTRUCTION
+    role: philip_alexander_campaign_command_foundation_and_world_empire
+    path: /Users/onepiece/Downloads/ancient greece/anasis of alexander.pdf
+  - title: Library of History
+    author: Diodorus of Sicily
+    witness_class: LATE_ANCIENT_UNIVERSAL_HISTORY
+    role: transmitted_greek_sicilian_macedonian_and_hellenistic_historical_traditions
+    root: /Users/onepiece/Downloads/ancient greece
+    volume_pattern: Diodorus of Sicily Vol.*.pdf
+  - title: Lives
+    author: Plutarch
+    witness_class: LATE_ANCIENT_BIOGRAPHICAL_REFLECTION
+    role: lawgiver_general_ruler_character_reputation_and_political_memory
+    root: /Users/onepiece/Downloads/ancient greece/Plutarch's Lives
+
+ancient_dramatic_witnesses:
+  - author: Aeschylus
+    witness_class: GREEK_TRAGEDY
+    paths:
+      - /Users/onepiece/Downloads/ancient greece/Aeschylus vol1.pdf
+      - /Users/onepiece/Downloads/ancient greece/Oresteia.pdf
+      - /Users/onepiece/Downloads/ancient greece/Aeschylus-The-Suppliants.pdf
+  - author: Sophocles
+    witness_class: GREEK_TRAGEDY
+    paths:
+      - /Users/onepiece/Downloads/ancient greece/sophocles vol1.pdf
+      - /Users/onepiece/Downloads/ancient greece/sophocles vol2.pdf
+  - author: Euripides
+    witness_class: GREEK_TRAGEDY
+    paths:
+      - /Users/onepiece/Downloads/ancient greece/euripides vol1.pdf
+      - /Users/onepiece/Downloads/ancient greece/euripides vol2.pdf
+  - author: Aristophanes
+    witness_class: GREEK_COMEDY
+    paths:
+      - /Users/onepiece/Downloads/ancient greece/Aristophanes vol1.pdf
+      - /Users/onepiece/Downloads/ancient greece/Aristophanes vol2.pdf
+
+ancient_philosophical_witnesses:
+  - title: Early Greek Philosophy
+    witness_class: PRESOCRATIC_FRAGMENTS_AND_TESTIMONIA
+    path: /Users/onepiece/Downloads/ancient greece/early greek philosophy.pdf
+  - title: Complete Works
+    author: Plato
+    witness_class: PLATONIC_DIALOGUES
+    path: /Users/onepiece/Downloads/ancient greece/Complete-Works-of-Plato.pdf
+  - title: Memorabilia, Oeconomicus, and Symposium
+    author: Xenophon
+    witness_class: XENOPHONTIC_SOCRATIC_WRITINGS
+    path: /Users/onepiece/Downloads/ancient greece/Xenophon Memorabilia, Oeconomicus, Symosium.pdf
+  - title: Complete Aristotle
+    author: Aristotle
+    witness_class: ARISTOTELIAN_CORPUS
+    path: /Users/onepiece/Downloads/ancient greece/Aristotle-The-Complete-Aristotle.pdf
+  - title: Stoic and Epicurean Philosophers
+    witness_class: HELLENISTIC_AND_ROMAN_PHILOSOPHICAL_CORPUS
+    role: epicurus_epictetus_lucretius_and_marcus_aurelius
+    path: /Users/onepiece/Downloads/the-stoic-and-epicurean-philosophers-the-complete-extant-writing-of-epicurus-epictetus-lucretius-amp-marcus-aurelius.djvu
+
+second_interpretive_level:
+  - name: Leo Strauss
+    witness_class: SECOND_LEVEL_PHILOSOPHICAL_INTERPRETATION
+    role: polis_regime_natural_right_socratic_question_and_poetry_philosophy_conflict
+    roots:
+      - /Users/onepiece/Downloads/leostrauss/Courses
+      - /Users/onepiece/Downloads/leostrauss/books
+  - name: Jacob Klein
+    witness_class: SECOND_LEVEL_PHILOSOPHICAL_INTERPRETATION
+    role: number_learning_meno_platonic_action_and_ancient_modern_conceptual_difference
+    root: /Users/onepiece/Downloads/jacob klein
+  - name: Seth Benardete
+    witness_class: SECOND_LEVEL_PHILOSOPHICAL_INTERPRETATION
+    role: dramatic_structure_language_myth_epic_tragedy_and_platonic_argument
+    root: "/Users/onepiece/Downloads/seth benardete "
+
+bounded_modern_controls:
+  - title: Greek Religion
+    author: Walter Burkert
+    role: ritual_sanctuary_sacrifice_purification_mystery_and_hero_cult
+    path: /Users/onepiece/Downloads/ancient greece/Burkert-Greek-Religion.pdf
+  - title: Oxford Handbook of Ancient Greek Religion
+    role: bounded_comparative_control_for_ritual_and_material_evidence
+    path: /Users/onepiece/Downloads/ancient greece/-oxford-handbook-of-ancient-greek-religion.pdf
+  - title: Cults, Territory, and the Origins of the Greek City-State
+    author: François de Polignac
+    role: material_and_archaeological_control_for_polis_formation
+    path: /Users/onepiece/Downloads/ancient greece/FranCois-de-Polignac-Cults-Territory-And-the-Origins-of-the-Greek-City-State-1995.pdf
+  - title: The Ancient Economy
+    author: Moses I. Finley
+    role: bounded_control_for_economy_status_labor_and_property
+    path: /Users/onepiece/Downloads/ancient greece/the ancient economy.pdf
+  - title: The Class Struggle in the Ancient Greek World
+    author: G. E. M. de Ste. Croix
+    role: bounded_and_disputed_control_for_class_property_labor_and_exploitation
+    path: /Users/onepiece/Downloads/ancient greece/De-Ste-Croix-The-Class-Struggle-in-the-Ancient.pdf
+  - title: Athenian Revolution
+    author: Josiah Ober
+    role: bounded_control_for_democratic_institutions_mass_elite_relation_and_public_speech
+    path: /Users/onepiece/Downloads/ancient greece/athenian-revolution-essays-on-ancient-greek-democracy-and-political.pdf
+
+integration_state:
+  completed:
+    - foundational poetic and sacred bodies
+    - archaic poetic and lawgiving bodies
+    - Presocratic and sophistic intellectual sequence
+    - tragedy and comedy
+    - Socrates, Plato, Xenophon, and Aristotle
+    - Epicurean and Stoic post-polis transformation
+  remaining:
+    - continuous political history of polis formation, colonization, and legislation
+    - Sparta and Athens as distinct regimes
+    - Persian Wars and contingent Hellenic unity
+    - Athenian democracy and empire with epigraphic controls
+    - Peloponnesian War, oligarchic revolution, restoration, and amnesty
+    - Spartan and Theban hegemonies and the King's Peace
+    - Macedonian and early Hellenistic political transformation
+    - integrated account of women, slaves, metics, dependents, and subject allies
+
+completeness: NARRATIVE_INTEGRATION_IN_PROGRESS
+

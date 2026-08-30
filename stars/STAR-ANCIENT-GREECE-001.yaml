@@ -1,0 +1,265 @@
+star_id: STAR-ANCIENT-GREECE-001
+name: Ancient Greece
+status: DRAFT
+
+fact: >-
+  Ancient Greece joined household, cult, sacred place, inherited law, public
+  speech, military formation, citizenship, and competition within the polis,
+  a self-governing community whose regime ordered rulers and ruled toward an
+  authoritative way of life. Greek freedom meant both the independence of a
+  city and participation by its citizens in a shared order, while remaining
+  inseparable from exclusions, slavery, dependent labor, subject allies, and
+  recurrent struggles for hegemony. Poetry allowed the city to remember and
+  examine the divine, heroic, and political worlds that formed it; inquiry
+  into nature discovered a standard not created by ancestral convention;
+  sophistry disclosed speech as a power capable of constituting or dissolving
+  civic opinion; and Socratic philosophy brought the question of nature into
+  the city by examining the souls, speeches, regimes, and claims about justice
+  through which human beings act. The polis gave philosophy its political
+  setting without becoming philosophy's final measure. Macedonian monarchy
+  later subordinated the inter-polis order without erasing civic institutions,
+  and Epicurean and Stoic philosophy developed rival accounts of freedom for a
+  world in which the polis survived without remaining politically sovereign.
+
+scope:
+  subject: >-
+    Ancient Greece as a complete civilization: the sacred, poetic, household,
+    political, military, economic, dramatic, historical, and philosophical
+    development of the polis; the plurality of Greek regimes; the conflict
+    between civic freedom, exclusion, empire, and philosophy; and the
+    Macedonian and Hellenistic transformation of the inter-polis world.
+  period: >-
+    The civilization's remembered heroic and divine beginnings through the
+    Hellenistic transformation. No modern chronology is imposed upon the
+    sacred and mythic beginnings described by the ancient witnesses.
+  geography:
+    - the Aegean and mainland Greek worlds
+    - the islands, coastal settlements, colonies, and sanctuaries of the wider Mediterranean and Black Sea
+    - Sparta, Athens, Thebes, Corinth, Argos, and the other autonomous poleis
+    - Macedonia and the Hellenistic kingdoms insofar as they transform the polis
+  narrative_companion: narratives/STAR-ANCIENT-GREECE-001.md
+  source_manifest: sources/primary/ancient/greece/manifest.yaml
+
+shape:
+  model: POLIS_REGIME_AND_PHILOSOPHIC_EXAMINATION
+  center: >-
+    The polis joins gods, households, territory, law, office, citizenship,
+    education, military service, public speech, property, honor, and judgment
+    into a regime and way of life.
+  freedom: >-
+    Greek freedom includes both the autonomy of a polis and the political
+    standing of citizens within it; neither meaning extends automatically to
+    women, slaves, metics, dependents, conquered populations, or subject allies.
+  philosophy: >-
+    Inquiry into nature and the good arises within the Greek city while
+    becoming capable of judging the regime and ancestral law by a standard the
+    city did not create.
+  account_of_power: >-
+    Power has no single Greek substance. It acts through household authority,
+    sacred jurisdiction, law, office, speech, education, wealth, military
+    formation, empire, knowledge, and the ordering end of a regime.
+  terminal_transformation: >-
+    Macedonian kingship subordinates the inter-polis order without abolishing
+    the civic forms, cults, laws, and identities of the poleis.
+
+witness_architecture:
+  governing_rule: >-
+    Ancient Greek witnesses govern the realities they articulate. Poetry,
+    sacred law, drama, history, oratory, philosophy, inscriptions, and material
+    remains retain their differences of genre and voice. Strauss, Klein, and
+    Benardete form a second interpretive level that deepens the questions posed
+    to the ancient witnesses without replacing them. Modern specialists enter
+    only where material, institutional, philological, or archaeological facts
+    cannot be established adequately from the ancient witnesses themselves.
+  ancient_governing_witnesses:
+    poetry:
+      - Homer
+      - Hesiod
+      - the Homeric Hymns
+      - Tyrtaeus
+      - Solon
+      - Theognis
+      - Sappho
+      - Pindar
+    sacred_and_epigraphic:
+      - sacrificial calendars
+      - sanctuary laws and accounts
+      - purification laws
+      - oracular and mystery witnesses
+      - funerary and hero-cult inscriptions
+      - citizenship, property, alliance, tribute, and financial inscriptions
+    drama:
+      - Aeschylus
+      - Sophocles
+      - Euripides
+      - Aristophanes
+    history_and_oratory:
+      - Herodotus
+      - Thucydides
+      - Xenophon
+      - Isocrates
+      - Demosthenes
+      - Aeschines
+      - Arrian
+      - Diodorus
+      - Plutarch
+    philosophy:
+      - the Presocratic fragments and testimonia
+      - the sophistic fragments and Platonic presentations
+      - Plato
+      - Xenophon
+      - Aristotle
+      - Epicurus
+      - the early Stoics and later ancient Stoic witnesses
+  second_interpretive_level:
+    - Leo Strauss
+    - Jacob Klein
+    - Seth Benardete
+  bounded_modern_controls:
+    rule: >-
+      Used only when necessary for textual establishment, archaeology,
+      institutional reconstruction, economy, social structure, or religion;
+      their disagreements remain visible and do not govern the civilization.
+    examples:
+      - Walter Burkert
+      - François de Polignac
+      - Moses I. Finley
+      - G. E. M. de Ste. Croix
+      - Mogens Herman Hansen
+      - Josiah Ober
+      - Paul Cartledge
+
+completed_bodies:
+  foundational_and_archaic:
+    - Homeric household, kingship, assembly, honor, war, burial, and divine-human action
+    - Hesiodic succession, justice, work, scarcity, and judgment
+    - cult foundations in the Homeric Hymns
+    - Tyrtaean military formation
+    - Solonian legislation, debt, faction, and refusal of tyranny
+    - Theognidean nobility and regime change
+    - Sapphic eros, memory, marriage, and association
+  sacred_and_civic:
+    - sacrifice and sacred calendars
+    - sanctuary, sacred property, treasury, priesthood, and jurisdiction
+    - pollution, purification, blood, birth, death, and communal restoration
+    - oracle, mystery, and initiation
+    - hero cult, founders, tombs, and the civic dead
+    - festival, procession, sacrifice, and competition
+  inquiry_and_sophistry:
+    - Anaximander
+    - Pythagoras and the occult structure of initiation
+    - Xenophanes
+    - Heraclitus
+    - Parmenides
+    - Empedocles
+    - Anaxagoras
+    - Democritus
+    - Protagoras
+    - Gorgias
+    - Prodicus and Hippias
+    - Antiphon
+    - Critias and Thrasymachus
+  dramatic_and_philosophical:
+    - tragedy as the polis examining its limits
+    - comedy as the polis laughing at its rulers, teachers, and desires
+    - Socrates and philosophy brought down to the city
+    - Plato on regime, soul, law, education, and the limits of political order
+    - Xenophon on household, command, willing obedience, and founder-dependence
+    - Aristotle on the polis by nature, regimes, citizenship, stasis, rhetoric, and contemplation
+    - the opposed Epicurean and Stoic responses to the post-polis world
+
+supersession_rules:
+  - >-
+    The complete comedy body supersedes the earlier stand-alone Aristophanes
+    draft; the earlier text remains research material and must not become a
+    duplicate narrative section.
+  - >-
+    The integrated Homeric, Hesiodic, and Hymnic bodies supersede shallower
+    preliminary passes while preserving any distinct findings verified from
+    the ancient witnesses.
+  - >-
+    Socrates, Plato, Xenophon, Aristotle, and the Hellenistic philosophical
+    transformation are complete research bodies and are not reopened merely
+    because the political chronology has not yet reached them.
+
+open_historical_bodies:
+  - id: POLIS-FORMATION
+    title: The Formation of the Polis
+    required_elements:
+      - settlement and sacred territory
+      - colonization
+      - household, clan, deme, and civic reorganization
+      - land, property, debt, law, and citizenship
+      - military formation and material infrastructure
+  - id: SPARTA-ATHENS
+    title: Sparta and Athens as Distinct Regimes
+    required_elements:
+      - Spartan education, kingship, ephors, gerousia, assembly, helotage, and military order
+      - Athenian legislation, tyranny, democratic institutions, courts, navy, and civic education
+      - different meanings of Greek freedom
+  - id: PERSIAN-WARS
+    title: The Persian Wars and Contingent Hellenic Unity
+    required_elements:
+      - divided poleis and Medizing
+      - law, command, geography, counsel, and freedom
+      - sanctuaries, language, custom, and shared descent
+      - the failure to create a sovereign Greece
+  - id: ATHENIAN-DEMOCRACY-EMPIRE
+    title: Athenian Democracy and Naval Empire
+    required_elements:
+      - assembly, council, courts, magistracies, and public speech
+      - fleet, tribute, allied regulation, cleruchy, and finance
+      - citizen participation and subject-city dependence
+      - tribute lists and imperial decrees beside the literary witnesses
+  - id: PELOPONNESIAN-WAR
+    title: War, Plague, Stasis, Oligarchic Revolution, and Restoration
+    required_elements:
+      - Periclean leadership and Thucydidean speech
+      - plague and the temporal foundations of law
+      - Mytilene, Melos, Sicily, and Corcyra
+      - the Four Hundred, the Thirty, democratic return, and amnesty
+  - id: HEGEMONIES
+    title: Spartan and Theban Hegemonies
+    required_elements:
+      - Spartan victory and oligarchic boards
+      - the King's Peace and Persian participation in autonomy
+      - the Cadmea, Leuctra, Messenian restoration, and Mantinea
+      - autonomy as both principle and instrument of rule
+  - id: MACEDONIAN-TRANSFORMATION
+    title: Philip, Alexander, and the Transformation of the Polis
+    required_elements:
+      - Macedonian kingship and institutions
+      - Philip's reordering of the Greek field
+      - Alexander and world empire
+      - civic continuity beneath monarchical supremacy
+  - id: EXCLUDED-FOUNDATION
+    title: The Excluded Foundation of Citizen Freedom
+    required_elements:
+      - women
+      - slaves and helots
+      - metics and resident foreigners
+      - dependent laborers
+      - conquered populations and subject allies
+
+governing_questions:
+  - How did divine and ancestral order become the order of the polis?
+  - What did it mean for the polis to claim the citizen's body and soul?
+  - How did household, property, cult, military formation, and citizenship fit together?
+  - How were Sparta and Athens different expressions of Greek freedom?
+  - How could citizen freedom coexist with slavery, exclusion, and empire?
+  - How did tragedy and comedy permit the city to examine itself?
+  - How did logos become a political power?
+  - Why did philosophy emerge from the city while becoming capable of judging it?
+  - Did Macedonia complete the Greek political movement or overcome the polis?
+  - What survived of the polis after its political independence was lost?
+
+completion_gate:
+  state: NOT_SATISFIED
+  requirements:
+    - complete every open historical body
+    - place the operational inscriptions inside the relevant historical sections
+    - preserve the ancient disagreements and the differences of genre
+    - make exclusion and dependency explicit beneath citizen freedom
+    - integrate the completed and historical bodies into one civilizational synthesis
+    - audit against reducing Greece to Athens, democracy, philosophy, or warfare
+    - review and certify the complete narrative and structured record
