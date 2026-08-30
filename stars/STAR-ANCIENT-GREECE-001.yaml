@@ -159,6 +159,13 @@ completed_bodies:
       poleis and Medizing, law and freedom, disputed command, geography and
       counsel, common sanctuaries and inherited relations, and the failure of
       victory to create a sovereign Greece
+    - >-
+      Athenian democracy and naval empire, including the political weight of
+      rowers and maritime labor, Assembly, Council, courts, offices, public
+      speech and pay, fleet and Piraeus administration, tribute assessment and
+      collection, differentiated allied regulation at Erythrae, Chalcis, and
+      Methone, cleruchic settlement, and the inseparable realities of citizen
+      participation and subject-city dependence
   inquiry_and_sophistry:
     - Anaximander
     - Pythagoras and the occult structure of initiation
@@ -197,13 +204,6 @@ supersession_rules:
     because the political chronology has not yet reached them.
 
 open_historical_bodies:
-  - id: ATHENIAN-DEMOCRACY-EMPIRE
-    title: Athenian Democracy and Naval Empire
-    required_elements:
-      - assembly, council, courts, magistracies, and public speech
-      - fleet, tribute, allied regulation, cleruchy, and finance
-      - citizen participation and subject-city dependence
-      - tribute lists and imperial decrees beside the literary witnesses
   - id: PELOPONNESIAN-WAR
     title: War, Plague, Stasis, Oligarchic Revolution, and Restoration
     required_elements:

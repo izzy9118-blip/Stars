@@ -84,9 +84,11 @@ ancient_epigraphic_and_legal_witnesses:
     editors: [P. J. Rhodes, Robin Osborne]
     witness_class: EDITED_PRIMARY_EPIGRAPHIC_CORPUS
     role: >-
-      Tribute lists, Erythrai regulations, Gortyn laws, Chalkis decree,
-      Methone decrees, sacred calendars, temple accounts, citizenship,
-      property, alliance, and financial inscriptions.
+      Tribute quota lists, Erythrai regulations, the Chalkis decree, Methone
+      decrees, tribute reassessment and collection procedures, Gortyn laws,
+      sacred calendars, temple accounts, citizenship, property, alliance, and
+      financial inscriptions. The imperial documents are integrated as
+      operational witnesses distinct from literary regime analysis.
     path: /Users/onepiece/Downloads/ancient greece/P-J-Rhodes-Robin-Osborne-ed-Greek-Historical-Inscription vol1pdf.pdf
   - title: Greek Historical Inscriptions, Volume II
     editors: [P. J. Rhodes, Robin Osborne]
@@ -102,12 +104,12 @@ ancient_epigraphic_and_legal_witnesses:
   - title: Constitution of the Athenians
     author: Pseudo-Xenophon
     witness_class: CONTEMPORARY_OLIGARCHIC_REGIME_ANALYSIS
-    role: democracy_naval_power_poor_citizens_allies_and_regime_coherence
+    role: democracy_naval_labor_poor_citizens_pay_trade_allied_dependence_and_regime_coherence
     path: /Users/onepiece/Downloads/ancient greece/Constitution of the Athenians.pdf
   - title: Constitution of Athens
     author: Aristotle or the Aristotelian school
     witness_class: CONSTITUTIONAL_HISTORY_AND_INSTITUTIONAL_DESCRIPTION
-    role: constitutional_change_offices_selection_courts_and_actual_government
+    role: constitutional_change_naval_policy_citizenship_offices_selection_assembly_council_courts_finance_audit_and_actual_government
     path: /Users/onepiece/Downloads/ancient greece/aristotle constitution of athens.pdf
 
 ancient_historical_and_oratorical_witnesses:
@@ -255,12 +257,12 @@ integration_state:
     - polis formation, colonization, legislation, territory, and civic reorganization
     - Sparta and Athens as distinct regimes and rival meanings of Greek freedom
     - Persian Wars and contingent Hellenic unity
+    - Athenian democracy and naval empire with tribute lists and allied decrees
     - Presocratic and sophistic intellectual sequence
     - tragedy and comedy
     - Socrates, Plato, Xenophon, and Aristotle
     - Epicurean and Stoic post-polis transformation
   remaining:
-    - Athenian democracy and empire with epigraphic controls
     - Peloponnesian War, oligarchic revolution, restoration, and amnesty
     - Spartan and Theban hegemonies and the King's Peace
     - Macedonian and early Hellenistic political transformation
