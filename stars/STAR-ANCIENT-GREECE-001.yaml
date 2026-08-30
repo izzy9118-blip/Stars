@@ -175,6 +175,15 @@ completed_bodies:
       division of public from private ambition, the Four Hundred and the Five
       Thousand, democratic restoration, Arginusae, Aegospotami, the Thirty,
       reconciliation, amnesty, and republication of law
+    - >-
+      Spartan and Theban hegemonies, including Lysander's boards and
+      governors, the internal transformation of Sparta, Persian money and
+      naval intervention, the King's Peace, autonomy as both a real principle
+      and an instrument of rule, Mantinea's dismemberment and restoration,
+      the Cadmea, the Second Athenian League, Leuctra, Arcadian federation,
+      invasion of Laconia, Messenian restoration, Theban-Persian diplomacy,
+      contested federal orders, and Mantinea's failure to produce a stable
+      hegemonic settlement
   inquiry_and_sophistry:
     - Anaximander
     - Pythagoras and the occult structure of initiation
@@ -213,13 +222,6 @@ supersession_rules:
     because the political chronology has not yet reached them.
 
 open_historical_bodies:
-  - id: HEGEMONIES
-    title: Spartan and Theban Hegemonies
-    required_elements:
-      - Spartan victory and oligarchic boards
-      - the King's Peace and Persian participation in autonomy
-      - the Cadmea, Leuctra, Messenian restoration, and Mantinea
-      - autonomy as both principle and instrument of rule
   - id: MACEDONIAN-TRANSFORMATION
     title: Philip, Alexander, and the Transformation of the Polis
     required_elements:
