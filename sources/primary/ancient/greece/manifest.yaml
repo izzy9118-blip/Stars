@@ -119,7 +119,7 @@ ancient_historical_and_oratorical_witnesses:
   - title: History of the Peloponnesian War
     author: Thucydides
     witness_class: CONTEMPORARY_POST_FESTUM_POLITICAL_HISTORY
-    role: early_settlement_resources_spartan_athenian_regime_contrast_empire_democracy_war_plague_stasis_speech_and_necessity
+    role: early_settlement_resources_persian_war_aftermath_spartan_athenian_regime_contrast_empire_democracy_war_plague_stasis_speech_and_necessity
     path: /Users/onepiece/Downloads/440633131-The-History-of-the-Peloponnesian-War-pdf.pdf
   - title: Hellenica
     author: Xenophon
@@ -165,6 +165,7 @@ ancient_historical_and_oratorical_witnesses:
 ancient_dramatic_witnesses:
   - author: Aeschylus
     witness_class: GREEK_TRAGEDY
+    role: persian_war_freedom_imperial_command_sacred_limit_enemy_suffering_and_civic_memory
     paths:
       - /Users/onepiece/Downloads/ancient greece/Aeschylus vol1.pdf
       - /Users/onepiece/Downloads/ancient greece/Oresteia.pdf
@@ -253,12 +254,12 @@ integration_state:
     - archaic poetic and lawgiving bodies
     - polis formation, colonization, legislation, territory, and civic reorganization
     - Sparta and Athens as distinct regimes and rival meanings of Greek freedom
+    - Persian Wars and contingent Hellenic unity
     - Presocratic and sophistic intellectual sequence
     - tragedy and comedy
     - Socrates, Plato, Xenophon, and Aristotle
     - Epicurean and Stoic post-polis transformation
   remaining:
-    - Persian Wars and contingent Hellenic unity
     - Athenian democracy and empire with epigraphic controls
     - Peloponnesian War, oligarchic revolution, restoration, and amnesty
     - Spartan and Theban hegemonies and the King's Peace

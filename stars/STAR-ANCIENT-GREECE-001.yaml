@@ -154,6 +154,11 @@ completed_bodies:
       Sparta and Athens as distinct regimes, including their institutions,
       education, material foundations, exclusions, internal contradictions,
       and rival meanings of Greek freedom
+    - >-
+      the Persian Wars and contingent Hellenic unity, including divided
+      poleis and Medizing, law and freedom, disputed command, geography and
+      counsel, common sanctuaries and inherited relations, and the failure of
+      victory to create a sovereign Greece
   inquiry_and_sophistry:
     - Anaximander
     - Pythagoras and the occult structure of initiation
@@ -192,13 +197,6 @@ supersession_rules:
     because the political chronology has not yet reached them.
 
 open_historical_bodies:
-  - id: PERSIAN-WARS
-    title: The Persian Wars and Contingent Hellenic Unity
-    required_elements:
-      - divided poleis and Medizing
-      - law, command, geography, counsel, and freedom
-      - sanctuaries, language, custom, and shared descent
-      - the failure to create a sovereign Greece
   - id: ATHENIAN-DEMOCRACY-EMPIRE
     title: Athenian Democracy and Naval Empire
     required_elements:
