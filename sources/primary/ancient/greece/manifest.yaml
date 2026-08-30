@@ -114,12 +114,12 @@ ancient_historical_and_oratorical_witnesses:
   - title: Histories
     author: Herodotus
     witness_class: GREEK_HISTORICAL_AND_POLITICAL_INQUIRY
-    role: colonization_tyranny_custom_law_freedom_persian_wars_counsel_and_hellenic_unity
+    role: colonization_tyranny_spartan_law_kingship_custom_freedom_persian_wars_counsel_and_hellenic_unity
     path: /Users/onepiece/Downloads/pdfcoffee.com_the-histories-pdf-free.pdf
   - title: History of the Peloponnesian War
     author: Thucydides
     witness_class: CONTEMPORARY_POST_FESTUM_POLITICAL_HISTORY
-    role: early_settlement_resources_polis_empire_democracy_war_plague_stasis_speech_and_necessity
+    role: early_settlement_resources_spartan_athenian_regime_contrast_empire_democracy_war_plague_stasis_speech_and_necessity
     path: /Users/onepiece/Downloads/440633131-The-History-of-the-Peloponnesian-War-pdf.pdf
   - title: Hellenica
     author: Xenophon
@@ -252,12 +252,12 @@ integration_state:
     - foundational poetic and sacred bodies
     - archaic poetic and lawgiving bodies
     - polis formation, colonization, legislation, territory, and civic reorganization
+    - Sparta and Athens as distinct regimes and rival meanings of Greek freedom
     - Presocratic and sophistic intellectual sequence
     - tragedy and comedy
     - Socrates, Plato, Xenophon, and Aristotle
     - Epicurean and Stoic post-polis transformation
   remaining:
-    - Sparta and Athens as distinct regimes
     - Persian Wars and contingent Hellenic unity
     - Athenian democracy and empire with epigraphic controls
     - Peloponnesian War, oligarchic revolution, restoration, and amnesty

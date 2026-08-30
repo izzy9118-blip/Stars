@@ -150,6 +150,10 @@ completed_bodies:
       formation of the polis through settlement, sacred territory,
       colonization, land conflict, legislation, military obligation, civic
       reorganization, and bounded citizenship
+    - >-
+      Sparta and Athens as distinct regimes, including their institutions,
+      education, material foundations, exclusions, internal contradictions,
+      and rival meanings of Greek freedom
   inquiry_and_sophistry:
     - Anaximander
     - Pythagoras and the occult structure of initiation
@@ -188,12 +192,6 @@ supersession_rules:
     because the political chronology has not yet reached them.
 
 open_historical_bodies:
-  - id: SPARTA-ATHENS
-    title: Sparta and Athens as Distinct Regimes
-    required_elements:
-      - Spartan education, kingship, ephors, gerousia, assembly, helotage, and military order
-      - Athenian legislation, tyranny, democratic institutions, courts, navy, and civic education
-      - different meanings of Greek freedom
   - id: PERSIAN-WARS
     title: The Persian Wars and Contingent Hellenic Unity
     required_elements:
