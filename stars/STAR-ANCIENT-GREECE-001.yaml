@@ -65,12 +65,13 @@ shape:
 witness_architecture:
   governing_rule: >-
     Ancient Greek witnesses govern the realities they articulate. Poetry,
-    sacred law, drama, history, oratory, philosophy, inscriptions, and material
-    remains retain their differences of genre and voice. Strauss, Klein, and
-    Benardete form a second interpretive level that deepens the questions posed
-    to the ancient witnesses without replacing them. Modern specialists enter
-    only where material, institutional, philological, or archaeological facts
-    cannot be established adequately from the ancient witnesses themselves.
+    ritual regulation, ancestral norm, civic decree, drama, history, oratory,
+    philosophy, inscriptions, and material remains retain their differences of
+    genre and voice. Strauss, Klein, and Benardete form a second interpretive
+    level that deepens the questions posed to the ancient witnesses without
+    replacing them. Modern specialists enter only where material,
+    institutional, philological, or archaeological facts cannot be established
+    adequately from the ancient witnesses themselves.
   ancient_governing_witnesses:
     poetry:
       - Homer
@@ -83,8 +84,9 @@ witness_architecture:
       - Pindar
     sacred_and_epigraphic:
       - sacrificial calendars
-      - sanctuary laws and accounts
-      - purification laws
+      - sanctuary regulations, leases, inventories, and accounts
+      - purification regulations and ancestral ritual norms
+      - divine commands and civic decrees concerning sacred affairs
       - oracular and mystery witnesses
       - funerary and hero-cult inscriptions
       - citizenship, property, alliance, tribute, and financial inscriptions
@@ -120,14 +122,48 @@ witness_architecture:
       Used only when necessary for textual establishment, archaeology,
       institutional reconstruction, economy, social structure, or religion;
       their disagreements remain visible and do not govern the civilization.
-    examples:
-      - Walter Burkert
-      - François de Polignac
-      - Moses I. Finley
-      - G. E. M. de Ste. Croix
-      - Mogens Herman Hansen
-      - Josiah Ober
-      - Paul Cartledge
+    directly_examined:
+      - Walter Burkert, Greek Religion
+      - The Oxford Handbook of Ancient Greek Religion
+      - François de Polignac, Cults, Territory, and the Origins of the Greek City-State
+      - Moses I. Finley, The Ancient Economy
+      - G. E. M. de Ste. Croix, The Class Struggle in the Ancient Greek World
+      - Josiah Ober, The Athenian Revolution
+    comparison_registered_through_an_examined_source:
+      - Mogens Herman Hansen through Josiah Ober's direct engagement with his institutional account
+
+preserved_modern_disagreements:
+  finley_and_de_ste_croix:
+    question: >-
+      Whether ancient economic order is understood primarily through juridical
+      status and civic standing or through class relations grounded in ownership,
+      labor, exploitation, and appropriation of surplus.
+    finley: >-
+      Status, citizenship, land, and elite valuation organize economic conduct
+      within a social order that cannot be reconstructed as a modern autonomous
+      economy.
+    de_ste_croix: >-
+      Status describes legal position but cannot replace the class relations
+      through which propertied groups appropriated the labor and surplus of
+      slaves, dependents, tenants, and poorer producers.
+    preservation: >-
+      Legal and political status remains irreducible to class, while exploitation
+      and control of productive resources remain irreducible to status.
+  hansen_and_ober:
+    question: >-
+      Whether the rule of the Athenian demos is adequately disclosed by the
+      formal competences of Assembly, Council, courts, and magistrates or also
+      requires the mass capacity to judge, discipline, and redirect elite action.
+    institutional_account: >-
+      Constitutional reconstruction locates popular authority in the defined
+      powers, procedures, and relations of the democratic institutions.
+    ober: >-
+      Institutional anatomy does not exhaust democratic power because elite
+      speakers and leaders competed before citizen audiences able to authorize,
+      reject, audit, punish, and recall them.
+    preservation: >-
+      Formal competence and mass judgment disclose distinct dimensions of how
+      the demos ruled and neither is silently substituted for the other.
 
 completed_bodies:
   foundational_and_archaic:
@@ -200,9 +236,11 @@ completed_bodies:
       chattel slavery, debt bondage, public slavery, helotage, penestai, and
       perioikoi; metics and resident foreigners; free citizen laborers and
       mechanics; conquered populations; and the citizens of subject allied
-      poleis, while showing how household labor, productive dependency,
-      mining, tribute, and conquest sustained bounded civic freedom and how
-      law, drama, history, and philosophy exposed its internal difficulties
+      poleis, while distinguishing juridical status from class relation and
+      showing how free citizen labor, household labor, productive dependency,
+      public pay, elite contribution, mining, tribute, and conquest sustained
+      bounded civic freedom and how law, drama, history, and philosophy exposed
+      its internal difficulties
   inquiry_and_sophistry:
     - Anaximander
     - Pythagoras and the occult structure of initiation
@@ -260,6 +298,7 @@ completion_gate:
     - complete every open historical body
     - place the operational inscriptions inside the relevant historical sections
     - preserve the ancient disagreements and the differences of genre
+    - preserve the Finley-de Ste. Croix and Hansen-Ober disagreements without allowing modern controls to govern the ancient witnesses
     - make exclusion and dependency explicit beneath citizen freedom
     - integrate the completed and historical bodies into one civilizational synthesis
     - audit against reducing Greece to Athens, democracy, philosophy, or warfare
