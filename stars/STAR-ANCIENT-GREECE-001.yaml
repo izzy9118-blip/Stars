@@ -145,6 +145,11 @@ completed_bodies:
     - oracle, mystery, and initiation
     - hero cult, founders, tombs, and the civic dead
     - festival, procession, sacrifice, and competition
+  historical_and_institutional:
+    - >-
+      formation of the polis through settlement, sacred territory,
+      colonization, land conflict, legislation, military obligation, civic
+      reorganization, and bounded citizenship
   inquiry_and_sophistry:
     - Anaximander
     - Pythagoras and the occult structure of initiation
@@ -183,14 +188,6 @@ supersession_rules:
     because the political chronology has not yet reached them.
 
 open_historical_bodies:
-  - id: POLIS-FORMATION
-    title: The Formation of the Polis
-    required_elements:
-      - settlement and sacred territory
-      - colonization
-      - household, clan, deme, and civic reorganization
-      - land, property, debt, law, and citizenship
-      - military formation and material infrastructure
   - id: SPARTA-ATHENS
     title: Sparta and Athens as Distinct Regimes
     required_elements:
