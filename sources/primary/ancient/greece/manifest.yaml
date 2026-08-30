@@ -123,11 +123,14 @@ ancient_historical_and_oratorical_witnesses:
     witness_class: CONTEMPORARY_POST_FESTUM_POLITICAL_HISTORY
     role: early_settlement_resources_persian_war_aftermath_spartan_athenian_regime_contrast_empire_democracy_war_plague_stasis_speech_and_necessity
     path: /Users/onepiece/Downloads/440633131-The-History-of-the-Peloponnesian-War-pdf.pdf
+    local_extent: Books I-IV
+    supplemental_complete_text_url: https://www.gutenberg.org/ebooks/7142
   - title: Hellenica
     author: Xenophon
     witness_class: CONTEMPORARY_POSTWAR_POLITICAL_HISTORY
     role: defeat_restoration_spartan_hegemony_kings_peace_thebes_and_mantinea
     path: /Users/onepiece/Downloads/xenophonshelleni00xenorich.pdf
+    supplemental_translation_url: https://www.gutenberg.org/ebooks/1174
   - title: Scripta Minora
     author: Xenophon
     witness_class: CONTEMPORARY_POLITICAL_AND_REGIME_WRITINGS
@@ -258,12 +261,12 @@ integration_state:
     - Sparta and Athens as distinct regimes and rival meanings of Greek freedom
     - Persian Wars and contingent Hellenic unity
     - Athenian democracy and naval empire with tribute lists and allied decrees
+    - Peloponnesian War, oligarchic revolution, defeat, restoration, and amnesty
     - Presocratic and sophistic intellectual sequence
     - tragedy and comedy
     - Socrates, Plato, Xenophon, and Aristotle
     - Epicurean and Stoic post-polis transformation
   remaining:
-    - Peloponnesian War, oligarchic revolution, restoration, and amnesty
     - Spartan and Theban hegemonies and the King's Peace
     - Macedonian and early Hellenistic political transformation
     - integrated account of women, slaves, metics, dependents, and subject allies

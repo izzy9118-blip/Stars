@@ -166,6 +166,15 @@ completed_bodies:
       collection, differentiated allied regulation at Erythrae, Chalcis, and
       Methone, cleruchic settlement, and the inseparable realities of citizen
       participation and subject-city dependence
+    - >-
+      the Peloponnesian War as a test of regime and judgment, including
+      Periclean leadership and the partial character of political speech,
+      plague and the temporal foundations of law, Mytilene and democratic
+      reconsideration, Corcyra and the destruction of civic language in
+      stasis, Melos and imperial necessity, the Sicilian expedition and the
+      division of public from private ambition, the Four Hundred and the Five
+      Thousand, democratic restoration, Arginusae, Aegospotami, the Thirty,
+      reconciliation, amnesty, and republication of law
   inquiry_and_sophistry:
     - Anaximander
     - Pythagoras and the occult structure of initiation
@@ -204,13 +213,6 @@ supersession_rules:
     because the political chronology has not yet reached them.
 
 open_historical_bodies:
-  - id: PELOPONNESIAN-WAR
-    title: War, Plague, Stasis, Oligarchic Revolution, and Restoration
-    required_elements:
-      - Periclean leadership and Thucydidean speech
-      - plague and the temporal foundations of law
-      - Mytilene, Melos, Sicily, and Corcyra
-      - the Four Hundred, the Thirty, democratic return, and amnesty
   - id: HEGEMONIES
     title: Spartan and Theban Hegemonies
     required_elements:
