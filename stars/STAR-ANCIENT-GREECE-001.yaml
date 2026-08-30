@@ -184,6 +184,16 @@ completed_bodies:
       invasion of Laconia, Messenian restoration, Theban-Persian diplomacy,
       contested federal orders, and Mantinea's failure to produce a stable
       hegemonic settlement
+    - >-
+      Philip, Alexander, and the transformation of the polis, including
+      Macedonian kingship and its relation to the army, Isocrates' case for a
+      ruler standing beyond any single polis, the opposed judgments of
+      Demosthenes and Aeschines, Chaeronea, the League of Corinth, Thebes,
+      royal liberation and regulation of the Asian Greek cities, Chios and
+      Priene, the end of the limited Panhellenic war, Egypt and universal
+      monarchy, proskynesis, Opis, the Exiles Decree and Tegean settlement,
+      imperial succession, the Lamian War, Antipater's separate peaces, and
+      civic continuity beneath monarchical supremacy
   inquiry_and_sophistry:
     - Anaximander
     - Pythagoras and the occult structure of initiation
@@ -222,13 +232,6 @@ supersession_rules:
     because the political chronology has not yet reached them.
 
 open_historical_bodies:
-  - id: MACEDONIAN-TRANSFORMATION
-    title: Philip, Alexander, and the Transformation of the Polis
-    required_elements:
-      - Macedonian kingship and institutions
-      - Philip's reordering of the Greek field
-      - Alexander and world empire
-      - civic continuity beneath monarchical supremacy
   - id: EXCLUDED-FOUNDATION
     title: The Excluded Foundation of Citizen Freedom
     required_elements:
