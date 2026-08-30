@@ -173,4 +173,3 @@ Epicurean freedom begins by dissolving fear of gods and death, limiting desire, 
 Stoic freedom begins from the rational capacity to assent or refuse assent to appearances. External status, wealth, office, exile, and bodily vulnerability cannot enslave the governing faculty unless it surrenders its judgment. Yet Stoicism does not simply withdraw. Providence, natural duty, role, and the kinship of rational beings expand the political horizon toward a universal community.
 
 The Epicurean and Stoic answers remain opposed. One limits political attachment and denies providential governance; the other finds obligation within a providential whole and transforms citizenship into cosmopolitan duty. Both answer the same historical change: the good life must be made intelligible when the polis survives but no longer governs the world in which its citizens act.
-
