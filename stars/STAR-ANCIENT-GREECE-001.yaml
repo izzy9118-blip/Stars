@@ -194,6 +194,15 @@ completed_bodies:
       monarchy, proskynesis, Opis, the Exiles Decree and Tegean settlement,
       imperial succession, the Lamian War, Antipater's separate peaces, and
       civic continuity beneath monarchical supremacy
+    - >-
+      the excluded foundation of citizen freedom, preserving the differences
+      among women's household, ritual, proprietary, and lineage positions;
+      chattel slavery, debt bondage, public slavery, helotage, penestai, and
+      perioikoi; metics and resident foreigners; free citizen laborers and
+      mechanics; conquered populations; and the citizens of subject allied
+      poleis, while showing how household labor, productive dependency,
+      mining, tribute, and conquest sustained bounded civic freedom and how
+      law, drama, history, and philosophy exposed its internal difficulties
   inquiry_and_sophistry:
     - Anaximander
     - Pythagoras and the occult structure of initiation
@@ -231,15 +240,7 @@ supersession_rules:
     transformation are complete research bodies and are not reopened merely
     because the political chronology has not yet reached them.
 
-open_historical_bodies:
-  - id: EXCLUDED-FOUNDATION
-    title: The Excluded Foundation of Citizen Freedom
-    required_elements:
-      - women
-      - slaves and helots
-      - metics and resident foreigners
-      - dependent laborers
-      - conquered populations and subject allies
+open_historical_bodies: []
 
 governing_questions:
   - How did divine and ancestral order become the order of the polis?
@@ -254,12 +255,13 @@ governing_questions:
   - What survived of the polis after its political independence was lost?
 
 completion_gate:
-  state: NOT_SATISFIED
-  requirements:
+  state: READY_FOR_REVIEW
+  satisfied:
     - complete every open historical body
     - place the operational inscriptions inside the relevant historical sections
     - preserve the ancient disagreements and the differences of genre
     - make exclusion and dependency explicit beneath citizen freedom
     - integrate the completed and historical bodies into one civilizational synthesis
     - audit against reducing Greece to Athens, democracy, philosophy, or warfare
+  pending:
     - review and certify the complete narrative and structured record
