@@ -1,25 +1,39 @@
 star_id: STAR-ANCIENT-GREECE-001
 name: Ancient Greece
-status: DRAFT
+status: FACT
 
 fact: >-
   Ancient Greece joined household, cult, sacred place, inherited law, public
   speech, military formation, citizenship, and competition within the polis,
   a self-governing community whose regime ordered rulers and ruled toward an
-  authoritative way of life. Greek freedom meant both the independence of a
-  city and participation by its citizens in a shared order, while remaining
-  inseparable from exclusions, slavery, dependent labor, subject allies, and
-  recurrent struggles for hegemony. Poetry allowed the city to remember and
-  examine the divine, heroic, and political worlds that formed it; inquiry
-  into nature discovered a standard not created by ancestral convention;
+  authoritative way of life. The poleis formed a civilization through common
+  gods, language, poetry, sanctuaries, festivals, contests, kinship claims,
+  colonization, and inquiry without becoming one sovereign Greece. Greek
+  freedom meant both the independence of a city and participation by its
+  citizens in a shared order, while remaining inseparable from exclusions,
+  slavery, dependent labor, subject allies, and recurrent struggles for
+  hegemony. Poetry allowed the city to remember and examine the divine, heroic,
+  and political worlds that formed it; tragedy made law, household, divine
+  necessity, and civic judgment answer to actions no speaker fully controlled;
+  comedy made war, democracy, empire, education, sex, property, poetry, and
+  philosophy answer to the regimes produced by their victorious wishes;
+  inquiry into nature discovered a standard not created by ancestral
+  convention; Greek number joined
+  determinate things, cosmic order, musical harmony, intelligible form, and
+  political measure without yet becoming the abstract symbolic instrument of
+  modern mathematics;
   sophistry disclosed speech as a power capable of constituting or dissolving
   civic opinion; and Socratic philosophy brought the question of nature into
   the city by examining the souls, speeches, regimes, and claims about justice
   through which human beings act. The polis gave philosophy its political
   setting without becoming philosophy's final measure. Macedonian monarchy
-  later subordinated the inter-polis order without erasing civic institutions,
-  and Epicurean and Stoic philosophy developed rival accounts of freedom for a
-  world in which the polis survived without remaining politically sovereign.
+  later subordinated the inter-polis order without erasing civic institutions;
+  successor kingdoms joined royal liberation, benefaction, and garrison to
+  negotiated civic autonomy; federal leagues attempted to make many poleis act
+  as one; and Rome finally subjected that federal order in 146 BCE. Epicurean
+  and Stoic philosophy developed opposed accounts of nature, justice, duty, and
+  freedom for a world in which the polis survived without remaining politically
+  sovereign.
 
 scope:
   subject: >-
@@ -30,13 +44,20 @@ scope:
     Macedonian and Hellenistic transformation of the inter-polis world.
   period: >-
     The civilization's remembered heroic and divine beginnings through the
-    Hellenistic transformation. No modern chronology is imposed upon the
-    sacred and mythic beginnings described by the ancient witnesses.
+    destruction of Corinth and Roman constitutional settlement of Greece in
+    146 BCE. The Greek philosophical afterlives of Epicureanism and Stoicism
+    are followed through Lucretius, Epictetus, and Marcus Aurelius under Roman
+    rule without extending the political endpoint. No modern chronology is
+    imposed upon the sacred and mythic beginnings described by the ancient
+    witnesses.
   geography:
-    - the Aegean and mainland Greek worlds
-    - the islands, coastal settlements, colonies, and sanctuaries of the wider Mediterranean and Black Sea
-    - Sparta, Athens, Thebes, Corinth, Argos, and the other autonomous poleis
+    - the Aegean and mainland Greek worlds, including the distinct Ionian cities
+    - Crete and the islands as plural civic and sacred orders rather than peripheral extensions of Athens
+    - Magna Graecia, Sicily, and the colonies and settlements of the wider Mediterranean and Black Sea
+    - Sparta, Athens, Thebes, Corinth, Argos, Syracuse, and the other autonomous poleis
+    - Olympia, Delphi, Nemea, the Isthmus, Delos, and the Panionium as inter-polis sacred centers without sovereignty over the cities
     - Macedonia and the Hellenistic kingdoms insofar as they transform the polis
+    - Rome insofar as its intervention terminates the independent Greek contest among polis, federation, and monarchy
   narrative_companion: narratives/STAR-ANCIENT-GREECE-001.md
   source_manifest: sources/primary/ancient/greece/manifest.yaml
 
@@ -45,7 +66,9 @@ shape:
   center: >-
     The polis joins gods, households, territory, law, office, citizenship,
     education, military service, public speech, property, honor, and judgment
-    into a regime and way of life.
+    into a regime and way of life, while inter-polis cult, colonization,
+    competition, diplomacy, and inquiry create a common Greek world that no
+    polis contains.
   freedom: >-
     Greek freedom includes both the autonomy of a polis and the political
     standing of citizens within it; neither meaning extends automatically to
@@ -54,13 +77,31 @@ shape:
     Inquiry into nature and the good arises within the Greek city while
     becoming capable of judging the regime and ancestral law by a standard the
     city did not create.
+  dramatic_examination: >-
+    Tragedy places inherited stories, civic laws, household claims, sacred
+    limits, and human choices inside actions whose reversals exceed every
+    speaker's doctrine. Comedy releases an impossible remedy into a recognizable
+    civic grievance and judges the temporary regime produced when that remedy
+    succeeds. Neither genre becomes an official verdict of the polis.
+  number_and_measure: >-
+    Arithmos begins as a determinate multitude of determinate things;
+    Pythagorean inquiry joins count, ratio, harmony, initiation, and cosmic
+    order; Plato separates mathematical units from sensible things and turns
+    mathematics toward intelligible being; Aristotle denies separate being to
+    number; and the Laws makes numerical divisibility an architecture of
+    households, cult, taxation, office, and defense.
   account_of_power: >-
     Power has no single Greek substance. It acts through household authority,
     sacred jurisdiction, law, office, speech, education, wealth, military
     formation, empire, knowledge, and the ordering end of a regime.
   terminal_transformation: >-
     Macedonian kingship subordinates the inter-polis order without abolishing
-    the civic forms, cults, laws, and identities of the poleis.
+    the civic forms, cults, laws, and identities of the poleis; successor
+    kingdoms make autonomy a negotiated relation among city, benefactor,
+    garrison, and king; Achaean and Aetolian federation enlarge common action
+    without dissolving the member poleis; and Rome's destruction of Corinth and
+    settlement of Greece in 146 BCE terminate the independent Greek contest
+    among city, league, and monarchy without terminating the polis itself.
 
 witness_architecture:
   governing_rule: >-
@@ -105,14 +146,19 @@ witness_architecture:
       - Arrian
       - Diodorus
       - Plutarch
+      - Polybius
     philosophy:
-      - the Presocratic fragments and testimonia
-      - the sophistic fragments and Platonic presentations
+      - the extant Presocratic fragments and ancient testimonia identified by thinker
+      - the sophistic fragments and testimonia identified by thinker
+      - Platonic dramatic presentations, distinguished from historical testimony
       - Plato
       - Xenophon
       - Aristotle
       - Epicurus
-      - the early Stoics and later ancient Stoic witnesses
+      - Cleanthes' Hymn to Zeus
+      - Lucretius
+      - Epictetus
+      - Marcus Aurelius
   second_interpretive_level:
     - Leo Strauss
     - Jacob Klein
@@ -131,6 +177,901 @@ witness_architecture:
       - Josiah Ober, The Athenian Revolution
     comparison_registered_through_an_examined_source:
       - Mogens Herman Hansen through Josiah Ober's direct engagement with his institutional account
+
+authority_registry:
+  state: OPERATIVE_WITH_EXPLICIT_EDITIONAL_LIMITS
+  acquisition_record:
+    path: sources/primary/ancient/greece/manifest.yaml
+    role: NON_GOVERNING_ACQUISITION_RECORD
+    constraint: >-
+      The synchronized acquisition record remains read-only. Its entries govern
+      only where they agree with the corrections and exact-work allowlists below.
+  corrections:
+    - recorded_entry: /Users/onepiece/Downloads/ancient greece/early greek philosophy.pdf
+      corrected_title: Early Greek Philosophy VIII, Sophists, Part 1
+      corrected_witness_class: SOPHISTIC_FRAGMENTS_AND_TESTIMONIA
+      represented_figures:
+        - Protagoras
+        - Gorgias
+        - Socrates
+        - Prodicus
+        - Thrasymachus
+        - Hippias
+      exclusion: NOT_A_PRESOCRATIC_CORPUS
+    - recorded_entry: /Users/onepiece/Downloads/leostrauss/Courses
+      corrected_witness_class: NON_GOVERNING_DIRECTORY_ROOT
+      exclusion: >-
+        The directory contains seminars on modern thinkers and other works that
+        do not possess authority for Ancient Greece merely by sharing the root.
+    - recorded_entry: /Users/onepiece/Downloads/leostrauss/books
+      corrected_witness_class: NON_GOVERNING_DIRECTORY_ROOT
+      exclusion: >-
+        Thoughts on Machiavelli is outside the Greek authority corpus; Socrates
+        and Aristophanes enters the corpus only through the exact-work allowlist.
+    - recorded_entry: >-
+        /Users/onepiece/Downloads/the-stoic-and-epicurean-philosophers-the-complete-extant-writing-of-epicurus-epictetus-lucretius-amp-marcus-aurelius.djvu
+      corrected_witness_class: EPICUREAN_AND_LATER_STOIC_COLLECTION
+      represented_extent:
+        - Epicurus
+        - Lucretius
+        - Cleanthes' Hymn to Zeus
+        - Epictetus
+        - Marcus Aurelius
+      exclusion: NOT_A_COMPLETE_EARLY_STOIC_FRAGMENT_CORPUS
+      layer_constraint: >-
+        Epicurus governs the Epicurean account; Lucretius is identified as a
+        later Roman Epicurean development; Cleanthes' Hymn governs only the
+        early Stoic claims it actually states; Epictetus and Marcus Aurelius are
+        identified as later Roman Stoic developments and are not projected back
+        as complete evidence for Zeno or Chrysippus.
+  geographic_primary_witnesses:
+    - title: The Histories
+      author: Herodotus
+      path: /Users/onepiece/Downloads/pdfcoffee.com_the-histories-pdf-free.pdf
+      witness_class: ANCIENT_HISTORICAL_AND_ETHNOGRAPHIC_INQUIRY
+      represented_extent:
+        - the Ionian cities, dialects, Panionium, and mixed settlement histories
+        - Lydian and Persian subjection, the proposals of Bias and Thales, and the Ionian Revolt
+        - Milesian civil war and Parian arbitration
+        - Corinthian tyranny and Argive disagreement over the Persian War
+        - Gela, Syracuse, Gelon, forced population transfer, and the disputed command of Greece
+      voice_constraint: >-
+        Herodotus preserves named and conflicting accounts without making every
+        reported accusation his own; his refusal to decide the charge of Argive
+        collusion remains part of the evidence.
+    - title: The History of the Peloponnesian War
+      author: Thucydides
+      path: /Users/onepiece/Downloads/440633131-The-History-of-the-Peloponnesian-War-pdf.pdf
+      witness_class: ANCIENT_HISTORICAL_AND_POLITICAL_INQUIRY
+      represented_extent:
+        - migration, settlement, colonization, wealth, and the growth of navies
+        - Corinth's Isthmian position, commerce, shipbuilding, and colonial reach
+        - Epidamnus, Corcyra, Corinth, mother-city claims, colonial equality, and the approach to war
+      extent_constraint: >-
+        This volume contains Books I-IV and does not govern events preserved
+        only in the later books.
+    - title: Diodorus of Sicily, Volume V
+      path: /Users/onepiece/Downloads/ancient greece/Diodorus of Sicily Vol.5 .pdf
+      witness_class: ANCIENT_HISTORICAL_NARRATIVE
+      represented_extent:
+        - Books XII.41-XIII
+        - Egesta, Selinus, Syracuse, and the Athenian expedition in Sicily
+        - Syracusan assembly, captive judgment, lawgiving, and allied resistance
+        - the rise of Dionysius from elected command to tyranny
+    - title: Diodorus of Sicily, Volume VI
+      path: /Users/onepiece/Downloads/ancient greece/Diodorus of Sicily Vol.6 .pdf
+      witness_class: ANCIENT_HISTORICAL_NARRATIVE
+      represented_extent:
+        - Books XIV-XV.19
+        - Dionysius' fortification, mercenaries, population movements, and wars
+        - the distinct claims of Syracusans, Sicels, western Greek cities, and Carthage
+      voice_constraint: >-
+        Diodorus' narrative governs the events and judgments it preserves
+        without converting Dionysius' claims to liberate Greek cities into a
+        neutral description of his rule.
+  hellenistic_primary_witnesses:
+    - title: Diodorus of Sicily, Volume IX
+      path: /Users/onepiece/Downloads/ancient greece/Diodorus of Sicily Vol.9 .pdf
+      witness_class: ANCIENT_HISTORICAL_NARRATIVE
+      represented_extent:
+        - Book XVIII on Alexander's succession and the division of satrapies
+        - the Lamian War, Macedonian garrisons, and the separate settlements imposed by Antipater
+    - title: Diodorus of Sicily, Volume X
+      path: /Users/onepiece/Downloads/ancient greece/Diodorus of Sicily Vol.10 .pdf
+      witness_class: ANCIENT_HISTORICAL_NARRATIVE
+      represented_extent:
+        - Books XIX-XX on successor warfare
+        - Antigonid and Demetrian proclamations of Greek freedom
+        - Sicyon, Corinth, civic restoration, royal benefaction, honors, and garrisons
+    - title: The Histories of Polybius
+      path: /Users/onepiece/Downloads/Polybius_Shuckburgh_1889.pdf
+      witness_class: ANCIENT_HISTORICAL_AND_POLITICAL_NARRATIVE
+      represented_extent:
+        - the Achaean League's common laws, magistrates, measures, and federal equality
+        - Achaean relations with Sparta, Macedonia, the Hellenistic kings, and Rome
+        - the Roman proclamation of Greek freedom in 196 BCE
+        - the Achaean War, fall of Corinth, and Roman settlement in 146 BCE
+      voice_constraint: >-
+        Polybius governs what he witnessed and the political judgments he makes,
+        but his hostility to Critolaus and Diaeus remains his judgment rather
+        than a neutral name for the federal claim at stake.
+    - title: The Stoic and Epicurean Philosophers
+      path: >-
+        /Users/onepiece/Downloads/the-stoic-and-epicurean-philosophers-the-complete-extant-writing-of-epicurus-epictetus-lucretius-amp-marcus-aurelius.djvu
+      witness_class: EPICUREAN_AND_LAYERED_STOIC_PRIMARY_COLLECTION
+      represented_extent:
+        - Epicurus' letters, Principal Doctrines, Vatican sayings, fragments, will, and ancient life
+        - Lucretius, On the Nature of Things
+        - Cleanthes' Hymn to Zeus
+        - Epictetus, Discourses and Manual
+        - Marcus Aurelius, Meditations
+      constraint: >-
+        The collection supplies a complete extant Epicurean body and selected
+        Stoic witnesses at different dates; it does not supply a complete early
+        Stoic fragment corpus.
+  religious_primary_witnesses:
+    - title: Homeric Hymns
+      path: /Users/onepiece/Downloads/ancient greece/hesiod homeric hymns.pdf
+      witness_class: ARCHAIC_HYMNIC_POETRY
+    - title: Complete Works of Plato
+      path: /Users/onepiece/Downloads/ancient greece/Complete-Works-of-Plato.pdf
+      witness_class: PLATONIC_DRAMATIC_AND_LEGISLATIVE_PRESENTATION
+      represented_extent:
+        - Laws on household shrines, ritual authorization, and sacred regulation
+        - Republic on the civic reception of Bendis
+    - title: Aristophanes, Volumes I-II
+      paths:
+        - /Users/onepiece/Downloads/ancient greece/Aristophanes vol1.pdf
+        - /Users/onepiece/Downloads/ancient greece/Aristophanes vol2.pdf
+      witness_class: COMIC_PRESENTATION_OF_CIVIC_AND_NONCIVIC_RITUAL
+    - title: Greek Historical Inscriptions, Volumes I-II
+      paths:
+        - /Users/onepiece/Downloads/ancient greece/P-J-Rhodes-Robin-Osborne-ed-Greek-Historical-Inscription vol1pdf.pdf
+        - /Users/onepiece/Downloads/ancient greece/P-J-Rhodes-Robin-Osborne-ed-Greek-Historical-Inscription vol2pdf.pdf
+      witness_class: ANCIENT_EPIGRAPHIC_TEXTS_WITH_MODERN_EDITION_AND_COMMENTARY
+      represented_extent:
+        - public curses at Teos and Abdera
+        - sacrificial calendars and sanctuary regulations
+        - the Labyadai and other kin or cult bodies
+        - foreign merchants and sanctuary foundations
+        - Cyrenaean purity regulations
+        - Epidaurian healing inscriptions
+        - the civil laws of Gortyn on status, oath, judgment, slavery, marriage, property, and inheritance
+        - the relations among Argos, Cnossus, and Tylissus through sacrifice, treaty, and military obligation
+      constraint: >-
+        The translated ancient inscriptions govern the practices they record;
+        editorial reconstructions and commentary remain bounded textual controls.
+    - title: Xenophon, Anabasis
+      path: /Users/onepiece/Downloads/ancient iran/greek texts/xenophon anabasis.pdf
+      witness_class: ANCIENT_NARRATIVE_OF_MILITARY_DIVINATION_AND_RITUAL_EXPERTISE
+  religious_modern_controls:
+    - title: Greek Religion
+      author: Walter Burkert
+      path: /Users/onepiece/Downloads/ancient greece/Burkert-Greek-Religion.pdf
+      constraint: >-
+        Used to identify ritual structures and evidentiary relations; its
+        reconstruction does not supersede ancient poetry, regulation,
+        inscription, drama, history, or philosophy.
+    - title: The Oxford Handbook of Ancient Greek Religion
+      path: /Users/onepiece/Downloads/ancient greece/-oxford-handbook-of-ancient-greek-religion.pdf
+      constraint: >-
+        Used as a bounded control for households, women, associations,
+        expertise, mobility, prayer, curse, divination, healing, and regional
+        networks; chapter authors do not acquire governing authority.
+  comic_primary_witnesses:
+    - title: Aristophanes, Volumes I-II
+      paths:
+        - /Users/onepiece/Downloads/ancient greece/Aristophanes vol1.pdf
+        - /Users/onepiece/Downloads/ancient greece/Aristophanes vol2.pdf
+      represented_extent:
+        - Acharnians
+        - Knights
+        - Clouds
+        - Wasps
+        - Peace
+        - Birds
+        - Lysistrata
+        - Thesmophoriazusae
+        - Frogs
+        - Assemblywomen
+        - Plutus
+      witness_class: COMPLETE_SURVIVING_ARISTOPHANIC_COMEDY_IN_TRANSLATION
+      constraint: >-
+        Each play governs through its own action, chorus, parabasis, divine and
+        civic setting, impossible conceit, and ending. The translator's
+        introductions and notes remain textual aids rather than ancient
+        witnesses; the surviving revised Clouds is not treated as a transparent
+        transcript of its first performance or as an independent historical
+        biography of Socrates.
+  comic_second_level:
+    - title: Socrates and Aristophanes
+      author: Leo Strauss
+      path: /Users/onepiece/Downloads/leostrauss/books/Leo Strauss Socrates & Aristophanes.pdf
+      represented_extent:
+        - Clouds as the poetic presentation of the young or prepolitical Socrates
+        - the other ten surviving plays read as distinct comic examinations
+        - the concluding comparison of poetic prudence and Socratic philosophy
+      constraint: >-
+        Used to examine total comedy, impossible civic blessings, the relation
+        among family, city, gods, eros, poetry, and philosophy, and the
+        difference between a character's plan and the judgment disclosed by an
+        action. Strauss remains a bounded second level: conjectural political
+        correspondences, the identification of poetic spokesmen, and the
+        connected teaching he reconstructs do not replace the plurality or
+        direct action of the eleven ancient plays.
+  tragic_primary_witnesses:
+    - title: Aeschylus, Volume I
+      path: /Users/onepiece/Downloads/ancient greece/Aeschylus vol1.pdf
+      represented_extent:
+        - The Persians
+        - Seven Against Thebes
+        - Prometheus Bound
+        - Agamemnon
+        - The Libation Bearers
+        - The Eumenides
+    - title: Aeschylus, The Suppliant Maidens
+      path: /Users/onepiece/Downloads/ancient greece/Aeschylus-The-Suppliants.pdf
+      constraint: >-
+        The translated play governs; the translator's introduction remains a
+        second-level interpretation and evidence concerning the lost trilogy
+        is not silently attributed to the surviving play.
+    - title: Sophocles, Volumes I-II
+      paths:
+        - /Users/onepiece/Downloads/ancient greece/sophocles vol1.pdf
+        - /Users/onepiece/Downloads/ancient greece/sophocles vol2.pdf
+      represented_extent:
+        - Oedipus the King
+        - Oedipus at Colonus
+        - Antigone
+        - Ajax
+        - Electra
+        - Trachiniae
+        - Philoctetes
+    - title: Euripides, Volumes I-II
+      paths:
+        - /Users/onepiece/Downloads/ancient greece/euripides vol1.pdf
+        - /Users/onepiece/Downloads/ancient greece/euripides vol2.pdf
+      represented_extent:
+        - Hecuba
+        - Helen
+        - Electra
+        - Orestes
+        - Bacchae
+        - Medea
+        - Hippolytus
+        - The Suppliants
+    - title: Aristotle, Complete Works
+      path: /Users/onepiece/Downloads/ancient greece/Aristotle-The-Complete-Aristotle.pdf
+      represented_extent:
+        - Poetics on imitation, action, plot, character, reversal, recognition, error, pity, and fear
+      constraint: >-
+        Aristotle's philosophical account interprets the structure of tragedy
+        without replacing the distinct actions of the surviving plays.
+  tragic_second_level:
+    - title: On Greek Tragedy
+      author: Seth Benardete
+      path: /Users/onepiece/Downloads/seth benardete /Seth-Benardete-On-Greek-Tragedy.pdf
+      constraint: >-
+        Used to examine the frontier of law, juridical innocence, inward guilt,
+        the political good, and the relation between general speech and tragic
+        action; the ancient dramas retain governing authority.
+  presocratic_primary_witnesses:
+    - thinker: Anaximander
+      path: /Users/onepiece/Downloads/ancient greece/anaximander.pdf
+      witness_class: FRAGMENTS_AND_ANCIENT_TESTIMONIA
+    - thinker: Xenophanes
+      path: /Users/onepiece/Downloads/ancient greece/xenophanes.pdf
+      witness_class: FRAGMENTS_AND_ANCIENT_TESTIMONIA
+    - thinker: Heraclitus
+      path: /Users/onepiece/Downloads/ancient greece/Heraclitus - Fragments.pdf
+      witness_class: FRAGMENTS_AND_ANCIENT_TESTIMONIA
+    - thinker: Parmenides
+      path: /Users/onepiece/Downloads/ancient greece/parmenides.pdf
+      witness_class: POEM_FRAGMENTS_AND_ANCIENT_TESTIMONIA
+    - thinker: Empedocles
+      path: /Users/onepiece/Downloads/ancient greece/empedocles.pdf
+      witness_class: POEM_FRAGMENTS_AND_ANCIENT_TESTIMONIA
+  presocratic_textual_controls:
+    - thinker: Anaxagoras
+      path: /Users/onepiece/Downloads/ancient greece/the philosophy of anaxagoras.pdf
+      witness_class: MODERN_STUDY_TRANSMITTING_FRAGMENTS_AND_TESTIMONIA
+      constraint: >-
+        Ancient fragments and testimonia remain distinguishable from the
+        modern author's reconstruction.
+  identified_presocratic_authorities:
+    - thinker: Pythagoras
+      title: Early Greek Philosophy IV, Western Greek Thinkers, Part 1
+      editors: André Laks and Glenn W. Most
+      isbn: "9780674996922"
+      acquisition_status: IDENTIFIED_NOT_LOCALLY_ACQUIRED
+      witness_class: ANCIENT_FRAGMENTS_TESTIMONIA_AND_RECEPTION_IN_CHRONOLOGICAL_LAYERS
+      accessible_ancient_witnesses:
+        - title: Aristotle, Complete Works
+          path: /Users/onepiece/Downloads/ancient greece/Aristotle-The-Complete-Aristotle.pdf
+          represented_extent:
+            - Metaphysics A 5-6 and M-N on the Pythagoreans and number
+        - title: Iamblichus, Life of Pythagoras
+          url: https://www.gutenberg.org/cache/epub/63300/pg63300-images.html
+          witness_class: LATE_ANTIQUE_BIOGRAPHY_AND_PYTHAGOREAN_RECEPTION
+          chronology_constraint: >-
+            Iamblichus preserves late ancient reception and earlier material;
+            his reports do not become contemporary evidence for the founder.
+      represented_extent:
+        - Pythagoras
+        - the Pythagorean school
+        - Hippasus
+        - Philolaus
+        - Eurytus
+        - Archytas
+        - Hicetas
+        - Ecphantus
+      constraint: >-
+        No writing securely survives from Pythagoras. Early testimony,
+        Aristotle's retrospective account, later Pythagorean writings, and
+        Porphyrian or Iamblichean biography remain chronologically explicit;
+        mathematical, ritual, initiatory, occult, and political reports are
+        not silently fused into one doctrine of the founder.
+    - thinker: Democritus
+      title: Early Greek Philosophy VII, Later Ionian and Athenian Thinkers, Part 2
+      editors: André Laks and Glenn W. Most
+      isbn: "9780674997080"
+      acquisition_status: IDENTIFIED_NOT_LOCALLY_ACQUIRED
+      witness_class: ATOMIST_FRAGMENTS_ANCIENT_TESTIMONIA_AND_RECEPTION
+      accessible_ancient_witnesses:
+        - title: Aristotle, Complete Works
+          path: /Users/onepiece/Downloads/ancient greece/Aristotle-The-Complete-Aristotle.pdf
+          represented_extent:
+            - Metaphysics A 4 and On Generation and Corruption I.8 on the atomists
+        - title: Diogenes Laertius, Lives of Eminent Philosophers, Book IX
+          url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D9
+          witness_class: ANCIENT_BIOGRAPHY_TESTIMONIA_AND_PRESERVED_REPORTS
+        - title: Democritus, fragments in Source Book in Ancient Philosophy
+          url: https://en.wikisource.org/wiki/Source_Book_in_Ancient_Philosophy/Chapter_7
+          witness_class: PARTIAL_PUBLIC_DOMAIN_TRANSLATION_OF_TRANSMITTED_FRAGMENTS
+      constraint: >-
+        Leucippus and Democritus remain distinguishable wherever the ancient
+        transmission permits; physical, epistemological, and ethical material
+        is not reconstructed as a complete surviving Democritean system.
+  sophistic_primary_witnesses:
+    - title: Early Greek Philosophy VIII, Sophists, Part 1
+      path: /Users/onepiece/Downloads/ancient greece/early greek philosophy.pdf
+      witness_class: SOPHISTIC_FRAGMENTS_AND_ANCIENT_TESTIMONIA
+    - title: Complete Works of Plato
+      path: /Users/onepiece/Downloads/ancient greece/Complete-Works-of-Plato.pdf
+      witness_class: PLATONIC_DRAMATIC_PRESENTATION
+      constraint: >-
+        A speaker's Platonic presentation is not silently converted into an
+        independently established historical doctrine.
+  identified_sophistic_authorities:
+    - thinker: Antiphon
+      title: Early Greek Philosophy IX, Sophists, Part 2
+      editors: André Laks and Glenn W. Most
+      isbn: "9780674997103"
+      acquisition_status: IDENTIFIED_NOT_LOCALLY_ACQUIRED
+      witness_class: PAPYRUS_FRAGMENTS_AND_ANCIENT_TESTIMONIA
+      accessible_ancient_witnesses:
+        - title: P.Oxy. XI 1364, Antiphon, On Truth I
+          url: https://upload.wikimedia.org/wikipedia/commons/d/d6/The_Oxyrhynchus_papyri%2C_part_11._Bernard_Pyne_Grenfell%2C_Arthur_Surridge_Hunt._1915_%28IA_oxyrhynchuspapyr11gren%29.pdf
+          witness_class: PAPYRUS_IN_EDITIO_PRINCEPS_WITH_TRANSCRIPTION_AND_TRANSLATION
+        - title: P.Oxy. XV 1797, Antiphon, On Truth
+          url: https://upload.wikimedia.org/wikipedia/commons/1/13/The_Oxyrhynchus_papyri%2C_part_15._Bernard_Pyne_Grenfell%2C_Arthur_Surridge_Hunt._1922_%28IA_oxyrhynchuspapyr15gren%29.pdf
+          witness_class: PAPYRUS_IN_EDITIO_PRINCEPS_WITH_TRANSCRIPTION_AND_TRANSLATION
+      represented_extent:
+        - Antiphon
+        - Lycophron
+        - Xeniades
+        - the Anonymous of Iamblichus
+        - Dissoi Logoi
+      critical_text_control:
+        title: Antiphon the Sophist, The Fragments
+        editor: Gerard J. Pendrick
+        role: MODERN_TEXTUAL_ESTABLISHMENT_ONLY
+      identity_constraint: >-
+        The ancient and modern dispute over whether Antiphon the sophist and
+        Antiphon the orator were one person remains open; the papyrus
+        fragments of On Truth govern the argument attributed to that work.
+    - thinker: Critias
+      witness_class: DISPERSED_POETIC_CONSTITUTIONAL_HISTORICAL_AND_DRAMATIC_EVIDENCE
+      acquisition_status: EXACT_WITNESS_SET_IDENTIFIED
+      textual_controls:
+        - Diels-Kranz 88 for the collected testimonia and fragments
+        - Tragicorum Graecorum Fragmenta 43 for the dramatic fragments
+      political_witnesses:
+        - Xenophon, Hellenica 2.3-4
+        - Xenophon, Memorabilia 1.2
+        - Aristotle, Constitution of the Athenians 34-40
+      platonic_dramatic_witnesses:
+        - Charmides
+        - Protagoras
+        - Timaeus
+        - Critias
+      genre_constraint: >-
+        Critias's securely assigned poetic and constitutional fragments,
+        historical political conduct, and appearances as a Platonic character
+        remain distinct bodies of evidence.
+      attribution_constraint: >-
+        Sextus Empiricus, Against the Physicists 1.54, assigns the preserved
+        Sisyphus speech to Critias; Aëtius, preserved in Pseudo-Plutarch,
+        Placita 1.7.2, assigns it to Euripides. Authorship remains unresolved,
+        and a dramatic speaker's
+        argument does not establish the personal theology of either possible
+        author.
+  sophistic_genre_control:
+    rule: >-
+      A securely transmitted fragment or report about a historical sophist is
+      not interchangeable with a speech Plato gives a character bearing that
+      sophist's name. Platonic presentations govern the arguments and actions
+      of their dialogues; fragments and testimonia govern independent
+      historical attribution.
+  socratic_primary_witnesses:
+    - title: Complete Works of Plato
+      path: /Users/onepiece/Downloads/ancient greece/Complete-Works-of-Plato.pdf
+      represented_extent:
+        - Apology
+        - Crito
+        - Gorgias
+        - Meno
+        - Symposium
+        - Phaedrus
+        - Theaetetus
+        - Sophist
+        - Statesman
+        - Republic
+      witness_class: PLATONIC_DRAMATIC_PRESENTATION_OF_SOCRATES
+      constraint: >-
+        The public defense, prison dialogue, successive examinations of
+        Gorgias, Polus, and Callicles, and the inquiry with Meno, his household
+        slave, and Anytus, together with the Symposium's layered report,
+        speeches, interruptions, omitted recollections, Diotima's instruction,
+        Alcibiades' entrance and testimony, and the final disorder, and the
+        Phaedrus's movement outside the walls through the written speech, the
+        two Socratic speeches, divine sign, palinode, soul image, rhetoric,
+        Egyptian account of writing, return to the speechwriters, and prayer to
+        Pan, and the connected movement from the Theaetetus's later frame and
+        Socratic midwifery through the Eleatic Stranger's examinations of the
+        sophist and statesman immediately before Socrates' trial, govern as
+        dramatic wholes; no isolated speech, myth, division, or statement by
+        the Stranger is converted into an unconditional Platonic doctrine.
+    - title: The Laws of Plato
+      translator: Thomas L. Pangle
+      path: /Users/onepiece/Downloads/ancient iran/greek texts/Plato's Laws .pdf
+      represented_extent:
+        - Laws, Books I-XII
+      witness_class: PLATONIC_DRAMATIC_PRESENTATION_WITH_MODERN_TRANSLATION
+      constraint: >-
+        The ancient conversation among the Athenian Stranger, Kleinias, and
+        Megillus governs as a dramatic whole from the walk toward the cave of
+        Zeus through the proposed Nocturnal Council. The translator's
+        interpretive essay, notes, and apparatus remain modern second-level
+        material and are not silently presented as Plato's speech.
+    - title: Memorabilia, Oeconomicus, Symposium, and Defence of Socrates
+      path: /Users/onepiece/Downloads/ancient greece/Xenophon Memorabilia, Oeconomicus, Symosium.pdf
+      represented_extent:
+        - Defence of Socrates
+      witness_class: XENOPHONTIC_PRESENTATION_OF_SOCRATES
+      constraint: >-
+        Xenophon's account through Hermogenes remains an ancient witness with
+        its own explanation of Socrates' bearing and is not subordinated to or
+        silently harmonized with Plato's account.
+  socratic_second_level:
+    - title: Plato's Apology and Crito seminar, 1966
+      author: Leo Strauss
+      path: /Users/onepiece/Downloads/leostrauss/Courses/Plato's Apology & Crito (1966)_0.pdf
+      constraint: >-
+        Used to examine the distinction between speech and deed, the addressee
+        of the Laws' speech, the limits of tacit agreement, and the tension
+        between obeying the god and obeying the city; the ancient dramatic
+        witnesses retain governing authority.
+    - title: Plato's Gorgias seminar, 1957
+      author: Leo Strauss
+      path: /Users/onepiece/Downloads/leostrauss/Courses/Plato's Gorgias 1957.pdf
+      constraint: >-
+        Used to examine rhetoric's necessity, the increasing movement through
+        Gorgias, Polus, and Callicles, the distinction between the good and the
+        pleasant, punitive or noble rhetoric, and the judgment account as a
+        rhetorical deed; Plato's dialogue retains governing authority.
+    - title: Plato's Gorgias seminar, 1963
+      author: Leo Strauss
+      path: /Users/onepiece/Downloads/leostrauss/Courses/Plato's Gorgias 1963_0.pdf
+      constraint: >-
+        Used to examine Socratic rhetoric in its success with Polus and failure
+        with Callicles, the limits of persuasion, the problem of true political
+        art, regime assimilation, and the mythic capstone; the later seminar's
+        revisions remain visible and do not replace the ancient action.
+    - title: Plato's Meno seminar, 1966
+      author: Leo Strauss
+      path: /Users/onepiece/Downloads/leostrauss/Courses/Meno-1966.1-2.pdf
+      constraint: >-
+        Used to examine the compulsory character and political action of the
+        dialogue, Meno's relation to Gorgias and Protagoras, the slave scene as
+        teaching, the movement from reputed knowledge to doubt, the difference
+        between prudence and knowledge, right opinion, divine allotment, and
+        the qualified criticism of treating Meno as incapable of every change;
+        Plato's dialogue retains governing authority.
+    - title: A Commentary on Plato's Meno
+      author: Jacob Klein
+      path: /Users/onepiece/Downloads/jacob klein/A Commentary on Plato's Meno - Jacob Klein.pdf
+      constraint: >-
+        Used to examine the dialogue as a dramatic whole, Meno's dependence on
+        memory and received opinion, the distinction between teaching and
+        pouring answers into a pupil, recollection, hypothesis, right opinion,
+        and the comedy of freedom without self-rule; Klein's characterization
+        of Meno is retained as an interpretation rather than substituted for
+        Plato's dramatic evidence.
+    - title: Leo Strauss on Plato's Symposium
+      author: Leo Strauss
+      editor: Seth Benardete
+      path: /Users/onepiece/Downloads/leostrauss/Courses/Platos symposium.pdf
+      constraint: >-
+        Used to examine the political setting, the contest between poetry and
+        philosophy, the subordination or sovereignty claimed for eros in the
+        successive speeches, the relation of law and technical art to desire,
+        Diotima's movement from opinion and lack through generation to the
+        beautiful, Alcibiades as the test of Socratic education, and Strauss's
+        terminal comparison in which the Symposium's depreciation of eros
+        opens into the Phaedrus's praise, persuasion, writing, and prayer to
+        Pan; Plato's dialogues retain governing authority, the comparison does
+        not substitute for a dedicated Phaedrus seminar, and Benardete's
+        editorial framing does not become an independent ancient witness.
+    - title: The Being of the Beautiful
+      author: Seth Benardete
+      path: /Users/onepiece/Downloads/seth benardete /the-being-of-the-beautiful-platos-theaetetus-sophist-and-statesman.pdf
+      represented_extent:
+        - translations of Theaetetus, Sophist, and Statesman
+        - introduction and three commentaries
+      constraint: >-
+        The translations are distinguished from Benardete's commentary and
+        used to verify the trilogy's ancient speech, while his interpretation
+        is used at the second level to examine the beautiful, the trial-and-
+        death sequence, the dual character of logos as communion and division,
+        sameness and otherness, the insufficiency of political weaving, and
+        the return to Socratic dialectic; neither level replaces the dramatic
+        action of the three dialogues.
+    - title: Plato's Trilogy
+      author: Jacob Klein
+      path: /Users/onepiece/Downloads/jacob klein/Platos Trilogy Jacob Klein.pdf
+      constraint: >-
+        Used to examine the two-day dramatic continuity, the movement from the
+        Sophist's same and other through the failed definitions of knowledge
+        to the Statesman's measure, law, and weaving, and the possibility that
+        the true statesman's knowledge cannot be separated from philosophy;
+        Klein's conclusion that the apparent triad contracts to two remains an
+        interpretation rather than an unwritten Platonic doctrine.
+    - title: Socrates' Second Sailing
+      author: Seth Benardete
+      path: /Users/onepiece/Downloads/seth benardete /Seth-Benardete-Socrates-Second-Sailing-On-Plato-s-Republic.pdf
+      constraint: >-
+        Used to examine the Republic as an eidetic inquiry into the beautiful,
+        the good, and the just; the opening compromise between force and
+        persuasion; the breaks and joins between argument and action; and the
+        terminal problem of choice, habit, and responsibility in the myth of
+        Er. Benardete's reading remains a second-level interpretation and does
+        not turn the city in speech into Plato's unqualified doctrine.
+    - title: Plato's Republic seminar, 1957
+      author: Leo Strauss
+      path: /Users/onepiece/Downloads/leostrauss/Courses/Platos_Republic_1957.pdf
+      constraint: >-
+        Used to examine the relation between political and philosophic
+        impossibility, the conflict and mutual dependence of philosophy and
+        the polis, the compulsory descent of the philosopher, justice within
+        the soul, poetry, and the indirect political responsibility of
+        philosophy; the seminar's explicitly provisional formulations remain
+        dated and distinct.
+    - title: Plato's Republic seminar, 1961
+      author: Leo Strauss
+      path: /Users/onepiece/Downloads/leostrauss/Courses/Platos-Republic-1961.1.pdf
+      constraint: >-
+        Used to examine the Republic as a narrated drama, the dependence of
+        speeches upon deeds and addressees, the noble falsehood, the city-soul
+        analogy, the images of the Good, the late acknowledgment that soul has
+        not been adequately known, and the refusal to convert Socrates into an
+        automatic Platonic spokesman; it does not erase the 1957 seminar.
+    - title: Plato's Laws seminar, 1959
+      author: Leo Strauss
+      path: /Users/onepiece/Downloads/leostrauss/Courses/Plato-Laws-1959.1.pdf
+      constraint: >-
+        Used to examine the relation of the Minos and Laws, the divine and
+        rational authority of law, complete virtue, the second-best regime,
+        legal preambles, punishment, theology, and the philosophical problem
+        concealed within the regime of law; the ancient dialogue retains
+        governing authority.
+    - title: Plato's Laws seminar, 1971-72
+      author: Leo Strauss
+      path: /Users/onepiece/Downloads/leostrauss/Courses/Plato-Laws-1971-72.1-1.pdf
+      constraint: >-
+        Used to examine the walk toward Zeus, political history preceding the
+        proposed city, the young tyrant and favorable occasion, the free and
+        slave physicians, the Republic's first model and Magnesia's second
+        best, household and property, the movement from virtue toward
+        intelligence and the gods, and the Nocturnal Council; later emphasis
+        remains visible without being manufactured into a doctrinal revision.
+  socratic_second_level_disagreement:
+    subject: MENO_CAPACITY_FOR_LEARNING_AND_CHANGE
+    klein_position: >-
+      Meno's refusal to return to the question of what virtue is confirms his
+      radical dependence on memory, his amathia, and his inferiority to the
+      slave who submits to the work of inquiry.
+    strauss_revision: >-
+      The slave scene itself gives Meno some ground for requesting Socratic
+      guidance without first defining the subject, and the later conversation
+      makes him doubt his own virtue and distinguish knowledge from right
+      opinion; his resistance and limited gentling must therefore remain
+      visible together.
+    governing_rule: >-
+      The disagreement sharpens attention to the dialogue's action but neither
+      second-level judgment predetermines what Plato's Meno is shown to learn.
+  platonic_trilogy_second_level_disagreement:
+    subject: PHILOSOPHER_STATESMAN_AND_THE_LIMIT_OF_POLITICAL_WEAVING
+    klein_position: >-
+      The Stranger's dialectical capacity and the comprehensive knowledge
+      required by genuine statesmanship imply that the true statesman does what
+      the philosopher does, so the initial sophist-statesman-philosopher triad
+      may finally contract to the sophist and philosophic statesman.
+    benardete_position: >-
+      The royal weaving can install common opinions and arrange education,
+      marriage, and office, but it cannot fully unite mind and eros or make the
+      city bind itself; its incompleteness points back to Socrates' living and
+      politically vulnerable dialectic rather than completing the missing
+      Philosopher through the Stranger's statesman.
+    straussian_tension: >-
+      Philosophy refuses to absolutize either homogeneous mathematical and
+      productive competence or knowledge of heterogeneous human ends: political
+      art is superior as knowledge of a human whole yet remains short of
+      knowledge of the whole for which philosophy strives.
+    governing_rule: >-
+      The three positions govern as second-level alternatives. The absence of a
+      spoken Philosopher and the impending trial remain unresolved features of
+      Plato's action and are not filled by doctrinal assertion.
+  republic_laws_second_level_tension:
+    subject: BEST_CITY_PHILOSOPHIC_RULE_AND_SECOND_BEST_LAW
+    benardete_position: >-
+      The Republic's inquiry proceeds through the beautiful, good, and just by
+      eidetic parting and pairing; the gaps between speech and deed, the opening
+      compromise of force and persuasion, and the myth of Er prevent the city
+      in speech from becoming a self-sufficient constitutional prescription.
+    strauss_1957_position: >-
+      The political utopia depends upon a philosophic completion that
+      philosophy does not possess, while direct rule would sacrifice the
+      philosopher's proper activity; the polis and philosophy need one another
+      without achieving complete harmony.
+    strauss_1961_position: >-
+      Plato never speaks in his own name, Socrates' arguments must be read in
+      light of dramatic action and addressees, and the late acknowledgment that
+      soul has not been adequately known reaches backward into the city-soul
+      construction instead of leaving it as a detachable doctrine.
+    strauss_laws_position: >-
+      The 1959 and 1971-72 seminars preserve Magnesia as a second-best regime
+      beneath the nearly divine first model, while stressing that preambles mix
+      persuasion with command and that the final philosophic education and
+      theology of the Nocturnal Council cannot be secured by the written code
+      it is meant to guard.
+    governing_rule: >-
+      These positions govern as distinct second-level readings. They sharpen
+      the ancient movement from city in speech through exact statesmanship to
+      second-best law but do not decide what Plato thought apart from the
+      dialogues or silently harmonize Republic and Laws.
+  xenophontic_primary_witnesses:
+    - title: Hellenica
+      path: /Users/onepiece/Downloads/xenophonshelleni00xenorich.pdf
+      represented_extent: COMPLETE_POLITICAL_HISTORY_IN_THE_ACQUIRED_VOLUME
+      witness_class: ANCIENT_NARRATIVE_AND_POLITICAL_JUDGMENT
+      governing_constraint: >-
+        Tactical and civic deeds govern before any second-level reading; the
+        terminal judgment at Mantinea prevents military success from being
+        treated as a sufficient political settlement.
+    - title: Scripta Minora
+      path: /Users/onepiece/Downloads/ancient greece/Xenophon-Scripta-Minora.pdf
+      represented_extent:
+        - Hiero
+        - Agesilaus
+        - Constitution of the Lacedaemonians
+        - Ways and Means
+        - On the Cavalry Commander
+        - On Horsemanship
+        - On Hunting
+      witness_class: ANCIENT_DIALOGUE_ENCOMIUM_REGIME_ACCOUNT_AND_PRACTICAL_WRITINGS
+      governing_constraint: >-
+        Hiero's proposed improvement of tyranny, the Agesilaus's praise, and
+        the Spartan constitution's apparent admiration remain governed by
+        their internal distinctions among willing rule, lawful rule, coercion,
+        imperial interest, and the failure of inherited discipline.
+    - title: Memorabilia, Oeconomicus, and Symposium
+      path: /Users/onepiece/Downloads/ancient greece/Xenophon Memorabilia, Oeconomicus, Symosium.pdf
+      represented_extent:
+        - Memorabilia
+        - Oeconomicus
+        - Symposium
+        - Defence of Socrates
+      witness_class: ANCIENT_SOCRATIC_WRITINGS
+      governing_constraint: >-
+        The Memorabilia's defense through deeds, the Oeconomicus's reported
+        Ischomachus conversation, the Symposium's comic-erotic action, and the
+        Defence's explanation of timely death remain distinct literary acts
+        and are not flattened into one Xenophontic doctrine.
+    - title: Anabasis
+      path: /Users/onepiece/Downloads/ancient iran/greek texts/xenophon anabasis.pdf
+      represented_extent: COMPLETE_ACQUIRED_GREEK_TEXT_WITH_ENGLISH_ARGUMENT_HEADINGS_AND_NOTES
+      witness_class: ANCIENT_PARTICIPANT_NARRATIVE
+      governing_constraint: >-
+        The army's reconstruction of command, assembly, accountability,
+        sacrifice, logistics, coercion, and divided post-deliverance aims
+        governs before the episode is converted into either a military manual
+        or an idealized moving polis.
+    - title: Cyropaedia
+      path: /Users/onepiece/Downloads/ancient iran/greek texts/Cyropaedia & The Hellenics.pdf
+      extent: CYROPAEDIA_ONLY_FOR_THIS_ENTRY
+      witness_class: ANCIENT_POLITICAL_EDUCATION_AND_IMPERIAL_NARRATIVE
+      governing_constraint: >-
+        The opening instability of regimes, the whole construction of Cyrus's
+        willing obedience, the coercive and ceremonial imperial apparatus,
+        the succession problem, and the terminal Persian degeneration govern
+        as one connected inquiry.
+  xenophontic_second_level_tension:
+    subject: SOCRATIC_SELF_RULE_POLITICAL_COMMAND_AND_WILLING_OBEDIENCE
+    strauss_1963_position: >-
+      Socrates and Cyrus form the two poles of Xenophon's corpus; Hiero
+      distinguishes lawful kingship from the improvement of tyranny,
+      Lacedaemonian praise is governed by the closing departure from Lycurgan
+      law, and the Cyropaedia moves from constitutional education through
+      personal imperial rule to degeneration after Cyrus.
+    strauss_1969_70_position: >-
+      The Oeconomicus must be read beside the Memorabilia without being
+      collapsed into it: property becomes useful through knowledge, appetite
+      makes apparently free householders slaves, Ischomachus's competence is
+      real but not identical with Socratic wisdom, and the household analogy
+      raises rather than settles the question of political rule.
+    strauss_socratic_discourse_position: >-
+      The Memorabilia is ordered chiefly toward the defense of Socrates'
+      justice, whereas the Oeconomicus permits Socratic discourse to examine
+      use apart from rightful possession and to distinguish the practical
+      gentleman from Socrates through the dialogue's structure, reported
+      speech, and ending.
+    attribution_control: >-
+      Xenophon's Socratic Discourse is authored by Leo Strauss, includes a
+      literal Oeconomicus translation by Carnes Lord, and is not a Seth
+      Benardete interpretation merely because the acquired file is stored in
+      the Benardete directory.
+    governing_rule: >-
+      These readings authorize attention to Xenophon's literary structure,
+      differences of genre, reversals, and endings, but do not make every
+      ancient praise ironic, convert silence into denial, or replace the deeds
+      and speeches of the primary witnesses.
+  aristotelian_primary_witnesses:
+    - title: Aristotle, Complete Works
+      path: /Users/onepiece/Downloads/ancient greece/Aristotle-The-Complete-Aristotle.pdf
+      represented_extent:
+        - Nicomachean Ethics
+        - Politics
+        - Constitution of Athens
+        - Rhetoric
+        - Poetics
+      witness_class: ANCIENT_ETHICAL_POLITICAL_HISTORICAL_RHETORICAL_AND_POETIC_INQUIRY
+      governing_constraint: >-
+        The works govern as distinct but connected inquiries: ethical action
+        leads into legislation and regime; political distinctions are tested
+        against concrete institutions; rhetoric examines persuasion under
+        conditions of civic judgment; and poetics examines how action becomes
+        intelligible through imitation and story. No second-level synthesis
+        replaces the differences among those works.
+  aristotelian_second_level_tension:
+    subject: MORAL_POLITICAL_WHOLE_REGIME_AND_THE_LIMITS_OF_CIVIC_COMPLETION
+    strauss_practical_science_position: >-
+      Aristotle founds political science by making the moral-political sphere
+      available as a differentiated whole whose principles can be known from
+      practical experience without deduction from theoretical science, while
+      that practical understanding remains in need of defense against false
+      accounts of nature and the whole.
+    strauss_polis_regime_position: >-
+      The movement from polis to regime corresponds to the tension between the
+      human being and the citizen: the regime gives political form, education,
+      and end to the city, while the difference between the good citizen and
+      the good human being is resolved only in the best regime.
+    strauss_best_city_difficulty: >-
+      The best city's leisure and education depend upon workers excluded from
+      citizenship and upon slaves who cannot simply be identified with the
+      narrowly defined natural slave; the account therefore exposes an
+      injustice within the apparent political completion rather than allowing
+      nature to legitimate every Greek practice.
+    davis_introduction_to_benardete_davis_translation: >-
+      Davis's introduction presents On Poetics as concerning the structure of
+      human action as well as tragedy: muthos joins inherited story to
+      constructed plot, character becomes visible through deed, and resolution
+      can function as a reflective analysis that discloses what was present but
+      unseen in the action from its beginning.
+    governing_rule: >-
+      These second-level readings direct attention to structure, tension, and
+      the relation among Aristotle's works without displacing his arguments,
+      the concrete constitutional history, or the tragic witnesses. The
+      translation is the work of Benardete and Davis, while its introduction
+      is attributed to Davis rather than silently to Benardete alone.
+  greek_number_second_level:
+    subject: ARITHMOS_PYTHAGOREAN_COSMOLOGY_PLATONIC_TRANSFORMATION_AND_MODERN_SYMBOLISM
+    primary_ancient_anchors:
+      - Plato, Theaetetus 198c
+      - Plato, Republic 510b-511b and 525c-531d
+      - Plato, Sophist 238a-259e
+      - Aristotle, Metaphysics A 5-6, M 6-9, and N 3
+      - Aristotle, Physics 3.7 and 4.12-14
+      - Euclid, Elements 7, definitions 1-2
+    second_level_source:
+      title: Greek Mathematical Thought and the Origin of Algebra
+      author: Jacob Klein
+      path: /Users/onepiece/Downloads/jacob klein/Jacob Klein - Greek Mathematical Thought and the Origin of Algebra.pdf
+    bounded_findings:
+      - >-
+        Arithmos means a determinate multitude of determinate things; the one
+        is the source or measure of number rather than itself an arithmos.
+      - >-
+        Pythagorean number concerns the ordered being of sensible things and
+        is not separated from them into a domain of modern abstract symbols.
+      - >-
+        Plato separates homogeneous mathematical units from sensible things
+        while keeping mathematics hypothetical and subordinate to dialectic.
+      - >-
+        Klein interprets eidetic number as the articulated community and order
+        of unique forms rather than as mathematical quantity; the evidence is
+        partly Aristotelian and the interpretation remains explicitly
+        second-level.
+      - >-
+        Aristotle denies separate being to mathematical numbers and restores
+        number's dependence upon what is counted under a chosen unit.
+      - >-
+        Modern symbolic mathematics replaces determinate counted assemblages
+        with possible determinacy inside a systematic method; Greek
+        generality is not therefore an incomplete use of modern variables.
+    governing_rule: >-
+      Klein corrects the modern conceptual vocabulary brought to the ancient
+      texts but does not replace Pythagorean testimonia, Plato, Aristotle, or
+      Euclid as the governing witnesses.
+  exact_second_level_allowlist:
+    leo_strauss:
+      - /Users/onepiece/Downloads/leostrauss/books/Leo Strauss Socrates & Aristophanes.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/752164859-Leo-Strauss-The-City-and-Man.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Plato's Apology & Crito (1966)_0.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Plato's Gorgias 1957.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Plato's Gorgias 1963_0.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Gorgias Note, 1973.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Plato's+Protagoras.1.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Meno-1966.1-2.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Platos symposium.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Platos_Republic_1957.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Platos-Republic-1961.1.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Plato-Laws-1959.1.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Plato-Laws-1971-72.1-1.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Xenophon-1963.1.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Leo_Strauss_Xenophon_1969-70.pdf
+      - /Users/onepiece/Downloads/seth benardete /Leo-Strauss-Xenophon-s-Socratic-Discourse-An-Intepretation-of-the-Oeconomicus-pdf.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Thucydides-1962.1.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Thucydides-1972.1.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Politics-1960.1.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Politics-1967.1.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/LEO STRAUSS = Aristotle seminar, the Politics [1967].pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Ethics-1968.1.pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/LEO STRAUSS = Aristotle seminar, Nicomachean Ethics [1968].pdf
+      - /Users/onepiece/Downloads/leostrauss/Courses/Aristotle-Rhetoric-1964.P.pdf
+    jacob_klein:
+      - /Users/onepiece/Downloads/jacob klein/Jacob Klein - Greek Mathematical Thought and the Origin of Algebra.pdf
+      - /Users/onepiece/Downloads/jacob klein/A Commentary on Plato's Meno - Jacob Klein.pdf
+      - /Users/onepiece/Downloads/jacob klein/Platos Trilogy Jacob Klein.pdf
+      - /Users/onepiece/Downloads/jacob klein/Jacob-Klein-Lectures-and-Essays-.pdf
+    seth_benardete:
+      - /Users/onepiece/Downloads/seth benardete /BENARDETE-Achilles-and-Hector-the-Homeric-Hero.pdf
+      - /Users/onepiece/Downloads/seth benardete /Seth-Benardete-The-Bow-and-the-Lyre-a-Platonic-Reading-of-the-Odyssey.pdf
+      - /Users/onepiece/Downloads/seth benardete /Seth Benardete Herodotean Inquiries-Springer Netherlands .pdf
+      - /Users/onepiece/Downloads/seth benardete /Seth-Benardete-On-Greek-Tragedy.pdf
+      - /Users/onepiece/Downloads/seth benardete /Seth-Benardete-Socrates-Second-Sailing-On-Plato-s-Republic.pdf
+      - /Users/onepiece/Downloads/seth benardete /the-being-of-the-beautiful-platos-theaetetus-sophist-and-statesman.pdf
+      - /Users/onepiece/Downloads/seth benardete /Aristotle-Seth-Benardete-Michael-Davis.pdf
+  duplicate_control:
+    status: OUTSIDE_EXACT_GREEK_ALLOWLIST
+    exact_duplicates_retained_once:
+      - retained: /Users/onepiece/Downloads/leostrauss/Courses/Introduction+to+Political+Philosophy+(1965).1.pdf
+        duplicate: /Users/onepiece/Downloads/leostrauss/Courses/Introduction+to+Political+Philosophy+(1965).1-2.pdf
+      - retained: /Users/onepiece/Downloads/leostrauss/Courses/Origins+(1960).1.pdf
+        duplicate: /Users/onepiece/Downloads/leostrauss/Courses/Origins+(1960).1-2.pdf
+    constraint: >-
+      Duplicate scans do not count as independent witnesses or increase the
+      weight of an interpretation.
 
 preserved_modern_disagreements:
   finley_and_de_ste_croix:
@@ -174,18 +1115,72 @@ completed_bodies:
     - Solonian legislation, debt, faction, and refusal of tyranny
     - Theognidean nobility and regime change
     - Sapphic eros, memory, marriage, and association
+    - >-
+      Pindaric victory, inherited excellence, wealth, divine favor, poetic
+      memory, mortality, measure, disputed law, and Panhellenic recognition
+      among independent poleis
   sacred_and_civic:
-    - sacrifice and sacred calendars
-    - sanctuary, sacred property, treasury, priesthood, and jurisdiction
-    - pollution, purification, blood, birth, death, and communal restoration
-    - oracle, mystery, and initiation
-    - hero cult, founders, tombs, and the civic dead
-    - festival, procession, sacrifice, and competition
+    - >-
+      sacred authority dispersed among household, kin group, association,
+      sanctuary, ritual expert, oracle, regional network, and polis without a
+      church, universal clergy, or single sacred legislature
+    - >-
+      household gods and life-cycle rites, including hearth, boundary, birth,
+      admission, marriage, inheritance, death, mourning, and remembrance
+    - >-
+      women's domestic, civic, associative, priestly, dedicatory, mourning,
+      and independently undertaken religious action without conversion into equal
+      political citizenship or a separate uniform women's religion
+    - >-
+      phratries, gene, orgeones, locally named kin bodies, migrant cult groups,
+      and mixed-status associations as communities with their own membership,
+      officers, property, funds, calendars, sacrifices, and meals
+    - sacrifice and sacred calendars across household, deme, association, sanctuary, and polis
+    - >-
+      sanctuary, sacred property, treasury, priesthood, foundation,
+      administration, and jurisdiction without reducing divine property to
+      ordinary civic ownership
+    - >-
+      pollution, purification, blood, birth, death, sexuality, sacrilege,
+      household rupture, exclusion, and restoration through plural authorities
+    - >-
+      prayer, vow, dedication, public imprecation, private curse, and binding
+      spell as related forms of religious speech and agency
+    - >-
+      oracle, signs, military sacrifice, dreams, seers, purifiers, and
+      dispersed ritual expertise without a monopoly of political office
+    - >-
+      healing, incubation, supplication, testimony, dedication, and
+      cross-polis communities of suffering and recovery
+    - mystery, initiation, restricted knowledge, and the crossing of public and associative authority
+    - >-
+      continuity, local epithets, mobile worshippers, foreign gods, civic
+      adoption, and the transformation of an open pantheon
+    - >-
+      household dead, mourning, hero cult, founders, tombs, battlefield
+      burial, and civic commemoration as overlapping and contested memories
+    - festival, procession, sacrifice, competition, music, dance, obscenity, and ecstasy
+    - >-
+      Olympia, Delphi, Nemea, and the Isthmus as recurring sacred arenas that
+      establish common judgments and networks without creating a sovereign
+      Greek state
   historical_and_institutional:
     - >-
       formation of the polis through settlement, sacred territory,
       colonization, land conflict, legislation, military obligation, civic
       reorganization, and bounded citizenship
+    - >-
+      geographic and civic plurality beyond the Athens-Sparta axis, including
+      the Ionian cities and Panionium; Lydian and Persian subjection; Milesian
+      arbitration; the Ionian Revolt; the eastern homes of early natural
+      inquiry; Magna Graecia and the chronologically layered Pythagorean
+      conjunction of initiation, number, common life, and political
+      association; the mixed Greek and non-Greek world of Sicily; Gelon,
+      Syracuse, the Athenian invasion, and Dionysius; Corinthian commerce,
+      tyranny, colonization, and the dispute over Epidamnus; Argive independence
+      and contested Persian-War memory; plural Cretan poleis; Gortynian law;
+      the relations among Argos, Cnossus, and Tylissus; and the Panhellenic
+      institutions that joined cities without creating a sovereign Greece
     - >-
       Sparta and Athens as distinct regimes, including their institutions,
       education, material foundations, exclusions, internal contradictions,
@@ -231,6 +1226,22 @@ completed_bodies:
       imperial succession, the Lamian War, Antipater's separate peaces, and
       civic continuity beneath monarchical supremacy
     - >-
+      the Hellenistic political transformation from Alexander's succession to
+      the Roman settlement of 146 BCE, including the plural successor
+      monarchies; army, court, dynasty, and territorial rule; the continued
+      civic agency of the polis; freedom proclaimed and granted by kings;
+      Sicyon and Corinth as conjunctions of liberation, benefaction, honor, and
+      garrison; the Achaean and Aetolian federal answer; the common Achaean
+      laws, magistrates, measures, and councils praised by Polybius; the
+      tensions of coercive membership, secession, and dependence upon leaders;
+      the Aetolian assembly's invitation to Antiochus III, his appointment as
+      strategos, and the later Aetolian submission to Roman good faith; Aratus,
+      Cleomenes, Antigonus Doson, and Philopoemen; Rome's 196 BCE
+      proclamation of freedom; the growth of Roman arbitration; the Achaean
+      War, destruction of Corinth, and imposition of constitutions in 146 BCE;
+      and the survival of civic law, cult, judgment, and identity beneath Roman
+      supremacy
+    - >-
       the excluded foundation of citizen freedom, preserving the differences
       among women's household, ritual, proprietary, and lineage positions;
       chattel slavery, debt bondage, public slavery, helotage, penestai, and
@@ -243,30 +1254,234 @@ completed_bodies:
       its internal difficulties
   inquiry_and_sophistry:
     - Anaximander
-    - Pythagoras and the occult structure of initiation
+    - >-
+      Pythagoras and the Pythagorean school through chronologically distinct
+      testimony concerning arithmos, limit, ratio, harmony, initiation,
+      transmigration, common life, secrecy, and political association without
+      assigning the whole transmission to the founder
     - Xenophanes
     - Heraclitus
     - Parmenides
     - Empedocles
-    - Anaxagoras
-    - Democritus
+    - Anaxagoras through a bounded textual control transmitting the ancient evidence
+    - >-
+      Leucippus and Democritus through the atomist fragments and ancient
+      testimonia, preserving the limits of individual attribution and the
+      difference among physical, epistemological, and ethical reports
+    - >-
+      Greek arithmos as a determinate multitude of determinate things;
+      Pythagorean number as the ordered being of sensible things; Plato's
+      separation of mathematical units and hypothetical mathematics;
+      Aristotle's rejection of separately existing number; and Klein's bounded
+      second-level account of eidetic number and the ancient-modern conceptual
+      difference
     - Protagoras
     - Gorgias
     - Prodicus and Hippias
-    - Antiphon
-    - Critias and Thrasymachus
+    - >-
+      Antiphon's On Truth through its papyrus fragments without resolving the
+      disputed identity of sophist and orator
+    - >-
+      Thrasymachus through independently transmitted rhetorical fragments and
+      a Platonic dramatic presentation that remains explicitly distinct
+    - >-
+      Critias through distinct poetic, constitutional, historical, and
+      Platonic dramatic witnesses, with the Sisyphus speech preserved as an
+      unresolved ancient attribution between Critias and Euripides rather than
+      converted into either man's personal doctrine
   dramatic_and_philosophical:
-    - tragedy as the polis examining its limits
-    - comedy as the polis laughing at its rulers, teachers, and desires
-    - Socrates and philosophy brought down to the city
-    - Plato on regime, soul, law, education, and the limits of political order
-    - Xenophon on household, command, willing obedience, and founder-dependence
-    - Aristotle on the polis by nature, regimes, citizenship, stasis, rhetoric, and contemplation
-    - the opposed Epicurean and Stoic responses to the post-polis world
+    - >-
+      Aeschylean tragedy through the Suppliant Maidens, Persians, Prometheus
+      Bound, and Oresteia, including asylum, consent, public law, empire,
+      technical arts, necessity, vengeance, court, persuasion, and the civic
+      incorporation of older sacred powers
+    - >-
+      Sophoclean tragedy through Oedipus the King, Antigone, Oedipus at
+      Colonus, Ajax, and Philoctetes, including inquiry, recognition, unwritten
+      law, singular kinship, juridical innocence, supplication, burial,
+      military necessity, persuasion, deception, and character in action
+    - >-
+      Euripidean tragedy through the Suppliants, Medea, Hippolytus, Bacchae,
+      and Hecuba, including burial, democratic consent, monarchy, asylum,
+      oath, erotic compulsion, written accusation, conquest, captivity, and
+      the political consequences of partial pieties
+    - >-
+      Aristotle's account of imitation, action, plot, character, reversal,
+      recognition, error, pity, and fear, with tragic innocence corrected to
+      distinguish legal innocence and suffering beyond desert from perfect
+      moral blamelessness
+    - >-
+      Benardete's second-level account of tragedy at the frontier of law,
+      juridical innocence, inward guilt, private grief, sacred authority, and
+      the political good without displacement of the ancient plays
+    - >-
+      Aristophanic comedy through all eleven surviving plays: Acharnians on
+      private peace and public war; Knights on demagoguery, Demos, appetite,
+      and natural rule; Clouds on debt, natural inquiry, rhetoric, education,
+      household dissolution, and the comic Socrates; Wasps on jury pleasure,
+      imperial revenue, domestic judgment, and failed reeducation; Peace on
+      common settlement and the redistribution of livelihood and honor; Birds
+      on escape, foundation, empire, sacrifice, and universal rule; Lysistrata
+      on household dependence, treasury, sexual refusal, and female political
+      action; Thesmophoriazusae on sacred assembly, poetic representation,
+      disguise, and judgment; Frogs on tragedy, civic education, and the
+      political responsibility of poetry; Assemblywomen on common property,
+      household administration, desire, and coercive equality; and Plutus on
+      wealth, poverty, labor, divine dependence, and distributive justice,
+      while keeping Strauss's total-comedy interpretation at the bounded
+      second level
+    - >-
+      Socrates through Plato's Apology and Crito, including the old and formal
+      accusations, the Delphic oracle, human wisdom, examination, the divine
+      mission and sign, the limits of public action, Arginusae, Leon of Salamis,
+      the conduct of the defense, uncertainty about death, Crito's proposed
+      escape, the refusal to return injustice, the personified Laws, parental
+      and contractual claims, persuasion or obedience, speech addressed to
+      Crito, and the distinction between doing injustice and suffering it
+    - >-
+      Plato's Gorgias as a dramatic examination of public speech and power,
+      including persuasion without knowledge, Gorgias' professional shame,
+      Polus' equation of power with tyrannical capacity, rhetoric as flattery,
+      Archelaus, doing and suffering injustice, punishment as medicine,
+      Callicles' nature-convention argument and attack on the philosophic life,
+      self-rule and unlimited appetite, the separation of pleasure from the
+      good, order and geometrical equality, the possibility and absence of
+      noble rhetoric, assimilation to tyrant and demos, the criticism of the
+      Athenian statesmen, Socrates' claim to true politics, the limits of
+      persuasion, and the final judgment account as a rhetorical deed
+    - >-
+      Plato's Meno as a dramatic inquiry into virtue and political education,
+      including Meno's Gorgian confidence and status-based definitions,
+      ruling without self-rule, the distinction between definition and
+      enumeration, the torpedo image and inquiry paradox, recollection as an
+      answer to eristic idleness, the household slave's movement from false
+      certainty through perplexity to geometrical insight, teaching as guided
+      but irreducibly personal understanding, hypothesis, the provisional
+      movement from virtue to prudence and knowledge, Anytus and civic
+      reputation, the absence of recognized teachers of virtue, statesmen and
+      their sons, the qualified alteration of Meno, right opinion and the
+      Daedalus image, divine allotment, the possible knowing statesman, and the
+      final demand that the what of virtue precede a clear account of its
+      acquisition
+    - >-
+      Plato's Symposium as a dramatic inquiry into eros and education,
+      including its layered and incomplete transmission, the political shadow
+      of 416, Socrates' arrival and the nontransferability of wisdom, Phaedrus
+      on honor and sacrifice, Pausanias on law and erotic education,
+      Eryximachus on technical administration of desire, Aristophanes on the
+      wound and desired wholeness of human nature, Agathon's beautiful praise
+      and Socratic refutation, Diotima on the intermediate, right opinion,
+      daimonic mediation, philosophic lack, possession of the good, generation
+      in body and soul, poetry, legislation, immortality, and the ascent to
+      Beauty, Alcibiades as Dionysian judge and failed object of Socratic
+      education, the relation of shame to political ambition, Socrates' bodily
+      moderation and courage, and the forgotten final argument joining tragedy
+      and comedy
+    - >-
+      Plato's Phaedrus as a dramatic inquiry into divine eros, rhetoric, and
+      writing, including Phaedrus's departure from Lysias's city house with the
+      hidden scroll, the setting beyond the walls, the customary reception of
+      the Orithyia story and the prior demand for self-knowledge, Lysias's
+      rationalized nonlover, Socrates' head-covered first speech and its image
+      of erotic tyranny, the divine sign and palinode, four divine madnesses,
+      soul as self-motion and as charioteer with unequal horses, the procession
+      beyond heaven, recollection through beauty, erotic discipline and
+      reciprocal love, rhetoric as the leading of souls, collection and
+      division at natural joints, the inadequacy of technical handbooks without
+      knowledge of the whole soul and its end, the political desire of
+      speechwriters and lawmakers for permanence, the true-and-mythic Egyptian
+      account of Theuth and Thamus, writing as silent image and reminder, the
+      living logos planted in a fitting soul, the messages to Lysias and
+      Isocrates, and the prayer to Pan for inward beauty, harmonious
+      possessions, and measured wealth
+    - >-
+      Plato's Theaetetus, Sophist, and Statesman as one inquiry over the two
+      days immediately before Socrates' trial, including the later dying frame
+      and written transmission, likeness and mathematical collection, Socratic
+      midwifery, knowledge as perception, Protagorean measure and political
+      alteration, the philosopher-courtroom digression, the soul's judgment of
+      common beings, true and false opinion, wax and aviary, the jury, the
+      three senses of logos and terminal aporia; the next-day substitution of
+      the Eleatic Stranger, the absent Philosopher, angling and the fallibility
+      of division, the successive sophists and noble purification, image and
+      appearance, the Parmenidean problem of nonbeing, the battle over being,
+      motion, rest, same and other, false speech and the final imitator; the
+      younger Socrates, the failed shepherd division, the Cronus myth and
+      mortal self-care, paradigm, weaving and due measure, auxiliary arts,
+      regimes, exact knowledge and the second-best authority of law, the
+      political weaving of courage and moderation, its coercive exclusions and
+      dependence upon an absent knower; and the preserved Klein-Benardete-
+      Strauss disagreement over the philosopher, statesman, and limits of
+      political art
+    - >-
+      Xenophon's distinct Defence of Socrates, including the whole life as
+      preparation, the divine sign's opposition to a conventional defense,
+      old age, timely death, exalted speech, and the increased likelihood of
+      conviction without collapsing Xenophon's explanation into Plato's
+    - >-
+      Plato's Republic and Laws as connected but nonidentical examinations of
+      justice, regime, soul, education, philosophy, and law, including the
+      Republic's descent to the Piraeus; Cephalus, Polemarchus, Thrasymachus,
+      Glaucon, and Adeimantus; the ring of Gyges; the healthy and fevered
+      cities; guardian education, poetic censorship, the noble falsehood,
+      common property, city and soul, the three waves, philosopher-rule, the
+      sun, divided line, cave, mathematics, dialectic, regime decay, democracy,
+      tyranny, pleasure, poetry, and the myth of Er; and the Laws' walk toward
+      Zeus, the movement from war to peace and complete virtue, drinking and
+      musical education, the puppet image, political history and mixed rule,
+      the Cretan founding, favorable occasion and the young tyrant, legal
+      preambles and the free and slave physicians, the first and second-best
+      regimes, 5,040 allotments, measured property, offices, household, women,
+      public education, punishment, impiety, soul as self-motion, legal
+      theology, and the Nocturnal Council, together with the preserved
+      Benardete and Strauss tensions over speech, deed, philosophic rule, and
+      the ability of law to preserve knowledge
+    - >-
+      Xenophon as a connected inquiry from Socratic self-rule through
+      household management, friendship, eros, technical and military command,
+      tyranny, Spartan law, Agesilaus, the Anabasis army, and Cyrus's imperial
+      education and administration, including the distinctions among compelled,
+      willing, and lawful obedience; the dependence of command upon logistics,
+      persuasion, piety, honor, benefit, surveillance, and accountability; the
+      inability to reduce household, army, polis, tyranny, and empire to one
+      art; the failure to reproduce a founder's judgment through succession;
+      and the bounded Strauss disagreements without a manufactured Benardete
+      position
+    - >-
+      Aristotle as one connected practical inquiry through the Nicomachean
+      Ethics, Politics, Constitution of Athens, Rhetoric, and Poetics,
+      including happiness and the rival lives; the political art; practical
+      exactness and authoritative opinions; habituation, pleasure, choice,
+      responsibility, the mean, magnanimity, justice, equity, prudence,
+      friendship, contemplation, law, and the return from ethics to politics;
+      the household and differentiated forms of rule; the polis by nature;
+      speech, slavery, exclusion, acquisition, and the critique of excessive
+      unity; citizen, regime, good citizen and good human being; the partial
+      claims of democracy and oligarchy; law, multitude, exceptional virtue,
+      polity, middle class, faction, preservation, the best city, peace,
+      leisure, education, and music; Athenian institutional history; rhetoric
+      through logos, ethos, pathos, audience, regime, and enthymeme; and
+      poetics through imitation, story, action, character, reversal,
+      recognition, error, pity, fear, and the bounded Strauss and
+      Benardete-Davis readings
+    - >-
+      the Hellenistic philosophical transformation through Epicurus' physics,
+      nonprovidential gods, mortality of the soul, therapy of fear, division of
+      desires, pleasure, prudence, self-sufficiency, friendship, Garden, and
+      justice as mutual advantage; Lucretius' later Roman Epicurean development
+      through the swerve and political compact; Cleanthes' early Stoic witness
+      to Zeus, providence, universal Logos, kinship, and law; and the explicitly
+      later Roman Stoicism of Epictetus and Marcus Aurelius through assent,
+      inward freedom, tyrannical compulsion, natural roles, cosmopolitan duty,
+      imperial office, and the unresolved coexistence of universal rational
+      membership with political hierarchy, while preserving every conflict
+      between Epicurean and Stoic nature, divinity, justice, attachment, and
+      obligation and narrowing the early Stoic claim to the evidence actually
+      present
 
 supersession_rules:
   - >-
-    The complete comedy body supersedes the earlier stand-alone Aristophanes
+    The integrated comedy body supersedes the earlier stand-alone Aristophanes
     draft; the earlier text remains research material and must not become a
     duplicate narrative section.
   - >-
@@ -275,11 +1490,11 @@ supersession_rules:
     the ancient witnesses.
   - >-
     Socrates, Plato, Xenophon, Aristotle, and the Hellenistic philosophical
-    transformation are complete research bodies and are not reopened merely
-    because the political chronology has not yet reached them.
+    transformation remain distinct research bodies, but their earlier drafts
+    do not foreclose the source-grounded expansions identified by the authority
+    audit.
 
 open_historical_bodies: []
-
 governing_questions:
   - How did divine and ancestral order become the order of the polis?
   - What did it mean for the polis to claim the citizen's body and soul?
@@ -293,14 +1508,114 @@ governing_questions:
   - What survived of the polis after its political independence was lost?
 
 completion_gate:
-  state: READY_FOR_REVIEW
+  state: CERTIFIED
   satisfied:
-    - complete every open historical body
     - place the operational inscriptions inside the relevant historical sections
     - preserve the ancient disagreements and the differences of genre
     - preserve the Finley-de Ste. Croix and Hansen-Ober disagreements without allowing modern controls to govern the ancient witnesses
     - make exclusion and dependency explicit beneath citizen freedom
-    - integrate the completed and historical bodies into one civilizational synthesis
-    - audit against reducing Greece to Athens, democracy, philosophy, or warfare
-  pending:
-    - review and certify the complete narrative and structured record
+    - complete the political history from polis formation through the first Macedonian subordination of the inter-polis order
+    - integrate Pindar and Panhellenic order
+    - extend religion beyond polis-centered administration
+    - >-
+      deepen tragedy through work-level readings of Aeschylus, Sophocles, and
+      Euripides and connect asylum, civic consent, burial, juridical innocence,
+      the limit of law, and Aristotle's account of action and plot
+    - >-
+      deepen comedy through all eleven surviving Aristophanic plays as distinct
+      civic actions; preserve the differences among private peace, demagoguery,
+      jury rule, public peace, imperial foundation, female intervention,
+      poetic judgment, common property, wealth, and the comic Socrates; and
+      bound Strauss's connected account without reducing the plays to coded
+      political positions or treating Aristophanes' Socrates as historical
+      transcript
+    - >-
+      deepen the Socratic body through Plato's Apology and Crito and preserve
+      Xenophon's distinct account of the defense and timely death
+    - >-
+      complete Plato's Gorgias through its three interlocutors, its movement
+      from persuasion and apparent power to the care and judgment of souls,
+      and its unresolved demand for a rhetoric answerable to the good
+    - >-
+      complete Plato's Meno through the full dramatic movement from Gorgian
+      confidence and failed definitions to perplexity, recollection, the slave
+      inquiry, hypothesis, Anytus, political succession, right opinion, divine
+      allotment, and the unresolved return to the question of what virtue is
+    - >-
+      complete Plato's Symposium through its full dramatic movement from the
+      layered report and ordered speeches to Diotima's account of eros and
+      Alcibiades' demonstration that recognition, shame, and persuasion do not
+      by themselves reorder a politically ambitious soul
+    - >-
+      complete Plato's Phaedrus through its full movement from the written
+      seduction and the two Socratic speeches to divine eros, the differentiated
+      soul, rhetoric as psychagogy, collection and division, the Egyptian
+      judgment of writing, the living logos, and the prayer to Pan
+    - >-
+      complete Plato's Theaetetus, Sophist, and Statesman as a connected
+      dramatic inquiry from Socratic aporia through the Stranger's account of
+      otherness and false speech to political knowledge, law, measure, and
+      weaving, while preserving the missing Philosopher and the incompatible
+      Klein and Benardete resolutions at the second level
+    - >-
+      complete Plato's Republic and Laws as distinct dramatic wholes and as a
+      connected inquiry into the city in speech, regime and soul, philosophic
+      rule, exact statesmanship, second-best law, persuasion and coercion,
+      private attachment, legal theology, and the Nocturnal Council, while
+      preserving Benardete's eidetic reading and the distinct emphases of
+      Strauss's 1957, 1961, 1959, and 1971-72 seminars
+    - >-
+      complete Xenophon as a connected inquiry from the Memorabilia,
+      Oeconomicus, and Symposium through Hiero, the Lacedaemonian constitution,
+      Agesilaus, Anabasis, Cyropaedia, and Hellenica, distinguishing self-rule,
+      technical competence, lawful rule, compelled and willing obedience,
+      assembly accountability, imperial administration, and the failure of
+      succession while preserving Strauss as a bounded second level
+    - >-
+      complete Aristotle as one connected practical inquiry from happiness,
+      virtue, choice, justice, prudence, friendship, and contemplation through
+      household, polis, citizen, regime, law, faction, preservation, best
+      regime, rhetoric, poetry, and tragic action, while preserving the
+      internal difficulty of slavery and civic exclusion and keeping Strauss
+      and the Benardete-Davis Poetics at the bounded second level
+    - >-
+      complete the Hellenistic political transformation through the successor
+      kingdoms, negotiated civic autonomy, royal benefaction and garrison,
+      Achaean and Aetolian federalism, Roman liberation and arbitration, and the
+      destruction of Corinth and Roman constitutional settlement in 146 BCE as
+      the exact political endpoint without treating the polis as extinguished
+    - >-
+      complete the Epicurean and Stoic sequence as opposed accounts of nature,
+      divinity, desire, justice, freedom, friendship, providence, assent, role,
+      and cosmopolitan obligation, distinguishing Epicurus and Cleanthes from
+      the later Roman developments of Lucretius, Epictetus, and Marcus Aurelius
+      and narrowing the early Stoic claim to Cleanthes' Hymn rather than
+      manufacturing a complete Zeno-Chrysippus corpus
+    - >-
+      correct the geographic concentration on Athens and Sparta through Ionia,
+      Magna Graecia, Sicily, Corinth, Argos, and plural Crete; preserve the
+      distinct political histories of their cities; and integrate Panionium,
+      Olympia, Delphi, Nemea, the Isthmus, Delos, colonial kinship, oracle, and
+      arbitration as inter-polis relations that do not constitute a sovereign
+      Greece
+    - >-
+      identify the exact ancient-witness corpora required for Pythagoras,
+      Democritus, and Antiphon; construct Critias from distinct poetic,
+      constitutional, historical, and dramatic witnesses; preserve the ancient
+      disagreement between Sextus and Aëtius over the Sisyphus speech; and
+      prevent Platonic dramatic presentations from becoming independent
+      historical fragments
+    - >-
+      integrate Klein's distinction between Greek arithmos and modern symbolic
+      number through Pythagorean cosmology, Plato's separation of mathematical
+      units and second-level eidetic number, Aristotle's critique of separated
+      number, and the ancient-modern difference in conceptual method without
+      permitting Klein to replace the ancient mathematical and philosophical
+      witnesses
+    - >-
+      integrate the revised sacred, geographic, political, social, dramatic,
+      sophistic, mathematical, Socratic, Platonic, Xenophontic, Aristotelian,
+      Macedonian, Hellenistic, federal, Roman, Epicurean, and Stoic bodies into
+      one civilizational narrative governed by the polis and its transformation
+      without reducing Greece to Athens, democracy, philosophy, or warfare
+  pending: []
